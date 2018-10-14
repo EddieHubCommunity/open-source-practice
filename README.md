@@ -12,6 +12,18 @@ Repo for you to raise a Pull Request for practice.
 
 Any questions please ask, by raising an `Issue`.
 
+## How to clone this repo and making changes locally
+
+1. click on the clone button(green in colour)
+2. Using your git on your local machine
+3. Type git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
+4. Make a new branch e.g **git checkout -b <name of new branch>**
+5. Make any changes in your repo 
+6. Git add the changes 
+7. Git commit the changes
+8. Git push the changes to your repo
+
+
 ## Hacktoberfest community
 
 - [Eddie Jaoude](https://github.com/eddiejaoude)
