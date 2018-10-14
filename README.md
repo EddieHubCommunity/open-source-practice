@@ -15,3 +15,4 @@ Any questions please ask, by raising an `Issue`.
 ## Hacktoberfest community
 
 - [Eddie Jaoude](https://github.com/eddiejaoude)
+- [Silas Omurunga](https://github.com/Simbadeveloper)
