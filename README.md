@@ -62,7 +62,7 @@ Any questions please ask, by raising an `Issue`.
  ```
   
   
- -Pulling your request
+ - Pulling your request
  
  ```
  click on pull request
