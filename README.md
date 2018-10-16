@@ -12,6 +12,64 @@ Repo for you to raise a Pull Request for practice.
 
 Any questions please ask, by raising an `Issue`.
 
+## How to clone this repo and making changes locally
+
+```
+  click on the clone button(green in colour)
+
+``` 
+
+  - Using your git on your local machine
+
+```
+ git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
+ 
+ ```
+ 
+- Make a new branch 
+```
+   git checkout -b <name of new branch>
+   
+```
+  
+  
+- Make any changes in your repo 
+```
+  touch text.txt
+  echo "Hallo world" > text.txt
+  git add text.txt
+  
+ ```
+ - Commit the changes
+ 
+ ```
+ git commit -m "Initial commit"
+ 
+ ```
+ 
+ - Check the staus of your repository
+ ```
+  git status
+  
+ ```
+ 
+ - Pushing your repository to github
+ 
+ ```
+ 
+ git push origin <name of your branch>
+ 
+ ```
+  
+  
+ - Pulling your request
+ 
+ ```
+ click on pull request
+ 
+ ```
+
+
 ## Hacktoberfest community
 
 - [Eddie Jaoude](https://github.com/eddiejaoude)
