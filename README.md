@@ -13,7 +13,7 @@ Repo for you to raise a Pull Request for practice.
 Any questions please ask, by raising an `Issue`.
 
 ## Hacktoberfest community
-
+- [Sajid305](https://github.com/Sajid305)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
