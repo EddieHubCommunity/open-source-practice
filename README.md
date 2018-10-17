@@ -76,3 +76,4 @@ Any questions please ask, by raising an `Issue`.
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
 - [Charlotte Jewer](https://github.com/Charlotte990)
+- [Dimo Ivanov](https://github.com/divanoff)
