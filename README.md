@@ -77,3 +77,4 @@ Any questions please ask, by raising an `Issue`.
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
 - [Charlotte Jewer](https://github.com/Charlotte990)
 - [Dimo Ivanov](https://github.com/divanoff)
+- [Marios Georgiou](https://github.com/MariosGeorgiou)
