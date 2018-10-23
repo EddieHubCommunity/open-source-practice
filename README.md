@@ -79,3 +79,4 @@ Any questions please ask, by raising an `Issue`.
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Jaime Jones](https://github.com/jaime-lynn)
+- [Suhaas](https://github.com/suhaaskataria)
