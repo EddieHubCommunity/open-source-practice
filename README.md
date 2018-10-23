@@ -15,7 +15,7 @@ Any questions please ask, by raising an `Issue`.
 ## How to clone this repo and making changes locally
 
 ```
-  click on the clone button(green in colour)
+  click on the clone button (green in colour)
 
 ``` 
 
@@ -78,4 +78,5 @@ Any questions please ask, by raising an `Issue`.
 - [Charlotte Jewer](https://github.com/Charlotte990)
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
--Suhaas
+- [Jaime Jones](https://github.com/jaime-lynn)
+- [Suhaas](https://github.com/suhaaskataria)
