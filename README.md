@@ -80,6 +80,5 @@ Any questions please ask, by raising an `Issue`.
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Jaime Jones](https://github.com/jaime-lynn)
 - [Suhaas](https://github.com/suhaaskataria)
-
--[Appygal] (https://github.com/appygal)
+- [Suhaas](https://github.com/suhaaskataria)
 
