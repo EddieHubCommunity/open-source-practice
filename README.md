@@ -81,4 +81,5 @@ Any questions please ask, by raising an `Issue`.
 - [Jaime Jones](https://github.com/jaime-lynn)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Appygal](https://github.com/appygal)
+- [SMak06](https://github.com/SMak06)
 
