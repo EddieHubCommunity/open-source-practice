@@ -82,4 +82,4 @@ Questions can be asked by raising an `Issue`.
 - [Suhaas](https://github.com/suhaaskataria)
 - [Appygal](https://github.com/appygal)
 - [SMak06](https://github.com/SMak06)
-
+- [Tanya Powell](https://github.com/tanyapowell)
