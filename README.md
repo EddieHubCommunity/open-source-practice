@@ -2,7 +2,7 @@
 
 Repo for you to raise a Pull Request for practice.
 
-**Just add your name to the end of the list and with optionally a link to your GitHub account**
+**Just add your name to the end of the list and optionally, a link to your GitHub account**
 
 ## How to contribute
 
@@ -10,16 +10,16 @@ Repo for you to raise a Pull Request for practice.
 2. Make any changes in your forked repo
 3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
 
-Any questions please ask, by raising an `Issue`.
+Questions can be asked by raising an `Issue`.
 
-## How to clone this repo and making changes locally
+## How to clone repo and make changes locally
 
 ```
   click on the clone button (green in colour)
 
 ``` 
 
-  - Using your git on your local machine
+  - Using git on your local machine
 
 ```
  git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
@@ -33,7 +33,7 @@ Any questions please ask, by raising an `Issue`.
 ```
   
   
-- Make any changes in your repo 
+- Make changes in your repo 
 ```
   touch text.txt
   echo "Hallo world" > text.txt
