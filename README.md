@@ -1,4 +1,4 @@
-# Hacktoberfest Practice
+# Hacktoberfest Practice Pull Requests
 
 Repo for you to raise a Pull Request for practice.
 
