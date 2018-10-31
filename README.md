@@ -17,56 +17,56 @@ Questions can be asked by raising an `Issue`.
 ```
   click on the clone button (green in colour)
 
-``` 
+```
 
   - Using git on your local machine
 
 ```
  git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
- 
+
  ```
- 
-- Make a new branch 
+
+- Make a new branch
 ```
    git checkout -b <name of new branch>
-   
+
 ```
-  
-  
-- Make changes in your repo 
+
+
+- Make changes in your repo
 ```
   touch text.txt
   echo "Hallo world" > text.txt
   git add text.txt
-  
+
  ```
  - Commit the changes
- 
+
  ```
  git commit -m "Initial commit"
- 
+
  ```
- 
+
  - Check the staus of your repository
  ```
   git status
-  
+
  ```
- 
+
  - Pushing your repository to github
- 
+
  ```
- 
+
  git push origin <name of your branch>
- 
+
  ```
-  
-  
+
+
  - Pulling your request
- 
+
  ```
  click on pull request
- 
+
  ```
 
 
@@ -84,3 +84,4 @@ Questions can be asked by raising an `Issue`.
 - [SMak06](https://github.com/SMak06)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Rahul](https://github.com/kohli6010)
+- [Johanna](https://github.com/Johanna-hub)
