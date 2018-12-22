@@ -85,4 +85,4 @@ Questions can be asked by raising an `Issue`.
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Rahul](https://github.com/kohli6010)
 - [Johanna](https://github.com/Johanna-hub)
-- [Josh Callahan] (https://github.com/joshcallahan)
+- [Josh Callahan](https://github.com/joshcallahan)
