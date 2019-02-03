@@ -86,3 +86,4 @@ Questions can be asked by raising an `Issue`.
 - [Rahul](https://github.com/kohli6010)
 - [Johanna](https://github.com/Johanna-hub)
 - [Josh Callahan](https://github.com/joshcallahan)
+- [Mike Hatch](https://github.com/mikeshatch)
