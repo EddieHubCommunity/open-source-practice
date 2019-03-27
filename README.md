@@ -87,4 +87,5 @@ Questions can be asked by raising an `Issue`.
 - [Johanna](https://github.com/Johanna-hub)
 - [Josh Callahan](https://github.com/joshcallahan)
 - [Mike Hatch](https://github.com/mikeshatch)
+- [Ashish Chavan](https://github.com/AshishChavan98)
 - [Indu Rupi](https://github.com/indurupi)
