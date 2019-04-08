@@ -92,3 +92,6 @@ Questions can be asked by raising an `Issue`.
 - [Abuzer Asif](https://github.com/abuzerasif)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
 - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
+- [Ram Pandey](https://github.com/ram2510)
+- [Chris Moreton](https://github.com/chris-moreton/)
+- [Anton Samper Rivaya](https://github.com/antonsamper/)
