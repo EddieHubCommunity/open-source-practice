@@ -89,5 +89,6 @@ Questions can be asked by raising an `Issue`.
 - [Mike Hatch](https://github.com/mikeshatch)
 - [Ashish Chavan](https://github.com/AshishChavan98)
 - [Indu Rupi](https://github.com/indurupi)
+-[Conor 0 Shea] (https://github.com/conoroshea1996)
 - [Abuzer Asif](https://github.com/abuzerasif)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
