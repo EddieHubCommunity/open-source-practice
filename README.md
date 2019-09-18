@@ -101,3 +101,4 @@ Questions can be asked by raising an `Issue`.
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
 - [Dušan Tanasić](https://github.com/Duk4/)
+- [Satya Abhishek](https://github.com/kashek85)
