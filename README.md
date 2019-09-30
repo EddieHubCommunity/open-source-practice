@@ -105,3 +105,4 @@ Questions can be asked by raising an `Issue`.
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
 - [essarrgee](https://github.com/essarrgee)
 - [Caden Parker](https://github.com/Ne0nWinds)
+- [Raj Vaya](https://github.com/rajvaya)
