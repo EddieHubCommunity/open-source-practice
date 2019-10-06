@@ -107,4 +107,5 @@ Questions can be asked by raising an `Issue`.
 - [Caden Parker](https://github.com/Ne0nWinds)
 - [Raj Vaya](https://github.com/rajvaya)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
+- [Soumya Sharma](https://github.com/soumyaa1804)
 
