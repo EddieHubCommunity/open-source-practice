@@ -71,6 +71,7 @@ Questions can be asked by raising an `Issue`.
 
 
 ## Hacktoberfest community
+- [Steve Jobs](https://github.com/stevejobs) Buy more from Apple... Open Source is bad for your health
 - [Sajid305](https://github.com/Sajid305)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
