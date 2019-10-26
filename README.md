@@ -102,4 +102,4 @@ Questions can be asked by raising an `Issue`.
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Satya Abhishek](https://github.com/kashek85)
-- [Bhavanshu Jain] (https://github.com/bhavanshu-1112)
+- [Bhavya Jain](https://github.com/bhavanshu-1112)
