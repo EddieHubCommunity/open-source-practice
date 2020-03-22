@@ -90,6 +90,7 @@ Questions can be asked by raising an `Issue`.
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [essarrgee](https://github.com/essarrgee)
 - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
+- [Ikra P](https://github.com/ikraP)
 - [Indu Rupi](https://github.com/indurupi)
 - [Ines Guerrero](https://github.com/inesgs12)
 - [Jaime Jones](https://github.com/jaime-lynn)
