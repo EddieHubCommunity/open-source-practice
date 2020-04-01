@@ -85,6 +85,7 @@ Questions can be asked by raising an `Issue`.
 - [Charlotte Jewer](https://github.com/Charlotte990)
 - [Chris Moreton](https://github.com/chris-moreton/)
 - [Conor O Shea](https://github.com/conoroshea1996)
+- [Dhaval Dudhat](https://github.com/dudhatdhavalm)
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
@@ -114,5 +115,4 @@ Questions can be asked by raising an `Issue`.
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Tanya Powell](https://github.com/tanyapowell)
-- [Tanya Powell](https://github.com/tanyapowell)
-- [Dhaval Dudhat](https://github.com/dudhatdhavalm)
+
