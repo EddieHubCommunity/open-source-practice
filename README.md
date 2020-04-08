@@ -19,58 +19,60 @@ Questions can be asked by raising an `Issue`.
 
 ```
 
-  - Using git on your local machine
+- Using git on your local machine
 
 ```
  git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
 
- ```
+```
 
 - Make a new branch
+
 ```
    git checkout -b <name of new branch>
 
 ```
 
-
 - Make changes in your repo
+
 ```
   touch text.txt
   echo "Hallo world" > text.txt
   git add text.txt
 
- ```
- - Commit the changes
+```
 
- ```
- git commit -m "Initial commit"
+- Commit the changes
 
- ```
+```
+git commit -m "Initial commit"
 
- - Check the staus of your repository
- ```
-  git status
+```
 
- ```
+- Check the staus of your repository
 
- - Pushing your repository to github
+```
+ git status
 
- ```
+```
 
- git push origin <name of your branch>
+- Pushing your repository to github
 
- ```
+```
 
+git push origin <name of your branch>
 
- - Pulling your request
+```
 
- ```
- click on pull request
+- Pulling your request
 
- ```
+```
+click on pull request
 
+```
 
 ## Hacktoberfest community
+
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
@@ -108,6 +110,7 @@ Questions can be asked by raising an `Issue`.
 - [Ram Pandey](https://github.com/ram2510)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Robert Kay Jr](https://github.com/RobertKayJr/)
+- [Rodrigo Avila](https://github.com/rodrigo398)
 - [Sajid305](https://github.com/Sajid305)
 - [Satya Abhishek](https://github.com/kashek85)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
@@ -115,4 +118,3 @@ Questions can be asked by raising an `Issue`.
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Tanya Powell](https://github.com/tanyapowell)
-
