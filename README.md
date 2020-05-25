@@ -32,8 +32,8 @@ Questions can be asked by raising an `Issue`.
 
 ```
 
-
 - Make changes in your repo
+
 ```
   touch text.txt
   echo "Hallo world" > text.txt
@@ -44,10 +44,10 @@ Questions can be asked by raising an `Issue`.
 
  ```
  git commit -m "Initial commit"
-
  ```
 
  - Check the staus of your repository
+
  ```
   git status
 
@@ -68,7 +68,6 @@ Questions can be asked by raising an `Issue`.
  click on pull request
 
  ```
-
 
 ## Hacktoberfest community
 - [Aarul Mishra](https://github.com/Aarul14)
@@ -116,4 +115,3 @@ Questions can be asked by raising an `Issue`.
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Tanya Powell](https://github.com/tanyapowell)
-
