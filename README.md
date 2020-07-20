@@ -102,6 +102,7 @@ Questions can be asked by raising an `Issue`.
 - [Nathan Byrne](https://github.com/naefun/)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Prashant Shukla](https://github.com/prashantlv)
+- [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
 - [Rahul](https://github.com/kohli6010)
 - [Raj Vaya](https://github.com/rajvaya)
 - [Ram Pandey](https://github.com/ram2510)
