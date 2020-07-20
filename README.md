@@ -117,3 +117,4 @@ Questions can be asked by raising an `Issue`.
 - [Suhaas](https://github.com/suhaaskataria)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Samuel Z. Bouye](https://github.com/zamblebi)
+- [syedareehaquasar](https://github.com/syedareehaquasar)
