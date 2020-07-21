@@ -99,6 +99,7 @@ Questions can be asked by raising an `Issue`.
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Mike Hatch](https://github.com/mikeshatch)
+- [Mohamed Al-Rifay](https://github.com/alrifay)
 - [Nathan Byrne](https://github.com/naefun/)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Prashant Shukla](https://github.com/prashantlv)
