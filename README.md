@@ -120,3 +120,4 @@ Questions can be asked by raising an `Issue`.
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
+- [annu](https://github.com/annu12340)
