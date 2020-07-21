@@ -84,6 +84,7 @@ Questions can be asked by raising an `Issue`.
 - [Charlotte Jewer](https://github.com/Charlotte990)
 - [Chris Moreton](https://github.com/chris-moreton/)
 - [Conor O Shea](https://github.com/conoroshea1996)
+- [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
 - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dušan Tanasić](https://github.com/Duk4/)
