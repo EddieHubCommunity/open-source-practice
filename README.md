@@ -15,7 +15,7 @@ Questions can be asked by raising an `Issue`.
 ## How to clone repo and make changes locally
 
 ```
-  click on the clone button (green in colour)
+  click on the clone button (green in colour).
 
 ```
 
@@ -121,3 +121,4 @@ Questions can be asked by raising an `Issue`.
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [annu](https://github.com/annu12340)
+- [Fatma](https://github.com/fatmab2809)
