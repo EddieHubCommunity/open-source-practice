@@ -109,6 +109,7 @@ Questions can be asked by raising an `Issue`.
 - [Raj Vaya](https://github.com/rajvaya)
 - [Ram Pandey](https://github.com/ram2510)
 - [Raman Singh](https://github.com/ramansingh189)
+- [Remco Halman](https://github.com/remcohalman)
 - [Robert Kay Jr](https://github.com/RobertKayJr/)
 - [Rodrigo Avila](https://github.com/rodrigo398)
 - [Sajid305](https://github.com/Sajid305)
