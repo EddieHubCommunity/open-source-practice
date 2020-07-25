@@ -117,6 +117,7 @@ Questions can be asked by raising an `Issue`.
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [SMak06](https://github.com/SMak06)
 - [Soumya Sharma](https://github.com/soumyaa1804)
+- [Srinath](https://github.com/srinath1412001)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Samuel Z. Bouye](https://github.com/zamblebi)
