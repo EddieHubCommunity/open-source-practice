@@ -37,7 +37,7 @@ Questions can be asked by raising an `Issue`.
 ```
   touch text.txt
   echo "Hallo world" > text.txt
-  git add text.txt
+  git add .
 
  ```
  - Commit the changes
