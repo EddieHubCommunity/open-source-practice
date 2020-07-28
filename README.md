@@ -123,4 +123,5 @@ Questions can be asked by raising an `Issue`.
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [annu](https://github.com/annu12340)
-- [Fatma](https://github.com/fatmab2809)
+- [Fatma](https://github.com/fatmab28)
+- [Jivthesh](https://github.com/jivthesh)
