@@ -126,4 +126,5 @@ Questions can be asked by raising an `Issue`.
 - [Fatma](https://github.com/fatmab28)
 - [Jivthesh](https://github.com/jivthesh)
 - [Satyadeep](https://github.com/satyaRF)
-- [Hari Hara Sudhan S](https://github.com/HariSuriya520) 
+- [Hari Hara Sudhan S](https://github.com/HariSuriya520)
+- [Alex Valdez](https://github.com/arevaldez)
