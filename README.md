@@ -120,6 +120,7 @@ Questions can be asked by raising an `Issue`.
 - [Srinath](https://github.com/srinath1412001)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Tanya Powell](https://github.com/tanyapowell)
+- [Triman Kaur](https://github.com/Trimankaur)
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [annu](https://github.com/annu12340)
