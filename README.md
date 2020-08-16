@@ -131,3 +131,5 @@ Questions can be asked by raising an `Issue`.
 - [Alex Valdez](https://github.com/arevaldez)
 - [Jatin Rao](https://github.com/jatin2003)
 - [Sumeet Naik](https://github.com/sumeetweb)
+- [Nate Lloyd](https://github.com/natelloyd1)
+
