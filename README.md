@@ -129,4 +129,5 @@ Questions can be asked by raising an `Issue`.
 - [Satyadeep](https://github.com/satyaRF)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
 - [Alex Valdez](https://github.com/arevaldez)
+- [Jatin Rao](https://github.com/jatin2003)
 - [Sumeet Naik](https://github.com/sumeetweb)
