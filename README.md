@@ -18,21 +18,25 @@ Questions can be asked by raising an `Issue`.
   click on the clone button (green in colour).
 
 ```
-
   - Using git on your local machine
 
 ```
- git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
+  git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
 
  ```
-
-- Make a new branch
-```
-   git checkout -b <name of new branch>
+ - switch to the cloned folder
 
 ```
+   cd hacktoberfest-practice
+ 
+ ```
+ - Make a new branch
+```
+  git checkout -b <name of new branch>
 
-- Make changes in your repo
+```
+
+ - Make changes in your repo
 
 ```
   touch text.txt
@@ -131,3 +135,4 @@ Questions can be asked by raising an `Issue`.
 - [Alex Valdez](https://github.com/arevaldez)
 - [Jatin Rao](https://github.com/jatin2003)
 - [Sumeet Naik](https://github.com/sumeetweb)
+- [Gagan Gaur](https://github.com/gagangaur)
