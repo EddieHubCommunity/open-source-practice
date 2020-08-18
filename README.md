@@ -132,3 +132,4 @@ Questions can be asked by raising an `Issue`.
 - [Sumeet Naik](https://github.com/sumeetweb)
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
+- [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
