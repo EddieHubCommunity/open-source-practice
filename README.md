@@ -134,3 +134,4 @@ Questions can be asked by raising an `Issue`.
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
 - [Kabir Jain](https://github.com/kkkkkabir)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
+- [Vinicius Ramos](https://github.com/redrookie)
