@@ -137,3 +137,4 @@ Questions can be asked by raising an `Issue`.
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Triman Kaur](https://github.com/Trimankaur)
+- [Vinicius Ramos](https://github.com/redrookie)
