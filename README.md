@@ -133,3 +133,4 @@ Questions can be asked by raising an `Issue`.
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
 - [Kabir Jain](https://github.com/kkkkkabir)
+- [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
