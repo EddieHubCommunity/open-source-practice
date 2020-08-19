@@ -1,3 +1,5 @@
+# 👨‍💻Hacktoberfest 2020: What is it? Click on the poster below for more details📽
+[![Watch The Video](https://hacktoberfest.digitalocean.com/og-hf-teaser.png)](https://youtu.be/XFLlakeNO10)
 # Hacktoberfest Practice Pull Requests
 
 Repo for you to raise a Pull Request for practice.
