@@ -106,6 +106,7 @@ Questions can be asked by raising an `Issue`.
 - [Jivthesh](https://github.com/jivthesh)
 - [Johanna](https://github.com/Johanna-hub)
 - [Josh Callahan](https://github.com/joshcallahan)
+- [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [Kabir Jain](https://github.com/kkkkkabir)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Matthias Maier](https://github.com/NukeTheFridge)
