@@ -1,5 +1,7 @@
 # 👨‍💻Hacktoberfest 2020: What is it? Click on the poster below for more details📽
+
 [![Watch The Video](https://hacktoberfest.digitalocean.com/og-hf-teaser.png)](https://youtu.be/XFLlakeNO10)
+
 # Hacktoberfest Practice Pull Requests
 
 Repo for you to raise a Pull Request for practice.
@@ -20,57 +22,58 @@ Questions can be asked by raising an `Issue`.
   click on the clone button (green in colour).
 ```
 
-  - Using git on your local machine
-  
+- Using git on your local machine
+
 ```
   git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
 ```
- 
- - switch to the cloned folder
+
+- switch to the cloned folder
 
 ```
   cd hacktoberfest-practice
 ```
 
- - Make a new branch
- 
+- Make a new branch
+
 ```
   git checkout -b <name of new branch>
 ```
 
- - Make changes in your repo
+- Make changes in your repo
 
 ```
   touch text.txt
   echo "Hallo world" > text.txt
   git add text.txt
- ```
- 
- - Commit the changes
+```
 
- ```
-   git commit -m "Initial commit"
- ```
+- Commit the changes
 
- - Check the staus of your repository
+```
+  git commit -m "Initial commit"
+```
 
- ```
-   git status
- ```
- 
- - Pushing your repository to github
+- Check the staus of your repository
 
- ```
-   git push origin <name of your branch>
- ```
+```
+  git status
+```
 
- - Pulling your request
+- Pushing your repository to github
 
- ```
-   click on pull request
- ```
+```
+  git push origin <name of your branch>
+```
+
+- Pulling your request
+
+```
+  click on pull request
+```
 
 ## Hacktoberfest community
+
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
@@ -125,6 +128,7 @@ Questions can be asked by raising an `Issue`.
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
 - [Robert Kay Jr](https://github.com/RobertKayJr/)
 - [Rodrigo Avila](https://github.com/rodrigo398)
+- [Russ Perry](https://github.com/rperry99)
 - [Sajid305](https://github.com/Sajid305)
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [Satya Abhishek](https://github.com/kashek85)
