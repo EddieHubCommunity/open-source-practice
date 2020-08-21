@@ -112,6 +112,7 @@ Questions can be asked by raising an `Issue`.
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Mike Hatch](https://github.com/mikeshatch)
 - [Mohamed Al-Rifay](https://github.com/alrifay)
+- [Mohit Deshwal](https://github.com/mohit01-beep)
 - [Nathan Byrne](https://github.com/naefun/)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
@@ -140,4 +141,3 @@ Questions can be asked by raising an `Issue`.
 - [Triman Kaur](https://github.com/Trimankaur)
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
-- [Mohit Deshwal](https://github.com/mohit01-beep)
