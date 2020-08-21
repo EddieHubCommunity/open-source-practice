@@ -6,7 +6,7 @@
 
 Repo for you to raise a Pull Request for practice.
 
-**Just add your name to the end of the list and optionally, a link to your GitHub account**
+**Just add your name to the alphabetical list and optionally, a link to your GitHub account**
 
 ## How to contribute
 
