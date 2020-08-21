@@ -134,6 +134,7 @@ Questions can be asked by raising an `Issue`.
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [Satya Abhishek](https://github.com/kashek85)
 - [Satyadeep](https://github.com/satyaRF)
+- [Shubham Hadake](https://github.com/Shubham714)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [SMak06](https://github.com/SMak06)
 - [Soumya Sharma](https://github.com/soumyaa1804)
