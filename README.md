@@ -92,6 +92,7 @@ Questions can be asked by raising an `Issue`.
 - [Chris Moreton](https://github.com/chris-moreton/)
 - [Conor O Shea](https://github.com/conoroshea1996)
 - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
+- [Dhairya Ostwal](https://github.com/dhairyaostwal)
 - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dušan Tanasić](https://github.com/Duk4/)
