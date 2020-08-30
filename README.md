@@ -81,6 +81,7 @@ Questions can be asked by raising an `Issue`.
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
 - [Alex Valdez](https://github.com/arevaldez)
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
+- [Angel Dhakal](https://github.com/angeldhakal)
 - [annu](https://github.com/annu12340)
 - [Anton Samper Rivaya](https://github.com/antonsamper/)
 - [Appygal](https://github.com/appygal)
