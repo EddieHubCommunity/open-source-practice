@@ -83,6 +83,7 @@ Questions can be asked by raising an `Issue`.
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
 - [Angel Dhakal](https://github.com/angeldhakal)
 - [annu](https://github.com/annu12340)
+- [Ansh Dhingra](https://github.com/anshdhinhgra47)
 - [Anton Samper Rivaya](https://github.com/antonsamper/)
 - [Appygal](https://github.com/appygal)
 - [Ashish Chavan](https://github.com/AshishChavan98)
