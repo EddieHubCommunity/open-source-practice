@@ -74,6 +74,7 @@ Questions can be asked by raising an `Issue`.
 
 ## Hacktoberfest community
 
+- [Aakarsh Teja](https://github.com/aakarshteja)
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
