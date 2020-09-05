@@ -108,6 +108,7 @@ Questions can be asked by raising an `Issue`.
 - [Ikra P](https://github.com/ikraP)
 - [Indu Rupi](https://github.com/indurupi)
 - [Ines Guerrero](https://github.com/inesgs12)
+- [Jade Kneen](https://github.com/jadekneen)
 - [Jaime Jones](https://github.com/jaime-lynn)
 - [Jatin Rao](https://github.com/jatin2003)
 - [Jivthesh](https://github.com/jivthesh)
