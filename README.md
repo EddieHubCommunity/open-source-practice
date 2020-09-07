@@ -21,33 +21,38 @@ Questions can be asked by raising an `Issue`.
 ## How to clone repo and make changes locally
 
 ```
-  click on the clone button (green in colour).
+  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
 ```
 
-- Using git on your local machine
+- Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
 ```
-  git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
+  git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
 ```
 
-- switch to the cloned folder
+- switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
 
 ```
   cd hacktoberfest-practice
 ```
 
-- Make a new branch
+- Make a new branch. Your name would make a good branch because it's unique
 
 ```
   git checkout -b <name of new branch>
 ```
 
-- Make changes in your repo
+- Open the file `README.md`
+
+- On a new line in alphabetical order, add your name and a link to your Github profile
+
+- For example ,  
+  `[Full Name](https://github.com/your-username)`
+
+- Stage your changes
 
 ```
-  touch text.txt
-  echo "Hallo world" > text.txt
-  git add text.txt
+  git add README.md
 ```
 
 - Commit the changes
@@ -56,7 +61,7 @@ Questions can be asked by raising an `Issue`.
   git commit -m "Initial commit"
 ```
 
-- Check the staus of your repository
+- Check the status of your repository
 
 ```
   git status
@@ -68,11 +73,16 @@ Questions can be asked by raising an `Issue`.
   git push origin <name of your branch>
 ```
 
-- Pulling your request
+- Pulling your request. Click on the Pull requests tab on the forked github repository.
+  Note : A pull request allows your changes to be merged with the original project.
 
 ```
   click on pull request
 ```
+
+- Wait for your changes to be merged.
+
+- Hurray! You successfully made a contribution
 
 ## Hacktoberfest community
 
