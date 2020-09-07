@@ -25,7 +25,7 @@ Questions can be asked by raising an `Issue`.
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
 ```
-  git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git 
+  git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
 ```
 
 - switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
@@ -40,14 +40,16 @@ Questions can be asked by raising an `Issue`.
   git checkout -b <name of new branch>
 ```
 
-- Make changes in your repo by opening the README.md file and adding your full name along with a link to your github profile
+<!-- - Make changes in your repo by opening the README.md file and adding your full name along with a link to your github profile -->
 
-```
-  open ReadMe. md
-  On a new line type in ..
-  Full Name [github.com/githubUsername]
-```
-- Stage your changes 
+- Open the file README. md
+
+- On a new line in alphabetical order, add your name and a link to your Github profile
+
+- For example ,  
+  `[Full Name](https://github.com/your-username)`
+
+- Stage your changes
 
 ```
   git add README.md
@@ -71,9 +73,8 @@ Questions can be asked by raising an `Issue`.
   git push origin <name of your branch>
 ```
 
-
-- Pulling your request. Click on the Pull requests tab on the forked github repository. 
-Note : A pull request allows your changes to be merged with the original project.
+- Pulling your request. Click on the Pull requests tab on the forked github repository.
+  Note : A pull request allows your changes to be merged with the original project.
 
 ```
   click on pull request
