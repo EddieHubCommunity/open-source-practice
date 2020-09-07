@@ -2,7 +2,7 @@
 
 [![Watch The Video](https://hacktoberfest.digitalocean.com/og-hf-teaser.png)](https://youtu.be/XFLlakeNO10)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 # Hacktoberfest Practice Pull Requests
 
