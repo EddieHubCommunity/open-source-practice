@@ -42,7 +42,7 @@ Questions can be asked by raising an `Issue`.
 
 <!-- - Make changes in your repo by opening the README.md file and adding your full name along with a link to your github profile -->
 
-- Open the file README. md
+- Open the file `README.md`
 
 - On a new line in alphabetical order, add your name and a link to your Github profile
 
