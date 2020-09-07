@@ -2,6 +2,8 @@
 
 [![Watch The Video](https://hacktoberfest.digitalocean.com/og-hf-teaser.png)](https://youtu.be/XFLlakeNO10)
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
 # Hacktoberfest Practice Pull Requests
 
 Repo for you to raise a Pull Request for practice.
@@ -80,6 +82,7 @@ Questions can be asked by raising an `Issue`.
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
 - [Abuzer Asif](https://github.com/abuzerasif)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
+- [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
 - [Alex Valdez](https://github.com/arevaldez)
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
 - [Angel Dhakal](https://github.com/angeldhakal)
