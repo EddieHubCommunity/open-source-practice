@@ -134,6 +134,7 @@ Questions can be asked by raising an `Issue`.
 - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
 - [Krishna R ](https://github.com/Krishna-Ravi)
 - [Lishu Gupta](https://github.com/lishugupta652)
+- [Manu Gupta](https://github.com/ManuGupta9780)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Mike Hatch](https://github.com/mikeshatch)
