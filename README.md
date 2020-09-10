@@ -161,6 +161,7 @@ Questions can be asked by raising an `Issue`.
 - [Satyadeep](https://github.com/satyaRF)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb) 
 - [Shubham Hadake](https://github.com/Shubham714)
+- [Siddhant Khare](https://github.com/Siddhant-K-code)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [SMak06](https://github.com/SMak06)
 - [Soumya Sharma](https://github.com/soumyaa1804)
