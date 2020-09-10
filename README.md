@@ -171,5 +171,6 @@ Questions can be asked by raising an `Issue`.
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Triman Kaur](https://github.com/Trimankaur)
+- [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
