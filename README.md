@@ -102,6 +102,7 @@ Questions can be asked by raising an `Issue`.
 - [Fatma](https://github.com/fatmab28)
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
+- [Harshit Parwal](https://github.com/harshitparwal)
 - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
 - [Ikra P](https://github.com/ikraP)
 - [Indu Rupi](https://github.com/indurupi)
@@ -148,4 +149,4 @@ Questions can be asked by raising an `Issue`.
 - [Triman Kaur](https://github.com/Trimankaur)
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
-- [Harshit Parwal](https://github.com/harshitparwal)
+
