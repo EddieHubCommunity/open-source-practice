@@ -144,6 +144,7 @@ Questions can be asked by raising an `Issue`.
 - [Nathan Byrne](https://github.com/naefun/)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
+- [Prathamesh Giri](https://github.com/Pratham31)
 - [Prashant Shukla](https://github.com/prashantlv)
 - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
 - [Rahul](https://github.com/kohli6010)
