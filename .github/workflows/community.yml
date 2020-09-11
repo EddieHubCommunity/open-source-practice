@@ -30,5 +30,3 @@ jobs:
       - uses: EddieJaoudeCommunity/gh-action-community/src/statistics@main
         with:
           firebase-key: ${{ secrets.FIREBASE_KEY }}
-
-          
