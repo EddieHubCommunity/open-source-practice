@@ -80,7 +80,7 @@ Questions can be asked by raising an `Issue`.
   click on pull request
 ```
 
-- Wait for your changes to be merged.
+- Wait for your changes to be merged
 
 - Hurray! You successfully made a contribution
 
