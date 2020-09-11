@@ -2,6 +2,8 @@
 
 [![Watch The Video](https://hacktoberfest.digitalocean.com/og-hf-teaser.png)](https://youtu.be/XFLlakeNO10)
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
 # Hacktoberfest Practice Pull Requests
 
 Repo for you to raise a Pull Request for practice.
@@ -19,33 +21,38 @@ Questions can be asked by raising an `Issue`.
 ## How to clone repo and make changes locally
 
 ```
-  click on the clone button (green in colour).
+  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
 ```
 
-- Using git on your local machine
+- Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
 ```
-  git clone https://github.com/eddiejaoude/hacktoberfest-practice.git
+  git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
 ```
 
-- switch to the cloned folder
+- switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
 
 ```
   cd hacktoberfest-practice
 ```
 
-- Make a new branch
+- Make a new branch. Your name would make a good branch because it's unique
 
 ```
   git checkout -b <name of new branch>
 ```
 
-- Make changes in your repo
+- Open the file `README.md`
+
+- On a new line in alphabetical order, add your name and a link to your Github profile
+
+- For example ,  
+  `[Full Name](https://github.com/your-username)`
+
+- Stage your changes
 
 ```
-  touch text.txt
-  echo "Hallo world" > text.txt
-  git add text.txt
+  git add README.md
 ```
 
 - Commit the changes
@@ -54,7 +61,7 @@ Questions can be asked by raising an `Issue`.
   git commit -m "Initial commit"
 ```
 
-- Check the staus of your repository
+- Check the status of your repository
 
 ```
   git status
@@ -66,23 +73,31 @@ Questions can be asked by raising an `Issue`.
   git push origin <name of your branch>
 ```
 
-- Pulling your request
+- Pulling your request. Click on the Pull requests tab on the forked github repository.
+  Note : A pull request allows your changes to be merged with the original project.
 
 ```
   click on pull request
 ```
 
+- Wait for your changes to be merged
+
+- Hurray! You successfully made a contribution
+
 ## Hacktoberfest community
 
+- [Aakarsh Teja](https://github.com/aakarshteja)
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
 - [Abuzer Asif](https://github.com/abuzerasif)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
+- [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
 - [Alex Valdez](https://github.com/arevaldez)
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
 - [Angel Dhakal](https://github.com/angeldhakal)
 - [annu](https://github.com/annu12340)
+- [Ansh Dhingra](https://github.com/anshdhinhgra47)
 - [Anton Samper Rivaya](https://github.com/antonsamper/)
 - [Appygal](https://github.com/appygal)
 - [Ashish Chavan](https://github.com/AshishChavan98)
@@ -101,19 +116,26 @@ Questions can be asked by raising an `Issue`.
 - [essarrgee](https://github.com/essarrgee)
 - [Fatma](https://github.com/fatmab28)
 - [Gagan Gaur](https://github.com/gagangaur)
+- [Hamza Jassar](https://github.com/iJassar)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
+- [Harshit Parwal](https://github.com/harshitparwal)
 - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
 - [Ikra P](https://github.com/ikraP)
 - [Indu Rupi](https://github.com/indurupi)
 - [Ines Guerrero](https://github.com/inesgs12)
+- [Jade Kneen](https://github.com/jadekneen)
 - [Jaime Jones](https://github.com/jaime-lynn)
 - [Jatin Rao](https://github.com/jatin2003)
 - [Jivthesh](https://github.com/jivthesh)
 - [Johanna](https://github.com/Johanna-hub)
+- [Jome Favourite](https://github.com/jomefavourite)
 - [Josh Callahan](https://github.com/joshcallahan)
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [Kabir Jain](https://github.com/kkkkkabir)
+- [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
 - [Krishna R ](https://github.com/Krishna-Ravi)
+- [Lishu Gupta](https://github.com/lishugupta652)
+- [Manu Gupta](https://github.com/ManuGupta9780)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Mike Hatch](https://github.com/mikeshatch)
@@ -126,6 +148,7 @@ Questions can be asked by raising an `Issue`.
 - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
 - [Rahul](https://github.com/kohli6010)
 - [Raj Vaya](https://github.com/rajvaya)
+- [Raju Ghorai](https://github.com/coderj001)
 - [Ram Pandey](https://github.com/ram2510)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Remco Halman](https://github.com/remcohalman)
@@ -137,15 +160,22 @@ Questions can be asked by raising an `Issue`.
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [Satya Abhishek](https://github.com/kashek85)
 - [Satyadeep](https://github.com/satyaRF)
+- [Shanmuganathanb](https://github.com/Shanmuganathanb) 
 - [Shubham Hadake](https://github.com/Shubham714)
+- [Siddhant Khare](https://github.com/Siddhant-K-code)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [SMak06](https://github.com/SMak06)
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Srinath](https://github.com/srinath1412001)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Sumeet Naik](https://github.com/sumeetweb)
+- [Sunrit Jana](https://github.com/janaSunrise)
+- [Swapna Devi](https://github.com/Swapna804)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Triman Kaur](https://github.com/Trimankaur)
+- [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
+- [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
+
