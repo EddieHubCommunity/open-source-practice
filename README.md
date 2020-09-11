@@ -176,4 +176,5 @@ Questions can be asked by raising an `Issue`.
 - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
+- [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 
