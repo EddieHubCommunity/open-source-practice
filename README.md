@@ -138,6 +138,7 @@ Questions can be asked by raising an `Issue`.
 - [Manu Gupta](https://github.com/ManuGupta9780)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Matthias Maier](https://github.com/NukeTheFridge)
+- [Meenal Jain](https://github.com/meenal21)
 - [Mike Hatch](https://github.com/mikeshatch)
 - [Mohamed Al-Rifay](https://github.com/alrifay)
 - [Mohit Deshwal](https://github.com/mohit01-beep)
@@ -179,4 +180,3 @@ Questions can be asked by raising an `Issue`.
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
-
