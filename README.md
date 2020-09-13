@@ -91,6 +91,7 @@ Questions can be asked by raising an `Issue`.
 - [Abdullahi Musa](https://github.com/Abdullahi001)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
 - [Abuzer Asif](https://github.com/abuzerasif)
+- [Aditya Das](https://github.com/ThatOneBlodeKid)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
 - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
 - [Alex Valdez](https://github.com/arevaldez)
