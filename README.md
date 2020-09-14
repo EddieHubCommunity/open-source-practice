@@ -164,6 +164,7 @@ Questions can be asked by raising an `Issue`.
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [Satya Abhishek](https://github.com/kashek85)
 - [Satyadeep](https://github.com/satyaRF)
+- [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb) 
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
