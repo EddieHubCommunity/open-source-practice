@@ -109,6 +109,7 @@ Questions can be asked by raising an `Issue`.
 - [Charlotte Jewer](https://github.com/Charlotte990)
 - [Chris Moreton](https://github.com/chris-moreton/)
 - [Conor O Shea](https://github.com/conoroshea1996)
+- [Deepak B](https://github.com/sbdeepu09)
 - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
 - [Dhairya Ostwal](https://github.com/dhairyaostwal)
 - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
