@@ -98,6 +98,7 @@ Questions can be asked by raising an `Issue`.
 - [Alex Valdez](https://github.com/arevaldez)
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
 - [Angel Dhakal](https://github.com/angeldhakal)
+- [Aniket Singh](https://github.com/aniketsingh98571)
 - [Ankit Warbhe](https://github.com/ankitwarbhe/)
 - [annu](https://github.com/annu12340)
 - [Ansh Dhingra](https://github.com/anshdhinhgra47)
@@ -147,6 +148,7 @@ Questions can be asked by raising an `Issue`.
 - [Mike Hatch](https://github.com/mikeshatch)
 - [Mohamed Al-Rifay](https://github.com/alrifay)
 - [Mohit Deshwal](https://github.com/mohit01-beep)
+- [Namya LG](https://github.com/Namyalg)
 - [Nathan Byrne](https://github.com/naefun/)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
@@ -189,4 +191,3 @@ Questions can be asked by raising an `Issue`.
 - [Vivek Singh](https://github.com/vivmost)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Stephen Mount (@stemount)](https://github.com/stemount)
-
