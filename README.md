@@ -120,8 +120,6 @@ Questions can be asked by raising an `Issue`.
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [essarrgee](https://github.com/essarrgee)
 - [Fatma](https://github.com/fatmab28)
-
-
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Hamza Jassar](https://github.com/iJassar)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
