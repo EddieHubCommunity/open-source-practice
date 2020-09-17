@@ -148,6 +148,7 @@ Questions can be asked by raising an `Issue`.
 - [Mike Hatch](https://github.com/mikeshatch)
 - [Mohamed Al-Rifay](https://github.com/alrifay)
 - [Mohit Deshwal](https://github.com/mohit01-beep)
+- [Mulyadi](https://github.com/Urcane)
 - [Namya LG](https://github.com/Namyalg)
 - [Nathan Byrne](https://github.com/naefun/)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
