@@ -120,7 +120,8 @@ Questions can be asked by raising an `Issue`.
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [essarrgee](https://github.com/essarrgee)
 - [Fatma](https://github.com/fatmab28)
-- [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
+
+
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Hamza Jassar](https://github.com/iJassar)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
@@ -176,6 +177,7 @@ Questions can be asked by raising an `Issue`.
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [SMak06](https://github.com/SMak06)
+- [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Srinath](https://github.com/srinath1412001)
 - [Suhaas](https://github.com/suhaaskataria)
