@@ -8,7 +8,7 @@
 
 Repo for you to raise a Pull Request for practice.
 
-**Just add your name to the alphabetical list and optionally, a link to your GitHub account**
+** Just add your name to the alphabetical list and optionally, a link to your GitHub account**
 
 ## How to contribute
 
@@ -192,4 +192,5 @@ Questions can be asked by raising an `Issue`.
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
-- [Stephen Mount (@stemount)](https://github.com/stemount) -[Nandu Katangaza](https://github.com/jaynandu)
+- [Stephen Mount (@stemount)](https://github.com/stemount)
+- [Nandu Katangaza](https://github.com/jaynandu)
