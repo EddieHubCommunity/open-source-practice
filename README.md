@@ -88,6 +88,7 @@ Questions can be asked by raising an `Issue`.
 
 - [Aakarsh Teja](https://github.com/aakarshteja)
 - [Aarul Mishra](https://github.com/Aarul14)
+- [Abiola Farounbi✨](https://github.com/Abiola-Farounbi)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
 - [Abuzer Asif](https://github.com/abuzerasif)
