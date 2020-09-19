@@ -86,6 +86,7 @@ Questions can be asked by raising an `Issue`.
 
 ## Hacktoberfest community
 
+- [Savio Martin](https://github.com/saviomartin)
 - [Aakarsh Teja](https://github.com/aakarshteja)
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abiola Farounbi✨](https://github.com/Abiola-Farounbi)
