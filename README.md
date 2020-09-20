@@ -1,6 +1,3 @@
-
-Prasanna Bisen [www.github.com/prasannabisen]
-
 # 👨‍💻Hacktoberfest 2020: What is it? Click on the poster below for more details📽
 
 [![Watch The Video](https://hacktoberfest.digitalocean.com/og-hf-teaser.png)](https://youtu.be/XFLlakeNO10)
@@ -88,7 +85,7 @@ Questions can be asked by raising an `Issue`.
 - Hurray! You successfully made a contribution
 
 ## Hacktoberfest community
-
+- [Prasanna Bisen](https://github.com/prasannabisen)
 - [Savio Martin](https://github.com/saviomartin)
 - [Aakarsh Teja](https://github.com/aakarshteja)
 - [Aarul Mishra](https://github.com/Aarul14)
