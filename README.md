@@ -177,7 +177,7 @@ Questions can be asked by raising an `Issue`.
 - [Satya Abhishek](https://github.com/kashek85)
 - [Satyadeep](https://github.com/satyaRF)
 - [schmelto](https://github.com/schmelto)
-- [Shanmuganathanb](https://github.com/Shanmuganathanb) 
+- [Shanmuganathanb](https://github.com/Shanmuganathanb)
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
@@ -200,3 +200,4 @@ Questions can be asked by raising an `Issue`.
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Stephen Mount (@stemount)](https://github.com/stemount)
 - [Asharib Ahmed](https://github.com/Asharib90)
+- [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
