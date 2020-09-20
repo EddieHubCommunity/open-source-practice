@@ -121,6 +121,7 @@ Questions can be asked by raising an `Issue`.
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
+- [Evandro Rodrigues](https://github.com/evnrodr)
 - [essarrgee](https://github.com/essarrgee)
 - [Fatma](https://github.com/fatmab28)
 - [Gagan Gaur](https://github.com/gagangaur)
