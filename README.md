@@ -147,6 +147,7 @@ Questions can be asked by raising an `Issue`.
 - [Krishna R ](https://github.com/Krishna-Ravi)
 - [Lishu Gupta](https://github.com/lishugupta652)
 - [Manu Gupta](https://github.com/ManuGupta9780)
+  [Mahnoor Anwar Gupta](https://github.comMahnoor-Anwar)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
