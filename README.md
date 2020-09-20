@@ -128,6 +128,7 @@ Questions can be asked by raising an `Issue`.
 - [Hamza Jassar](https://github.com/iJassar)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
 - [Harshit Parwal](https://github.com/harshitparwal)
+- [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon) 
 - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
 - [Ikra P](https://github.com/ikraP)
 - [Indu Rupi](https://github.com/indurupi)
@@ -200,3 +201,4 @@ Questions can be asked by raising an `Issue`.
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Stephen Mount (@stemount)](https://github.com/stemount)
 - [Asharib Ahmed](https://github.com/Asharib90)
+
