@@ -85,7 +85,7 @@ Questions can be asked by raising an `Issue`.
 - Hurray! You successfully made a contribution
 
 ## Hacktoberfest community
-
+<!--START_SECTION:links-->
 - [Savio Martin](https://github.com/saviomartin)
 - [Aakarsh Teja](https://github.com/aakarshteja)
 - [Aarul Mishra](https://github.com/Aarul14)
@@ -199,3 +199,4 @@ Questions can be asked by raising an `Issue`.
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Stephen Mount (@stemount)](https://github.com/stemount)
 - [Asharib Ahmed](https://github.com/Asharib90)
+<!--END_SECTION:links-->
