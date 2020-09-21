@@ -199,4 +199,5 @@ Questions can be asked by raising an `Issue`.
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Stephen Mount (@stemount)](https://github.com/stemount)
 - [Asharib Ahmed](https://github.com/Asharib90)
+- [Allan Regush](https://github.com/AllanRegush)
 <!--END_SECTION:links-->
