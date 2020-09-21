@@ -86,7 +86,6 @@ Questions can be asked by raising an `Issue`.
 
 ## Hacktoberfest community
 
-- [Savio Martin](https://github.com/saviomartin)
 - [Aakarsh Teja](https://github.com/aakarshteja)
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abiola Farounbi✨](https://github.com/Abiola-Farounbi)
@@ -109,6 +108,7 @@ Questions can be asked by raising an `Issue`.
 - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
 - [Anton Samper Rivaya](https://github.com/antonsamper/)
 - [Appygal](https://github.com/appygal)
+- [Asharib Ahmed](https://github.com/Asharib90)
 - [Ashish Chavan](https://github.com/AshishChavan98)
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
@@ -124,6 +124,7 @@ Questions can be asked by raising an `Issue`.
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
+- [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
 - [Evandro Rodrigues](https://github.com/evnrodr)
 - [essarrgee](https://github.com/essarrgee)
 - [Fatma](https://github.com/fatmab28)
@@ -146,7 +147,6 @@ Questions can be asked by raising an `Issue`.
 - [Josh Callahan](https://github.com/joshcallahan)
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [Kabir Jain](https://github.com/kkkkkabir)
-- [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
 - [Krishna R ](https://github.com/Krishna-Ravi)
 - [Lishu Gupta](https://github.com/lishugupta652)
 - [Manu Gupta](https://github.com/ManuGupta9780)
@@ -155,6 +155,7 @@ Questions can be asked by raising an `Issue`.
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
 - [Meenal Jain](https://github.com/meenal21)
+- [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
 - [Mike Hatch](https://github.com/mikeshatch)
 - [Mohamed Al-Rifay](https://github.com/alrifay)
 - [Mohit Deshwal](https://github.com/mohit01-beep)
@@ -182,6 +183,7 @@ Questions can be asked by raising an `Issue`.
 - [Sajid305](https://github.com/Sajid305)
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [Satya Abhishek](https://github.com/kashek85)
+- [Savio Martin](https://github.com/saviomartin)
 - [Satyadeep](https://github.com/satyaRF)
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb)
@@ -206,5 +208,3 @@ Questions can be asked by raising an `Issue`.
 - [Vivek Singh](https://github.com/vivmost)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Stephen Mount (@stemount)](https://github.com/stemount)
-- [Asharib Ahmed](https://github.com/Asharib90)
-- [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
