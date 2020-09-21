@@ -215,3 +215,4 @@ Questions can be asked by raising an `Issue`.
 - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
 - [Anubhav Purohit](https://github.com/Anubhav-byte)
 - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
+- [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
