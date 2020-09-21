@@ -129,6 +129,7 @@ Questions can be asked by raising an `Issue`.
 - [essarrgee](https://github.com/essarrgee)
 - [Fatma](https://github.com/fatmab28)
 - [Gagan Gaur](https://github.com/gagangaur)
+  [Gagan V](https://github.com/gagan95)
 - [Hamza Jassar](https://github.com/iJassar)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
 - [Harshit Parwal](https://github.com/harshitparwal)
