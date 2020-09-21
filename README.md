@@ -122,6 +122,7 @@ Questions can be asked by raising an `Issue`.
 - [Dhairya Ostwal](https://github.com/dhairyaostwal)
 - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
 - [Dimo Ivanov](https://github.com/divanoff)
+- [Dishon Kadoh](https://github.com/realestdon)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
