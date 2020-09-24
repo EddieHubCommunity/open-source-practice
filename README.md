@@ -203,6 +203,7 @@ Questions can be asked by raising an `Issue`.
 - [Sunrit Jana](https://github.com/janaSunrise)
 - [Swapna Devi](https://github.com/Swapna804)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
+- [Taneem Jan](https://github.com/taneemishere)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Triman Kaur](https://github.com/Trimankaur)
 - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
