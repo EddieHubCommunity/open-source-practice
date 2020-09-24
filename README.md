@@ -144,6 +144,7 @@ Questions can be asked by raising an `Issue`.
 - [Jade Kneen](https://github.com/jadekneen)
 - [Jaime Jones](https://github.com/jaime-lynn)
 - [Jatin Rao](https://github.com/jatin2003)
+- [Jessica Salbert](https://github.com/jessicasalbert)
 - [Jivthesh](https://github.com/jivthesh)
 - [Johanna](https://github.com/Johanna-hub)
 - [Jome Favourite](https://github.com/jomefavourite)
