@@ -168,6 +168,7 @@ Questions can be asked by raising an `Issue`.
 - [Naman Mittal](https://github.com/Namanmittal0007)
 - [Namya LG](https://github.com/Namyalg)
 - [Nathan Byrne](https://github.com/naefun/)
+- [Niranjan](https://github.com/niranjantuty)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
 - [Prathamesh Giri](https://github.com/Pratham31)
