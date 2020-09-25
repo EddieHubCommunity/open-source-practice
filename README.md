@@ -99,6 +99,7 @@ Questions can be asked by raising an `Issue`.
 - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
 - [Alex Valdez](https://github.com/arevaldez)
 - [Ali Mirrajei](https://github.com/alimirrajei)
+- [Aman Verma](https://github.com/amanpro1)
 - [Ana Carrillo](https://github.com/acarrillo3)
 - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
 - [Angel Dhakal](https://github.com/angeldhakal)
