@@ -1,6 +1,6 @@
 # 👨‍💻Hacktoberfest 2020: What is it? Click on the poster below for more details📽
 
-[![Watch The Video](https://hacktoberfest.digitalocean.com/og-hf-teaser.png)](https://youtu.be/XFLlakeNO10)
+[![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/XFLlakeNO10)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
