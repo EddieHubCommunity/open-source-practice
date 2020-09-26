@@ -125,6 +125,7 @@ Questions can be asked by raising an `Issue`.
 - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dishon Kadoh](https://github.com/realestdon)
+- [Divakar R](https://github.com/rexdivakar)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
