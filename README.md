@@ -112,6 +112,7 @@ Questions can be asked by raising an `Issue`.
 - [Appygal](https://github.com/appygal)
 - [Asharib Ahmed](https://github.com/Asharib90)
 - [Ashish Chavan](https://github.com/AshishChavan98)
+- [Aswin Asok](https://github.com/AswinAsok)
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Caden Parker](https://github.com/Ne0nWinds)
