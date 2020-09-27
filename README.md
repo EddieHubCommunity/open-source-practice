@@ -223,3 +223,4 @@ Questions can be asked by raising an `Issue`.
 - [Anubhav Purohit](https://github.com/Anubhav-byte)
 - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
 - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
+- [**_Satyam Gadekar(@07Satyam)_**](https://github.com/07Satyam)
