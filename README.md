@@ -115,6 +115,7 @@ Questions can be asked by raising an `Issue`.
 - [Aswin Asok](https://github.com/AswinAsok)
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
+- [Bineet Naidu](https://github.com/bineetNaidu)
 - [Caden Parker](https://github.com/Ne0nWinds)
 - [Charlotte Jewer](https://github.com/Charlotte990)
 - [Chris Moreton](https://github.com/chris-moreton/)
