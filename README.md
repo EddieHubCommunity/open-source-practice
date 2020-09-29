@@ -227,3 +227,4 @@ Questions can be asked by raising an `Issue`.
 - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
 - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
 - [Kehinde Adeleke](https://github.com/adeleke5140)
+- [Juli Cheng](https://github.com/julicheng)
