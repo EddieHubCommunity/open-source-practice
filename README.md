@@ -207,6 +207,7 @@ Questions can be asked by raising an `Issue`.
 - [Srinath](https://github.com/srinath1412001)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Sumeet Naik](https://github.com/sumeetweb)
+- [Sumit Gaur](https://github.com/Sumit3301)
 - [Sunrit Jana](https://github.com/janaSunrise)
 - [Swapna Devi](https://github.com/Swapna804)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
