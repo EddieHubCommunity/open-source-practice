@@ -225,3 +225,4 @@ Questions can be asked by raising an `Issue`.
 - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
 - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
 - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
+- [Kehinde Adeleke](https://github.com/adeleke5140)
