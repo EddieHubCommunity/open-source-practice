@@ -216,6 +216,7 @@ Questions can be asked by raising an `Issue`.
 - [Sumit Gaur](https://github.com/Sumit3301)
 - [Sunrit Jana](https://github.com/janaSunrise)
 - [Swapna Devi](https://github.com/Swapna804)
+- [Prithviraj Biswas](https://github.com/prithvirajbytes)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [Taneem Jan](https://github.com/taneemishere)
 - [Tanya Powell](https://github.com/tanyapowell)
