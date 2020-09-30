@@ -134,6 +134,7 @@ Questions can be asked by raising an `Issue`.
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
+- [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
 - [Evandro Rodrigues](https://github.com/evnrodr)
 - [essarrgee](https://github.com/essarrgee)
 - [Fatma](https://github.com/fatmab28)
