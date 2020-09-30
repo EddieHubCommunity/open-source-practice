@@ -134,6 +134,7 @@ Questions can be asked by raising an `Issue`.
 - [Chris Moreton](https://github.com/chris-moreton/)
 - [CodesbyUnnati](https://github.com/CodesbyUnnati)
 - [Conor O Shea](https://github.com/conoroshea1996)
+- [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
 - [Danella Patrick](https://github.com/danellapatrick)
 - [Deepak B](https://github.com/sbdeepu09)
 - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
