@@ -191,6 +191,7 @@ Questions can be asked by raising an `Issue`.
 - [Namya LG](https://github.com/Namyalg)
 - [Nathan Byrne](https://github.com/naefun/)
 - [Niranjan](https://github.com/niranjantuty)
+- [Numan Javed](https://github.com/numanjvd82)
 - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
