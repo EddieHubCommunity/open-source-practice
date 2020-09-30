@@ -247,3 +247,4 @@ Questions can be asked by raising an `Issue`.
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
+- [Yashasvi Misra](https://github.com/yashasvimisra2798)
