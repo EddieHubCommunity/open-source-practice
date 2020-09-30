@@ -1,6 +1,14 @@
-# 👨‍💻Hacktoberfest 2020: What is it? Click on the poster below for more details📽
+**This repo will be archived during *October* as it is for practice only**
 
-[![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/XFLlakeNO10)
+We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo https://github.com/EddieJaoudeCommunity/support
+
+---
+
+# Hacktoberfest 2020
+
+What is it? Click on the poster below to watch the video for more details📽
+
+[![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
@@ -90,6 +98,7 @@ Questions can be asked by raising an `Issue`.
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abiola Farounbi✨](https://github.com/Abiola-Farounbi)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
+- [Abhay Shreevastava](https://github.com/abhay007kr)
 - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
 - [Abhinav Reddy](https://github.com/AbhinavReddy-Dev/)
 - [Abuzer Asif](https://github.com/abuzerasif)
@@ -113,6 +122,7 @@ Questions can be asked by raising an `Issue`.
 - [Anton Samper Rivaya](https://github.com/antonsamper/)
 - [Anubhav Purohit](https://github.com/Anubhav-byte)
 - [Appygal](https://github.com/appygal)
+- [Arijit](https://github.com/arijitgupta42)
 - [Asharib Ahmed](https://github.com/Asharib90)
 - [Ashish Chavan](https://github.com/AshishChavan98)
 - [Aswin Asok](https://github.com/AswinAsok)
@@ -124,6 +134,7 @@ Questions can be asked by raising an `Issue`.
 - [Chris Moreton](https://github.com/chris-moreton/)
 - [CodesbyUnnati](https://github.com/CodesbyUnnati)
 - [Conor O Shea](https://github.com/conoroshea1996)
+- [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
 - [Danella Patrick](https://github.com/danellapatrick)
 - [Deepak B](https://github.com/sbdeepu09)
 - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
@@ -132,6 +143,7 @@ Questions can be asked by raising an `Issue`.
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dishon Kadoh](https://github.com/realestdon)
 - [Divakar R](https://github.com/rexdivakar)
+- [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
@@ -141,6 +153,7 @@ Questions can be asked by raising an `Issue`.
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Gagan V](https://github.com/gagan95)
 - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
+- [Genesis Gabiola](https://github.com/genesisgabiola)
 - [Hamza Jassar](https://github.com/iJassar)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
 - [Harshit Parwal](https://github.com/harshitparwal)
@@ -180,6 +193,8 @@ Questions can be asked by raising an `Issue`.
 - [Namya LG](https://github.com/Namyalg)
 - [Nathan Byrne](https://github.com/naefun/)
 - [Niranjan](https://github.com/niranjantuty)
+- [Numan Javed](https://github.com/numanjvd82)
+- [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
 - [Prathamesh Giri](https://github.com/Pratham31)
@@ -195,14 +210,17 @@ Questions can be asked by raising an `Issue`.
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
 - [Robert Kay Jr](https://github.com/RobertKayJr/)
 - [Rodrigo Avila](https://github.com/rodrigo398)
+- [Rohit Vuppuluri](https://github.com/rohitv-dev)
 - [Russ Perry](https://github.com/rperry99)
 - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
 - [Sajid305](https://github.com/Sajid305)
 - [Samuel Z. Bouye](https://github.com/zamblebi)
 - [Sarwar Ahmed](https://github.com/SarwarAhmed)
+- [Sanyam Gupta](https://github.com/sanyam19)
 - [Satya Abhishek](https://github.com/kashek85)
 - [Savio Martin](https://github.com/saviomartin)
 - [Satyadeep](https://github.com/satyaRF)
+- [Satyam Gadekar(@07Satyam)](https://github.com/07Satyam)
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb)
 - [Shubham Hadake](https://github.com/Shubham714)
@@ -218,6 +236,7 @@ Questions can be asked by raising an `Issue`.
 - [Sumit Gaur](https://github.com/Sumit3301)
 - [Sunrit Jana](https://github.com/janaSunrise)
 - [Swapna Devi](https://github.com/Swapna804)
+- [Prithviraj Biswas](https://github.com/prithvirajbytes)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [Taneem Jan](https://github.com/taneemishere)
 - [Tanya Powell](https://github.com/tanyapowell)
