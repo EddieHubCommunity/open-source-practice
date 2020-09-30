@@ -194,6 +194,7 @@ Questions can be asked by raising an `Issue`.
 - [Satya Abhishek](https://github.com/kashek85)
 - [Savio Martin](https://github.com/saviomartin)
 - [Satyadeep](https://github.com/satyaRF)
+- [Satyam Gadekar(@07Satyam)](https://github.com/07Satyam)
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb)
 - [Shubham Hadake](https://github.com/Shubham714)
@@ -223,4 +224,4 @@ Questions can be asked by raising an `Issue`.
 - [Anubhav Purohit](https://github.com/Anubhav-byte)
 - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
 - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
-- [**_Satyam Gadekar(@07Satyam)_**](https://github.com/07Satyam)
+- 
