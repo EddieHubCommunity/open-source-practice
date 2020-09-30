@@ -194,6 +194,7 @@ Questions can be asked by raising an `Issue`.
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
 - [Robert Kay Jr](https://github.com/RobertKayJr/)
 - [Rodrigo Avila](https://github.com/rodrigo398)
+- [Rohit Vuppuluri](https://github.com/rohitv-dev)
 - [Russ Perry](https://github.com/rperry99)
 - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
 - [Sajid305](https://github.com/Sajid305)
