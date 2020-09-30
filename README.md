@@ -122,6 +122,7 @@ Questions can be asked by raising an `Issue`.
 - [Anton Samper Rivaya](https://github.com/antonsamper/)
 - [Anubhav Purohit](https://github.com/Anubhav-byte)
 - [Appygal](https://github.com/appygal)
+- [Arijit](https://github.com/arijitgupta42)
 - [Asharib Ahmed](https://github.com/Asharib90)
 - [Ashish Chavan](https://github.com/AshishChavan98)
 - [Aswin Asok](https://github.com/AswinAsok)
