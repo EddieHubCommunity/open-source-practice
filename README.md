@@ -180,6 +180,7 @@ Questions can be asked by raising an `Issue`.
 - [Manu Gupta](https://github.com/ManuGupta9780)
 - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
+- [Martin Parker](https://github.com/RasPiPkr)
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
 - [Meenal Jain](https://github.com/meenal21)
