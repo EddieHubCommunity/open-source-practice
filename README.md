@@ -250,3 +250,4 @@ Questions can be asked by raising an `Issue`.
 - [Vivek Singh](https://github.com/vivmost)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
 - [Vladyslav Kyiashko](https://github.com/vlakyi)
+- [Max Base](https://github.com/basemax)
