@@ -183,6 +183,7 @@ Questions can be asked by raising an `Issue`.
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Martin Parker](https://github.com/RasPiPkr)
 - [Matthias Maier](https://github.com/NukeTheFridge)
+- [Max Base](https://github.com/basemax)
 - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
 - [Meenal Jain](https://github.com/meenal21)
 - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
