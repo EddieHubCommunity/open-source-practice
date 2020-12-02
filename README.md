@@ -104,6 +104,7 @@ Questions can be asked by raising an `Issue`.
 - [Abuzer Asif](https://github.com/abuzerasif)
 - [Aditya Das](https://github.com/ThatOneBlodeKid)
 - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
+- [Aditya Raute](https://github.com/dumbcoder7)
 - [Afroz Chakure](https://github.com/afrozchakure)
 - [Agbabiaka Damilare](https://github.com/AgbaD)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
