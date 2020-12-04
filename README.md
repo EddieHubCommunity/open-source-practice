@@ -154,6 +154,7 @@ Questions can be asked by raising an `Issue`.
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Gagan V](https://github.com/gagan95)
 - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
+- [Ganesh Balaji Radhakrishnan](https://github.com/Ganesh-Balaji-Radhakrishnan)
 - [Genesis Gabiola](https://github.com/genesisgabiola)
 - [Hamza Jassar](https://github.com/iJassar)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
