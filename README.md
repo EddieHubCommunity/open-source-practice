@@ -244,6 +244,7 @@ Questions can be asked by raising an `Issue`.
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [Taneem Jan](https://github.com/taneemishere)
 - [Tanya Powell](https://github.com/tanyapowell)
+- [Tomo Bones](https://github.com/tomobones)
 - [Triman Kaur](https://github.com/Trimankaur)
 - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Usman Tatla](https://github.com/iTatla1)
