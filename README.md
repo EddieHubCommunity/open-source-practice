@@ -1,4 +1,4 @@
-**This repo will be archived during *October* as it is for practice only**
+**This repo will be archived during _October_ as it is for practice only**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieJaoudeCommunity-Support](https://github.com/EddieJaoudeCommunity/support)
 
@@ -200,6 +200,7 @@ Questions can be asked by raising an `Issue`.
 - [Numan Javed](https://github.com/numanjvd82)
 - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
+- [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
 - [Prathamesh Giri](https://github.com/Pratham31)
 - [Prasanna Bisen](https://github.com/prasannabisen)
