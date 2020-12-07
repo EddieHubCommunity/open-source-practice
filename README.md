@@ -132,6 +132,7 @@ Questions can be asked by raising an `Issue`.
 - [Bineet Naidu](https://github.com/bineetNaidu)
 - [Caden Parker](https://github.com/Ne0nWinds)
 - [Charlotte Jewer](https://github.com/Charlotte990)
+- [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Chris Moreton](https://github.com/chris-moreton/)
 - [CodesbyUnnati](https://github.com/CodesbyUnnati)
 - [Conor O Shea](https://github.com/conoroshea1996)
