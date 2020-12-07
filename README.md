@@ -131,6 +131,7 @@ Questions can be asked by raising an `Issue`.
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Bineet Naidu](https://github.com/bineetNaidu)
 - [Caden Parker](https://github.com/Ne0nWinds)
+- [Cahllagerfeld](https://github.com/Cahllagerfeld)
 - [Charlotte Jewer](https://github.com/Charlotte990)
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Chinmay Mulay](https://github.com/cmulay)
