@@ -154,6 +154,7 @@ Questions can be asked by raising an `Issue`.
 - [Evandro Rodrigues](https://github.com/evnrodr)
 - [essarrgee](https://github.com/essarrgee)
 - [Fatma](https://github.com/fatmab28)
+- [Frakko](https://github.com/Frakko)
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Gagan V](https://github.com/gagan95)
 - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
