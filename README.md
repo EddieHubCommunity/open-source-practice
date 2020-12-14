@@ -139,6 +139,7 @@ Questions can be asked by raising an `Issue`.
 - [CodesbyUnnati](https://github.com/CodesbyUnnati)
 - [Conor O Shea](https://github.com/conoroshea1996)
 - [Danella Patrick](https://github.com/danellapatrick)
+- [Dave Bhandari](https://github.com/Davekibh)
 - [Deepak B](https://github.com/sbdeepu09)
 - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
 - [Dhairya Ostwal](https://github.com/dhairyaostwal)
