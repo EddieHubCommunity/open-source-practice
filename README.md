@@ -54,7 +54,7 @@ Questions can be asked by raising an `Issue`.
 
 - On a new line in alphabetical order, add your name and a link to your Github profile
 
-- For example ,  
+- For example ,
   `[Full Name](https://github.com/your-username)`
 
 - Stage your changes
@@ -152,6 +152,7 @@ Questions can be asked by raising an `Issue`.
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
+- [Emmy Steven](https://github.com/emmysteven)
 - [essarrgee](https://github.com/essarrgee)
 - [Evandro Rodrigues](https://github.com/evnrodr)
 - [Fatma](https://github.com/fatmab28)
