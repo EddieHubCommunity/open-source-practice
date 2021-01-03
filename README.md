@@ -108,6 +108,7 @@ Questions can be asked by raising an `Issue`.
 - [Afroz Chakure](https://github.com/afrozchakure)
 - [Agbabiaka Damilare](https://github.com/AgbaD)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
+- [Ahmed Muhammed Galadima](https://github.com/ApolloDev0/)
 - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
 - [Alex Valdez](https://github.com/arevaldez)
 - [Ali Mirrajei](https://github.com/alimirrajei)
