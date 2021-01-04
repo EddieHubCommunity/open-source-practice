@@ -256,6 +256,7 @@ Questions can be asked by raising an `Issue`.
 - [Triman Kaur](https://github.com/Trimankaur)
 - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Usman Tatla](https://github.com/iTatla1)
+- [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
 - [Vamsi Ravi](https://github.com/vamsi963601)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Vinicius Ramos](https://github.com/redrookie)
