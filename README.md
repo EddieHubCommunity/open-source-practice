@@ -167,6 +167,7 @@ Questions can be asked by raising an `Issue`.
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
 - [Harshit Parwal](https://github.com/harshitparwal)
 - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
+- [Hernando Guzmán](https://github.com/hernandoagf)
 - [Hulya Karakaya](https://github.com/hulyak)
 - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
 - [Ikra P](https://github.com/ikraP)
