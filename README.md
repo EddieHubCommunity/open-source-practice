@@ -206,6 +206,7 @@ Questions can be asked by raising an `Issue`.
 - [Niranjan](https://github.com/niranjantuty)
 - [Numan Javed](https://github.com/numanjvd82)
 - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
+- [Okute Wonah](https://github.com/okutewonah)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
 - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
