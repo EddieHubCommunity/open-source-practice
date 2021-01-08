@@ -227,6 +227,7 @@ Questions can be asked by raising an `Issue`.
 - [Rodrigo Avila](https://github.com/rodrigo398)
 - [Rohit Vuppuluri](https://github.com/rohitv-dev)
 - [Russ Perry](https://github.com/rperry99)
+- [Safa Abidi](https://github.com/safa-abidi)
 - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
 - [Sajid305](https://github.com/Sajid305)
 - [Samuel Z. Bouye](https://github.com/zamblebi)
@@ -265,4 +266,3 @@ Questions can be asked by raising an `Issue`.
 - [Vivek Singh](https://github.com/vivmost)
 - [Vladyslav Kyiashko](https://github.com/vlakyi)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
-- [Safa Abidi](https://github.com/safa-abidi)
