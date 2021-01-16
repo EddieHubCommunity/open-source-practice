@@ -149,6 +149,7 @@ Questions can be asked by raising an `Issue`.
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dishon Kadoh](https://github.com/realestdon)
 - [Divakar R](https://github.com/rexdivakar)
+- [Douglas Franklin Idamezhim](https://github.com/Idamezhim)
 - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
@@ -266,4 +267,3 @@ Questions can be asked by raising an `Issue`.
 - [Vivek Singh](https://github.com/vivmost)
 - [Vladyslav Kyiashko](https://github.com/vlakyi)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
-- [Douglas Franklin Idamezhim](https://github.com/Idamezhim)
