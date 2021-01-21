@@ -264,6 +264,7 @@ Questions can be asked by raising an `Issue`.
 - [Vamsi Ravi](https://github.com/vamsi963601)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Vinicius Ramos](https://github.com/redrookie)
+- [Vittorio Rinaldo](https://github.com/rinaldovittorio)
 - [Vivek Singh](https://github.com/vivmost)
 - [Vladyslav Kyiashko](https://github.com/vlakyi)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
