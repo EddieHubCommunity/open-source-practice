@@ -259,6 +259,7 @@ Questions can be asked by raising an `Issue`.
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Tomo Bones](https://github.com/tomobones)
 - [Triman Kaur](https://github.com/Trimankaur)
+- [Tawfik Yasser](https://github.com/TawfikYasser)
 - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Usman Tatla](https://github.com/iTatla1)
 - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
@@ -270,4 +271,3 @@ Questions can be asked by raising an `Issue`.
 - [Vivek Singh](https://github.com/vivmost)
 - [Vladyslav Kyiashko](https://github.com/vlakyi)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
-- [Tawfik Yasser](https://github.com/TawfikYasser)
