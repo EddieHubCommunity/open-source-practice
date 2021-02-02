@@ -94,6 +94,7 @@ Questions can be asked by raising an `Issue`.
 
 ## Hacktoberfest community
 
+- [Abdulmalik Adekunle](https://github.com/Adekunle27)
 - [Aakarsh Teja](https://github.com/aakarshteja)
 - [Aarul Mishra](https://github.com/Aarul14)
 - [Abdullahi Musa](https://github.com/Abdullahi001)
