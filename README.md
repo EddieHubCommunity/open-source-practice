@@ -248,4 +248,4 @@ Questions can be asked by raising an `Issue`.
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vivek Singh](https://github.com/vivmost)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
-- [Varghese](https://github.com/hasthamalp/)
+- [Admin](https://github.com/hasthamalp/)
