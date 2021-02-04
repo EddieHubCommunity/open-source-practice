@@ -227,6 +227,7 @@ Questions can be asked by raising an `Issue`.
 - [Ram Pandey](https://github.com/ram2510)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Remco Halman](https://github.com/remcohalman)
+- [Rick Flores] (https://github.com/RICK-FLORES)
 - [Rishabh Singhal](https://github.com/rish-singhal)
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
 - [Robert Kay Jr](https://github.com/RobertKayJr/)
