@@ -278,4 +278,5 @@ Questions can be asked by raising an `Issue`.
 - [Vivek Singh](https://github.com/vivmost)
 - [Vladyslav Kyiashko](https://github.com/vlakyi)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
+- [Yaswanth Modepalli](https://github.com/Yaswanth14)
 - [Tawfik Yasser](https://github.com/TawfikYasser)
