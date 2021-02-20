@@ -282,3 +282,4 @@ Questions can be asked by raising an `Issue`.
 - [Yaswanth Modepalli](https://github.com/Yaswanth14)
 - [Tawfik Yasser](https://github.com/TawfikYasser)
 - [Ibtihel Ouni](https://github.com/Ibtihel-ouni)
+- [Anh Tran](https://github.com/longqua69)
