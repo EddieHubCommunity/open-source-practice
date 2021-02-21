@@ -270,6 +270,7 @@ Questions can be asked by raising an `Issue`.
 - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Usman Tatla](https://github.com/iTatla1)
 - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
+- [Utkarsh Mishra](https://github.com/Utkarsh1504)
 - [Vamsi Ravi](https://github.com/vamsi963601)
 - [Varghese Jose](https://github.com/varghesejose2020/)
 - [Venkata Mouli](https://github.com/mouli3029)
