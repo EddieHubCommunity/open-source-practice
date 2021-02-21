@@ -192,6 +192,7 @@ Questions can be asked by raising an `Issue`.
 - [Lundbyit](https://github.com/Lundbyit)
 - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
 - [Manu Gupta](https://github.com/ManuGupta9780)
+- [Manasi Mulay](https://github.com/manasi-mulay)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Martin Parker](https://github.com/RasPiPkr)
 - [Matthias Maier](https://github.com/NukeTheFridge)
