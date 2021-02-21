@@ -207,6 +207,7 @@ Questions can be asked by raising an `Issue`.
 - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
 - [Naman Mittal](https://github.com/Namanmittal0007)
 - [Namya LG](https://github.com/Namyalg)
+- Nandini
 - [Nathan Byrne](https://github.com/naefun/)
 - [Niranjan](https://github.com/niranjantuty)
 - [Numan Javed](https://github.com/numanjvd82)
