@@ -191,6 +191,7 @@ Questions can be asked by raising an `Issue`.
 - [Lishu Gupta](https://github.com/lishugupta652)
 - [Lundbyit](https://github.com/Lundbyit)
 - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
+- [Manasi Mulay](https://github.com/manasi-mulay)
 - [Manu Gupta](https://github.com/ManuGupta9780)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
 - [Martin Parker](https://github.com/RasPiPkr)
