@@ -256,6 +256,7 @@ Questions can be asked by raising an `Issue`.
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Srinath](https://github.com/srinath1412001)
 - [Stephen Mount](https://github.com/stemount)
+- [Subhangini](https://github.com/Subhangini)
 - [Suhaas](https://github.com/suhaaskataria)
 - [Sumeet Naik](https://github.com/sumeetweb)
 - [Sumit Gaur](https://github.com/Sumit3301)
