@@ -20,8 +20,9 @@ jobs:
       - uses: EddieJaoudeCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h1>It''s great having you contribute to this project</h1> Feel free to raise an <strong>Issue</strong>! Welcome to the community :nerd_face:'
-          pr-message: '<h1>It''s great having you contribute to this project</h1> Feel free to create a <strong>Pull Request</strong>! Welcome to the community :nerd_face:'
+          issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
+          pr-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
+          footer: 'If you would like to continue contributing to open source and would like to do it with an awesome inclusive community, you should join our <a href="http://discord.github.org">Discord</a> chat and our <a href="http://github.github.org">GitHub Organisation</a> - we help and encourage each other to contribute to open source little and often 🤓 . Any questions let us know.'
 
   statistics:
     runs-on: ubuntu-latest
