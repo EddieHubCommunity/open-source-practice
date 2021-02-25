@@ -161,6 +161,7 @@ Questions can be asked by raising an `Issue`.
 - [essarrgee](https://github.com/essarrgee)
 - [Evandro Rodrigues](https://github.com/evnrodr)
 - [Fatma](https://github.com/fatmab28)
+- [Femi Oluwadamilola](https://github.com/femiOluwadamilola)
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Gagan V](https://github.com/gagan95)
 - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
