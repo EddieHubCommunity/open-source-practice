@@ -111,6 +111,7 @@ Questions can be asked by raising an `Issue`.
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
 - [Ahmed Muhammed Galadima](https://github.com/ApolloDev0/)
 - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
+- [Alaba Olanrewaju](https://github.com/chryzcodez)
 - [Alex Valdez](https://github.com/arevaldez)
 - [Ali Mirrajei](https://github.com/alimirrajei)
 - [Aman Verma](https://github.com/amanpro1)
