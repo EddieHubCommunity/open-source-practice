@@ -130,6 +130,7 @@ Questions can be asked by raising an `Issue`.
 - [Asharib Ahmed](https://github.com/Asharib90)
 - [Ashish Chavan](https://github.com/AshishChavan98)
 - [Aswin Asok](https://github.com/AswinAsok)
+- [Atulya Singh](https://github.com/oreo-gif)
 - [Ayush Kumar](https://github.com/Ayush7614)
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
