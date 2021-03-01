@@ -51,12 +51,9 @@ Questions can be asked by raising an `Issue`.
 ```
 
 - Open the file `README.md`
-
 - On a new line in alphabetical order, add your name and a link to your Github profile
-
 - For example ,
   `[Full Name](https://github.com/your-username)`
-
 - Stage your changes
 
 ```
@@ -89,7 +86,6 @@ Questions can be asked by raising an `Issue`.
 ```
 
 - Wait for your changes to be merged
-
 - Hurray! You successfully made a contribution
 
 ## Hacktoberfest community
@@ -108,6 +104,7 @@ Questions can be asked by raising an `Issue`.
 - [Aditya Raute](https://github.com/adityaraute)
 - [Afroz Chakure](https://github.com/afrozchakure)
 - [Agbabiaka Damilare](https://github.com/AgbaD)
+- [Agnel Selvan](https://github.com/AgnelSelvan)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
 - [Ahmed Muhammed Galadima](https://github.com/ApolloDev0/)
 - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
