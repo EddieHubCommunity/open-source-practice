@@ -190,7 +190,7 @@ Questions can be asked by raising an `Issue`.
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [Kabir Jain](https://github.com/kkkkkabir)
 - [Kehinde Adeleke](https://github.com/adeleke5140)
-- [Khalid Khan Aka Pablochocobae](https://github.com/pablochocobae)
+- [Khalid Khan](https://github.com/pablochocobae)
 - [Krishna R ](https://github.com/Krishna-Ravi)
 - [Lishu Gupta](https://github.com/lishugupta652)
 - [Lundbyit](https://github.com/Lundbyit)
