@@ -1,6 +1,6 @@
 **This repo will be archived during _October_ as it is for practice only**
 
-We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieJaoudeCommunity-Support](https://github.com/EddieJaoudeCommunity/support)
+We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHinCommunity-Support](https://github.com/EddieHubCommunity/support)
 
 ---
 
