@@ -255,6 +255,7 @@ Questions can be asked by raising an `Issue`.
 - [Savio Martin](https://github.com/saviomartin)
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb)
+- [Shubham Ayush](https://github.com/shubhamayush12)
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
