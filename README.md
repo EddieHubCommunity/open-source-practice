@@ -1,6 +1,6 @@
 **This repo will be archived during _October_ as it is for practice only**
 
-We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieJaoudeCommunity-Support](https://github.com/EddieJaoudeCommunity/support)
+We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
 ---
 
@@ -51,12 +51,12 @@ Questions can be asked by raising an `Issue`.
 ```
 
 - Open the file `README.md`
+
 - On a new line in alphabetical order, add your name and a link to your Github profile
 
 - For example ,
-
   `[Full Name](https://github.com/your-username)`
-  
+
 - Stage your changes
 
 ```
