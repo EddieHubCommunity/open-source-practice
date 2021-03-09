@@ -1,4 +1,4 @@
-﻿**This repo will be archived during _October_ as it is for practice only**
+**This repo will be archived during _October_ as it is for practice only**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -202,6 +202,7 @@ Questions can be asked by raising an `Issue`.
 - [Martin Parker](https://github.com/RasPiPkr)
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Max Base](https://github.com/basemax)
+- [Mayur Gupta](https://github.com/Mayurmg)
 - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
 - [Meenal Jain](https://github.com/meenal21)
 - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
@@ -292,4 +293,4 @@ Questions can be asked by raising an `Issue`.
 - [Vladyslav Kyiashko](https://github.com/vlakyi)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
 - [Yaswanth Modepalli](https://github.com/Yaswanth14)
-- [Mayur Gupta](https://github.com/Mayurmg)
+
