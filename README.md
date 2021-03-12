@@ -1,4 +1,4 @@
-**This repo will be archived during _October_ as it is for practice only**
+**This repo is not included in the Hacktoberfest event as it is for practice only**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
