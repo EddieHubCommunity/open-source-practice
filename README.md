@@ -4,7 +4,7 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 ---
 
-# Hacktoberfest 2020
+# Hacktoberfest
 
 What is it? Click on the poster below to watch the video for more details📽
 
