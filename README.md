@@ -158,6 +158,7 @@ Questions can be asked by raising an `Issue`.
 - [Douglas Franklin Idamezhim](https://github.com/Idamezhim)
 - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
 - [Dušan Tanasić](https://github.com/Duk4/)
+- [Devesh RB](https://github.com/Deveshb15)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
 - [Emmy Steven](https://github.com/emmysteven)
