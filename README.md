@@ -149,6 +149,7 @@ Questions can be asked by raising an `Issue`.
 - [Dave Bhandari](https://github.com/Davekibh)
 - [Deepak B](https://github.com/sbdeepu09)
 - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
+- [Devesh RB](https://github.com/Deveshb15)
 - [Dhairya Ostwal](https://github.com/dhairyaostwal)
 - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
 - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
