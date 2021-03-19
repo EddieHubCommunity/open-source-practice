@@ -259,6 +259,7 @@ Questions can be asked by raising an `Issue`.
 - [Satyam Gadekar](https://github.com/07Satyam)
 - [Saurav Kumar](https://github.com/Saurav1-2)
 - [Savio Martin](https://github.com/saviomartin)
+- [Sayed Mohammed Nouman](https://github.com/Skyhero-admin)
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb)
 - [Shubham Ayush](https://github.com/shubhamayush12)
