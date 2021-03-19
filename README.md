@@ -195,6 +195,7 @@ Questions can be asked by raising an `Issue`.
 - [Kabir Jain](https://github.com/kkkkkabir)
 - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
 - [Kehinde Adeleke](https://github.com/adeleke5140)
+- [Khalid Khan](https://github.com/pablochocobae)
 - [Krishna R ](https://github.com/Krishna-Ravi)
 - [Lishu Gupta](https://github.com/lishugupta652)
 - [Lundbyit](https://github.com/Lundbyit)
