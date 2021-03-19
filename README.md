@@ -221,6 +221,7 @@ Questions can be asked by raising an `Issue`.
 - [Namya LG](https://github.com/Namyalg)
 - [Nandini](https://github.com/nandini040)
 - [Nathan Byrne](https://github.com/naefun/)
+- [Niku Singh](https://github.com/NIKU-SINGH)
 - [Niranjan](https://github.com/niranjantuty)
 - [Numan Javed](https://github.com/numanjvd82)
 - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
