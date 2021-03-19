@@ -291,6 +291,7 @@ Questions can be asked by raising an `Issue`.
 - [Varghese Jose](https://github.com/varghesejose2020/)
 - [Venkata Mouli](https://github.com/mouli3029)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
+- [Vikas Ganiga](https://github.com/vikasganiga05/)
 - [Vince Y](https://github.com/vmyu)
 - [Vinicius Ramos](https://github.com/redrookie)
 - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
