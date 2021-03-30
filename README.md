@@ -263,6 +263,7 @@ Questions can be asked by raising an `Issue`.
 - [Sayed Mohammed Nouman](https://github.com/Skyhero-admin)
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb)
+- [Shatakshi Gupta](https://github.com/Shatakshi0805)
 - [Shubham Ayush](https://github.com/shubhamayush12)
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
