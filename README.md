@@ -265,6 +265,7 @@ Questions can be asked by raising an `Issue`.
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb)
 - [Shatakshi Gupta](https://github.com/Shatakshi0805)
+- [Shaun Fitzgibbon](https://github.com/Sfitzg)
 - [Shubham Ayush](https://github.com/shubhamayush12)
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
