@@ -286,6 +286,7 @@ Questions can be asked by raising an `Issue`.
 - [Utkarsh Mishra](https://github.com/Utkarsh1504)
 - [Vamsi Ravi](https://github.com/vamsi963601)
 - [Varghese Jose](https://github.com/varghesejose2020/)
+- [Vaibhav Wani](https://github.com/Vaibhavwani11)
 - [Venkata Mouli](https://github.com/mouli3029)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Vince Y](https://github.com/vmyu)
