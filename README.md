@@ -178,6 +178,7 @@ Questions can be asked by raising an `Issue`.
 - [Harshit Parwal](https://github.com/harshitparwal)
 - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
 - [Hernando Guzmán](https://github.com/hernandoagf)
+- [Hrithik Chauhan](https://github.com/Hrithik5)
 - [Hulya Karakaya](https://github.com/hulyak)
 - [Ibrahim Ramadhan](https://github.com/ibby360)
 - [Ibtihel Ouni](https://github.com/Ibtihel-ouni)
