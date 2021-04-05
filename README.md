@@ -207,6 +207,7 @@ Questions can be asked by raising an `Issue`.
 - [Manasi Mulay](https://github.com/manasi-mulay)
 - [Manu Gupta](https://github.com/ManuGupta9780)
 - [Marios Georgiou](https://github.com/MariosGeorgiou)
+- [Mark Murray](https://github.com/mark-d-murray)
 - [Martin Parker](https://github.com/RasPiPkr)
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Max Base](https://github.com/basemax)
