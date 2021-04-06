@@ -310,3 +310,4 @@ Questions can be asked by raising an `Issue`.
 - [Vladyslav Kyiashko](https://github.com/vlakyi)
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
 - [Yaswanth Modepalli](https://github.com/Yaswanth14)
+- [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
