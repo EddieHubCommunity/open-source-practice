@@ -239,6 +239,7 @@ Questions can be asked by raising an `Issue`.
 - [Prashant Shukla](https://github.com/prashantlv)
 - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
 - [Prithviraj Biswas](https://github.com/prithvirajbytes)
+- [Puneeth P Gowda](https://github.com/puneeth-techie)
 - [Rahul](https://github.com/kohli6010)
 - [Raj Vaya](https://github.com/rajvaya)
 - [Raju Ghorai](https://github.com/coderj001)
