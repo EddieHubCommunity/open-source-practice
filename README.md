@@ -294,6 +294,7 @@ Questions can be asked by raising an `Issue`.
 - [Triman Kaur](https://github.com/Trimankaur)
 - [Tawfik Yasser](https://github.com/TawfikYasser)
 - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
+- [Ujjwal Gupta](https://github.com/UG-SEP)
 - [Usman Tatla](https://github.com/iTatla1)
 - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
 - [Utkarsh Mishra](https://github.com/Utkarsh1504)
