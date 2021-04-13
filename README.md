@@ -287,6 +287,7 @@ Questions can be asked by raising an `Issue`.
 - [Sunrit Jana](https://github.com/janaSunrise)
 - [Swapna Devi](https://github.com/Swapna804)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
+- [Sefat Siddiquea Sifa](https://github.com/sifa123)
 - [Taneem Jan](https://github.com/taneemishere)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Tawfik Yasser](https://github.com/TawfikYasser)
