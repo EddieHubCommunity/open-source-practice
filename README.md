@@ -293,6 +293,7 @@ Questions can be asked by raising an `Issue`.
 - [Taneem Jan](https://github.com/taneemishere)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Tawfik Yasser](https://github.com/TawfikYasser)
+- [Tejas Chaudhari](https://github.com/tejasc0)
 - [Tomo Bones](https://github.com/tomobones)
 - [Triman Kaur](https://github.com/Trimankaur)
 - [Tawfik Yasser](https://github.com/TawfikYasser)
