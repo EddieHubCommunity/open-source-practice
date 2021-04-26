@@ -290,6 +290,7 @@ Questions can be asked by raising an `Issue`.
 - [Swapna Devi](https://github.com/Swapna804)
 - [syedareehaquasar](https://github.com/syedareehaquasar)
 - [Sefat Siddiquea Sifa](https://github.com/sifa123)
+- [Shyam Sutar](https://github.com/shyamsutar)
 - [Taneem Jan](https://github.com/taneemishere)
 - [Tanya Powell](https://github.com/tanyapowell)
 - [Tawfik Yasser](https://github.com/TawfikYasser)
