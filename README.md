@@ -202,6 +202,7 @@ Questions can be asked by raising an `Issue`.
 - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
 - [Kehinde Adeleke](https://github.com/adeleke5140)
 - [Khalid Khan](https://github.com/pablochocobae)
+- [Krish](https://github.com/krishdevdb)
 - [Krishna R ](https://github.com/Krishna-Ravi)
 - [Lishu Gupta](https://github.com/lishugupta652)
 - [Lundbyit](https://github.com/Lundbyit)
