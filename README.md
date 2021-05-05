@@ -137,6 +137,7 @@ Questions can be asked by raising an `Issue`.
 - [Atulya Singh](https://github.com/oreo-gif)
 - [Ayush Kumar](https://github.com/Ayush7614)
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
+- [Bryson M.](https://github.com/Bryson69)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Bineet Naidu](https://github.com/bineetNaidu)
 - [Caden Parker](https://github.com/Ne0nWinds)
