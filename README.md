@@ -250,6 +250,7 @@ Questions can be asked by raising an `Issue`.
 - [Raju Ghorai](https://github.com/coderj001)
 - [Ram Pandey](https://github.com/ram2510)
 - [Raman Singh](https://github.com/ramansingh189)
+- [Rahman Haroon](https://github.com/rahmanharoon)
 - [Remco Halman](https://github.com/remcohalman)
 - [Richard Bacon](https://github.com/RichardJonBacon)
 - [Rick Flores](https://github.com/RICK-FLORES)
@@ -320,4 +321,3 @@ Questions can be asked by raising an `Issue`.
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
 - [Yaswanth Modepalli](https://github.com/Yaswanth14)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
-- [Rahman Haroon](https://github.com/rahmanharoon)
