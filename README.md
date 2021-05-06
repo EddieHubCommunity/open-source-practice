@@ -221,6 +221,7 @@ Questions can be asked by raising an `Issue`.
 - [Mike Hatch](https://github.com/mikeshatch)
 - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
 - [Mohamed Al-Rifay](https://github.com/alrifay)
+- [Mohamed Mehdi Gara](https://github.com/mohamedmehdigara)
 - [Mohit Deshwal](https://github.com/mohit01-beep)
 - [Mulyadi](https://github.com/Urcane)
 - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
