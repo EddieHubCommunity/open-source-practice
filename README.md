@@ -223,6 +223,7 @@ Questions can be asked by raising an `Issue`.
 - [Mohamed Al-Rifay](https://github.com/alrifay)
 - [Mohamed Mehdi Gara](https://github.com/mohamedmehdigara)
 - [Mohit Deshwal](https://github.com/mohit01-beep)
+- [Muhammad Raza](https://github.com/illusiveCode)
 - [Mulyadi](https://github.com/Urcane)
 - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
 - [Naman Mittal](https://github.com/Namanmittal0007)
