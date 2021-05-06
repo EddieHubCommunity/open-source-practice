@@ -139,6 +139,7 @@ Questions can be asked by raising an `Issue`.
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
 - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
 - [Bineet Naidu](https://github.com/bineetNaidu)
+- [Bryson M.](https://github.com/Bryson69)
 - [Caden Parker](https://github.com/Ne0nWinds)
 - [Cahllagerfeld](https://github.com/Cahllagerfeld)
 - [Charlotte Jewer](https://github.com/Charlotte990)
