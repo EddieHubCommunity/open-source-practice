@@ -250,6 +250,7 @@ Questions can be asked by raising an `Issue`.
 - [Rahul](https://github.com/kohli6010)
 - [Raj Vaya](https://github.com/rajvaya)
 - [Raju Ghorai](https://github.com/coderj001)
+- [Rahman Haroon](https://github.com/rahmanharoon)
 - [Ram Pandey](https://github.com/ram2510)
 - [Raman Singh](https://github.com/ramansingh189)
 - [Remco Halman](https://github.com/remcohalman)
