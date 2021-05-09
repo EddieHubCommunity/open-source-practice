@@ -191,6 +191,7 @@ Questions can be asked by raising an `Issue`.
 - [Indu Rupi](https://github.com/indurupi)
 - [Ines Guerrero](https://github.com/inesgs12)
 - [Ish Kapoor](https://github.com/ishkapoor2000)
+- [Ishan Kotian](https://github.com/Ishan-Kotian)
 - [Jade Kneen](https://github.com/jadekneen)
 - [Jaime Jones](https://github.com/jaime-lynn)
 - [Jatin Rao](https://github.com/jatin2003)
