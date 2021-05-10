@@ -161,6 +161,7 @@ Questions can be asked by raising an `Issue`.
 - [Dishon Kadoh](https://github.com/realestdon)
 - [Divakar R](https://github.com/rexdivakar)
 - [Douglas Franklin Idamezhim](https://github.com/Idamezhim)
+- [Drishika Chauhan](https://github.com/drishika2002)
 - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
