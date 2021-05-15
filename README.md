@@ -79,13 +79,11 @@ Questions can be asked by raising an `Issue`.
 
 ```
   git push origin <name of your branch>
-
 ```
 or 
 ```
   git branch -M main
   git push -u origin main
-
 ```
 
 - Pulling your request. Click on the Pull requests tab on the forked github repository.
