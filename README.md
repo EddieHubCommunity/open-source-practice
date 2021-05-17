@@ -200,6 +200,7 @@ Questions can be asked by raising an `Issue`.
 - [Jivthesh](https://github.com/jivthesh)
 - [Johanna](https://github.com/Johanna-hub)
 - [Jome Favourite](https://github.com/jomefavourite)
+- [Joseph Jose](https://github.com/josephjosedev)
 - [Josh Callahan](https://github.com/joshcallahan)
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
 - [Kabir Jain](https://github.com/kkkkkabir)
