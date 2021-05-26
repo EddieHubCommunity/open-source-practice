@@ -287,6 +287,7 @@ Questions can be asked by raising an `Issue`.
 - [Soumava Das](https://github.com/Soumava-221B)
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Soundarya K](https://github.com/sounsrk)
+- [Srihari S](https://github.com/Liri-s29)
 - [Srinath](https://github.com/srinath1412001)
 - [Stephen Mount](https://github.com/stemount)
 - [Subhangini](https://github.com/Subhangini)
@@ -323,4 +324,3 @@ Questions can be asked by raising an `Issue`.
 - [Yashasvi Misra](https://github.com/yashasvimisra2798)
 - [Yaswanth Modepalli](https://github.com/Yaswanth14)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
-- [Srihari S](https://github.com/Liri-s29)
