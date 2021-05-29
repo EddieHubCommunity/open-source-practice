@@ -257,6 +257,7 @@ Questions can be asked by raising an `Issue`.
 - [Remco Halman](https://github.com/remcohalman)
 - [Richard Bacon](https://github.com/RichardJonBacon)
 - [Rick Flores](https://github.com/RICK-FLORES)
+- [Rutik Bhoyar](https://github.com/Rutikab12)
 - [Rishabh Singhal](https://github.com/rish-singhal)
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
 - [Robert Kay Jr](https://github.com/RobertKayJr/)
