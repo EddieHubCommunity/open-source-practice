@@ -310,6 +310,7 @@ Questions can be asked by raising an `Issue`.
 - [Usman Tatla](https://github.com/iTatla1)
 - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
 - [Utkarsh Mishra](https://github.com/Utkarsh1504)
+- [Vicky Gupta](https://github.com/viki4545)
 - [Vamsi Ravi](https://github.com/vamsi963601)
 - [Varghese Jose](https://github.com/varghesejose2020/)
 - [Vaibhav Wani](https://github.com/Vaibhavwani11)
