@@ -243,6 +243,7 @@ Questions can be asked by raising an `Issue`.
 - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
 - [Okute Wonah](https://github.com/okutewonah)
 - [Pablo Lorenzo](https://github.com/Ll2NZ/)
+- [Patel Prabhu Teja](https://github.com/patelprabhuteja)
 - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
 - [Pradhumn Dave](https://github.com/davedevelopers)
 - [Prathamesh Borse](https://github.com/viraldevpb)
