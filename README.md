@@ -227,6 +227,7 @@ or
 - [Martin Parker](https://github.com/RasPiPkr)
 - [Matthias Maier](https://github.com/NukeTheFridge)
 - [Max Base](https://github.com/basemax)
+- [Mayur Gupta](https://github.com/Mayurmg)
 - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
 - [Meenal Jain](https://github.com/meenal21)
 - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
@@ -340,3 +341,4 @@ or
 - [Yaswanth Modepalli](https://github.com/Yaswanth14)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
+
