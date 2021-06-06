@@ -301,6 +301,7 @@ or
 - [Soumava Das](https://github.com/Soumava-221B)
 - [Soumya Sharma](https://github.com/soumyaa1804)
 - [Soundarya K](https://github.com/sounsrk)
+- [Srihari S](https://github.com/Liri-s29)
 - [Srinath](https://github.com/srinath1412001)
 - [Stephen Mount](https://github.com/stemount)
 - [Subhangini](https://github.com/Subhangini)
