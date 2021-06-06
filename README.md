@@ -80,6 +80,11 @@ Questions can be asked by raising an `Issue`.
 ```
   git push origin <name of your branch>
 ```
+or 
+```
+  git branch -M main
+  git push -u origin main
+```
 
 - Pulling your request. Click on the Pull requests tab on the forked github repository.
   Note : A pull request allows your changes to be merged with the original project.
@@ -291,6 +296,7 @@ Questions can be asked by raising an `Issue`.
 - [Silas Omurunga](https://github.com/Simbadeveloper)
 - [Simran Biswas](https://github.com/simranbiswas)
 - [SMak06](https://github.com/SMak06)
+- [Sohan Shetty](https://github.com/sohan9819)
 - [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
 - [Soumava Das](https://github.com/Soumava-221B)
 - [Soumya Sharma](https://github.com/soumyaa1804)
