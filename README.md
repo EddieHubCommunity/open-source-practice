@@ -309,6 +309,7 @@ Questions can be asked by raising an `Issue`.
 - [Tawfik Yasser](https://github.com/TawfikYasser)
 - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
 - [Ujjwal Gupta](https://github.com/UG-SEP)
+- [Umesh Singh](https://github.com/Umesh-01)
 - [Usman Tatla](https://github.com/iTatla1)
 - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
 - [Utkarsh Mishra](https://github.com/Utkarsh1504)
