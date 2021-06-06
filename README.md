@@ -264,6 +264,7 @@ Questions can be asked by raising an `Issue`.
 - [Rodrigo Avila](https://github.com/rodrigo398)
 - [Rohit Vuppuluri](https://github.com/rohitv-dev)
 - [Russ Perry](https://github.com/rperry99)
+- [Rutik Bhoyar](https://github.com/Rutikab12)
 - [Safa Abidi](https://github.com/safa-abidi)
 - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
 - [Sajid305](https://github.com/Sajid305)
