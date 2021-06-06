@@ -134,6 +134,7 @@ Questions can be asked by raising an `Issue`.
 - [Aryan Jain](https://github.com/coolAryan)
 - [Asharib Ahmed](https://github.com/Asharib90)
 - [Ashish Chavan](https://github.com/AshishChavan98)
+- [Ashwin Kumar Uppala](https://github.com/ashwinexe)
 - [Aswin Asok](https://github.com/AswinAsok)
 - [Atharva Chandwadkar](https://github.com/atharav21-stack)
 - [Atharva Mogade](https://github.com/atharvamogade)
