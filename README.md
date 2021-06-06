@@ -1,4 +1,4 @@
-**This repo is not included in the Hacktoberfest event as it is for practice only**
+﻿**This repo is not included in the Hacktoberfest event as it is for practice only**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -283,6 +283,7 @@ Questions can be asked by raising an `Issue`.
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
+- [Simran Biswas](https://github.com/simranbiswas)
 - [SMak06](https://github.com/SMak06)
 - [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
 - [Soumava Das](https://github.com/Soumava-221B)
