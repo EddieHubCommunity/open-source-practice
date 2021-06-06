@@ -66,7 +66,7 @@ Questions can be asked by raising an `Issue`.
 - Commit the changes
 
 ```
-  git commit -m "Initial commit"
+  git commit -m "Add <your-github-username>"
 ```
 
 - Check the status of your repository
