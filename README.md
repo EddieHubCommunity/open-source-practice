@@ -136,6 +136,7 @@ Questions can be asked by raising an `Issue`.
 - [Ashish Chavan](https://github.com/AshishChavan98)
 - [Aswin Asok](https://github.com/AswinAsok)
 - [Atharva Chandwadkar](https://github.com/atharav21-stack)
+- [Atharva Mogade](https://github.com/atharvamogade)
 - [Atulya Singh](https://github.com/oreo-gif)
 - [Ayush Kumar](https://github.com/Ayush7614)
 - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
