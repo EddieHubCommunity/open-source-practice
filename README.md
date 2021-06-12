@@ -330,6 +330,7 @@ or
 - [Varghese Jose](https://github.com/varghesejose2020/)
 - [Vaibhav Wani](https://github.com/Vaibhavwani11)
 - [Venkata Mouli](https://github.com/mouli3029)
+- [Vicky Gupta](https://github.com/viki4545)
 - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
 - [Vikas Ganiga](https://github.com/vikasganiga05/)
 - [Vince Y](https://github.com/vmyu)
