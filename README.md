@@ -270,6 +270,7 @@ or
 - [Rick Flores](https://github.com/RICK-FLORES)
 - [Rishabh Singhal](https://github.com/rish-singhal)
 - [Ritvij Kumar Sharma](https://github.com/ritvij14)
+- [Ritvik Shukla](https://github.com/includestdlibrary)
 - [Robert Kay Jr](https://github.com/RobertKayJr/)
 - [Rodrigo Avila](https://github.com/rodrigo398)
 - [Rohit Vuppuluri](https://github.com/rohitv-dev)
