@@ -118,6 +118,7 @@ or
 - [Agus Richard](https://github.com/agusrichard)
 - [Ahmad Lemine](https://github.com/ahmadlemine/)
 - [Ahmed Muhammed Galadima](https://github.com/ApolloDev0/)
+- [Akindotuni Ademola](https://github.com/demolaemrick)
 - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
 - [Alaba Olanrewaju](https://github.com/chryzcodez)
 - [Alex Valdez](https://github.com/arevaldez)
