@@ -186,6 +186,7 @@ or
 - [Ganesh Balaji Radhakrishnan](https://github.com/Ganesh-Balaji-Radhakrishnan)
 - [Genesis Gabiola](https://github.com/genesisgabiola)
 - [Gladson Sethiel](https://github.com/gsonly)
+- [Gowtham P B](https://github.com/GowthamPB)
 - [Hamza Jassar](https://github.com/iJassar)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
 - [Harshit Parwal](https://github.com/harshitparwal)
