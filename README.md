@@ -80,7 +80,7 @@ Questions can be asked by raising an `Issue`.
 ```
   git push origin <name of your branch>
 ```
-or 
+or
 ```
   git branch -M main
   git push -u origin main
@@ -169,6 +169,7 @@ or
 - [Dimo Ivanov](https://github.com/divanoff)
 - [Dishon Kadoh](https://github.com/realestdon)
 - [Divakar R](https://github.com/rexdivakar)
+- [Divlo](https://github.com/Divlo)
 - [Douglas Franklin Idamezhim](https://github.com/Idamezhim)
 - [Drishika Chauhan](https://github.com/drishika2002)
 - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
