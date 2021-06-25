@@ -189,6 +189,7 @@ or
 - [Gladson Sethiel](https://github.com/gsonly)
 - [Gowtham P B](https://github.com/GowthamPB)
 - [Hamza Jassar](https://github.com/iJassar)
+- [Hareer Sakhi](https://github.com/HareerSakhi)
 - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
 - [Harshit Parwal](https://github.com/harshitparwal)
 - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
