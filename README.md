@@ -1,4 +1,4 @@
-﻿**This repo is not included in the Hacktoberfest event as it is for practice only**
+**This repo is not included in the Hacktoberfest event as it is for practice only**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -55,7 +55,7 @@ Questions can be asked by raising an `Issue`.
 - On a new line in alphabetical order, add your name and a link to your Github profile
 
 - For example ,
-  `[Full Name](https://github.com/your-username)`
+  `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes
 
@@ -87,7 +87,7 @@ or
 ```
 
 - Pulling your request. Click on the Pull requests tab on the forked github repository.
-  Note : A pull request allows your changes to be merged with the original project.
+  Note: A pull request allows your changes to be merged with the original project.
 
 ```
   click on pull request
@@ -95,7 +95,7 @@ or
 
 - Wait for your changes to be merged
 
-- Hurray! You successfully made a contribution
+- Hurray! You successfully made a contribution!
 
 ## Hacktoberfest community
 
@@ -349,4 +349,3 @@ or
 - [Yaswanth Modepalli](https://github.com/Yaswanth14)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
-
