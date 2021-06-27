@@ -1,4 +1,5 @@
-﻿**This repo is not included in the Hacktoberfest event as it is for practice only**
+
+<b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only</b>
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -52,10 +53,10 @@ Questions can be asked by raising an `Issue`.
 
 - Open the file `README.md`
 
-- On a new line in alphabetical order, add your name and a link to your Github profile
+- On a new line in alphabetical order, add your name and the link to your Github profile in markdown format
 
 - For example ,
-  `[Full Name](https://github.com/your-username)`
+  `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes
 
@@ -86,16 +87,16 @@ or
   git push -u origin main
 ```
 
-- Pulling your request. Click on the Pull requests tab on the forked github repository.
-  Note : A pull request allows your changes to be merged with the original project.
+- Navigate to your fork, on the top of the files section you'll notice a new section containing, a contribute button!
+- Click on the contribute button, it will open a drop down, click the pull request button on the drop down
+  Note: A pull request allows your changes to be merged with the original project.
 
-```
-  click on pull request
-```
 
 - Wait for your changes to be merged
 
-- Hurray! You successfully made a contribution
+Hurray! You successfully made a contribution!
+
+---
 
 ## Hacktoberfest community
 
@@ -349,4 +350,3 @@ or
 - [Yaswanth Modepalli](https://github.com/Yaswanth14)
 - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
-
