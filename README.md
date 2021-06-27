@@ -96,7 +96,9 @@ or
 
 - Wait for your changes to be merged
 
-- Hurray! You successfully made a contribution!
+Hurray! You successfully made a contribution!
+
+---
 
 ## Hacktoberfest community
 
