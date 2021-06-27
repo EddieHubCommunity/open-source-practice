@@ -53,7 +53,7 @@ Questions can be asked by raising an `Issue`.
 
 - Open the file `README.md`
 
-- On a new line in alphabetical order, add your name and a link to your Github profile
+- On a new line in alphabetical order, add your name and the link to your Github profile in markdown format
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
