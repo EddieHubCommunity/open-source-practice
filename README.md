@@ -91,7 +91,6 @@ or
 - Click on the contribute button, it will open a drop down, click the pull request button on the drop down
   Note: A pull request allows your changes to be merged with the original project.
 
-```
 
 - Wait for your changes to be merged
 
