@@ -92,7 +92,6 @@ or
   Note: A pull request allows your changes to be merged with the original project.
 
 ```
-  click on pull request
 ```
 
 - Wait for your changes to be merged
