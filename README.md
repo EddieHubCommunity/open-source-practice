@@ -290,6 +290,7 @@ Hurray! You successfully made a contribution!
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
   - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
   - [Pradhumn Dave](https://github.com/davedevelopers)
+  - [Pranav Kotak](https://github.com/pranavkotak8)
   - [Prathamesh Borse](https://github.com/viraldevpb)
   - [Prathamesh Giri](https://github.com/Pratham31)
   - [Prasanna Bisen](https://github.com/prasannabisen)
