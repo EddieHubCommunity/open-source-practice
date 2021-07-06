@@ -125,6 +125,7 @@ Hurray! You successfully made a contribution!
   - [Alaba Olanrewaju](https://github.com/chryzcodez)
   - [Alex Valdez](https://github.com/arevaldez)
   - [Ali Mirrajei](https://github.com/alimirrajei)
+  - [Alpadmin](https://github.com/hasthamalp/)
   - [Aman Verma](https://github.com/amanpro1)
   - [Ana Carrillo](https://github.com/acarrillo3)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
