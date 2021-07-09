@@ -170,6 +170,7 @@ Hurray! You successfully made a contribution!
 * ### **D**
   - [Danella Patrick](https://github.com/danellapatrick)
   - [Dave Bhandari](https://github.com/Davekibh)
+  - [David Leal](https://github.com/Panquesito7)
   - [Deepak B](https://github.com/sbdeepu09)
   - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
   - [Devesh RB](https://github.com/Deveshb15)
