@@ -101,7 +101,6 @@ Hurray! You successfully made a contribution!
 ## Hacktoberfest community
 
 * ### **A**
-  - [Abdulmalik Adekunle](https://github.com/Adekunle27)
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
   - [Abdullahi Musa](https://github.com/Abdullahi001)
@@ -111,6 +110,7 @@ Hurray! You successfully made a contribution!
   - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
   - [Abiola Farounbi](https://github.com/Abiola-Farounbi)
   - [Abuzer Asif](https://github.com/abuzerasif)
+  - [Abdulmalik Adekunle](https://github.com/Adekunle27)
   - [Aditya Das](https://github.com/ThatOneBlodeKid)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
   - [Aditya Raute](https://github.com/adityaraute)
@@ -220,12 +220,12 @@ Hurray! You successfully made a contribution!
   - [Ibrahim Ramadhan](https://github.com/ibby360)
   - [Ibtihel Ouni](https://github.com/Ibtihel-ouni)
   - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
-  - [Ivo Iliev](https://github.com/Iwi4a)
   - [Ikra P](https://github.com/ikraP)
   - [Indu Rupi](https://github.com/indurupi)
   - [Ines Guerrero](https://github.com/inesgs12)
   - [Ish Kapoor](https://github.com/ishkapoor2000)
   - [Ishan Kotian](https://github.com/Ishan-Kotian)
+  - [Ivo Iliev](https://github.com/Iwi4a)
 
 * ### **J**
   - [Jade Kneen](https://github.com/jadekneen)
@@ -245,7 +245,7 @@ Hurray! You successfully made a contribution!
   - [Kehinde Adeleke](https://github.com/adeleke5140)
   - [Khalid Khan](https://github.com/pablochocobae)
   - [Krish](https://github.com/krishdevdb)
-  - [Krishna R ](https://github.com/Krishna-Ravi)
+  - [Krishna R](https://github.com/Krishna-Ravi)
 
 * ### **L**
   - [Lishu Gupta](https://github.com/lishugupta652)
@@ -335,6 +335,7 @@ Hurray! You successfully made a contribution!
   - [Saurav Kumar](https://github.com/Saurav1-2)
   - [Savio Martin](https://github.com/saviomartin)
   - [Sayed Mohammed Nouman](https://github.com/Skyhero-admin)
+  - [Sefat Siddiquea Sifa](https://github.com/sifa123)
   - [schmelto](https://github.com/schmelto)
   - [Shanmuganathanb](https://github.com/Shanmuganathanb)
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
@@ -342,6 +343,7 @@ Hurray! You successfully made a contribution!
   - [Shubham Ayush](https://github.com/shubhamayush12)
   - [Shubham Hadake](https://github.com/Shubham714)
   - [Shyam](https://github.com/XShyam)
+  - [Shyam Sutar](https://github.com/shyamsutar)
   - [Siddhant Khare](https://github.com/Siddhant-K-code)
   - [Silas Omurunga](https://github.com/Simbadeveloper)
   - [Simran Biswas](https://github.com/simranbiswas)
@@ -361,8 +363,6 @@ Hurray! You successfully made a contribution!
   - [Sunrit Jana](https://github.com/janaSunrise)
   - [Swapna Devi](https://github.com/Swapna804)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
-  - [Sefat Siddiquea Sifa](https://github.com/sifa123)
-  - [Shyam Sutar](https://github.com/shyamsutar)
 
 * ### **T**
   - [Taneem Jan](https://github.com/taneemishere)
@@ -370,15 +370,14 @@ Hurray! You successfully made a contribution!
   - [Tawfik Yasser](https://github.com/TawfikYasser)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
-  - [Tawfik Yasser](https://github.com/TawfikYasser)
 
 * ### **U**
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
   - [Ujjwal Gupta](https://github.com/UG-SEP)
   - [Umesh Singh](https://github.com/Umesh-01)
-  - [Usman Tatla](https://github.com/iTatla1)
   - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
+  - [Usman Tatla](https://github.com/iTatla1)
 
 * ### **V**
   - [Vamsi Ravi](https://github.com/vamsi963601)
