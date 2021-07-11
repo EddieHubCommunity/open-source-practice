@@ -98,7 +98,9 @@ Hurray! You successfully made a contribution!
 
 ---
 
-## Hacktoberfest community
+## <ins>Hacktoberfest community<ins>
+
+#### Please add your name to the section that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on.
 
 * ### **A**
   - [Aakarsh Teja](https://github.com/aakarshteja)
