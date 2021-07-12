@@ -134,6 +134,7 @@ Hurray! You successfully made a contribution!
   - [Angel Dhakal](https://github.com/angeldhakal)
   - [Anh Tran](https://github.com/longqua69)
   - [Aniket Singh](https://github.com/aniketsingh98571)
+  - [Animesh Pathak](https://github.com/sonichigo)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
   - [annu](https://github.com/annu12340)
   - [Ansh Dhingra](https://github.com/anshdhinhgra47)
