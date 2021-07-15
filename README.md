@@ -291,6 +291,7 @@ Hurray! You successfully made a contribution!
   - [Namya LG](https://github.com/Namyalg)
   - [Nandini](https://github.com/nandini040)
   - [Nathan Byrne](https://github.com/naefun/)
+  - [Nazeeya Azeem](https://github.com/naz2001)
   - [Nikhil Sharma](https://github.com/NikhilSharma03)
   - [Niku Singh](https://github.com/NIKU-SINGH)
   - [Niranjan](https://github.com/niranjantuty)
