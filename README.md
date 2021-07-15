@@ -122,6 +122,7 @@ Hurray! You successfully made a contribution!
   - [Abiola Farounbi](https://github.com/Abiola-Farounbi)
   - [Abuzer Asif](https://github.com/abuzerasif)
   - [Abdulmalik Adekunle](https://github.com/Adekunle27)
+  - [Aditi Goyal](https://github.com/AditiGoyal05)
   - [Aditya Das](https://github.com/ThatOneBlodeKid)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
   - [Aditya Raute](https://github.com/adityaraute)
