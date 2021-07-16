@@ -260,6 +260,8 @@ Hurray! You successfully made a contribution!
   - [Khalid Khan](https://github.com/pablochocobae)
   - [Krish](https://github.com/krishdevdb)
   - [Krishna R](https://github.com/Krishna-Ravi)
+  - [Kuwar Kapur](https://github.com/kuwarkapur)
+
 
 * ### **L**
   - [Lishu Gupta](https://github.com/lishugupta652)
