@@ -346,6 +346,7 @@ Hurray! You successfully made a contribution!
   - [Sarwar Ahmed](https://github.com/SarwarAhmed)
   - [Satya Abhishek](https://github.com/kashek85)
   - [Satyadeep](https://github.com/satyaRF)
+  - [Samir Mishra](https://github.com/smir45)
   - [Satyam Gadekar](https://github.com/07Satyam)
   - [Saurav Kumar](https://github.com/Saurav1-2)
   - [Savio Martin](https://github.com/saviomartin)
