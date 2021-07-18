@@ -139,6 +139,7 @@ Hurray! You successfully made a contribution!
   - [Ali Mirrajei](https://github.com/alimirrajei)
   - [Alpadmin](https://github.com/hasthamalp/)
   - [Aman Verma](https://github.com/amanpro1)
+  - [Amrutha C.K.](https://github.com/Amrutha1101)
   - [Ana Carrillo](https://github.com/acarrillo3)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
   - [Angel Dhakal](https://github.com/angeldhakal)
