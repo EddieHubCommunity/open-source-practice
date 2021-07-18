@@ -159,6 +159,7 @@ Hurray! You successfully made a contribution!
   - [Atharva Chandwadkar](https://github.com/atharav21-stack)
   - [Atharva Mogade](https://github.com/atharvamogade)
   - [Atulya Singh](https://github.com/oreo-gif)
+  - [AvidCoder101](https://github.com/AvidCoder101)
   - [Ayush Kumar](https://github.com/Ayush7614)
 
 * ### **B**
@@ -219,7 +220,6 @@ Hurray! You successfully made a contribution!
 
 * ### **H**
   - [Hamza Jassar](https://github.com/iJassar)
-  - [Hareer Sakhi](https://github.com/HareerSakhi)
   - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
   - [Harshit Parwal](https://github.com/harshitparwal)
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
