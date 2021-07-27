@@ -124,6 +124,7 @@ Hurray! You successfully made a contribution!
   - [Abdulmalik Adekunle](https://github.com/Adekunle27)
   - [Aditi Goyal](https://github.com/AditiGoyal05)
   - [Aditya Das](https://github.com/ThatOneBlodeKid)
+  - [Aditya Mangal](https://github.com/adityamangal1)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
   - [Aditya Raute](https://github.com/adityaraute)
   - [Afroz Chakure](https://github.com/afrozchakure)
