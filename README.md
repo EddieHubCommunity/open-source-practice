@@ -358,6 +358,7 @@ Hurray! You successfully made a contribution!
   - [Rishabh Singhal](https://github.com/rish-singhal)
   - [Ritvij Kumar Sharma](https://github.com/ritvij14)
   - [Ritvik Shukla](https://github.com/includestdlibrary)
+  - [Ritwik Sinha](https://github.com/Ritwik880)
   - [Robert Kay Jr](https://github.com/RobertKayJr/)
   - [Rodrigo Avila](https://github.com/rodrigo398)
   - [Rohit Vuppuluri](https://github.com/rohitv-dev)
