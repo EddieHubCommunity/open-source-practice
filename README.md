@@ -346,6 +346,7 @@ Hurray! You successfully made a contribution!
 
 - ### **R**
 
+  - [Rakesh] (https://github.com/RakeshPotnuru)
   - [Rahul](https://github.com/kohli6010)
   - [Raj Vaya](https://github.com/rajvaya)
   - [Raju Ghorai](https://github.com/coderj001)
