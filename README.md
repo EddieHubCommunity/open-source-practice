@@ -444,6 +444,7 @@ Hurray! You successfully made a contribution!
   - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
   - [Vivek Singh](https://github.com/vivmost)
   - [Vladyslav Kyiashko](https://github.com/vlakyi)
+  - [Vrukshali Torawane](https://github.com/Vrukshali-26)
 
 - ### **W**
 
