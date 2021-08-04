@@ -366,6 +366,7 @@ Hurray! You successfully made a contribution!
   - [Robert Kay Jr](https://github.com/RobertKayJr/)
   - [Rodrigo Avila](https://github.com/rodrigo398)
   - [Rohit Vuppuluri](https://github.com/rohitv-dev)
+  - [Rui Batista](https://github.com/BellamyPT)
   - [Russ Perry](https://github.com/rperry99)
   - [Rutik Bhoyar](https://github.com/Rutikab12)
 
