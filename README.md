@@ -176,6 +176,7 @@ Hurray! You successfully made a contribution!
   - [Bhuvnesh Sharma](https://github.com/Bhuvnesh875)
   - [Bineet Naidu](https://github.com/bineetNaidu)
   - [Bryson M.](https://github.com/Bryson69)
+  - [Benjamin Rukundo](https://github.com/rukundob451)
 
 - ### **C**
 
