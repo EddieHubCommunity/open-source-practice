@@ -244,6 +244,7 @@ Hurray! You successfully made a contribution!
   - [Hernando Guzmán](https://github.com/hernandoagf)
   - [Hrithik Chauhan](https://github.com/Hrithik5)
   - [Hulya Karakaya](https://github.com/hulyak)
+  - [Honey Patel](https://github.com/honeykpatel)
 
 - ### **I**
 
