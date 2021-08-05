@@ -242,6 +242,7 @@ Hurray! You successfully made a contribution!
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
   - [Hemanth Sai Garladinne](https://github.com/HemanthSai7)
   - [Hernando Guzmán](https://github.com/hernandoagf)
+  - [Honey Patel](https://github.com/honeykpatel)
   - [Hrithik Chauhan](https://github.com/Hrithik5)
   - [Hulya Karakaya](https://github.com/hulyak)
 
