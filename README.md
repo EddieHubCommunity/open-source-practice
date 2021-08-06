@@ -313,6 +313,7 @@ Hurray! You successfully made a contribution!
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mulyadi](https://github.com/Urcane)
   - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
+  - [Manish Rawat](https://github.com/R11manish)
 
 - ### **N**
 
