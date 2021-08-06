@@ -295,6 +295,7 @@ Hurray! You successfully made a contribution!
 
   - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
   - [Manasi Mulay](https://github.com/manasi-mulay)
+  - [Manish Rawat](https://github.com/R11manish)
   - [Manu Gupta](https://github.com/ManuGupta9780)
   - [Marios Georgiou](https://github.com/MariosGeorgiou)
   - [Mark Murray](https://github.com/mark-d-murray)
@@ -313,7 +314,6 @@ Hurray! You successfully made a contribution!
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mulyadi](https://github.com/Urcane)
   - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
-  - [Manish Rawat](https://github.com/R11manish)
 
 - ### **N**
 
