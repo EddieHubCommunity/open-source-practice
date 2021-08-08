@@ -53,7 +53,7 @@ Questions can be asked by raising an `Issue`.
 
 - Open the file `README.md`
 
-- On a new line in alphabetical order, add your name and the link to your Github profile in markdown format
+- #### Add your name to the section that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page.
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
@@ -108,8 +108,6 @@ Hurray! You successfully made a contribution!
 ---
 
 ## <ins>Hacktoberfest community<ins>
-
-#### Please add your name to the section that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on.
 
 * ### **A**
   - [Aakarsh Teja](https://github.com/aakarshteja)
