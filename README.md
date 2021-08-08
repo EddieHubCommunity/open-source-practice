@@ -363,6 +363,7 @@ Hurray! You successfully made a contribution!
   - [Remco Halman](https://github.com/remcohalman)
   - [Richard Bacon](https://github.com/RichardJonBacon)
   - [Rick Flores](https://github.com/RICK-FLORES)
+  - [Rishabh Rathore](https://github.com/rishabhrathore055)
   - [Rishabh Singhal](https://github.com/rish-singhal)
   - [Ritvij Kumar Sharma](https://github.com/ritvij14)
   - [Ritvik Shukla](https://github.com/includestdlibrary)
