@@ -357,6 +357,7 @@ Hurray! You successfully made a contribution!
   - [Raj Vaya](https://github.com/rajvaya)
   - [Raju Ghorai](https://github.com/coderj001)
   - [Rahman Haroon](https://github.com/rahmanharoon)
+  - [Rakesh Mahato](https://github.com/rakeshmahato)
   - [Rakesh](https://github.com/RakeshPotnuru)
   - [Ram Pandey](https://github.com/ram2510)
   - [Raman Singh](https://github.com/ramansingh189)
