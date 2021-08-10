@@ -217,6 +217,7 @@ Hurray! You successfully made a contribution!
   - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
   - [Emmy Steven](https://github.com/emmysteven)
   - [essarrgee](https://github.com/essarrgee)
+  - [Euhid Aman](https://github.com/euhidaman)
   - [Evandro Rodrigues](https://github.com/evnrodr)
 
 - ### **F**
