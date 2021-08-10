@@ -309,6 +309,7 @@ Hurray! You successfully made a contribution!
   - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
   - [Mohamed Al-Rifay](https://github.com/alrifay)
   - [Mohamed Mehdi Gara](https://github.com/mohamedmehdigara)
+  - [Mohamed Naufal A](https://github.com/Naufal2511)
   - [Mohit Deshwal](https://github.com/mohit01-beep)
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mukul Sharma](https://github.com/mukul98s)
