@@ -431,6 +431,7 @@ Hurray! You successfully made a contribution!
   - [Tawfik Yasser](https://github.com/TawfikYasser)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
+  - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
 
 - ### **U**
 
