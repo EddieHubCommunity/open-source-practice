@@ -438,8 +438,8 @@ Hurray! You successfully made a contribution!
   - [Ujjwal Gupta](https://github.com/UG-SEP)
   - [Umesh Singh](https://github.com/Umesh-01)
   - [Usman Tatla](https://github.com/iTatla1)
-  - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
+  - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
 
 - ### **V**
 
