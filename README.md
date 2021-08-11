@@ -355,10 +355,10 @@ Hurray! You successfully made a contribution!
 
 - ### **R**
 
+  - [Rahman Haroon](https://github.com/rahmanharoon)
   - [Rahul](https://github.com/kohli6010)
   - [Raj Vaya](https://github.com/rajvaya)
   - [Raju Ghorai](https://github.com/coderj001)
-  - [Rahman Haroon](https://github.com/rahmanharoon)
   - [Rakesh](https://github.com/RakeshPotnuru)
   - [Rakesh Mahato](https://github.com/rakeshmahato)
   - [Ram Pandey](https://github.com/ram2510)
@@ -437,15 +437,15 @@ Hurray! You successfully made a contribution!
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
   - [Ujjwal Gupta](https://github.com/UG-SEP)
   - [Umesh Singh](https://github.com/Umesh-01)
+  - [Usman Tatla](https://github.com/iTatla1)
   - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
-  - [Usman Tatla](https://github.com/iTatla1)
 
 - ### **V**
 
+  - [Vaibhav Wani](https://github.com/Vaibhavwani11)
   - [Vamsi Ravi](https://github.com/vamsi963601)
   - [Varghese Jose](https://github.com/varghesejose2020/)
-  - [Vaibhav Wani](https://github.com/Vaibhavwani11)
   - [Venkata Mouli](https://github.com/mouli3029)
   - [Vicky Gupta](https://github.com/viki4545)
   - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
