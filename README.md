@@ -429,9 +429,10 @@ Hurray! You successfully made a contribution!
   - [Taneem Jan](https://github.com/taneemishere)
   - [Tanya Powell](https://github.com/tanyapowell)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
+  - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
-
+  
 - ### **U**
 
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
