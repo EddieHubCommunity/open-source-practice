@@ -135,6 +135,7 @@ Hurray! You successfully made a contribution!
   - [Ahmed Muhammed Galadima](https://github.com/ApolloDev0/)
   - [Akindotuni Ademola](https://github.com/demolaemrick)
   - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
+  - [Akshayan Sinha](https://github.com/hippyaki)
   - [Alaba Olanrewaju](https://github.com/chryzcodez)
   - [Alex Valdez](https://github.com/arevaldez)
   - [Ali Mirrajei](https://github.com/alimirrajei)
