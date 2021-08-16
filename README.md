@@ -126,6 +126,7 @@ Hurray! You successfully made a contribution!
   - [Aditya Das](https://github.com/ThatOneBlodeKid)
   - [Aditya Mangal](https://github.com/adityamangal1)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
+  - [Aditya Patel](https://github.com/adityatheoctocatdev)
   - [Aditya Raute](https://github.com/adityaraute)
   - [Afroz Chakure](https://github.com/afrozchakure)
   - [Agbabiaka Damilare](https://github.com/AgbaD)
