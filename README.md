@@ -384,6 +384,7 @@ Hurray! You successfully made a contribution!
 
   - [Safa Abidi](https://github.com/safa-abidi)
   - [Sahitya Roy](https://github.com/SahityaRoy)
+  - [Sahil Khandelwal](https://github.com/sahilcode17)
   - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
   - [Sajid305](https://github.com/Sajid305)
   - [Samuel Z. Bouye](https://github.com/zamblebi)
