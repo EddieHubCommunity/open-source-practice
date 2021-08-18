@@ -282,6 +282,7 @@ Hurray! You successfully made a contribution!
   - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
   - [Kehinde Adeleke](https://github.com/adeleke5140)
   - [Khalid Khan](https://github.com/pablochocobae)
+  - [Khushal Sachdeva](https://github.com/CodeKhushal)
   - [Kidus Solomon](https://github.com/kidussolo)
   - [Krish](https://github.com/krishdevdb)
   - [Krishna Kumar](https://github.com/Krishnapro)
