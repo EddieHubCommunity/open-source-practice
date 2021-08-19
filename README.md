@@ -296,8 +296,8 @@ Hurray! You successfully made a contribution!
 
 - ### **M**
 
-  - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
   - [Mahesh Pawar](https://github.com/maheshvpawar)
+  - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
   - [Manasi Mulay](https://github.com/manasi-mulay)
   - [Manish Rawat](https://github.com/R11manish)
   - [Manu Gupta](https://github.com/ManuGupta9780)
