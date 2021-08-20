@@ -244,6 +244,7 @@ Hurray! You successfully made a contribution!
   - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
   - [Harshit Parwal](https://github.com/harshitparwal)
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
+  - [Hemant Bajaj](https://github.com/ORKO06)
   - [Hemanth Sai Garladinne](https://github.com/HemanthSai7)
   - [Hernando Guzmán](https://github.com/hernandoagf)
   - [Honey Patel](https://github.com/honeykpatel)
