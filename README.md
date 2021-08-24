@@ -145,6 +145,7 @@ Hurray! You successfully made a contribution!
   - [Alpadmin](https://github.com/hasthamalp/)
   - [Aman Kuliyal](https://github.com/Iconic-It-Is)
   - [Aman Verma](https://github.com/amanpro1)
+  - [Aman Shrivastava](https://github.com/aman34503)
   - [Amrutha C.K.](https://github.com/Amrutha1101)
   - [Ana Carrillo](https://github.com/acarrillo3)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
