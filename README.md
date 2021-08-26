@@ -137,6 +137,7 @@ Hurray! You successfully made a contribution!
   - [Ahmad Lemine](https://github.com/ahmadlemine/)
   - [Ahmed Muhammed Galadima](https://github.com/ApolloDev0/)
   - [Akindotuni Ademola](https://github.com/demolaemrick)
+  - [Akintokun Pelumi Eyitimonwa](https://github.com/Timonwa)
   - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
   - [Akshayan Sinha](https://github.com/hippyaki)
   - [Alaba Olanrewaju](https://github.com/chryzcodez)
