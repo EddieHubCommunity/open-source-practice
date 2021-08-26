@@ -264,6 +264,7 @@ Hurray! You successfully made a contribution!
   - [Indu Rupi](https://github.com/indurupi)
   - [Ines Guerrero](https://github.com/inesgs12)
   - [Ish Kapoor](https://github.com/ishkapoor2000)
+  - [Isha Mehta](https://github.com/isha614)
   - [Ishan Kotian](https://github.com/Ishan-Kotian)
   - [Ivo Iliev](https://github.com/Iwi4a)
 
