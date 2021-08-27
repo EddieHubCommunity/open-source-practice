@@ -380,6 +380,7 @@ Hurray! You successfully made a contribution!
   - [Rick Flores](https://github.com/RICK-FLORES)
   - [Rishabh Rathore](https://github.com/rishabhrathore055)
   - [Rishabh Singhal](https://github.com/rish-singhal)
+  - [Ritek Rounak](https://github.com/RITEKROUNAK)
   - [Ritvij Kumar Sharma](https://github.com/ritvij14)
   - [Ritvik Shukla](https://github.com/includestdlibrary)
   - [Ritwik Sinha](https://github.com/Ritwik880)
