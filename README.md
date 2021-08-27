@@ -400,6 +400,7 @@ Hurray! You successfully made a contribution!
   - [Sajid305](https://github.com/Sajid305)
   - [Samuel Z. Bouye](https://github.com/zamblebi)
   - [Sanyam Gupta](https://github.com/sanyam19)
+  - [Sandeep Kumar Lenka](https://github.com/sandeeplenka)
   - [Sarwar Ahmed](https://github.com/SarwarAhmed)
   - [Satya Abhishek](https://github.com/kashek85)
   - [Satyadeep](https://github.com/satyaRF)
