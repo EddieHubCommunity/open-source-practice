@@ -192,6 +192,7 @@ Hurray! You successfully made a contribution!
   - [Chinmay Mulay](https://github.com/cmulay)
   - [Chris Moreton](https://github.com/chris-moreton/)
   - [CodesbyUnnati](https://github.com/CodesbyUnnati)
+  - [CodingSpecies](https://github.com/CodingSpecies)
   - [Conor O Shea](https://github.com/conoroshea1996)
   - [Crislana Rafael](https://github.com/crislanarafael)
 
