@@ -247,6 +247,7 @@ Hurray! You successfully made a contribution!
 
   - [Hamza Jassar](https://github.com/iJassar)
   - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
+  - [Harshil Hirpara](https://github.com/harshil202)
   - [Harshit Parwal](https://github.com/harshitparwal)
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
   - [Hemant Bajaj](https://github.com/ORKO06)
@@ -255,7 +256,6 @@ Hurray! You successfully made a contribution!
   - [Honey Patel](https://github.com/honeykpatel)
   - [Hrithik Chauhan](https://github.com/Hrithik5)
   - [Hulya Karakaya](https://github.com/hulyak)
-  - [Harshil Hirpara](https://github.com/harshil202)
 
 - ### **I**
 
