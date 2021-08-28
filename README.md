@@ -249,6 +249,7 @@ Hurray! You successfully made a contribution!
 
   - [Hamza Jassar](https://github.com/iJassar)
   - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
+  - [Harshil Hirpara](https://github.com/harshil202)
   - [Harshit Parwal](https://github.com/harshitparwal)
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
   - [Hemant Bajaj](https://github.com/ORKO06)
