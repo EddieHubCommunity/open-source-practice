@@ -297,7 +297,6 @@ Hurray! You successfully made a contribution!
   - [Krishna R](https://github.com/Krishna-Ravi)
   - [Kunal Patil](https://github.com/Kunal0007)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
-  
 
 - ### **L**
 
