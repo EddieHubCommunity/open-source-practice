@@ -298,6 +298,7 @@ Hurray! You successfully made a contribution!
   - [Krish](https://github.com/krishdevdb)
   - [Krishna Kumar](https://github.com/Krishnapro)
   - [Krishna R](https://github.com/Krishna-Ravi)
+  - [Kunal Patil](https://github.com/Kunal0007)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
 
 - ### **L**
