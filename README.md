@@ -449,6 +449,7 @@ Hurray! You successfully made a contribution!
 
 - ### **T**
 
+  - [Tamal Das](https://github.com/IAmTamal)
   - [Taneem Jan](https://github.com/taneemishere)
   - [Tanya Powell](https://github.com/tanyapowell)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
