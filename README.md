@@ -408,6 +408,7 @@ Hurray! You successfully made a contribution!
   - [Samuel Z. Bouye](https://github.com/zamblebi)
   - [Sandeep Kumar Lenka](https://github.com/sandeeplenka)
   - [Sanyam Gupta](https://github.com/sanyam19)
+  - [Sarthak Mallick](https://github.com/Sarthakm17)
   - [Sarwar Ahmed](https://github.com/SarwarAhmed)
   - [Satya Abhishek](https://github.com/kashek85)
   - [Satyadeep](https://github.com/satyaRF)
