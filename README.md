@@ -283,6 +283,7 @@ Hurray! You successfully made a contribution!
   - [Johanna](https://github.com/Johanna-hub)
   - [Jome Favourite](https://github.com/jomefavourite)
   - [Jonathan Niklasson Godar](https://github.com/JonathanGodar)
+  - [Jose Angel Munoz](https://github.com/imjoseangel)
   - [Joseph Jose](https://github.com/josephjosedev)
   - [Josh Callahan](https://github.com/joshcallahan)
   - [Joykishan Sharma](https://github.com/JoykishanSharma)
