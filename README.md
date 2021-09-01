@@ -444,6 +444,7 @@ Hurray! You successfully made a contribution!
   - [Stephen Mount](https://github.com/stemount)
   - [Subhangini](https://github.com/Subhangini)
   - [Suhaas](https://github.com/suhaaskataria)
+  - [Sumit Mukharjee](https://github.com/sumitmukharjeeeeee)
   - [Sumeet Naik](https://github.com/sumeetweb)
   - [Sumit Gaur](https://github.com/Sumit3301)
   - [Sunrit Jana](https://github.com/janaSunrise)
