@@ -110,7 +110,7 @@ Hurray! You successfully made a contribution!
 
 ## <ins>Hacktoberfest community<ins>
 
-### **Contents:**
+### **Contents**
 
 |  |         |      |      |     |
 | ---------| ------- | ---- | ---- | --- |
