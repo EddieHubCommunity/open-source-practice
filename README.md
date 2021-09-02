@@ -489,6 +489,8 @@ Hurray! You successfully made a contribution!
 
 - ### **W**
 
+  - [Wahyu Wiyoko](https://github.com/wahyuwiyoko)
+
 - ### **X**
 
 - ### **Y**
