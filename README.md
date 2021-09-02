@@ -110,8 +110,9 @@ Hurray! You successfully made a contribution!
 
 ## <ins>Hacktoberfest community<ins>
 
+### **Contents:**
 
-| Contents |         |      |      |     |
+|  |         |      |      |     |
 | ---------| ------- | ---- | ---- | --- |
 | [A](#a)  | [G](#g) | [M](#m) | [S](#s) | [Y](#y) |
 | [B](#b)  | [H](#h) | [N](#n) | [T](#t) | [Z](#z) |
