@@ -369,7 +369,7 @@ Hurray! You successfully made a contribution!
   - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
   - [Prithviraj Biswas](https://github.com/prithvirajbytes)
   - [Puneeth P Gowda](https://github.com/puneeth-techie)
-
+  - [Pranav Pratap Singh](https://github.com/Pranav108)
 - ### **Q**
 
 - ### **R**
