@@ -362,6 +362,7 @@ Hurray! You successfully made a contribution!
   - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
   - [Pradhumn Dave](https://github.com/davedevelopers)
   - [Pranav Kotak](https://github.com/pranavkotak8)
+  - [Pranav Pratap Singh](https://github.com/Pranav108)
   - [Prasanna Bisen](https://github.com/prasannabisen)
   - [Prashant Shukla](https://github.com/prashantlv)
   - [Prathamesh Borse](https://github.com/viraldevpb)
@@ -369,7 +370,7 @@ Hurray! You successfully made a contribution!
   - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
   - [Prithviraj Biswas](https://github.com/prithvirajbytes)
   - [Puneeth P Gowda](https://github.com/puneeth-techie)
-  - [Pranav Pratap Singh](https://github.com/Pranav108)
+  
 - ### **Q**
 
 - ### **R**
