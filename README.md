@@ -409,6 +409,7 @@ Hurray! You successfully made a contribution!
   - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
   - [Sajid305](https://github.com/Sajid305)
   - [Samuel Z. Bouye](https://github.com/zamblebi)
+  - [Suhail Khan](https://github.com/suhail34)
   - [Sandeep Kumar Lenka](https://github.com/sandeeplenka)
   - [Sanyam Gupta](https://github.com/sanyam19)
   - [Sarthak Mallick](https://github.com/Sarthakm17)
