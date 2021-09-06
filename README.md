@@ -370,6 +370,7 @@ Hurray! You successfully made a contribution!
   - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
   - [Prithviraj Biswas](https://github.com/prithvirajbytes)
   - [Puneeth P Gowda](https://github.com/puneeth-techie)
+  - [Pushkar Dave](https://github.com/lynx1902)
 
 - ### **Q**
 
