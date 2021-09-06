@@ -470,6 +470,7 @@ Hurray! You successfully made a contribution!
   - [Usman Tatla](https://github.com/iTatla1)
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
   - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
+  - [Utkarsh Tomar](https://github.com/Utkarsh736)
 
 - ### **V**
 
