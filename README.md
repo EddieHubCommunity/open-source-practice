@@ -455,6 +455,7 @@ Hurray! You successfully made a contribution!
   - [Sunrit Jana](https://github.com/janaSunrise)
   - [Swapna Devi](https://github.com/Swapna804)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
+  - [Syed Sibteali Baqar](https://github.com/sibteali786)
 
 - ### **T**
 
