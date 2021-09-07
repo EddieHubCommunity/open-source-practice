@@ -110,7 +110,7 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### **A**
-
+  - [Aditya Deshmukh](https://github.com/Aditya664)
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
   - [Abdullahi Musa](https://github.com/Abdullahi001)
