@@ -461,6 +461,7 @@ Hurray! You successfully made a contribution!
 
   - [Tamal Das](https://github.com/IAmTamal)
   - [Taneem Jan](https://github.com/taneemishere)
+  - [Tannu Daral](https://github.com/tannudaral)
   - [Tanya Powell](https://github.com/tanyapowell)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
