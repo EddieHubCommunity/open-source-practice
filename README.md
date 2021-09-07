@@ -437,6 +437,7 @@ Hurray! You successfully made a contribution!
   - [Shubham Hadake](https://github.com/Shubham714)
   - [Shubham Kukreti](https://github.com/KukretiShubham)
   - [Shyam Sutar](https://github.com/shyamsutar)
+  - [Shubham Singh](https://github.com/shubham-singh-748)
   - [Shyam](https://github.com/XShyam)
   - [Siddhant Khare](https://github.com/Siddhant-K-code)
   - [Silas Omurunga](https://github.com/Simbadeveloper)
