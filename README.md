@@ -161,6 +161,7 @@ Hurray! You successfully made a contribution!
   - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
   - [Anton Samper Rivaya](https://github.com/antonsamper/)
   - [Anubhav Purohit](https://github.com/Anubhav-byte)
+    [Anurag Kumar](https://github.com/halfway-there1)
   - [Appygal](https://github.com/appygal)
   - [Arijit](https://github.com/arijitgupta42)
   - [Arsheel](https://github.com/arsheelsheikh)
