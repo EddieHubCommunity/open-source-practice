@@ -242,7 +242,6 @@ Hurray! You successfully made a contribution!
 
   - [Gagan Gaur](https://github.com/gagangaur)
   - [Gagan V](https://github.com/gagan95)
-  - [Gaurav Kulkarni](https://github.com/kulkarnigaurav38)
   - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
   - [Ganesh Balaji Radhakrishnan](https://github.com/Ganesh-Balaji-Radhakrishnan)
   - [Gautam Goyal](https://github.com/Gautam1302)
