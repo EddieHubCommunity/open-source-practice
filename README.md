@@ -367,6 +367,7 @@ Hurray! You successfully made a contribution!
   - [Pradhumn Dave](https://github.com/davedevelopers)
   - [Pranav Kotak](https://github.com/pranavkotak8)
   - [Pranav Pratap Singh](https://github.com/Pranav108)
+  - [Pranay Gupta](https://github.com/thepranaygupta)
   - [Prasanna Bisen](https://github.com/prasannabisen)
   - [Prashant Shukla](https://github.com/prashantlv)
   - [Prathamesh Borse](https://github.com/viraldevpb)
