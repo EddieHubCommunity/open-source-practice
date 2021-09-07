@@ -451,6 +451,7 @@ Hurray! You successfully made a contribution!
   - [Subhangini](https://github.com/Subhangini)
   - [Suhaas](https://github.com/suhaaskataria)
   - [Suhail Khan](https://github.com/suhail34)
+  - [Suman Sahoo](https://github.com/suman-somu)
   - [Sumeet Naik](https://github.com/sumeetweb)
   - [Sumit Gaur](https://github.com/Sumit3301)
   - [Sumit Mukharjee](https://github.com/sumitmukharjeeeeee)
