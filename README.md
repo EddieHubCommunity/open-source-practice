@@ -425,6 +425,7 @@ Hurray! You successfully made a contribution!
   - [Sayed Mohammed Nouman](https://github.com/Skyhero-admin)
   - [schmelto](https://github.com/schmelto)
   - [Sefat Siddiquea Sifa](https://github.com/sifa123)
+  - [Sejal Zambare](https://github.com/Sejal-16)
   - [Shabi Kaushal](https://github.com/msbuddhu)
   - [Shambashib Majumdar](https://github.com/shambashib20)
   - [Shanmuganathanb](https://github.com/Shanmuganathanb)
