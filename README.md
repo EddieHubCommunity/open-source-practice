@@ -163,6 +163,7 @@ Hurray! You successfully made a contribution!
   - [Anubhav Purohit](https://github.com/Anubhav-byte)
   - [Appygal](https://github.com/appygal)
   - [Arijit](https://github.com/arijitgupta42)
+  - [Arnav Sharma](https://github.com/arnav1776)
   - [Arsheel](https://github.com/arsheelsheikh)
   - [Aryabhatta](https://github.com/mrbuddhu)
   - [Aryan Jain](https://github.com/coolAryan)
