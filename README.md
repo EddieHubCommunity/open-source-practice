@@ -419,6 +419,7 @@ Hurray! You successfully made a contribution!
   - [Sanyam Gupta](https://github.com/sanyam19)
   - [Sarthak Mallick](https://github.com/Sarthakm17)
   - [Sarwar Ahmed](https://github.com/SarwarAhmed)
+  - [Sarvesh Patil](https://github.com/sarveshspatil111)
   - [Satya Abhishek](https://github.com/kashek85)
   - [Satyadeep](https://github.com/satyaRF)
   - [Satyam Gadekar](https://github.com/07Satyam)
