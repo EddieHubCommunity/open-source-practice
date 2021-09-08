@@ -208,6 +208,7 @@ Hurray! You successfully made a contribution!
   - [David Leal](https://github.com/Panquesito7)
   - [Deepak B](https://github.com/sbdeepu09)
   - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
+  - [Dev Jain](https://github.com/889-dj)
   - [Devesh RB](https://github.com/Deveshb15)
   - [Dhairya Ostwal](https://github.com/dhairyaostwal)
   - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
