@@ -250,6 +250,7 @@ Hurray! You successfully made a contribution!
   - [Genesis Gabiola](https://github.com/genesisgabiola)
   - [Gladson Sethiel](https://github.com/gsonly)
   - [Gowtham P B](https://github.com/GowthamPB)
+  - [Grawish Sachdeva](https://github.com/grawish)
 
 - ### **H**
 
