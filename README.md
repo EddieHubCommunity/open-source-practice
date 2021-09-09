@@ -521,5 +521,5 @@ Hurray! You successfully made a contribution!
 
 - ### **Z**
 
-  - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
   - [Zaid Khan](https://github.com/ZaidKhan2002)
+  - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
