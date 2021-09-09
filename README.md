@@ -236,7 +236,7 @@ Hurray! You successfully made a contribution!
   - [Evandro Rodrigues](https://github.com/evnrodr)
 
 - ### **F**
-  
+
   - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
   - [Fatma](https://github.com/fatmab28)
   - [Femi Oluwadamilola](https://github.com/femiOluwadamilola)
@@ -480,6 +480,7 @@ Hurray! You successfully made a contribution!
   - [Tanya Powell](https://github.com/tanyapowell)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
   - [Tejas Shah](https://github.com/Hero4440)
+  - [Tejas Tank](https://github.com/136tejas)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
