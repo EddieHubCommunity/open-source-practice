@@ -236,7 +236,6 @@ Hurray! You successfully made a contribution!
   - [Evandro Rodrigues](https://github.com/evnrodr)
 
 - ### **F**
-  
   - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
   - [Fatma](https://github.com/fatmab28)
   - [Femi Oluwadamilola](https://github.com/femiOluwadamilola)
