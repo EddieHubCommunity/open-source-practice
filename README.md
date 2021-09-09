@@ -155,6 +155,7 @@ Hurray! You successfully made a contribution!
   - [Anh Tran](https://github.com/longqua69)
   - [Aniket Singh](https://github.com/aniketsingh98571)
   - [Animesh Pathak](https://github.com/sonichigo)
+  - [Anirudh Eyyani](https://github.com/AnirudhEyyani)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
   - [annu](https://github.com/annu12340)
   - [Ansh Dhingra](https://github.com/anshdhinhgra47)
