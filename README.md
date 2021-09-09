@@ -353,6 +353,7 @@ Hurray! You successfully made a contribution!
   - [Nandini](https://github.com/nandini040)
   - [Nathan Byrne](https://github.com/naefun/)
   - [Nazeeya Azeem](https://github.com/naz2001)
+  - [Nikhil Shanbhag](https://github.com/Nikhil-1503)
   - [Nikhil Sharma](https://github.com/NikhilSharma03)
   - [Nikita Babko](https://github.com/nikitababko)
   - [Niku Singh](https://github.com/NIKU-SINGH)
