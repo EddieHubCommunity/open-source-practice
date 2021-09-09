@@ -62,6 +62,11 @@ Questions can be asked by raising an `Issue`.
 ```
   git add README.md
 ```
+or
+
+```
+  git add .
+```
 
 - Commit the changes
 
