@@ -479,6 +479,7 @@ Hurray! You successfully made a contribution!
   - [Tannu Daral](https://github.com/tannudaral)
   - [Tanya Powell](https://github.com/tanyapowell)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
+  - [Tejas Shah](https://github.com/Hero4440)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
