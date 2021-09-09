@@ -111,7 +111,8 @@ Hurray! You successfully made a contribution!
 
 - ### **A**
 
-  - [Aakarsh Teja](https://github.com/aakarshteja)
+ [Ankit](https://github.com/sensaiankit)  
+- [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
   - [Abdullahi Musa](https://github.com/Abdullahi001)
   - [Abdulmalik Adekunle](https://github.com/Adekunle27)
