@@ -387,8 +387,8 @@ Hurray! You successfully made a contribution!
 
 - ### **R**
 
-  - [Rahul Sood](https://github.com/DireWolf707)
   - [Rahman Haroon](https://github.com/rahmanharoon)
+  - [Rahul Sood](https://github.com/DireWolf707)
   - [Rahul](https://github.com/kohli6010)
   - [Raj Vaya](https://github.com/rajvaya)
   - [Raju Ghorai](https://github.com/coderj001)
