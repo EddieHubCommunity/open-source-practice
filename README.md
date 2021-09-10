@@ -62,6 +62,11 @@ Questions can be asked by raising an `Issue`.
 ```
   git add README.md
 ```
+or
+
+```
+  git add .
+```
 
 - Commit the changes
 
@@ -176,6 +181,7 @@ Hurray! You successfully made a contribution!
   - [Atharva Mogade](https://github.com/atharvamogade)
   - [Atulya Singh](https://github.com/oreo-gif)
   - [AvidCoder101](https://github.com/AvidCoder101)
+  - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kumar](https://github.com/Ayush7614)
 
 - ### **B**
@@ -236,7 +242,7 @@ Hurray! You successfully made a contribution!
   - [Evandro Rodrigues](https://github.com/evnrodr)
 
 - ### **F**
-  
+
   - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
   - [Fatma](https://github.com/fatmab28)
   - [Femi Oluwadamilola](https://github.com/femiOluwadamilola)
@@ -353,6 +359,7 @@ Hurray! You successfully made a contribution!
   - [Nandini](https://github.com/nandini040)
   - [Nathan Byrne](https://github.com/naefun/)
   - [Nazeeya Azeem](https://github.com/naz2001)
+  - [Nikhil Shanbhag](https://github.com/Nikhil-1503)
   - [Nikhil Sharma](https://github.com/NikhilSharma03)
   - [Nikita Babko](https://github.com/nikitababko)
   - [Niku Singh](https://github.com/NIKU-SINGH)
@@ -481,6 +488,7 @@ Hurray! You successfully made a contribution!
   - [Tanya Powell](https://github.com/tanyapowell)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
   - [Tejas Shah](https://github.com/Hero4440)
+  - [Tejas Tank](https://github.com/136tejas)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
