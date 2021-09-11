@@ -63,6 +63,11 @@ Questions can be asked by raising an `Issue`.
 ```
   git add README.md
 ```
+or
+
+```
+  git add .
+```
 
 - Commit the changes
 
@@ -158,6 +163,7 @@ Hurray! You successfully made a contribution!
   - [Alex Valdez](https://github.com/arevaldez)
   - [Ali Mirrajei](https://github.com/alimirrajei)
   - [Alpadmin](https://github.com/hasthamalp/)
+  - [Aman Arora](https://github.com/sheisAman)
   - [Aman Kuliyal](https://github.com/Iconic-It-Is)
   - [Aman Shrivastava](https://github.com/aman34503)
   - [Aman Verma](https://github.com/amanpro1)
@@ -169,12 +175,14 @@ Hurray! You successfully made a contribution!
   - [Anh Tran](https://github.com/longqua69)
   - [Aniket Singh](https://github.com/aniketsingh98571)
   - [Animesh Pathak](https://github.com/sonichigo)
+  - [Anirudh Eyyani](https://github.com/AnirudhEyyani)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
   - [annu](https://github.com/annu12340)
   - [Ansh Dhingra](https://github.com/anshdhinhgra47)
   - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
   - [Anton Samper Rivaya](https://github.com/antonsamper/)
   - [Anubhav Purohit](https://github.com/Anubhav-byte)
+  - [Anurag Sharma](https://github.com/Anurag30112003)
   - [Appygal](https://github.com/appygal)
   - [Arijit](https://github.com/arijitgupta42)
   - [Arnav Sharma](https://github.com/arnav1776)
@@ -189,6 +197,7 @@ Hurray! You successfully made a contribution!
   - [Atharva Mogade](https://github.com/atharvamogade)
   - [Atulya Singh](https://github.com/oreo-gif)
   - [AvidCoder101](https://github.com/AvidCoder101)
+  - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kumar](https://github.com/Ayush7614)
 
 - ### **B**
@@ -250,6 +259,7 @@ Hurray! You successfully made a contribution!
 
 - ### **F**
 
+  - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
   - [Fatma](https://github.com/fatmab28)
   - [Femi Oluwadamilola](https://github.com/femiOluwadamilola)
   - [Franklin Ohaegbulam](https://github.com/frankiefab100)
@@ -314,6 +324,7 @@ Hurray! You successfully made a contribution!
 
   - [Kabir Jain](https://github.com/kkkkkabir)
   - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+  - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
   - [Kehinde Adeleke](https://github.com/adeleke5140)
   - [Khalid Khan](https://github.com/pablochocobae)
   - [Khushal Sachdeva](https://github.com/CodeKhushal)
@@ -365,6 +376,7 @@ Hurray! You successfully made a contribution!
   - [Nandini](https://github.com/nandini040)
   - [Nathan Byrne](https://github.com/naefun/)
   - [Nazeeya Azeem](https://github.com/naz2001)
+  - [Nikhil Shanbhag](https://github.com/Nikhil-1503)
   - [Nikhil Sharma](https://github.com/NikhilSharma03)
   - [Nikita Babko](https://github.com/nikitababko)
   - [Niku Singh](https://github.com/NIKU-SINGH)
@@ -400,6 +412,7 @@ Hurray! You successfully made a contribution!
 - ### **R**
 
   - [Rahman Haroon](https://github.com/rahmanharoon)
+  - [Rahul Sood](https://github.com/DireWolf707)
   - [Rahul](https://github.com/kohli6010)
   - [Raj Vaya](https://github.com/rajvaya)
   - [Raju Ghorai](https://github.com/coderj001)
@@ -408,6 +421,7 @@ Hurray! You successfully made a contribution!
   - [Rakesh](https://github.com/RakeshPotnuru)
   - [Ram Pandey](https://github.com/ram2510)
   - [Raman Singh](https://github.com/ramansingh189)
+  - [Raveena Bhasin](https://github.com/RaveenaBhasin)
   - [Remco Halman](https://github.com/remcohalman)
   - [Richard Bacon](https://github.com/RichardJonBacon)
   - [Rick Flores](https://github.com/RICK-FLORES)
@@ -454,9 +468,11 @@ Hurray! You successfully made a contribution!
   - [Shubham Ayush](https://github.com/shubhamayush12)
   - [Shubham Hadake](https://github.com/Shubham714)
   - [Shubham Kukreti](https://github.com/KukretiShubham)
+  - [Shubham Singh](https://github.com/shubham-singh-748)
   - [Shyam Sutar](https://github.com/shyamsutar)
   - [Shyam](https://github.com/XShyam)
   - [Siddhant Khare](https://github.com/Siddhant-K-code)
+  - [Siddhant Khisty](https://github.com/SiddhantKhisty)
   - [Silas Omurunga](https://github.com/Simbadeveloper)
   - [Simran Biswas](https://github.com/simranbiswas)
   - [SMak06](https://github.com/SMak06)
@@ -489,6 +505,8 @@ Hurray! You successfully made a contribution!
   - [Tannu Daral](https://github.com/tannudaral)
   - [Tanya Powell](https://github.com/tanyapowell)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
+  - [Tejas Shah](https://github.com/Hero4440)
+  - [Tejas Tank](https://github.com/136tejas)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
@@ -503,6 +521,7 @@ Hurray! You successfully made a contribution!
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
   - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
   - [Utkarsh Tomar](https://github.com/Utkarsh736)
+  - [Uttam Kumar](https://github.com/helper-uttam)
 
 - ### **V**
 
@@ -535,4 +554,5 @@ Hurray! You successfully made a contribution!
 
 - ### **Z**
 
+  - [Zaid Khan](https://github.com/ZaidKhan2002)
   - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
