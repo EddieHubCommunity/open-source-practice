@@ -310,6 +310,7 @@ Hurray! You successfully made a contribution!
 
   - [Kabir Jain](https://github.com/kkkkkabir)
   - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+  - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
   - [Kehinde Adeleke](https://github.com/adeleke5140)
   - [Khalid Khan](https://github.com/pablochocobae)
   - [Khushal Sachdeva](https://github.com/CodeKhushal)
