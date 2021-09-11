@@ -425,7 +425,7 @@ Hurray! You successfully made a contribution!
   - [Rutik Bhoyar](https://github.com/Rutikab12)
 
 - ### **S**
-  - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
+
   - [Safa Abidi](https://github.com/safa-abidi)
   - [Sahil Khandelwal](https://github.com/sahilcode17)
   - [Sahitya Roy](https://github.com/SahityaRoy)
@@ -441,6 +441,7 @@ Hurray! You successfully made a contribution!
   - [Satyadeep](https://github.com/satyaRF)
   - [Satyam Gadekar](https://github.com/07Satyam)
   - [Saurav Kumar](https://github.com/Saurav1-2)
+  - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
   - [Savio Martin](https://github.com/saviomartin)
   - [Sayed Mohammed Nouman](https://github.com/Skyhero-admin)
   - [schmelto](https://github.com/schmelto)
