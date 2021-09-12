@@ -175,6 +175,7 @@ Hurray! You successfully made a contribution!
   - [Arsheel](https://github.com/arsheelsheikh)
   - [Aryabhatta](https://github.com/mrbuddhu)
   - [Aryan Jain](https://github.com/coolAryan)
+  - [Aryan Raj](https://github.com/aryaraj132)
   - [Asharib Ahmed](https://github.com/Asharib90)
   - [Ashish Chavan](https://github.com/AshishChavan98)
   - [Ashwin Kumar Uppala](https://github.com/ashwinexe)
