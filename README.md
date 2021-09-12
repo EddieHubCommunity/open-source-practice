@@ -226,6 +226,7 @@ Hurray! You successfully made a contribution!
   - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
   - [Dimo Ivanov](https://github.com/divanoff)
   - [Dipesh Babu](https://github.com/dipeshbabu)
+  - [Dipankar Medhi](https://github.com/Dipankar-Medhi)
   - [Dishon Kadoh](https://github.com/realestdon)
   - [Divakar R](https://github.com/rexdivakar)
   - [Divlo](https://github.com/Divlo)
@@ -234,7 +235,6 @@ Hurray! You successfully made a contribution!
   - [Drishika Chauhan](https://github.com/drishika2002)
   - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
   - [Dušan Tanasić](https://github.com/Duk4/)
-  - [Dipankar Medhi](https://github.com/Dipankar-Medhi)
 
 - ### **E**
 
