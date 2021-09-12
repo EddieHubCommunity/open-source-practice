@@ -296,6 +296,7 @@ Hurray! You successfully made a contribution!
   - [Jaime Jones](https://github.com/jaime-lynn)
   - [Jainish Shah](https://github.com/Jainish-shah)
   - [Jatin Rao](https://github.com/jatin2003)
+  - [Jayvir Rathi](https://github.com/Jayvirrathi)
   - [Jessica Salbert](https://github.com/jessicasalbert)
   - [Jivthesh](https://github.com/jivthesh)
   - [Johanna](https://github.com/Johanna-hub)
