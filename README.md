@@ -62,6 +62,7 @@ Questions can be asked by raising an `Issue`.
 ```
   git add README.md
 ```
+
 or
 
 ```
@@ -233,6 +234,7 @@ Hurray! You successfully made a contribution!
   - [Drishika Chauhan](https://github.com/drishika2002)
   - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
   - [Dušan Tanasić](https://github.com/Duk4/)
+  - [Dipankar Medhi](https://github.com/Dipankar-Medhi)
 
 - ### **E**
 
