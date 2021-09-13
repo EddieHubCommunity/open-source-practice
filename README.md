@@ -62,6 +62,7 @@ Questions can be asked by raising an `Issue`.
 ```
   git add README.md
 ```
+
 or
 
 ```
@@ -395,6 +396,7 @@ Hurray! You successfully made a contribution!
   - [Prithviraj Biswas](https://github.com/prithvirajbytes)
   - [Puneeth P Gowda](https://github.com/puneeth-techie)
   - [Pushkar Dave](https://github.com/lynx1902)
+  - [Pulkit Bhargava](https://github.com/Pulkit007)
 
 - ### **Q**
 
@@ -412,6 +414,7 @@ Hurray! You successfully made a contribution!
   - [Raman Singh](https://github.com/ramansingh189)
   - [Raveena Bhasin](https://github.com/RaveenaBhasin)
   - [Remco Halman](https://github.com/remcohalman)
+  - [Riadh Laabidi](https://github.com/riadh26)
   - [Richard Bacon](https://github.com/RichardJonBacon)
   - [Rick Flores](https://github.com/RICK-FLORES)
   - [Rishabh Rathore](https://github.com/rishabhrathore055)
