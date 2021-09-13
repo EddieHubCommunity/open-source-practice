@@ -159,7 +159,6 @@ Hurray! You successfully made a contribution!
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
   - [Angel Dhakal](https://github.com/angeldhakal)
   - [Anh Tran](https://github.com/longqua69)
-  - [Aniket Kumar Ghosh](https://github.com/ak7550)
   - [Aniket Singh](https://github.com/aniketsingh98571)
   - [Animesh Pathak](https://github.com/sonichigo)
   - [Anirudh Eyyani](https://github.com/AnirudhEyyani)
