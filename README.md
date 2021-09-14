@@ -486,6 +486,7 @@ Hurray! You successfully made a contribution!
   - [Sumeet Naik](https://github.com/sumeetweb)
   - [Sumit Gaur](https://github.com/Sumit3301)
   - [Sumit Mukharjee](https://github.com/sumitmukharjeeeeee)
+  - [Sumit Singh](https://github.com/Sin-Sumit)
   - [Sunrit Jana](https://github.com/janaSunrise)
   - [Swapna Devi](https://github.com/Swapna804)
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
