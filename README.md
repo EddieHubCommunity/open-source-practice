@@ -476,6 +476,7 @@ Hurray! You successfully made a contribution!
   - [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
   - [Soumava Das](https://github.com/Soumava-221B)
   - [Soumya Sharma](https://github.com/soumyaa1804)
+  - [Sreekar Tammana](https://github.com/Sreekar-Tammana)
   - [Soundarya K](https://github.com/sounsrk)
   - [Srihari S](https://github.com/Liri-s29)
   - [Srinath](https://github.com/srinath1412001)
@@ -493,7 +494,6 @@ Hurray! You successfully made a contribution!
   - [Swapna Devi](https://github.com/Swapna804)
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
-  - [Sreekar Tammana](https://github.com/Sreekar-Tammana)
 
 - ### **T**
 
