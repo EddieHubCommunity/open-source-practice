@@ -296,6 +296,7 @@ Hurray! You successfully made a contribution!
 - ### **J**
 
   - [Jade Kneen](https://github.com/jadekneen)
+  - [Jagan Sekaran](https://github.com/JAG-010)
   - [Jaime Jones](https://github.com/jaime-lynn)
   - [Jainish Shah](https://github.com/Jainish-shah)
   - [Jatin Rao](https://github.com/jatin2003)
