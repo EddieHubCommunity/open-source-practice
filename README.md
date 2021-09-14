@@ -28,23 +28,21 @@ Questions can be asked by raising an `Issue`.
 
 ## How to clone repo and make changes locally
 
-```
-  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
-```
+- Click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with.
 
-- Using git on your local machine. Do this to download the forked copy of this repo to your computer
+- Using git on your local machine. Do this to download the forked copy of this repo to your computer.
 
 ```
   git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
 ```
 
-- switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
+- switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor.
 
 ```
   cd hacktoberfest-practice
 ```
 
-- Make a new branch. Your name would make a good branch because it's unique
+- Make a new branch. Your name would make a good branch because it's unique.
 
 ```
   git checkout -b <name of new branch>
@@ -52,12 +50,12 @@ Questions can be asked by raising an `Issue`.
 
 - Open the file `README.md`
 
-- #### Add your name to the section that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page.
+- #### Add your name to the section([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page.
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
 
-- Stage your changes
+- Stage your changes.
 
 ```
   git add README.md
@@ -69,19 +67,19 @@ or
   git add .
 ```
 
-- Commit the changes
+- Commit the changes.
 
 ```
   git commit -m "Add <your-github-username>"
 ```
 
-- Check the status of your repository
+- Check the status of your repository.
 
 ```
   git status
 ```
 
-- Pushing your repository to github
+- Pushing your repository to GitHub.
 
 ```
   git push origin <name of your branch>
@@ -95,10 +93,10 @@ or
 ```
 
 - Navigate to your fork, on the top of the files section you'll notice a new section containing, a contribute button!
-- Click on the contribute button, it will open a drop down, click the pull request button on the drop down
+- Click on the contribute button, it will open a drop down, click the pull request button on the drop down.
   Note: A pull request allows your changes to be merged with the original project.
 
-- Wait for your changes to be merged
+- Wait for your changes to be merged.
 
 Hurray! You successfully made a contribution!
 
