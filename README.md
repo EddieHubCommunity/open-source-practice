@@ -28,9 +28,9 @@ Questions can be asked by raising an `Issue`.
 
 ## How to clone repo and make changes locally
 
-- Click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with.
+- Click on the clone button (green in colour). This gives you a copy of the project. It's now yours to play around with.
 
-- Using git on your local machine. Do this to download the forked copy of this repo to your computer.
+- Using Git on your local machine. Do this to download the forked copy of this repo to your computer.
 
 ```
   git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
@@ -48,9 +48,9 @@ Questions can be asked by raising an `Issue`.
   git checkout -b <name of new branch>
 ```
 
-- Open the file `README.md`
+- Open the `README.md` file
 
-- #### Add your name to the section([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page.
+- #### Add your name to the section ([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page.
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
@@ -98,7 +98,7 @@ or
 
 - Wait for your changes to be merged.
 
-Hurray! You successfully made a contribution!
+Hurray! You successfully made a contribution! 🎉
 
 ---
 
@@ -106,8 +106,9 @@ Hurray! You successfully made a contribution!
 
 #### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
 
-- #### To read more about this, go to [Github Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+- #### To read more about this, go to [GitHub Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
 - #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+- You can also ask for help in our [Discord server](http://discord.eddiehub.org) or submit an issue in the [Support repository](https://github.com/EddieHubCommunity/support).
 
 ---
 
