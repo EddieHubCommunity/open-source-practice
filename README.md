@@ -477,6 +477,7 @@ Hurray! You successfully made a contribution!
   - [Soundarya K](https://github.com/sounsrk)
   - [Srihari S](https://github.com/Liri-s29)
   - [Srinath](https://github.com/srinath1412001)
+  - [Sri Venkat](https://github.com/srivenkat13)
   - [Stephen Mount](https://github.com/stemount)
   - [Subhadeep](https://github.com/subhodynamics)
   - [Subhangini](https://github.com/Subhangini)
