@@ -179,6 +179,7 @@ Hurray! You successfully made a contribution!
   - [Aryabhatta](https://github.com/mrbuddhu)
   - [Aryan Jain](https://github.com/coolAryan)
   - [Aryan Raj](https://github.com/aryaraj132)
+  - [Aryan Srivastava](https://github.com/Aryan-Srivastava)
   - [Asharib Ahmed](https://github.com/Asharib90)
   - [Ashish Chavan](https://github.com/AshishChavan98)
   - [Ashwin Kumar Uppala](https://github.com/ashwinexe)
