@@ -135,6 +135,7 @@ Hurray! You successfully made a contribution!
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
   - [Aditya Patel](https://github.com/adityatheoctocatdev)
   - [Aditya Raute](https://github.com/adityaraute)
+  - [Afnan](https://github.com/afuu21)
   - [Afroz Chakure](https://github.com/afrozchakure)
   - [Agbabiaka Damilare](https://github.com/AgbaD)
   - [Agnel Selvan](https://github.com/AgnelSelvan)
