@@ -79,7 +79,7 @@ or
   git status
 ```
 
-- Pushing your repository to github.
+- Pushing your repository to GitHub.
 
 ```
   git push origin <name of your branch>
