@@ -322,9 +322,10 @@ Hurray! You successfully made a contribution!
   - [Krish](https://github.com/krishdevdb)
   - [Krishna Kumar](https://github.com/Krishnapro)
   - [Krishna R](https://github.com/Krishna-Ravi)
+  - [Kumari Astha Rani](https://github.com/astha2412)
   - [Kunal Patil](https://github.com/Kunal0007)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
-  - [Kumari Astha Rani](https://github.com/astha2412)
+  
 
 - ### **L**
 
