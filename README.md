@@ -368,6 +368,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **N**
 
+  - [Nabhag Motivaras](https://github.com/Nabhag8848)
   - [Nagulvali Shaik](https://github.com/nagulvali555)
   - [Naman Mittal](https://github.com/Namanmittal0007)
   - [Namya LG](https://github.com/Namyalg)
