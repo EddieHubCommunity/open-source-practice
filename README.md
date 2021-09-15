@@ -169,6 +169,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Ansh Dhingra](https://github.com/anshdhinhgra47)
   - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
   - [Anton Samper Rivaya](https://github.com/antonsamper/)
+  - [Anubhav Gupta](https://github.com/anubhav06/)
   - [Anubhav Purohit](https://github.com/Anubhav-byte)
   - [Anurag Sharma](https://github.com/Anurag30112003)
   - [Appygal](https://github.com/appygal)
