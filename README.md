@@ -183,6 +183,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Asharib Ahmed](https://github.com/Asharib90)
   - [Ashish Chavan](https://github.com/AshishChavan98)
   - [Ashwin Kumar Uppala](https://github.com/ashwinexe)
+  - [Asmit Kumar Sirohi](https://github.com/asmitsirohi)
   - [Aswin Asok](https://github.com/AswinAsok)
   - [Atharva Chandwadkar](https://github.com/atharav21-stack)
   - [Atharva Mogade](https://github.com/atharvamogade)
