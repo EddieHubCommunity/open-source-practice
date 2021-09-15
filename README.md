@@ -435,6 +435,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Rui Batista](https://github.com/BellamyPT)
   - [Russ Perry](https://github.com/rperry99)
   - [Rutik Bhoyar](https://github.com/Rutikab12)
+  - [Rwitesh Bera](https://github.com/rwiteshbera)
 
 - ### **S**
 
