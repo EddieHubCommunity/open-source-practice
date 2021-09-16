@@ -560,6 +560,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **Y**
 
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
+  - [Yashesvinee V](https://github.com/Yashesvinee)
   - [Yaswanth Modepalli](https://github.com/Yaswanth14)
   - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
 
