@@ -102,7 +102,7 @@ Hurray! You successfully made a contribution! 🎉
 
 ---
 
-## <ins> What if I have a Conflict? </ins>
+## What if I have a Conflict?
 
 #### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
 
