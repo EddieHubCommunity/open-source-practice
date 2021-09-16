@@ -403,6 +403,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Prathamesh Borse](https://github.com/viraldevpb)
   - [Prathamesh Giri](https://github.com/Pratham31)
   - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
+  - [Prince Patel](https://github.com/prince02765)
   - [Prithviraj Biswas](https://github.com/prithvirajbytes)
   - [Puneeth P Gowda](https://github.com/puneeth-techie)
   - [Pushkar Dave](https://github.com/lynx1902)
