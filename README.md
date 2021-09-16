@@ -412,6 +412,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **R**
 
   - [Rahman Haroon](https://github.com/rahmanharoon)
+  - [Rahul Soni](https://github.com/RahulSoni0)
   - [Rahul Sood](https://github.com/DireWolf707)
   - [Rahul](https://github.com/kohli6010)
   - [Raj Vaya](https://github.com/rajvaya)
