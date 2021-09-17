@@ -439,6 +439,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Ritvik Shukla](https://github.com/includestdlibrary)
   - [Ritwik Sinha](https://github.com/Ritwik880)
   - [Robert Kay Jr](https://github.com/RobertKayJr/)
+  - [Rohit Tewari](https://github.com/rtewari056)
   - [Rodrigo Avila](https://github.com/rodrigo398)
   - [Rohit Vuppuluri](https://github.com/rohitv-dev)
   - [Rui Batista](https://github.com/BellamyPT)
