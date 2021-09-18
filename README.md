@@ -390,6 +390,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **O**
 
   - [Okute Wonah](https://github.com/okutewonah)
+  - [Omkar Bhoir](https://github.com/omkar787)
   - [Omkar Jadhav](https://github.com/omkar342)
   - [Omkar Kulkarni](https://github.com/Omkar0114)
 
