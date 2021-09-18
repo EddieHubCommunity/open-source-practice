@@ -262,6 +262,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **G**
 
+  - [Gaurav Pandey](https://github.com/gaurtvin)
   - [Gagan Gaur](https://github.com/gagangaur)
   - [Gagan V](https://github.com/gagan95)
   - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
