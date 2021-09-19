@@ -548,6 +548,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Venkata Mouli](https://github.com/mouli3029)
   - [Vicky Gupta](https://github.com/viki4545)
   - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
+  - [Vikas Bhalla](https://github.com/vikasbhalla05)
   - [Vikas Ganiga](https://github.com/vikasganiga05/)
   - [Vince Y](https://github.com/vmyu)
   - [Vinicius Ramos](https://github.com/redrookie)
