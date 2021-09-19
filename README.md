@@ -177,6 +177,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Arghya Das](https://github.com/itsarghyadas)
   - [Arijit](https://github.com/arijitgupta42)
   - [Arnav Sharma](https://github.com/arnav1776)
+  - [Arshdeep Singh](https://github.com/Arshdeep-0509)
   - [Arsheel](https://github.com/arsheelsheikh)
   - [Aryabhatta](https://github.com/mrbuddhu)
   - [Aryan Jain](https://github.com/coolAryan)
