@@ -519,6 +519,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Swapna Devi](https://github.com/Swapna804)
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
+  - [Sumeet](https://github.com/LegendSumeet)
 
 - ### **T**
 
