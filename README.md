@@ -521,7 +521,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
   
-
 - ### **T**
 
   - [Tamal Das](https://github.com/IAmTamal)
