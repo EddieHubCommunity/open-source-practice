@@ -268,6 +268,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Ganapathi Subramanyam Jayam](https://github.com/ganapathi12)
   - [Ganesh Balaji Radhakrishnan](https://github.com/Ganesh-Balaji-Radhakrishnan)
   - [Gaurav Kulkarni](https://github.com/kulkarnigaurav38)
+  - [Gaurav Pandey](https://github.com/gaurtvin)
   - [Gautam Goyal](https://github.com/Gautam1302)
   - [Genesis Gabiola](https://github.com/genesisgabiola)
   - [Gladson Sethiel](https://github.com/gsonly)
