@@ -188,6 +188,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Asmit Kumar Sirohi](https://github.com/asmitsirohi)
   - [Aswin Asok](https://github.com/AswinAsok)
   - [Atharva Chandwadkar](https://github.com/atharav21-stack)
+  - [Atharva Ikhar](https://github.com/iatharva)
   - [Atharva Mogade](https://github.com/atharvamogade)
   - [Atulya Singh](https://github.com/oreo-gif)
   - [AvidCoder101](https://github.com/AvidCoder101)
