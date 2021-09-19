@@ -16,7 +16,7 @@ What is it? Click on the poster below to watch the video for more details📽
 
 Repo for you to raise a Pull Request for practice.
 
-**Just add your name to the alphabetical list and optionally, a link to your GitHub account**
+**Just add your name to the alphabetical list and optionally, a link to your GitHub account (In alphabetical order below your letter too)**
 
 ## How to contribute
 
