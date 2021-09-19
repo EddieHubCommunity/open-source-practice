@@ -235,6 +235,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
   - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
   - [Diksha Chaudhari](https://github.com/dikshachaudhari4)
+  - [Diksha Rai](https://github.com/diksharai9)
   - [Dimo Ivanov](https://github.com/divanoff)
   - [Dipesh Babu](https://github.com/dipeshbabu)
   - [Dishon Kadoh](https://github.com/realestdon)
