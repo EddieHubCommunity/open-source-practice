@@ -534,13 +534,13 @@ Hurray! You successfully made a contribution! 🎉
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
   - [Ujjwal Gupta](https://github.com/UG-SEP)
   - [Umesh Singh](https://github.com/Umesh-01)
+  - [Urmil Rupareliya](https://github.com/urmil89)
   - [Usman Tatla](https://github.com/iTatla1)
   - [Utkarsh Maurya](https://github.com/utkarsh1311)
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
   - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
   - [Utkarsh Tomar](https://github.com/Utkarsh736)
   - [Uttam Kumar](https://github.com/helper-uttam)
-
 - ### **V**
 
   - [Vaibhav Wani](https://github.com/Vaibhavwani11)
