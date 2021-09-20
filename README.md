@@ -341,6 +341,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Kumari Astha Rani](https://github.com/astha2412)
   - [Kunal Patil](https://github.com/Kunal0007)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
+  - [Khushaal Choithramani](https://github.com/khushxxl)
 
 - ### **L**
 
