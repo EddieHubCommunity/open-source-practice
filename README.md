@@ -222,6 +222,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **D**
 
   - [Danella Patrick](https://github.com/danellapatrick)
+  - [Daniel Hart](https://github.com/thedannydarko)
   - [Daniel Johnson](https://github.com/danjohnson77)
   - [Darsh Gupta](https://github.com/DarshGupta1910)
   - [Dave Bhandari](https://github.com/Davekibh)
