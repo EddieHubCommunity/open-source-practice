@@ -513,6 +513,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Suhail Khan](https://github.com/suhail34)
   - [Suman Sahoo](https://github.com/suman-somu)
   - [Sumeet Naik](https://github.com/sumeetweb)
+  - [Sumeet](https://github.com/LegendSumeet)
   - [Sumit Gaur](https://github.com/Sumit3301)
   - [Sumit Mukharjee](https://github.com/sumitmukharjeeeeee)
   - [Sumit Singh](https://github.com/Sin-Sumit)
