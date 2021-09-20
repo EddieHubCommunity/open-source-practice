@@ -302,8 +302,8 @@ Hurray! You successfully made a contribution!
   - [Jayvir Rathi](https://github.com/Jayvirrathi)
   - [Jessica Salbert](https://github.com/jessicasalbert)
   - [Jivthesh](https://github.com/jivthesh)
-  - [John Daniel](https://github.com/johndanny98)
   - [Johanna](https://github.com/Johanna-hub)
+  - [John Daniel](https://github.com/johndanny98)
   - [Jome Favourite](https://github.com/jomefavourite)
   - [Jonathan Niklasson Godar](https://github.com/JonathanGodar)
   - [Jose Angel Munoz](https://github.com/imjoseangel)
@@ -311,7 +311,6 @@ Hurray! You successfully made a contribution!
   - [Josh Callahan](https://github.com/joshcallahan)
   - [Joykishan Sharma](https://github.com/JoykishanSharma)
   
-
 - ### **K**
 
   - [Kabir Jain](https://github.com/kkkkkabir)
