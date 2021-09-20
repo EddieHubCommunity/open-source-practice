@@ -331,7 +331,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
   - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
   - [Keerthishankar Punchithaya](https://github.com/KeerthishankarPunchithaya)
-  - [Kehinde Adeleke](https://github.com/adeleke5140)  
+  - [Kehinde Adeleke](https://github.com/adeleke5140)
   - [Khalid Khan](https://github.com/pablochocobae)
   - [Khushal Sachdeva](https://github.com/CodeKhushal)
   - [Kidus Solomon](https://github.com/kidussolo)
@@ -481,6 +481,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sejal Zambare](https://github.com/Sejal-16)
   - [Shabi Kaushal](https://github.com/msbuddhu)
   - [Shahan](https://github.com/shahan007)
+  - [Shaikh Mohammad Danish](https://github.com/SMD-1)
   - [Shambashib Majumdar](https://github.com/shambashib20)
   - [Shanmuganathanb](https://github.com/Shanmuganathanb)
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
@@ -549,6 +550,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
   - [Utkarsh Tomar](https://github.com/Utkarsh736)
   - [Uttam Kumar](https://github.com/helper-uttam)
+
 - ### **V**
 
   - [Vaibhav Wani](https://github.com/Vaibhavwani11)
