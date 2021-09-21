@@ -310,7 +310,6 @@ Hurray! You successfully made a contribution!
   - [Joseph Jose](https://github.com/josephjosedev)
   - [Josh Callahan](https://github.com/joshcallahan)
   - [Joykishan Sharma](https://github.com/JoykishanSharma)
-  
 - ### **K**
 
   - [Kabir Jain](https://github.com/kkkkkabir)
