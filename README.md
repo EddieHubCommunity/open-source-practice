@@ -550,7 +550,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
   - [Utkarsh Tomar](https://github.com/Utkarsh736)
   - [Uttam Kumar](https://github.com/helper-uttam)
-
 - ### **V**
 
   - [Vaibhav Wani](https://github.com/Vaibhavwani11)
