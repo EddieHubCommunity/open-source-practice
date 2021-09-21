@@ -157,6 +157,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Amitesh Anand](https://github.com/Astrodevil)
   - [Amrutha C.K.](https://github.com/Amrutha1101)
   - [Ana Carrillo](https://github.com/acarrillo3)
+  - [Anadya Nair](https://github.com/AnadyaNair)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
   - [Angel Dhakal](https://github.com/angeldhakal)
   - [Anh Tran](https://github.com/longqua69)
