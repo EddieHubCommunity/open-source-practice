@@ -318,6 +318,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Jessica Salbert](https://github.com/jessicasalbert)
   - [Jivthesh](https://github.com/jivthesh)
   - [Johanna](https://github.com/Johanna-hub)
+  - [John Daniel](https://github.com/johndanny98)
   - [Jome Favourite](https://github.com/jomefavourite)
   - [Jonathan Niklasson Godar](https://github.com/JonathanGodar)
   - [Jose Angel Munoz](https://github.com/imjoseangel)
