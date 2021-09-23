@@ -336,6 +336,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Keerthishankar Punchithaya](https://github.com/KeerthishankarPunchithaya)
   - [Kehinde Adeleke](https://github.com/adeleke5140)
   - [Khalid Khan](https://github.com/pablochocobae)
+  - [Khushaal Choithramani](https://github.com/khushxxl)
   - [Khushal Sachdeva](https://github.com/CodeKhushal)
   - [Kidus Solomon](https://github.com/kidussolo)
   - [Krish](https://github.com/krishdevdb)
