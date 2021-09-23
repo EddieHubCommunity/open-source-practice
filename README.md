@@ -560,6 +560,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Vaibhav Wani](https://github.com/Vaibhavwani11)
   - [Vamsi Ravi](https://github.com/vamsi963601)
   - [Varghese Jose](https://github.com/varghesejose2020/)
+  - [Vedant Pandya](https://www.github.com/pandyaved98)
   - [Venkata Mouli](https://github.com/mouli3029)
   - [Vicky Gupta](https://github.com/viki4545)
   - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
