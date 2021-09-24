@@ -117,8 +117,8 @@ Hurray! You successfully made a contribution! 🎉
 - ### **A**
 
   - [Aakarsh Teja](https://github.com/aakarshteja)
-  - [Aathira](https://github.com/aathirav06)
   - [Aarul Mishra](https://github.com/Aarul14)
+  - [Aathira](https://github.com/aathirav06)
   - [Abdullahi Musa](https://github.com/Abdullahi001)
   - [Abdulmalik Adekunle](https://github.com/Adekunle27)
   - [Abhay Raghuram](https://github.com/AbhayRaghuram)
