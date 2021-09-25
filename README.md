@@ -428,9 +428,10 @@ Hurray! You successfully made a contribution! 🎉
   - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
   - [Prince Patel](https://github.com/prince02765)
   - [Prithviraj Biswas](https://github.com/prithvirajbytes)
-  - [Puneeth P Gowda](https://github.com/puneeth-techie)
-  - [Pushkar Dave](https://github.com/lynx1902)
   - [Pulkit Bhargava](https://github.com/Pulkit007)
+  - [Puneeth P Gowda](https://github.com/puneeth-techie)
+  - [Puppala Venkata Bhaskar](https://github.com/venkatabhaskar3000)
+  - [Pushkar Dave](https://github.com/lynx1902)
 
 - ### **Q**
 
