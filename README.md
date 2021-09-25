@@ -470,6 +470,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **S**
 
   - [Safa Abidi](https://github.com/safa-abidi)
+  - [Sahil Jain](https://github.com/imsahiljain)
   - [Sahil Khandelwal](https://github.com/sahilcode17)
   - [Sahitya Roy](https://github.com/SahityaRoy)
   - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
