@@ -181,6 +181,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Arnav Sharma](https://github.com/arnav1776)
   - [Arshdeep Singh](https://github.com/Arshdeep-0509)
   - [Arsheel](https://github.com/arsheelsheikh)
+  - [ArunKumar Nadikattu](https://github.com/mastrero)
   - [Aryabhatta](https://github.com/mrbuddhu)
   - [Aryan Jain](https://github.com/coolAryan)
   - [Aryan Raj](https://github.com/aryaraj132)
