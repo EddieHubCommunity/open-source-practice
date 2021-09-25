@@ -279,6 +279,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Gladson Sethiel](https://github.com/gsonly)
   - [Gowtham P B](https://github.com/GowthamPB)
   - [Grawish Sachdeva](https://github.com/grawish)
+  - [Gunjan Gupta](https://github.com/gunjan-g)
 
 - ### **H**
 
@@ -375,6 +376,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Mohamed Naufal A](https://github.com/Naufal2511)
   - [Mohd Imran](https://github.com/stark255)
   - [Mohit Deshwal](https://github.com/mohit01-beep)
+  - [Moizuddin Qureshi](https://github.com/imoizuddin)
   - [Mridul Birla](https://github.com/Mridulbirla13)
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mukul Sharma](https://github.com/mukul98s)
@@ -422,6 +424,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Prashant Shukla](https://github.com/prashantlv)
   - [Prathamesh Borse](https://github.com/viraldevpb)
   - [Prathamesh Giri](https://github.com/Pratham31)
+  - [Prathamesh Thombre](https://github.com/pratham022)
   - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
   - [Prince Patel](https://github.com/prince02765)
   - [Prithviraj Biswas](https://github.com/prithvirajbytes)
