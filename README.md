@@ -524,6 +524,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Subhangini](https://github.com/Subhangini)
   - [Suhaas](https://github.com/suhaaskataria)
   - [Suhail Khan](https://github.com/suhail34)
+  - [Sujana Kamasany](https://github.com/sujana-kamasany)
   - [Suman Sahoo](https://github.com/suman-somu)
   - [Sumeet Naik](https://github.com/sumeetweb)
   - [Sumeet](https://github.com/LegendSumeet)
