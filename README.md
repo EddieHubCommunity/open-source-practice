@@ -432,8 +432,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Puneeth P Gowda](https://github.com/puneeth-techie)
   - [Puppala Venkata Bhaskar](https://github.com/venkatabhaskar3000)
   - [Pushkar Dave](https://github.com/lynx1902)
-  
-  
 
 - ### **Q**
 
