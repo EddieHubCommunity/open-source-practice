@@ -538,10 +538,10 @@ Hurray! You successfully made a contribution! 🎉
 - ### **T**
 
   - [Tamal Das](https://github.com/IAmTamal)
+  - [Tanaya Wankar](https://github.com/tanaya123-comp)
   - [Taneem Jan](https://github.com/taneemishere)
   - [Tannu Daral](https://github.com/tannudaral)
   - [Tanya Powell](https://github.com/tanyapowell)
-  - [Tanaya Wankar](https://github.com/tanaya123-comp)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
   - [Tejas Shah](https://github.com/Hero4440)
   - [Tejas Tank](https://github.com/136tejas)
@@ -549,7 +549,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
   
-
 - ### **U**
 
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
