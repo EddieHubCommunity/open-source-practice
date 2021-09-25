@@ -174,6 +174,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Anton Samper Rivaya](https://github.com/antonsamper/)
   - [Anubhav Gupta](https://github.com/anubhav06/)
   - [Anubhav Purohit](https://github.com/Anubhav-byte)
+  - [Anuj Tiwari](https://github.com/ANUJTIWARI007)
   - [Anurag Sharma](https://github.com/Anurag30112003)
   - [Appygal](https://github.com/appygal)
   - [Arghya Das](https://github.com/itsarghyadas)
