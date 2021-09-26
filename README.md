@@ -581,7 +581,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Vladyslav Kyiashko](https://github.com/vlakyi)
   - [Vrukshali Torawane](https://github.com/Vrukshali-26)
 
-
 - ### **W**
 
   - [Wahyu Wiyoko](https://github.com/wahyuwiyoko)
