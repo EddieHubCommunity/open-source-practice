@@ -543,6 +543,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **T**
 
   - [Tamal Das](https://github.com/IAmTamal)
+  - [Tanaya Wankar](https://github.com/tanaya123-comp)
   - [Taneem Jan](https://github.com/taneemishere)
   - [Tannu Daral](https://github.com/tannudaral)
   - [Tanya Powell](https://github.com/tanyapowell)
@@ -552,7 +553,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
-
 - ### **U**
 
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
