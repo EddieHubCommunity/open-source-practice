@@ -155,6 +155,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aman Arora](https://github.com/sheisAman)
   - [Aman Kuliyal](https://github.com/Iconic-It-Is)
   - [Aman Shrivastava](https://github.com/aman34503)
+  - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
   - [Aman Verma](https://github.com/amanpro1)
   - [Amitesh Anand](https://github.com/Astrodevil)
   - [Amrutha C.K.](https://github.com/Amrutha1101)
