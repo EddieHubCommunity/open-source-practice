@@ -444,6 +444,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **R**
 
+  - [R Varshith Kumar](https://github.com/codefromrvk)
   - [Rahman Haroon](https://github.com/rahmanharoon)
   - [Rahul Soni](https://github.com/RahulSoni0)
   - [Rahul Sood](https://github.com/DireWolf707)
