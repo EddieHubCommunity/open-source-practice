@@ -154,6 +154,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Alpadmin](https://github.com/hasthamalp/)
   - [Aman Arora](https://github.com/sheisAman)
   - [Aman Kuliyal](https://github.com/Iconic-It-Is)
+  - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
   - [Aman Shrivastava](https://github.com/aman34503)
   - [Aman Verma](https://github.com/amanpro1)
   - [Amitesh Anand](https://github.com/Astrodevil)
@@ -200,7 +201,6 @@ Hurray! You successfully made a contribution! 🎉
   - [AvidCoder101](https://github.com/AvidCoder101)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kumar](https://github.com/Ayush7614)
-  - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 
 - ### **B**
 
