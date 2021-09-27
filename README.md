@@ -42,7 +42,7 @@ Questions can be asked by raising an `Issue`.
 - switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
 
 ```
-  cd hacktoberfest-practice
+  cd hacktoberfest-practices
 ```
 
 - Make a new branch. Your name would make a good branch because it's unique
@@ -112,8 +112,8 @@ Hurray! You successfully made a contribution!
 
 ### **Contents:**
 
-|  |         |      |      |     |
-| ---------| ------- | ---- | ---- | --- |
+|          |         |      |      |     |          |
+| ---------| ------- | ---- | ---- | --- | -------- |
 | [A](#a)  | [G](#g) | [M](#m) | [S](#s) | [Y](#y) |
 | [B](#b)  | [H](#h) | [N](#n) | [T](#t) | [Z](#z) |
 | [C](#c)  | [I](#i) | [O](#o) | [U](#u) |
