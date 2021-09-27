@@ -199,6 +199,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Atharva Chandwadkar](https://github.com/atharav21-stack)
   - [Atharva Ikhar](https://github.com/iatharva)
   - [Atharva Mogade](https://github.com/atharvamogade)
+  - [Atharva Pingale](https://github.com/atharva0300)
   - [Atulya Singh](https://github.com/oreo-gif)
   - [AvidCoder101](https://github.com/AvidCoder101)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
