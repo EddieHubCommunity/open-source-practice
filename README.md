@@ -561,6 +561,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Tejas Shah](https://github.com/Hero4440)
   - [Tejas Tank](https://github.com/136tejas)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
+  - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
 - ### **U**
