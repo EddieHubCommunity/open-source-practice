@@ -298,6 +298,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Harshit Aditya](https://github.com/HarshitAditya27)
   - [Harshit Parwal](https://github.com/harshitparwal)
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
+  - [Hemang Ranjan](https://github.com/Hemang417)
   - [Hemant Bajaj](https://github.com/ORKO06)
   - [Hemanth Sai Garladinne](https://github.com/HemanthSai7)
   - [Hernando Guzmán](https://github.com/hernandoagf)
@@ -564,6 +565,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
+
 - ### **U**
 
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
