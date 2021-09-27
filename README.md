@@ -170,6 +170,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aniket Singh](https://github.com/aniketsingh98571)
   - [Animesh Pathak](https://github.com/sonichigo)
   - [Anirudh Eyyani](https://github.com/AnirudhEyyani)
+  - [Aniruddha Inge](https://github.com/Aniruddha-Inge)
   - [Anjali Goswami](https://github.com/anjaligoswami)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
   - [annu](https://github.com/annu12340)
