@@ -169,6 +169,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aniket Kumar Ghosh](https://github.com/ak7550)
   - [Aniket Singh](https://github.com/aniketsingh98571)
   - [Animesh Pathak](https://github.com/sonichigo)
+  - [Aniruddha Inge](https://github.com/Aniruddha-Inge)
   - [Anirudh Eyyani](https://github.com/AnirudhEyyani)
   - [Anjali Goswami](https://github.com/anjaligoswami)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
