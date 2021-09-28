@@ -144,6 +144,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Ahamed Basha N](https://github.com/ahamedbasha-n)
   - [Ahmad Lemine](https://github.com/ahmadlemine/)
   - [Ahmed Muhammed Galadima](https://github.com/ApolloDev0/)
+  - [Akhilesh Waghmare](https://github.com/akhilesh-w)
   - [Akindotuni Ademola](https://github.com/demolaemrick)
   - [Akintokun Pelumi Eyitimonwa](https://github.com/Timonwa)
   - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
