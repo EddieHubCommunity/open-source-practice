@@ -405,6 +405,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Nathan Byrne](https://github.com/naefun/)
   - [Nazeeya Azeem](https://github.com/naz2001)
   - [Neeraj Kumar Singh](https://github.com/neerajsingh869)
+  - [Neetesh Kumar Sharma](https://github.com/Neeteshking21)
   - [Nidhi Kumari](https://github.com/Nidhikumari-4)
   - [Nikhil Shanbhag](https://github.com/Nikhil-1503)
   - [Nikhil Sharma](https://github.com/NikhilSharma03)
@@ -513,6 +514,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
   - [Shaun Fitzgibbon](https://github.com/Sfitzg)
   - [Shreyaans Jain](https://github.com/shreyaansjain06)
+  - [Shreyam Sarkar](https://github.com/darkhorse-2000)
   - [Shubham Ayush](https://github.com/shubhamayush12)
   - [Shubham Hadake](https://github.com/Shubham714)
   - [Shubham Kukreti](https://github.com/KukretiShubham)
@@ -537,6 +539,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Srinath](https://github.com/srinath1412001)
   - [Sri Venkat](https://github.com/srivenkat13)
   - [Stephen Mount](https://github.com/stemount)
+  - [Stevie Gill](https://github.com/caffeinated-pixels)
   - [Subhadeep](https://github.com/subhodynamics)
   - [Subhangini](https://github.com/Subhangini)
   - [Suhaas](https://github.com/suhaaskataria)
@@ -584,6 +587,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **V**
 
   - [Vaibhav Wani](https://github.com/Vaibhavwani11)
+  - [Vaishnavi Bholane](https://github.com/vaishnavi-bholane)
   - [Vamsi Ravi](https://github.com/vamsi963601)
   - [Varghese Jose](https://github.com/varghesejose2020/)
   - [Vedant Pandya](https://www.github.com/pandyaved98)
