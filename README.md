@@ -383,6 +383,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
   - [Mike Hatch](https://github.com/mikeshatch)
   - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
+  - [Moeen Ul Islam](https://github.com/moeen-ul-islam)
   - [Mohamed Al-Rifay](https://github.com/alrifay)
   - [Mohamed Mehdi Gara](https://github.com/mohamedmehdigara)
   - [Mohamed Naufal A](https://github.com/Naufal2511)
