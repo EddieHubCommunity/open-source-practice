@@ -366,7 +366,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Lundbyit](https://github.com/Lundbyit)
 
 - ### **M**
-  - [Moeen Ul Islam](https://github.com/moeenulislam)
   - [Mahesh Pawar](https://github.com/maheshvpawar)
   - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
   - [Manasi Mulay](https://github.com/manasi-mulay)
@@ -384,6 +383,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Mike Hatch](https://github.com/mikeshatch)
   - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
   - [Mohamed Al-Rifay](https://github.com/alrifay)
+  - [Moeen Ul Islam](https://github.com/moeen-ul-islam)
   - [Mohamed Mehdi Gara](https://github.com/mohamedmehdigara)
   - [Mohamed Naufal A](https://github.com/Naufal2511)
   - [Mohd Imran](https://github.com/stark255)
