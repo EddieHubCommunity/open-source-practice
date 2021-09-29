@@ -230,6 +230,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Conor O Shea](https://github.com/conoroshea1996)
   - [Crislana Rafael](https://github.com/crislanarafael)
   - [Cux Sabrina](https://github.com/theflucs)
+  - [Cherish Sachdeva](https://github.com/csachdeva83)
 
 - ### **D**
 
