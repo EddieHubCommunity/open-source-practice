@@ -323,6 +323,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **J**
 
+  - [Jacob Lepler](https://github.com/leplerjacob)
   - [Jade Kneen](https://github.com/jadekneen)
   - [Jagan Sekaran](https://github.com/JAG-010)
   - [Jaime Jones](https://github.com/jaime-lynn)
