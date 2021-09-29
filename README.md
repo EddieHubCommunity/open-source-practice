@@ -434,6 +434,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Pablo Lorenzo](https://github.com/Ll2NZ/)
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
   - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
+  - [Piyush Dhir](https://github.com/piyushdhir1)
   - [Pradhumn Dave](https://github.com/davedevelopers)
   - [Pranav Kotak](https://github.com/pranavkotak8)
   - [Pranav Pratap Singh](https://github.com/Pranav108)
