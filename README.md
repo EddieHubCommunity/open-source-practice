@@ -290,6 +290,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Gautam Goyal](https://github.com/Gautam1302)
   - [Genesis Gabiola](https://github.com/genesisgabiola)
   - [Gladson Sethiel](https://github.com/gsonly)
+  - [Gokulraj Puviyarasu](https://github.com/gokulrajpuviyarasu)
   - [Gowtham P B](https://github.com/GowthamPB)
   - [Grawish Sachdeva](https://github.com/grawish)
   - [Gunjan Gupta](https://github.com/gunjan-g)
