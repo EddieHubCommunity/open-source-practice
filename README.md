@@ -222,6 +222,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Caden Parker](https://github.com/Ne0nWinds)
   - [Cahllagerfeld](https://github.com/Cahllagerfeld)
   - [Charlotte Jewer](https://github.com/Charlotte990)
+  - [Cherish Sachdeva](https://github.com/csachdeva83)
   - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
   - [Chinmay Mulay](https://github.com/cmulay)
   - [Chris Moreton](https://github.com/chris-moreton/)
