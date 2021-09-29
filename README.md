@@ -587,6 +587,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **V**
 
+  - [Vaibhav Sharma](https://github.com/AlphaVS-76)
   - [Vaibhav Wani](https://github.com/Vaibhavwani11)
   - [Vaishnavi Bholane](https://github.com/vaishnavi-bholane)
   - [Vamsi Ravi](https://github.com/vamsi963601)
