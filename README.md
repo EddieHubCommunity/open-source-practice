@@ -337,6 +337,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Jay Sudani](https://github.com/jaysudani)
   - [Jayvir Rathi](https://github.com/Jayvirrathi)
   - [Jessica Salbert](https://github.com/jessicasalbert)
+  - [Jessica Teo](https://github.com/jessicateocw)
   - [Jivthesh](https://github.com/jivthesh)
   - [Johanna](https://github.com/Johanna-hub)
   - [John Daniel](https://github.com/johndanny98)
