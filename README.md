@@ -546,6 +546,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sreekar Tammana](https://github.com/Sreekar-Tammana)
   - [Srihari S](https://github.com/Liri-s29)
   - [Srinath](https://github.com/srinath1412001)
+  - [Srinivas](https://github.com/Mrdecent08)
   - [Sri Venkat](https://github.com/srivenkat13)
   - [Stephen Mount](https://github.com/stemount)
   - [Stevie Gill](https://github.com/caffeinated-pixels)
