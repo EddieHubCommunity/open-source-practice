@@ -354,6 +354,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Khalid Khan](https://github.com/pablochocobae)
   - [Khushaal Choithramani](https://github.com/khushxxl)
   - [Khushal Sachdeva](https://github.com/CodeKhushal)
+  - [Khushi Shukla](https://github.com/khushi818)
   - [Kidus Solomon](https://github.com/kidussolo)
   - [Krish](https://github.com/krishdevdb)
   - [Krishna Kumar](https://github.com/Krishnapro)
