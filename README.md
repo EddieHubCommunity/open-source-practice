@@ -358,6 +358,9 @@ Hurray! You successfully made a contribution! 🎉
   - [Krishna R](https://github.com/Krishna-Ravi)
   - [Kumari Astha Rani](https://github.com/astha2412)
   - [Kunal Patil](https://github.com/Kunal0007)
+  - [Kunal Sangtiani](
+    https://github.com/Kunals131)
+
   - [Kuwar Kapur](https://github.com/kuwarkapur)
 
 - ### **L**
