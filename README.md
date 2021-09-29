@@ -456,6 +456,7 @@ Hurray! You successfully made a contribution! 🎉
 
   - [R Varshith Kumar](https://github.com/codefromrvk)
   - [Rahman Haroon](https://github.com/rahmanharoon)
+  - [Rahul Kumar Roy](https://github.com/mRahulRoy)
   - [Rahul Soni](https://github.com/RahulSoni0)
   - [Rahul Sood](https://github.com/DireWolf707)
   - [Rahul](https://github.com/kohli6010)
@@ -486,7 +487,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Russ Perry](https://github.com/rperry99)
   - [Rutik Bhoyar](https://github.com/Rutikab12)
   - [Rwitesh Bera](https://github.com/rwiteshbera)
-  - [Rahul Kumar Roy](https://github.com/mRahulRoy)
 
 - ### **S**
 
