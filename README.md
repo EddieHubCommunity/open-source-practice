@@ -364,6 +364,7 @@ Hurray! You successfully made a contribution! 🎉
 
   - [Lishu Gupta](https://github.com/lishugupta652)
   - [Lundbyit](https://github.com/Lundbyit)
+  - [Lohit Yarra](https://github.com/lohityarra)
 
 - ### **M**
 
