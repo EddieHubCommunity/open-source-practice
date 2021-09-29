@@ -241,6 +241,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Darsh Gupta](https://github.com/DarshGupta1910)
   - [Dave Bhandari](https://github.com/Davekibh)
   - [David Leal](https://github.com/Panquesito7)
+  - [Davin S](https://github.com/davin2020)
   - [Debbie D](https://github.com/hellodeborahuk)
   - [Deepak B](https://github.com/sbdeepu09)
   - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
