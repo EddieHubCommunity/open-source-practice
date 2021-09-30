@@ -543,6 +543,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Shyam](https://github.com/XShyam)
   - [Siddhant Khare](https://github.com/Siddhant-K-code)
   - [Siddhant Khisty](https://github.com/SiddhantKhisty)
+  - [Siddharth Bihani](https://github.com/siddharthbihani)
   - [Siddharth Singh Chouhan](https://github.com/Sid672)
   - [Silas Omurunga](https://github.com/Simbadeveloper)
   - [Simran Biswas](https://github.com/simranbiswas)
