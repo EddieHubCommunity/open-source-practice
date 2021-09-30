@@ -563,6 +563,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Stevie Gill](https://github.com/caffeinated-pixels)
   - [Subhadeep](https://github.com/subhodynamics)
   - [Subhangini](https://github.com/Subhangini)
+  - [Sugam50](https://github.com/Sugam50)
   - [Suhaas](https://github.com/suhaaskataria)
   - [Suhail Khan](https://github.com/suhail34)
   - [Sujana Kamasany](https://github.com/sujana-kamasany)
