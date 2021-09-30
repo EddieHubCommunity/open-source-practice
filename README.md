@@ -632,6 +632,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Yashesvinee V](https://github.com/Yashesvinee)
   - [Yaswanth Modepalli](https://github.com/Yaswanth14)
   - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
+  - [Yamini Singh](https://github.com/yamini-singh169)
 
 - ### **Z**
 
