@@ -274,6 +274,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **F**
 
+  - [Fayas Noushad](https://github.com/FayasNoushad)
   - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
   - [Fatma](https://github.com/fatmab28)
   - [Femi Oluwadamilola](https://github.com/femiOluwadamilola)
