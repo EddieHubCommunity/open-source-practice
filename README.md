@@ -249,7 +249,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Dev Jain](https://github.com/889-dj)
   - [Devesh RB](https://github.com/Deveshb15)
   - [Dhairya Ostwal](https://github.com/dhairyaostwal)
-  - [Dhananjay Mahajan(https://github.com/Dhananjaymahajan2001)
+  - [Dhananjay Mahajan](https://github.com/Dhananjaymahajan2001)
   - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
   - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
   - [Diksha Chaudhari](https://github.com/dikshachaudhari4)
