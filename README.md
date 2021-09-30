@@ -534,6 +534,7 @@ Hurray! You successfully made a contribution!
 
 - ### **Y**
 
+  - [Yash Verma](https://github.com/Recognizeyourself)
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
   - [Yaswanth Modepalli](https://github.com/Yaswanth14)
   - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
