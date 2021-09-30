@@ -481,6 +481,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Riadh Laabidi](https://github.com/riadh26)
   - [Richard Bacon](https://github.com/RichardJonBacon)
   - [Rick Flores](https://github.com/RICK-FLORES)
+  - [Rik Chatterjee](https://github.com/Bluetoothworks)
   - [Rishabh Dhawad](https://github.com/RishabhDhawad)
   - [Rishabh Rathore](https://github.com/rishabhrathore055)
   - [Rishabh Singhal](https://github.com/rish-singhal)
