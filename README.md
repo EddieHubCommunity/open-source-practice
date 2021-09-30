@@ -362,6 +362,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Khushi Shukla](https://github.com/khushi818)
   - [Kidus Solomon](https://github.com/kidussolo)
   - [Krish](https://github.com/krishdevdb)
+  - [Krish Gupta](https://github.com/krishguptadev)
   - [Krishna Kumar](https://github.com/Krishnapro)
   - [Krishna R](https://github.com/Krishna-Ravi)
   - [Kumari Astha Rani](https://github.com/astha2412)
