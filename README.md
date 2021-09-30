@@ -131,6 +131,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Abuzer Asif](https://github.com/abuzerasif)
   - [Adarsh Navneet Sinha](https://github.com/geeky01adarsh)
   - [Aditi Goyal](https://github.com/AditiGoyal05)
+  - [Aditi Nimbarte](https://github.com/adinimbarte)
   - [Aditya Das](https://github.com/ThatOneBlodeKid)
   - [Aditya Mangal](https://github.com/adityamangal1)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
