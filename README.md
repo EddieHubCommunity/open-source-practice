@@ -176,6 +176,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Anjali Goswami](https://github.com/anjaligoswami)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
   - [annu](https://github.com/annu12340)
+  - [Anuj Kundar](https://github.com/Anuj-Kundar)
   - [Ansh Dhingra](https://github.com/anshdhinhgra47)
   - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
   - [Anton Samper Rivaya](https://github.com/antonsamper/)
