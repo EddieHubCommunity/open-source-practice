@@ -400,6 +400,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Mohd Imran](https://github.com/stark255)
   - [Mohit Deshwal](https://github.com/mohit01-beep)
   - [Moizuddin Qureshi](https://github.com/imoizuddin)
+  - [Molese](https://github.com/m0lese)
   - [Mridul Birla](https://github.com/Mridulbirla13)
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mukul Sharma](https://github.com/mukul98s)
