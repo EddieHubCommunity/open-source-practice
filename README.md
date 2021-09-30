@@ -257,6 +257,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Dipesh Babu](https://github.com/dipeshbabu)
   - [Dishon Kadoh](https://github.com/realestdon)
   - [Divakar R](https://github.com/rexdivakar)
+  - [Divash Gupta](https://github.com/Divxsh)
   - [Divlo](https://github.com/Divlo)
   - [Donkeshwar KavyaSree](https://github.com/kavyasree-2020)
   - [Douglas Franklin Idamezhim](https://github.com/Idamezhim)
