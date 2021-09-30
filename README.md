@@ -163,6 +163,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Ana Carrillo](https://github.com/acarrillo3)
   - [Anadya Nair](https://github.com/AnadyaNair)
   - [Ananya Banerjee](https://github.com/aspiringananya)
+  - [Anchal Singh](https://github.com/anchalsinghrajput)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
   - [Angel Dhakal](https://github.com/angeldhakal)
   - [Anh Tran](https://github.com/longqua69)
