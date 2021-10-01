@@ -178,7 +178,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Ankit Ojha] (https://github.com/ankitojha07)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
   - [annu](https://github.com/annu12340)
-  -[Anushka Shrivastava](https://github.com/anushka00)
+  
   - [Ansh Dhingra](https://github.com/anshdhinhgra47)
   - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
   - [Anton Samper Rivaya](https://github.com/antonsamper/)
@@ -187,6 +187,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Anuj Tiwari](https://github.com/ANUJTIWARI007)
   - [Anurag Pathak](https://github.com/AnuragThePathak)
   - [Anurag Sharma](https://github.com/Anurag30112003)
+  - [Anushka Shrivastava](https://github.com/anushka00)
   - [Appygal](https://github.com/appygal)
   - [Arghya Das](https://github.com/itsarghyadas)
   - [Arijit](https://github.com/arijitgupta42)
