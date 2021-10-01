@@ -645,6 +645,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **Y**
 
+  - [Yahya Khan](https://github.com/yahyakhn)
   - [Yash Verma](https://github.com/Recognizeyourself)
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
   - [Yashesvinee V](https://github.com/Yashesvinee)
