@@ -561,7 +561,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sri Venkat](https://github.com/srivenkat13)
   - [Stephen Mount](https://github.com/stemount)
   - [Stevie Gill](https://github.com/caffeinated-pixels)
-  - [STILLWATER] (https://git.io/stillwater)
+  - [STILLWATER](https://github.com/ST1LLWATER)
   - [Subhadeep](https://github.com/subhodynamics)
   - [Subhangini](https://github.com/Subhangini)
   - [Suhaas](https://github.com/suhaaskataria)
