@@ -50,7 +50,7 @@ Questions can be asked by raising an `Issue`.
 
 - Open the `README.md` file
 
-- #### Add your name to the section ([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page. Then save your changes
+- #### Add your name to the section ([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page. Then save your changes. 
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
