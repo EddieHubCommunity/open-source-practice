@@ -424,6 +424,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Nazeeya Azeem](https://github.com/naz2001)
   - [Neeraj Kumar Singh](https://github.com/neerajsingh869)
   - [Neetesh Kumar Sharma](https://github.com/Neeteshking21)
+  - [Nicholas Pitt](https://githib.com/WelshKaibigan)
   - [Nidhi Kumari](https://github.com/Nidhikumari-4)
   - [Nikhil Shanbhag](https://github.com/Nikhil-1503)
   - [Nikhil Sharma](https://github.com/NikhilSharma03)
