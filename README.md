@@ -558,6 +558,7 @@ Hurray! You successfully made a contribution! 🎉
   - [SMak06](https://github.com/SMak06)
   - [smir45](https://github.com/smir45)
   - [Sohan Shetty](https://github.com/sohan9819)
+  - [Soham Purohit](https://github.com/soham117)
   - [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
   - [Soumava Das](https://github.com/Soumava-221B)
   - [Soumya Sharma](https://github.com/soumyaa1804)
