@@ -273,6 +273,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **E**
 
   - [Eddie Jaoude](https://github.com/eddiejaoude)
+  - [Edgar Ssensalo](https://github.com/ssensalo)
   - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
   - [Emmy Steven](https://github.com/emmysteven)
   - [essarrgee](https://github.com/essarrgee)
