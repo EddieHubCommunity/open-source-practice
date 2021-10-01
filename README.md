@@ -465,6 +465,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Pulkit Bhargava](https://github.com/Pulkit007)
   - [Puneeth P Gowda](https://github.com/puneeth-techie)
   - [Puppala Venkata Bhaskar](https://github.com/venkatabhaskar3000)
+  - [Purneswar Prasad](https://github.com/PurneswarPrasad)
   - [Pushkar Dave](https://github.com/lynx1902)
 
 - ### **Q**
