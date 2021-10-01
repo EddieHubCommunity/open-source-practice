@@ -444,6 +444,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **P**
 
   - [Pablo Lorenzo](https://github.com/Ll2NZ/)
+  - [Parthiv Sarma](https://github.com/sarmaparthiv)
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
   - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
   - [Piyush Dhir](https://github.com/piyushdhir1)
