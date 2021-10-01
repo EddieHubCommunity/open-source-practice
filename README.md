@@ -629,6 +629,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Vikas Ganiga](https://github.com/vikasganiga05/)
   - [Vince Y](https://github.com/vmyu)
   - [Vinicius Ramos](https://github.com/redrookie)
+  - [Visinigiri Aditya](https://github.com/adityakumar48)
   - [Vishnu](https://github.com/shukl08vk)
   - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
   - [Vivek Jaiswar](https://github.com/Narcos101)
