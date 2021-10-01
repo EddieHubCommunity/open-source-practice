@@ -186,6 +186,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Anuj Tiwari](https://github.com/ANUJTIWARI007)
   - [Anurag Pathak](https://github.com/AnuragThePathak)
   - [Anurag Sharma](https://github.com/Anurag30112003)
+  - [Anushka Shrivastava](https://github.com/anushka00)
   - [Appygal](https://github.com/appygal)
   - [Arghya Das](https://github.com/itsarghyadas)
   - [Arijit](https://github.com/arijitgupta42)
