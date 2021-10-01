@@ -79,7 +79,7 @@ or
   git status
 ```
 
-- The response should be like this - 
+- The response should be like this:
 
 ```
 On branch <name-of-your-branch>
