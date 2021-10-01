@@ -535,6 +535,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sejal Zambare](https://github.com/Sejal-16)
   - [Shabi Kaushal](https://github.com/msbuddhu)
   - [Shahan](https://github.com/shahan007)
+  - [Shaikh Mohammad Danish](https://github.com/SMD-1)
   - [Shambashib Majumdar](https://github.com/shambashib20)
   - [Shanmuganathanb](https://github.com/Shanmuganathanb)
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
