@@ -524,6 +524,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sandeep Kumar Lenka](https://github.com/sandeeplenka)
   - [Sanyam Gupta](https://github.com/sanyam19)
   - [Sarthak Mallick](https://github.com/Sarthakm17)
+  - [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
   - [Sarvesh Patil](https://github.com/sarveshspatil111)
   - [Sarwar Ahmed](https://github.com/SarwarAhmed)
   - [Satya Abhishek](https://github.com/kashek85)
