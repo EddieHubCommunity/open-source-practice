@@ -490,6 +490,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Riadh Laabidi](https://github.com/riadh26)
   - [Richard Bacon](https://github.com/RichardJonBacon)
   - [Rick Flores](https://github.com/RICK-FLORES)
+  - [Ridhima](https://github.com/ridz0326)
   - [Rik Chatterjee](https://github.com/Bluetoothworks)
   - [Rishabh Dhawad](https://github.com/RishabhDhawad)
   - [Rishabh Rathore](https://github.com/rishabhrathore055)
