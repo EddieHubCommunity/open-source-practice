@@ -165,6 +165,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Anadya Nair](https://github.com/AnadyaNair)
   - [Ananya Banerjee](https://github.com/aspiringananya)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
+  - [Anjan Diyora](https://github.com/Anjan50)
   - [Angel Dhakal](https://github.com/angeldhakal)
   - [Anh Tran](https://github.com/longqua69)
   - [Aniket Kumar](https://github.com/aniket-24)
