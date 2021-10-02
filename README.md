@@ -28,7 +28,7 @@ Questions can be asked by raising an `Issue`.
 
 ## How to clone repo and make changes locally after forking
 
-- Click on the  green `Code` button, then either the HTTPS or SSH option and click the icon to copy the URL. This will give you a copy of the project, so you can play around with it locally on your computer.
+- Click on the green `Code` button, then either the HTTPS or SSH option and click the icon to copy the URL. This will give you a copy of the project, so you can play around with it locally on your computer.
 
 - Using Git on your local machine and paste in the URL. Do this to download the forked copy of this repo to your computer.
 
@@ -50,7 +50,7 @@ Questions can be asked by raising an `Issue`.
 
 - Open the `README.md` file
 
-- #### Add your name to the section ([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page. Then save your changes. 
+- #### Add your name to the section ([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page. Then save your changes.
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
@@ -100,6 +100,7 @@ or
 ```
 
 In case you get an error message like the one below, its likely you forgot to fork the repo before cloning it. To fix this, its best to start over with the How to Contribute section above, and fork the project repo first.
+
 ```
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
@@ -109,7 +110,7 @@ Please make sure you have the correct access rights and the repository exists.
 - On the GitHub website, navigate to your forked repo - on the top of the files section you'll notice a new section containing a `Compare & Pull Request` button!
 
 - Click on that button and this will load a new page, comparing the local branch in your forked repo, against the main branch in the EddieHub Hacktoberfest repo. Accept the default values in the drop down boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request) our GitHub Actions workflow will add a welcome message to your PR.
-Note: A pull request allows your changes to be merged with the original project repo.
+  Note: A pull request allows your changes to be merged with the original project repo.
 
 - Wait for your changes to be merged.
 
@@ -658,6 +659,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Vikas Ganiga](https://github.com/vikasganiga05/)
   - [Vince Y](https://github.com/vmyu)
   - [Vinicius Ramos](https://github.com/redrookie)
+  - [Viraj Shukla](https://github.com/VirajS00)
   - [Visinigiri Aditya](https://github.com/adityakumar48)
   - [Vishnu](https://github.com/shukl08vk)
   - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
