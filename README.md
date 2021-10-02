@@ -478,6 +478,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Prathamesh Borse](https://github.com/viraldevpb)
   - [Prathamesh Giri](https://github.com/Pratham31)
   - [Prathamesh Thombre](https://github.com/pratham022)
+  - [Prateek Singh](https://github.com/psb27)
   - [Pratik Dey](https://github.com/PratikDey)
   - [Praveen Kumar Purushothaman](https://github.com/praveenscience/)
   - [Prince Patel](https://github.com/prince02765)
