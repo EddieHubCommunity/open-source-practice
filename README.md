@@ -215,6 +215,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aryan Srivastava](https://github.com/Aryan-Srivastava)
   - [Asharib Ahmed](https://github.com/Asharib90)
   - [Ashish Chavan](https://github.com/AshishChavan98)
+  - [Ashish Prasad](https://github.com/coolashishpt)
   - [Ashwin Kumar Uppala](https://github.com/ashwinexe)
   - [Asmit Kumar Sirohi](https://github.com/asmitsirohi)
   - [Aswin Asok](https://github.com/AswinAsok)
@@ -226,7 +227,6 @@ Hurray! You successfully made a contribution! 🎉
   - [AvidCoder101](https://github.com/AvidCoder101)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kumar](https://github.com/Ayush7614)
-  - [Ashish Prasad](https://github.com/coolashishpt)
 
 - ### **B**
 
