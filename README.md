@@ -156,6 +156,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aditya Raute](https://github.com/adityaraute)
   - [Afnan](https://github.com/afuu21)
   - [Afroz Chakure](https://github.com/afrozchakure)
+  - [Aftab](https://github.com/aftabashraf003)
   - [Agbabiaka Damilare](https://github.com/AgbaD)
   - [Agnel Selvan](https://github.com/AgnelSelvan)
   - [Agus Richard](https://github.com/agusrichard)
