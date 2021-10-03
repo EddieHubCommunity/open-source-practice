@@ -151,6 +151,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aditi Nimbarte](https://github.com/adinimbarte)
   - [Aditya Das](https://github.com/ThatOneBlodeKid)
   - [Aditya Mangal](https://github.com/adityamangal1)
+  - [Aditya Ojha](https://github.com/aditya1ojha)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
   - [Aditya Patel](https://github.com/adityatheoctocatdev)
   - [Aditya Raute](https://github.com/adityaraute)
