@@ -139,6 +139,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Abdulmalik Adekunle](https://github.com/Adekunle27)
   - [Abhay Raghuram](https://github.com/AbhayRaghuram)
   - [Abhay Shreevastava](https://github.com/abhay007kr)
+  - [Abhinav Raman](https://github.com/abhinav-raman)
   - [Abhinav Reddy](https://github.com/AbhinavReddy-Dev/)
   - [Abhinav Saraswat](https://github.com/abhinavsaraswatt/)
   - [Abhinav Vedmala](https://github.com/mrswagbhinav/)
