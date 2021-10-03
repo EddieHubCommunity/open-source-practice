@@ -630,6 +630,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Tawfik Yasser](https://github.com/TawfikYasser)
   - [Tejas Shah](https://github.com/Hero4440)
   - [Tejas Tank](https://github.com/136tejas)
+  - [Tharaka Bandara](https://github.com/Ttecs)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tomo Bones](https://github.com/tomobones)
