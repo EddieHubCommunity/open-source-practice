@@ -630,7 +630,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
- 
 
 - ### **U**
 
