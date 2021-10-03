@@ -547,6 +547,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
   - [Sajid305](https://github.com/Sajid305)
   - [Saksham Sharma](https://github.com/SakshamSharma09)
+  - [Sam Sharma](https://github.com/javascript-spec)
   - [Samuel Z. Bouye](https://github.com/zamblebi)
   - [Samyak Jain](https://github.com/samyakjain10)
   - [Sandeep Kumar Lenka](https://github.com/sandeeplenka)
