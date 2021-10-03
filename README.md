@@ -567,6 +567,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Shanmuganathanb](https://github.com/Shanmuganathanb)
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
   - [Shaun Fitzgibbon](https://github.com/Sfitzg)
+  - [Shiladitya Bose](https://github.com/shiladityab24)
   - [Shreyaans Jain](https://github.com/shreyaansjain06)
   - [Shreyam Sarkar](https://github.com/darkhorse-2000)
   - [Shubham Ayush](https://github.com/shubhamayush12)
