@@ -411,6 +411,7 @@ Hurray! You successfully made a contribution! 🎉
 
   - [Mahesh Pawar](https://github.com/maheshvpawar)
   - [Mahnoor Anwar](https://github.com/Mahnoor-Anwar)
+  - [Maksim Zayakin](https://github.com/hirotasoshu)
   - [Manasi Mulay](https://github.com/manasi-mulay)
   - [Manish Rawat](https://github.com/R11manish)
   - [Manu Gupta](https://github.com/ManuGupta9780)
