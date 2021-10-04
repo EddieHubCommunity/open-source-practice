@@ -1,4 +1,4 @@
-<b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only!</b>
+﻿<b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only!</b>
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -689,6 +689,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **Y**
 
   - [Yahya Khan](https://github.com/yahyakhn)
+  - [Yash Sehgal](https://github.com/yashsehgal)
   - [Yash Verma](https://github.com/Recognizeyourself)
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
   - [Yashesvinee V](https://github.com/Yashesvinee)
