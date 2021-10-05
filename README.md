@@ -683,6 +683,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Vikas Ganiga](https://github.com/vikasganiga05/)
   - [Vince Y](https://github.com/vmyu)
   - [Vinicius Ramos](https://github.com/redrookie)
+  - [Vinayak Raj](https://github.com/vinayak0127)
   - [Viraj Shukla](https://github.com/VirajS00)
   - [Visinigiri Aditya](https://github.com/adityakumar48)
   - [Vishnu](https://github.com/shukl08vk)
