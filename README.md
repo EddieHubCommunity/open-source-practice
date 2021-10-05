@@ -333,6 +333,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Gaurav Pandey](https://github.com/gaurtvin)
   - [Gautam Goyal](https://github.com/Gautam1302)
   - [Genesis Gabiola](https://github.com/genesisgabiola)
+  - [Given Kibanza](https://github.com/givenkiban1)
   - [Gladson Sethiel](https://github.com/gsonly)
   - [Gokulraj Puviyarasu](https://github.com/gokulrajpuviyarasu)
   - [Gowtham P B](https://github.com/GowthamPB)
