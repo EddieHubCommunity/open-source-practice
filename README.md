@@ -491,6 +491,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
   - [Piyush Dhir](https://github.com/piyushdhir1)
   - [Pradhumn Dave](https://github.com/davedevelopers)
+  - [Prajwal Jaiswal](https://github.com/prajwalj27)
   - [Pranav Kotak](https://github.com/pranavkotak8)
   - [Pranav Pratap Singh](https://github.com/Pranav108)
   - [Pranay Gupta](https://github.com/thepranaygupta)
