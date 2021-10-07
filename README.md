@@ -475,6 +475,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Pranay Gupta](https://github.com/thepranaygupta)
   - [Prasanna Bisen](https://github.com/prasannabisen)
   - [Prashant Shukla](https://github.com/prashantlv)
+  - [Prateek Singh](https://github.com/psb27)
   - [Prathamesh Borse](https://github.com/viraldevpb)
   - [Prathamesh Giri](https://github.com/Pratham31)
   - [Prathamesh Thombre](https://github.com/pratham022)
