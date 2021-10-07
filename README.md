@@ -454,6 +454,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Mukul Sharma](https://github.com/mukul98s)
   - [Mulyadi](https://github.com/Urcane)
   - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
+  - [Milind Mishra](https://github.com/thatbeautifuldream)
 
 - ### **N**
 
