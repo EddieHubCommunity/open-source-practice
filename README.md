@@ -525,6 +525,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Rahul Sood](https://github.com/DireWolf707)
   - [Rahul](https://github.com/kohli6010)
   - [Raj Vaya](https://github.com/rajvaya)
+  - [Rajan Kumar Sharma](https://github.com/SharmaRajan)
   - [Raju Ghorai](https://github.com/coderj001)
   - [Rakesh Deka](https://github.com/rakeshdeka)
   - [Rakesh Mahato](https://github.com/rakeshmahato)
@@ -553,7 +554,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Russ Perry](https://github.com/rperry99)
   - [Rutik Bhoyar](https://github.com/Rutikab12)
   - [Rwitesh Bera](https://github.com/rwiteshbera)
-  - [Rajan Kumar Sharma](https://github.com/SharmaRajan)
+  
 
 - ### **S**
 
