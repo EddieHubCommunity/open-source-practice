@@ -484,6 +484,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Omkar Bhoir](https://github.com/omkar787)
   - [Omkar Jadhav](https://github.com/omkar342)
   - [Omkar Kulkarni](https://github.com/Omkar0114)
+  - [Onkar Dighe](https://github.com/onkardighe)
 
 - ### **P**
 
