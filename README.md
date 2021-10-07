@@ -535,6 +535,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Rwitesh Bera](https://github.com/rwiteshbera)
 
 - ### **S**
+
   - [Safa Abidi](https://github.com/safa-abidi)
   - [Sahil Jain](https://github.com/imsahiljain)
   - [Sahil Khandelwal](https://github.com/sahilcode17)
