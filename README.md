@@ -439,6 +439,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Meenal Jain](https://github.com/meenal21)
   - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
   - [Mike Hatch](https://github.com/mikeshatch)
+  - [Milind Mishra](https://github.com/thatbeautifuldream)
   - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
   - [Moeen Ul Islam](https://github.com/moeen-ul-islam)
   - [Mohamed Al-Rifay](https://github.com/alrifay)
@@ -454,7 +455,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Mukul Sharma](https://github.com/mukul98s)
   - [Mulyadi](https://github.com/Urcane)
   - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
-  - [Milind Mishra](https://github.com/thatbeautifuldream)
 
 - ### **N**
 
