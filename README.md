@@ -249,6 +249,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **B**
 
+  - [Biresh Biswas](https://github.com/Billa05)
   - [Benjamin Rukundo](https://github.com/rukundob451)
   - [Bhargav Avinash](https://github.com/bhargav794)
   - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
