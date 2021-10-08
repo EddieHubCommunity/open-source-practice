@@ -146,6 +146,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
   - [Aathira](https://github.com/aathirav06)
+  - [Aayush Sharma](https://github.com/SuperAayush)
   - [Abdullahi Musa](https://github.com/Abdullahi001)
   - [Abdulmalik Adekunle](https://github.com/Adekunle27)
   - [Abhay Raghuram](https://github.com/AbhayRaghuram)
