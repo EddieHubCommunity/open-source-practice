@@ -143,6 +143,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **A**
 
+  - [Aayush Sharma](https://github.com/SuperAayush)
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
   - [Aathira](https://github.com/aathirav06)
