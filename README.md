@@ -257,6 +257,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Bineet Naidu](https://github.com/bineetNaidu)
   - [Bryson M.](https://github.com/Bryson69)
   - [Buddhadeb Chhetri](https://github.com/Buddhad)
+  - [Bui Bao Long](https://github.com/longbuibao)
 
 - ### **C**
 
