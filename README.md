@@ -248,7 +248,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Ayesha Sahar](https://github.com/AyeshaSahar)
   - [Ayush Kumar](https://github.com/Ayush7614)
  
-
 - ### **B**
 
   - [Benjamin Rukundo](https://github.com/rukundob451)
