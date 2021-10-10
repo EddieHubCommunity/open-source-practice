@@ -139,6 +139,7 @@ Hurray! You successfully made a contribution! 🎉
 | [D](#d) | [J](#j) | [P](#p) | [V](#v) |
 | [E](#e) | [K](#k) | [Q](#q) | [W](#w) |
 | [F](#f) | [L](#l) | [R](#r) | [X](#x) |
+
 ---
 
 - ### **A**
@@ -432,6 +433,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Manish Rawat](https://github.com/R11manish)
   - [Manu Gupta](https://github.com/ManuGupta9780)
   - [Marios Georgiou](https://github.com/MariosGeorgiou)
+  - [Marius Gravningsmyhr](https://github.com/mariusgrHiof)
   - [Mark Murray](https://github.com/mark-d-murray)
   - [Martin Parker](https://github.com/RasPiPkr)
   - [Matthias Maier](https://github.com/NukeTheFridge)
