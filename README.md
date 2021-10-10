@@ -432,6 +432,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Manish Rawat](https://github.com/R11manish)
   - [Manu Gupta](https://github.com/ManuGupta9780)
   - [Marios Georgiou](https://github.com/MariosGeorgiou)
+  - [Marius Gravningsmyhr](https://github.com/mariusgrHiof)
   - [Mark Murray](https://github.com/mark-d-murray)
   - [Martin Parker](https://github.com/RasPiPkr)
   - [Matthias Maier](https://github.com/NukeTheFridge)
