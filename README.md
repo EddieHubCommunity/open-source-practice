@@ -485,6 +485,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **O**
 
+  - [Odin May](https://github.com/odinmay)
   - [Okute Wonah](https://github.com/okutewonah)
   - [Om Kumar](https://github.com/new-thang)
   - [Omkar Bhoir](https://github.com/omkar787)
