@@ -390,7 +390,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Jessica Teo](https://github.com/jessicateocw)
   - [Jivthesh](https://github.com/jivthesh)
   - [Johanna](https://github.com/Johanna-hub)
-    [John Muriu](https://github.com/john-muriu)
+-   [John Muriu](https://github.com/john-muriu)
   - [John Daniel](https://github.com/johndanny98)
   - [Jome Favourite](https://github.com/jomefavourite)
   - [Jonathan Niklasson Godar](https://github.com/JonathanGodar)
