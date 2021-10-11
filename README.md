@@ -139,6 +139,7 @@ Hurray! You successfully made a contribution! 🎉
 | [D](#d) | [J](#j) | [P](#p) | [V](#v) |
 | [E](#e) | [K](#k) | [Q](#q) | [W](#w) |
 | [F](#f) | [L](#l) | [R](#r) | [X](#x) |
+
 ---
 
 - ### **A**
@@ -390,6 +391,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Jessica Teo](https://github.com/jessicateocw)
   - [Jivthesh](https://github.com/jivthesh)
   - [Johanna](https://github.com/Johanna-hub)
+    [John Muriu](https://github.com/john-muriu)
   - [John Daniel](https://github.com/johndanny98)
   - [Jome Favourite](https://github.com/jomefavourite)
   - [Jonathan Niklasson Godar](https://github.com/JonathanGodar)
