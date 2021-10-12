@@ -421,6 +421,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **L**
 
+  - [Lazeeez](https://github.com/Lazeeez)
   - [Lishu Gupta](https://github.com/lishugupta652)
   - [Lundbyit](https://github.com/Lundbyit)
 
