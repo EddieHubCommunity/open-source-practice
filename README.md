@@ -217,6 +217,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Anubhav Purohit](https://github.com/Anubhav-byte)
   - [Anuj Tiwari](https://github.com/ANUJTIWARI007)
   - [Anurag Kumar](https://github.com/halfway-there1)
+  - [Anurag Kumar](https://github.com/kranurag7)
   - [Anurag Pathak](https://github.com/AnuragThePathak)
   - [Anurag Sharma](https://github.com/Anurag30112003)
   - [Anushka Raj](https://github.com/Anushka-codergirl)
