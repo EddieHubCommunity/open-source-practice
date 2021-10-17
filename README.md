@@ -686,6 +686,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
   - [Utkarsh Singh](https://github.com/Utkarsh299-tech/)
   - [Utkarsh Tomar](https://github.com/Utkarsh736)
+  - [Utpal Prajapati](https://github.com/Utpal29)
   - [Uttam Kumar](https://github.com/helper-uttam)
 
 - ### **V**
