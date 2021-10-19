@@ -415,6 +415,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Kidus Solomon](https://github.com/kidussolo)
   - [Krish](https://github.com/krishdevdb)
   - [Krish Gupta](https://github.com/krishguptadev)
+  - [Krishna Gupta](https://github.com/krishnazest)
   - [Krishna Kumar](https://github.com/Krishnapro)
   - [Krishna R](https://github.com/Krishna-Ravi)
   - [Kumari Astha Rani](https://github.com/astha2412)
