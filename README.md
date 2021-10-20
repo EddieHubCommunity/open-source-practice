@@ -252,6 +252,7 @@ Hurray! You successfully made a contribution! 🎉
 
   - [Benjamin Rukundo](https://github.com/rukundob451)
   - [Bhargav Avinash](https://github.com/bhargav794)
+  - [Bhargavi V](https://github.com/Bhar-02)
   - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
   - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
   - [Bhuvnesh Sharma](https://github.com/Bhuvnesh875)
