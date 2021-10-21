@@ -260,6 +260,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Bryson M.](https://github.com/Bryson69)
   - [Buddhadeb Chhetri](https://github.com/Buddhad)
   - [Bui Bao Long](https://github.com/longbuibao)
+  - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
 
 - ### **C**
 
