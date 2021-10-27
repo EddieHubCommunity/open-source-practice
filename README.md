@@ -139,6 +139,7 @@ Hurray! You successfully made a contribution! 🎉
 | [D](#d) | [J](#j) | [P](#p) | [V](#v) |
 | [E](#e) | [K](#k) | [Q](#q) | [W](#w) |
 | [F](#f) | [L](#l) | [R](#r) | [X](#x) |
+
 ---
 
 - ### **A**
@@ -542,6 +543,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Rahul](https://github.com/kohli6010)
   - [Raj Vaya](https://github.com/rajvaya)
   - [Rajan Kumar Sharma](https://github.com/SharmaRajan)
+  - [Rajat Mehra](https://github.com/rajat-mehra05)
   - [Raju Ghorai](https://github.com/coderj001)
   - [Rakesh Deka](https://github.com/rakeshdeka)
   - [Rakesh Mahato](https://github.com/rakeshmahato)
