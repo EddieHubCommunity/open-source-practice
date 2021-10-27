@@ -139,7 +139,6 @@ Hurray! You successfully made a contribution! 🎉
 | [D](#d) | [J](#j) | [P](#p) | [V](#v) |
 | [E](#e) | [K](#k) | [Q](#q) | [W](#w) |
 | [F](#f) | [L](#l) | [R](#r) | [X](#x) |
-
 ---
 
 - ### **A**
