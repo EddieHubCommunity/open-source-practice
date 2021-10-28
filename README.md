@@ -248,6 +248,7 @@ Hurray! You successfully made a contribution! 🎉
   - [AvidCoder101](https://github.com/AvidCoder101)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kumar](https://github.com/Ayush7614)
+  - [Ayush Mishra](https://github.com/ayush-sleeping)
 
 - ### **B**
 
