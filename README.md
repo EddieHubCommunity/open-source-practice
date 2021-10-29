@@ -311,7 +311,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
   - [Durvesh Kumar Pal](https://github.com/DurveshKumarPal)
   - [Dušan Tanasić](https://github.com/Duk4/)
-  
 
 - ### **E**
 
