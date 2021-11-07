@@ -4,7 +4,7 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 ---
 
-# Hacktoberfest
+# Hacktoberfest.
 
 What is it? Click on the poster below to watch the video for more details📽
 
@@ -12,13 +12,13 @@ What is it? Click on the poster below to watch the video for more details📽
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-# Hacktoberfest Practice Pull Requests
+# Hacktoberfest Practice Pull Requests:
 
 Repo for you to raise a Pull Request for practice.
 
 **Just add your name to the alphabetical list and optionally, a link to your GitHub account (In alphabetical order below your letter too)**
 
-## How to contribute (overall process)
+## How to contribute (overall process):
 
 1. Fork the project, using the gray `Fork` button in the top right of this page
 2. Make any changes in your forked repo
@@ -26,7 +26,7 @@ Repo for you to raise a Pull Request for practice.
 
 Questions can be asked by raising an `Issue`.
 
-## How to clone repo and make changes locally after forking
+## How to clone repo and make changes locally after forking:
 
 - Click on the green `Code` button, then either the HTTPS or SSH option and click the icon to copy the URL. This will give you a copy of the project, so you can play around with it locally on your computer.
 
