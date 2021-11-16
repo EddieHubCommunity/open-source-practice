@@ -506,6 +506,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **P**
 
   - [Pablo Lorenzo](https://github.com/Ll2NZ/)
+  - [Parth Gupta](https://github.com/parth-gpt)
   - [Parthiv Sarma](https://github.com/sarmaparthiv)
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
   - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
