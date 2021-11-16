@@ -447,6 +447,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Martin Parker](https://github.com/RasPiPkr)
   - [Matthias Maier](https://github.com/NukeTheFridge)
   - [Max Base](https://github.com/basemax)
+  - [Mayank Gupta](https://github.com/mayank-cse)
   - [Mayur Gupta](https://github.com/Mayurmg)
   - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
   - [Meenal Jain](https://github.com/meenal21)
