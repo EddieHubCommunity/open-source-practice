@@ -183,6 +183,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
   - [Akshayan Sinha](https://github.com/hippyaki)
   - [Alaba Olanrewaju](https://github.com/chryzcodez)
+  - [Aleksey Voko](https://github.com/Aleksey-Voko)
   - [Alex Valdez](https://github.com/arevaldez)
   - [Ali Mirrajei](https://github.com/alimirrajei)
   - [Alpadmin](https://github.com/hasthamalp/)
