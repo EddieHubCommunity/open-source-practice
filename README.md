@@ -255,6 +255,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **B**
 
+  - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
   - [Biresh Biswas](https://github.com/Billa05)
   - [Benjamin Rukundo](https://github.com/rukundob451)
   - [Bhargav Avinash](https://github.com/bhargav794)
