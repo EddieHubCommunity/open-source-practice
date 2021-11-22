@@ -145,6 +145,7 @@ Hurray! You successfully made a contribution! 🎉
 
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
+  - [Aashish-cyber](https://github.com/Aashish-cyber)
   - [Aathira](https://github.com/aathirav06)
   - [Aayush Sharma](https://github.com/SuperAayush)
   - [Abdullahi Musa](https://github.com/Abdullahi001)
@@ -209,6 +210,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aniruddha Inge](https://github.com/Aniruddha-Inge)
   - [Anirudh Eyyani](https://github.com/AnirudhEyyani)
   - [Anjali Goswami](https://github.com/anjaligoswami)
+  - [Anjan Diyora](https://github.com/Anjan50)
   - [Ankit Ojha](https://github.com/ankitojha07)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
   - [annu](https://github.com/annu12340)
@@ -253,6 +255,8 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **B**
 
+  - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
+  - [Biresh Biswas](https://github.com/Billa05)
   - [Benjamin Rukundo](https://github.com/rukundob451)
   - [Bhargav Avinash](https://github.com/bhargav794)
   - [Bhargavi V](https://github.com/Bhar-02)
@@ -426,12 +430,14 @@ Hurray! You successfully made a contribution! 🎉
   - [Krishna R](https://github.com/Krishna-Ravi)
   - [Kumari Astha Rani](https://github.com/astha2412)
   - [Kunal Patil](https://github.com/Kunal0007)
+  - [Kunal Sangtiani](https://github.com/Kunals131)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
 
 - ### **L**
 
   - [Lazeeez](https://github.com/Lazeeez)
   - [Lishu Gupta](https://github.com/lishugupta652)
+  - [Lohit Yarra](https://github.com/lohityarra)
   - [Lundbyit](https://github.com/Lundbyit)
 
 - ### **M**
@@ -596,6 +602,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sanskriti Gupta](https://github.com/sanskritigupta5)
   - [Sanyam Gupta](https://github.com/sanyam19)
   - [Sarthak Mallick](https://github.com/Sarthakm17)
+  - [Sarthak Rajput](https://github.com/rsarthak)
   - [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
   - [Sarvesh Patil](https://github.com/sarveshspatil111)
   - [Sarwar Ahmed](https://github.com/SarwarAhmed)
@@ -619,6 +626,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
   - [Shaun Fitzgibbon](https://github.com/Sfitzg)
   - [Shiladitya Bose](https://github.com/shiladityab24)
+  - [Shivendra K Jha](https://github.com/skjha1)
   - [Shreyaans Jain](https://github.com/shreyaansjain06)
   - [Shreyam Sarkar](https://github.com/darkhorse-2000)
   - [Shubham](https://github.com/shivsubh)
@@ -667,6 +675,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sumit Singh](https://github.com/Sin-Sumit)
   - [Sunrit Jana](https://github.com/janaSunrise)
   - [Suraj Kumar](https://github.com/skmodi649)
+  - [Sushant B](https://github.com/SUSHANT731)
   - [Swapna Devi](https://github.com/Swapna804)
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
@@ -683,6 +692,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Tejas Tank](https://github.com/136tejas)
   - [Tharaka Bandara](https://github.com/Ttecs)
   - [Thisaru Dilshan](https://github.com/ThisaruD)
+  - [Tikeshwar Sahu](https://github.com/Tiku24)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tomo Bones](https://github.com/tomobones)
@@ -692,6 +702,7 @@ Hurray! You successfully made a contribution! 🎉
 
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
   - [Ujjwal Gupta](https://github.com/UG-SEP)
+  - [Ujjwal Gupta](https://github.com/ujjwalgupta91250)
   - [Umesh Singh](https://github.com/Umesh-01)
   - [Urmil Rupareliya](https://github.com/urmil89)
   - [Usman Tatla](https://github.com/iTatla1)
@@ -737,6 +748,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **Y**
 
   - [Yahya Khan](https://github.com/yahyakhn)
+  - [Yamini Singh](https://github.com/yamini-singh169)
   - [Yash Sehgal](https://github.com/yashsehgal)
   - [Yash Verma](https://github.com/Recognizeyourself)
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
