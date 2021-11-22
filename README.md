@@ -667,6 +667,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sumit Singh](https://github.com/Sin-Sumit)
   - [Sunrit Jana](https://github.com/janaSunrise)
   - [Suraj Kumar](https://github.com/skmodi649)
+  - [Sushant B](https://github.com/SUSHANT731)
   - [Swapna Devi](https://github.com/Swapna804)
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
