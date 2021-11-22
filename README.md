@@ -250,6 +250,7 @@ Hurray! You successfully made a contribution! 🎉
 
 - ### **B**
 
+  - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
   - [Benjamin Rukundo](https://github.com/rukundob451)
   - [Bhargav Avinash](https://github.com/bhargav794)
   - [Bhargavi V](https://github.com/Bhar-02)
@@ -260,7 +261,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Bryson M.](https://github.com/Bryson69)
   - [Buddhadeb Chhetri](https://github.com/Buddhad)
   - [Bui Bao Long](https://github.com/longbuibao)
-  - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
 
 - ### **C**
 
