@@ -598,6 +598,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sanskriti Gupta](https://github.com/sanskritigupta5)
   - [Sanyam Gupta](https://github.com/sanyam19)
   - [Sarthak Mallick](https://github.com/Sarthakm17)
+  - [Sarthak Rajput](https://github.com/rsarthak)
   - [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
   - [Sarvesh Patil](https://github.com/sarveshspatil111)
   - [Sarwar Ahmed](https://github.com/SarwarAhmed)
