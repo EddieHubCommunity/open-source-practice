@@ -698,6 +698,7 @@ Hurray! You successfully made a contribution! 🎉
 
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
   - [Ujjwal Gupta](https://github.com/UG-SEP)
+  - [Ujjwal Gupta](https://github.com/ujjwalgupta91250)
   - [Umesh Singh](https://github.com/Umesh-01)
   - [Urmil Rupareliya](https://github.com/urmil89)
   - [Usman Tatla](https://github.com/iTatla1)
