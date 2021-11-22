@@ -264,7 +264,6 @@ Hurray! You successfully made a contribution! 🎉
   - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
   - [Bhuvnesh Sharma](https://github.com/Bhuvnesh875)
   - [Bineet Naidu](https://github.com/bineetNaidu)
-  - [Biresh Biswas](https://github.com/Billa05)
   - [Bryson M.](https://github.com/Bryson69)
   - [Buddhadeb Chhetri](https://github.com/Buddhad)
   - [Bui Bao Long](https://github.com/longbuibao)
