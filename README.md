@@ -740,6 +740,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **Y**
 
   - [Yahya Khan](https://github.com/yahyakhn)
+  - [Yamini Singh](https://github.com/yamini-singh169)
   - [Yash Sehgal](https://github.com/yashsehgal)
   - [Yash Verma](https://github.com/Recognizeyourself)
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
