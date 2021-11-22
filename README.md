@@ -638,11 +638,11 @@ Hurray! You successfully made a contribution! 🎉
   - [Tejas Tank](https://github.com/136tejas)
   - [Tharaka Bandara](https://github.com/Ttecs)
   - [Thisaru Dilshan](https://github.com/ThisaruD)
+  - [Tikeshwar Sahu](https://github.com/Tiku24)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
-  - [Tikeshwar Sahu](https://github.com/Tiku24)
 
 - ### **U**
 
