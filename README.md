@@ -553,10 +553,11 @@ Hurray! You successfully made a contribution! 🎉
   - [Sumit Mukharjee](https://github.com/sumitmukharjeeeeee)
   - [Sumit Singh](https://github.com/Sin-Sumit)
   - [Sunrit Jana](https://github.com/janaSunrise)
+  - [Sushant B](https://github.com/SUSHANT731)
   - [Swapna Devi](https://github.com/Swapna804)
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
-  - [Sushant B](https://github.com/SUSHANT731)
+
 - ### **T**
 
   - [Tamal Das](https://github.com/IAmTamal)
