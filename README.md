@@ -167,6 +167,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aditya Ojha](https://github.com/aditya1ojha)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
   - [Aditya Patel](https://github.com/adityatheoctocatdev)
+  - [Aditya Priyadarshi](https://github.com/foxy4096)
   - [Aditya Raute](https://github.com/adityaraute)
   - [Afnan](https://github.com/afuu21)
   - [Afroz Chakure](https://github.com/afrozchakure)
