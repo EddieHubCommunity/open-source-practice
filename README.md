@@ -516,6 +516,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Parth Gupta](https://github.com/parth-gpt)
   - [Parthiv Sarma](https://github.com/sarmaparthiv)
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
+  - [Peter Havlena](https://github.com/phavlena)
   - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
   - [Piyush Dhir](https://github.com/piyushdhir1)
   - [Pradhumn Dave](https://github.com/davedevelopers)
