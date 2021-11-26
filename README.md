@@ -250,6 +250,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Atharva Pingale](https://github.com/atharva0300)
   - [Atulya Singh](https://github.com/oreo-gif)
   - [AvidCoder101](https://github.com/AvidCoder101)
+  - [Avneesh Agarwal](https://github.com/avneesh0612)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kumar](https://github.com/Ayush7614)
   - [Ayush Mishra](https://github.com/ayush-sleeping)
