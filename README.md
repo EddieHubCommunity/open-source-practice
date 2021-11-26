@@ -352,6 +352,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Given Kibanza](https://github.com/givenkiban1)
   - [Gladson Sethiel](https://github.com/gsonly)
   - [Gokulraj Puviyarasu](https://github.com/gokulrajpuviyarasu)
+  - [Goodness Ezeh](https://github.com/GoodnessEzeh)
   - [Gowtham P B](https://github.com/GowthamPB)
   - [Grawish Sachdeva](https://github.com/grawish)
   - [Gulshan Jakhon](https://github.com/gulshanjakhon)
