@@ -1,4 +1,5 @@
-﻿<b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only!</b>
+﻿<!-- markdownlint-disable-next-line -->
+<b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only!</b>
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -16,7 +17,7 @@ What is it? Click on the poster below to watch the video for more details📽
 
 Repo for you to raise a Pull Request for practice.
 
-**Just add your name to the alphabetical list and optionally, a link to your GitHub account (In alphabetical order below your letter too)**
+## Just add your name to the alphabetical list and optionally, a link to your GitHub account (In alphabetical order below your letter too)
 
 ## How to contribute (overall process)
 
@@ -32,76 +33,76 @@ Questions can be asked by raising an `Issue`.
 
 - Using Git on your local machine and paste in the URL. Do this to download the forked copy of this repo to your computer.
 
-```
+```shell
   git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
 ```
 
 - Switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor.
 
-```
+```shell
   cd hacktoberfest-practice
 ```
 
 - Make a new branch. Your username would make a good branch because it's unique.
 
-```
+```shell
   git checkout -b <name-of-new-branch>
 ```
 
 - Open the `README.md` file
 
-- #### Add your name to the section ([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page. Then save your changes.
+- **Add your name to the section ([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page. Then save your changes**
 
 - For example ,
   `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes.
 
-```
+```shell
   git add README.md
 ```
 
 or
 
-```
+```shell
   git add .
 ```
 
 - Commit the changes.
 
-```
+```shell
   git commit -m "Add <your-github-username>"
 ```
 
 - Check the status of your repository.
 
-```
+```shell
   git status
 ```
 
 - The response should be like this:
 
-```
+```shell
 On branch <name-of-your-branch>
 nothing to commit, working tree clean
 ```
 
 - Pushing your repository to GitHub.
 
-```
+```shell
   git push origin <name-of-your-branch>
 ```
 
 or
 
-```
+```shell
   git branch -M main
   git push -u origin main
 ```
 
 In case you get an error message like the one below, its likely you forgot to fork the repo before cloning it. To fix this, its best to start over with the How to Contribute section above, and fork the project repo first.
 
-```
+```shell
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
@@ -120,15 +121,17 @@ Hurray! You successfully made a contribution! 🎉
 
 ## What if I have a Conflict?
 
-#### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
+### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch
 
 - #### To read more about this, go to [GitHub Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+
 - #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+
 - You can also ask for help in our [Discord server](http://discord.eddiehub.org) or submit an issue in the [Support repository](https://github.com/EddieHubCommunity/support).
 
 ---
 
-## <ins>Hacktoberfest community<ins>
+## `Hacktoberfest Community`
 
 ### **Contents**
 
@@ -139,6 +142,7 @@ Hurray! You successfully made a contribution! 🎉
 | [D](#d) | [J](#j) | [P](#p) | [V](#v) |
 | [E](#e) | [K](#k) | [Q](#q) | [W](#w) |
 | [F](#f) | [L](#l) | [R](#r) | [X](#x) |
+
 ---
 
 - ### **A**
