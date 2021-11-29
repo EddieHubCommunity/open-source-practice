@@ -21,17 +21,17 @@ Repo for you to raise a Pull Request for practice.
 
 ## How to contribute (overall process)
 
-1. Fork the project. Using the gray `Fork` button in the top right of this page
+1. Fork the project using the gray `Fork` button in the top right of this page
 2. Make any changes in your forked repo
 3. On this repo, click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`) and raise a Pull Request by clicking the green `New Pull Request` button and selecting your fork from the right dropdown field.
 
-You can ask questions by raising an issue.
+You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
-## How to clone the repo and make changes locally after forking
+## How to clone the repository and make changes locally
 
 - Click on the green `Code` button, then either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repo to your computer.
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```shell
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
@@ -53,7 +53,7 @@ You can ask questions by raising an issue.
 
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes**
 
-- For example ,
+- For example
   `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes.
@@ -100,7 +100,7 @@ or
   git push -u origin main
 ```
 
-If you get an error message like the one below, You probably forgot to fork the repo before cloning it. It is best to start over and fork the project repo first.
+If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
 ```shell
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
@@ -110,7 +110,7 @@ Please make sure you have the correct access rights and the repository exists.
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
-- Click on that button and, this will load a new page, comparing the local branch in your forked repo against the main branch in the EddieHub Hacktoberfest repo. Accept the default values in the dropdown boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request) our GitHub Actions workflow will add a welcome message to your PR.
+- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Accept the default values in the dropdown boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
   Note: A pull request allows us to merge your changes with the original project repo.
 
 - Your pull request will be reviewed and then eventually merged.
