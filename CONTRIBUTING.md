@@ -10,6 +10,6 @@ agree to abide by the [Code Of Conduct](https://github.com/EddieHubCommunity/.gi
 3. Make changes
 4. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
 5. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
-6. Go to original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
+6. Go to the original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
 ## DONE 🥳

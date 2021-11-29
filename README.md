@@ -17,27 +17,27 @@ What is it? Click on the poster below to watch the video for more details📽
 
 Repo for you to raise a Pull Request for practice.
 
-## Just add your name to the alphabetical list and optionally, a link to your GitHub account (In alphabetical order below your letter too)
+## Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
 ## How to contribute (overall process)
 
-1. Fork the project, using the gray `Fork` button in the top right of this page
+1. Fork the project using the gray `Fork` button in the top right of this page
 2. Make any changes in your forked repo
-3. On this repo, click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`) and raise a Pull Request by clicking the green `New Pull Request` button and selecting your fork from the right drop down field.
+3. On this repo, click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`) and raise a Pull Request by clicking the green `New Pull Request` button and selecting your fork from the right dropdown field.
 
-Questions can be asked by raising an `Issue`.
+You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
-## How to clone repo and make changes locally after forking
+## How to clone the repository and make changes locally
 
-- Click on the green `Code` button, then either the HTTPS or SSH option and click the icon to copy the URL. This will give you a copy of the project, so you can play around with it locally on your computer.
+- Click on the green `Code` button, then either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
-- Using Git on your local machine and paste in the URL. Do this to download the forked copy of this repo to your computer.
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```shell
-  git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
+  git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
 ```
 
-- Switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor.
+- Switch to the cloned folder. You can paste this command into the same terminal window.
 
 ```shell
   cd hacktoberfest-practice
@@ -51,9 +51,9 @@ Questions can be asked by raising an `Issue`.
 
 - Open the `README.md` file
 
-- **Add your name to the section ([Hacktoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your GitHub username page. Then save your changes**
+- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes**
 
-- For example ,
+- For example
   `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes.
@@ -100,7 +100,7 @@ or
   git push -u origin main
 ```
 
-In case you get an error message like the one below, its likely you forgot to fork the repo before cloning it. To fix this, its best to start over with the How to Contribute section above, and fork the project repo first.
+If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
 ```shell
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
@@ -108,14 +108,14 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
 ```
 
-- On the GitHub website, navigate to your forked repo - on the top of the files section you'll notice a new section containing a `Compare & Pull Request` button!
+- On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
-- Click on that button and this will load a new page, comparing the local branch in your forked repo, against the main branch in the EddieHub Hacktoberfest repo. Accept the default values in the drop down boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request) our GitHub Actions workflow will add a welcome message to your PR.
-  Note: A pull request allows your changes to be merged with the original project repo.
+- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Accept the default values in the dropdown boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
+  Note: A pull request allows us to merge your changes with the original project repo.
 
-- Wait for your changes to be merged.
+- Your pull request will be reviewed and then eventually merged.
 
-Hurray! You successfully made a contribution! 🎉
+Hurray! You successfully have made your first contribution! 🎉
 
 ---
 
@@ -482,7 +482,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mukul Sharma](https://github.com/mukul98s)
   - [Mulyadi](https://github.com/Urcane)
-  - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
+  - [Muthu Annamalai V.](https://github.com/muthuannamalai12)
 
 - ### **N**
 
