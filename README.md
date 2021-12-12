@@ -1,4 +1,5 @@
-﻿<b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only!</b>
+<!-- markdownlint-disable-next-line -->
+**This repository is *not* included in the Hacktoberfest event, as it is for practice only!**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -6,129 +7,132 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 # Hacktoberfest
 
-What is it? Click on the poster below to watch the video for more details📽
+What is it? Click on the poster below to watch the video for more details 📽
 
 [![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md)
 
 # Hacktoberfest Practice Pull Requests:
 
-Repo for you to raise a Pull Request for practice.
+Repository for you to raise a Pull Request to practice open-source! 🎉
 
-**Just add your name to the alphabetical list and optionally, a link to your GitHub account (In alphabetical order below your letter too)**
+## Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
 ## How to contribute (overall process):
 
-1. Fork the project, using the gray `Fork` button in the top right of this page
-2. Make any changes in your forked repo
-3. On this repo, click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`) and raise a Pull Request by clicking the green `New Pull Request` button and selecting your fork from the right drop down field.
+1. Fork the project using the gray `Fork` button in the top right of this page.
+2. Make any changes in your forked repository.
+3. On this repo, click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`) and raise a Pull Request by clicking the green `New Pull Request` button and selecting your fork from the right dropdown field.
 
-Questions can be asked by raising an `Issue`.
+You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
 ## How to clone repo and make changes locally after forking:
+## How to clone the repository and make changes locally
 
-- Click on the green `Code` button, then either the HTTPS or SSH option and click the icon to copy the URL. This will give you a copy of the project, so you can play around with it locally on your computer.
+- Click on the green `Code` button, then either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
-- Using Git on your local machine and paste in the URL. Do this to download the forked copy of this repo to your computer.
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
+```bash
+  git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
 ```
-  git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
-```
 
-- Switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor.
+- Switch to the cloned folder. You can paste this command into the same terminal window.
 
-```
+```bash
   cd hacktoberfest-practice
 ```
 
 - Make a new branch. Your username would make a good branch because it's unique.
 
-```
+```bash
   git checkout -b <name-of-new-branch>
 ```
 
 - Open the `README.md` file
 
-- #### Add your name to the section ([Hactoberfest community](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community)) that is headed with your first initial. Then, add your name in alphabetical order of the second letter in your name. If the second letters are the same, order it in alphabetical order of the third, and so on. Next to it, add the link to your github username page. Then save your changes.
+- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
 
-- For example ,
+- For example
   `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes.
 
-```
+```bash
   git add README.md
 ```
 
 or
 
-```
+```bash
   git add .
 ```
 
 - Commit the changes.
 
-```
+```bash
   git commit -m "Add <your-github-username>"
 ```
 
 - Check the status of your repository.
 
-```
+```bash
   git status
 ```
 
 - The response should be like this:
 
-```
+```bash
 On branch <name-of-your-branch>
 nothing to commit, working tree clean
 ```
 
 - Pushing your repository to GitHub.
 
-```
+```bash
   git push origin <name-of-your-branch>
 ```
 
 or
 
-```
+```bash
   git branch -M main
   git push -u origin main
 ```
 
-In case you get an error message like the one below, its likely you forgot to fork the repo before cloning it. To fix this, its best to start over with the How to Contribute section above, and fork the project repo first.
+If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
-```
+```bash
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
 ```
 
-- On the GitHub website, navigate to your forked repo - on the top of the files section you'll notice a new section containing a `Compare & Pull Request` button!
+- On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
-- Click on that button and this will load a new page, comparing the local branch in your forked repo, against the main branch in the EddieHub Hacktoberfest repo. Accept the default values in the drop down boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request) our GitHub Actions workflow will add a welcome message to your PR.
-  Note: A pull request allows your changes to be merged with the original project repo.
+- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Accept the default values in the dropdown boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
+  Note: A pull request allows us to merge your changes with the original project repo.
 
-- Wait for your changes to be merged.
+- Your pull request will be reviewed and then eventually merged.
 
-Hurray! You successfully made a contribution! 🎉
+Hurray! You successfully have made your first contribution! 🎉
 
 ---
 
-## What if I have a Conflict?
+## How can I fix a merge conflict?
 
-#### A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
+A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
 
-- #### To read more about this, go to [GitHub Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
-- #### To find out about how to fix a Git Conflict, go to [Github Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+- **To read more about this, go to [GitHub Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**
+
+- **To find out about how to fix a Git Conflict, go to [GitHub Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)**
+
 - You can also ask for help in our [Discord server](http://discord.eddiehub.org) or submit an issue in the [Support repository](https://github.com/EddieHubCommunity/support).
 
 ---
 
-## <ins>Hacktoberfest community<ins>
+## `Hacktoberfest Community`
 
 ### **Contents**
 
@@ -139,12 +143,14 @@ Hurray! You successfully made a contribution! 🎉
 | [D](#d) | [J](#j) | [P](#p) | [V](#v) |
 | [E](#e) | [K](#k) | [Q](#q) | [W](#w) |
 | [F](#f) | [L](#l) | [R](#r) | [X](#x) |
+
 ---
 
 - ### **A**
 
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
+  - [Aashish-cyber](https://github.com/Aashish-cyber)
   - [Aathira](https://github.com/aathirav06)
   - [Aayush Sharma](https://github.com/SuperAayush)
   - [Abdullahi Musa](https://github.com/Abdullahi001)
@@ -166,6 +172,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aditya Ojha](https://github.com/aditya1ojha)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
   - [Aditya Patel](https://github.com/adityatheoctocatdev)
+  - [Aditya Priyadarshi](https://github.com/foxy4096)
   - [Aditya Raute](https://github.com/adityaraute)
   - [Afnan](https://github.com/afuu21)
   - [Afroz Chakure](https://github.com/afrozchakure)
@@ -183,6 +190,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Akshaya Kulasekaran](https://github.com/AkshayaKulasekaran)
   - [Akshayan Sinha](https://github.com/hippyaki)
   - [Alaba Olanrewaju](https://github.com/chryzcodez)
+  - [Aleksey Voko](https://github.com/Aleksey-Voko)
   - [Alex Valdez](https://github.com/arevaldez)
   - [Ali Mirrajei](https://github.com/alimirrajei)
   - [Alpadmin](https://github.com/hasthamalp/)
@@ -191,6 +199,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aman Shrivastava](https://github.com/aman34503)
   - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
   - [Aman Verma](https://github.com/amanpro1)
+  - [Amir Hossain Zarei](https://github.com/Amihozar)
   - [Amitesh Anand](https://github.com/Astrodevil)
   - [Amrutha C.K.](https://github.com/Amrutha1101)
   - [Ana Carrillo](https://github.com/acarrillo3)
@@ -208,6 +217,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Aniruddha Inge](https://github.com/Aniruddha-Inge)
   - [Anirudh Eyyani](https://github.com/AnirudhEyyani)
   - [Anjali Goswami](https://github.com/anjaligoswami)
+  - [Anjan Diyora](https://github.com/Anjan50)
   - [Ankit Ojha](https://github.com/ankitojha07)
   - [Ankit Warbhe](https://github.com/ankitwarbhe/)
   - [annu](https://github.com/annu12340)
@@ -246,12 +256,15 @@ Hurray! You successfully made a contribution! 🎉
   - [Atharva Pingale](https://github.com/atharva0300)
   - [Atulya Singh](https://github.com/oreo-gif)
   - [AvidCoder101](https://github.com/AvidCoder101)
+  - [Avneesh Agarwal](https://github.com/avneesh0612)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kumar](https://github.com/Ayush7614)
   - [Ayush Mishra](https://github.com/ayush-sleeping)
 
 - ### **B**
 
+  - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
+  - [Biresh Biswas](https://github.com/Billa05)
   - [Benjamin Rukundo](https://github.com/rukundob451)
   - [Bhargav Avinash](https://github.com/bhargav794)
   - [Bhargavi V](https://github.com/Bhar-02)
@@ -296,6 +309,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Dhairya Ostwal](https://github.com/dhairyaostwal)
   - [Dhananjay Mahajan](https://github.com/Dhananjaymahajan2001)
   - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
+  - [Dhruva Srinivas](https://github.com/carrotfarmer)
   - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
   - [Diksha Chaudhari](https://github.com/dikshachaudhari4)
   - [Diksha Rai](https://github.com/diksharai9)
@@ -345,6 +359,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Given Kibanza](https://github.com/givenkiban1)
   - [Gladson Sethiel](https://github.com/gsonly)
   - [Gokulraj Puviyarasu](https://github.com/gokulrajpuviyarasu)
+  - [Goodness Ezeh](https://github.com/GoodnessEzeh)
   - [Gowtham P B](https://github.com/GowthamPB)
   - [Grawish Sachdeva](https://github.com/grawish)
   - [Gulshan Jakhon](https://github.com/gulshanjakhon)
@@ -358,6 +373,8 @@ Hurray! You successfully made a contribution! 🎉
   - [Harshil Hirpara](https://github.com/harshil202)
   - [Harshit Aditya](https://github.com/HarshitAditya27)
   - [Harshit Parwal](https://github.com/harshitparwal)
+  - [Hassan Rahim](https://github.com/HassanRahim26)
+  - [Hassan Tahir](https://github.com/thehassantahir)
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
   - [Hemang Ranjan](https://github.com/Hemang417)
   - [Hemant Bajaj](https://github.com/ORKO06)
@@ -424,12 +441,14 @@ Hurray! You successfully made a contribution! 🎉
   - [Krishna R](https://github.com/Krishna-Ravi)
   - [Kumari Astha Rani](https://github.com/astha2412)
   - [Kunal Patil](https://github.com/Kunal0007)
+  - [Kunal Sangtiani](https://github.com/Kunals131)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
 
 - ### **L**
 
   - [Lazeeez](https://github.com/Lazeeez)
   - [Lishu Gupta](https://github.com/lishugupta652)
+  - [Lohit Yarra](https://github.com/lohityarra)
   - [Lundbyit](https://github.com/Lundbyit)
 
 - ### **M**
@@ -446,6 +465,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Martin Parker](https://github.com/RasPiPkr)
   - [Matthias Maier](https://github.com/NukeTheFridge)
   - [Max Base](https://github.com/basemax)
+  - [Mayank Gupta](https://github.com/mayank-cse)
   - [Mayur Gupta](https://github.com/Mayurmg)
   - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
   - [Meenal Jain](https://github.com/meenal21)
@@ -466,7 +486,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mukul Sharma](https://github.com/mukul98s)
   - [Mulyadi](https://github.com/Urcane)
-  - [Muthu Annamalai.V](https://github.com/muthuannamalai12)
+  - [Muthu Annamalai V.](https://github.com/muthuannamalai12)
 
 - ### **N**
 
@@ -504,8 +524,10 @@ Hurray! You successfully made a contribution! 🎉
 - ### **P**
 
   - [Pablo Lorenzo](https://github.com/Ll2NZ/)
+  - [Parth Gupta](https://github.com/parth-gpt)
   - [Parthiv Sarma](https://github.com/sarmaparthiv)
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
+  - [Peter Havlena](https://github.com/phavlena)
   - [Phurba Gyalzen Sherpa](https://github.com/PhurbaGyalzen/)
   - [Piyush Dhir](https://github.com/piyushdhir1)
   - [Pradhumn Dave](https://github.com/davedevelopers)
@@ -567,6 +589,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Ritwik Sinha](https://github.com/Ritwik880)
   - [Robert Kay Jr](https://github.com/RobertKayJr/)
   - [Rodrigo Avila](https://github.com/rodrigo398)
+  - [Rohinish K Singh](https://github.com/rohinish404)
   - [Rohit Tewari](https://github.com/rtewari056)
   - [Rohit Vuppuluri](https://github.com/rohitv-dev)
   - [Rui Batista](https://github.com/BellamyPT)
@@ -592,6 +615,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sanskriti Gupta](https://github.com/sanskritigupta5)
   - [Sanyam Gupta](https://github.com/sanyam19)
   - [Sarthak Mallick](https://github.com/Sarthakm17)
+  - [Sarthak Rajput](https://github.com/rsarthak)
   - [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
   - [Sarvesh Patil](https://github.com/sarveshspatil111)
   - [Sarwar Ahmed](https://github.com/SarwarAhmed)
@@ -615,6 +639,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
   - [Shaun Fitzgibbon](https://github.com/Sfitzg)
   - [Shiladitya Bose](https://github.com/shiladityab24)
+  - [Shivendra K Jha](https://github.com/skjha1)
   - [Shreyaans Jain](https://github.com/shreyaansjain06)
   - [Shreyam Sarkar](https://github.com/darkhorse-2000)
   - [Shubham](https://github.com/shivsubh)
@@ -654,6 +679,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Suhaas](https://github.com/suhaaskataria)
   - [Suhail Khan](https://github.com/suhail34)
   - [Sujana Kamasany](https://github.com/sujana-kamasany)
+  - [Sujansinh Thakor](https://github.com/Sujansinh-thakor)
   - [Suman Sahoo](https://github.com/suman-somu)
   - [Sumanth Palla](https://github.com/sumanthpalla)
   - [Sumeet Naik](https://github.com/sumeetweb)
@@ -663,6 +689,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Sumit Singh](https://github.com/Sin-Sumit)
   - [Sunrit Jana](https://github.com/janaSunrise)
   - [Suraj Kumar](https://github.com/skmodi649)
+  - [Sushant B](https://github.com/SUSHANT731)
   - [Swapna Devi](https://github.com/Swapna804)
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
@@ -679,6 +706,7 @@ Hurray! You successfully made a contribution! 🎉
   - [Tejas Tank](https://github.com/136tejas)
   - [Tharaka Bandara](https://github.com/Ttecs)
   - [Thisaru Dilshan](https://github.com/ThisaruD)
+  - [Tikeshwar Sahu](https://github.com/Tiku24)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tomo Bones](https://github.com/tomobones)
@@ -688,6 +716,7 @@ Hurray! You successfully made a contribution! 🎉
 
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
   - [Ujjwal Gupta](https://github.com/UG-SEP)
+  - [Ujjwal Gupta](https://github.com/ujjwalgupta91250)
   - [Umesh Singh](https://github.com/Umesh-01)
   - [Urmil Rupareliya](https://github.com/urmil89)
   - [Usman Tatla](https://github.com/iTatla1)
@@ -733,6 +762,7 @@ Hurray! You successfully made a contribution! 🎉
 - ### **Y**
 
   - [Yahya Khan](https://github.com/yahyakhn)
+  - [Yamini Singh](https://github.com/yamini-singh169)
   - [Yash Sehgal](https://github.com/yashsehgal)
   - [Yash Verma](https://github.com/Recognizeyourself)
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
