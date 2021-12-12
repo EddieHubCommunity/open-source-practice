@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-**This repo is *not* included in the Hacktoberfest event, as it is for practice only!**
+**This repository is *not* included in the Hacktoberfest event, as it is for practice only!**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -7,7 +7,7 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 # Hacktoberfest
 
-What is it? Click on the poster below to watch the video for more details📽
+What is it? Click on the poster below to watch the video for more details 📽
 
 [![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
 
@@ -15,14 +15,14 @@ What is it? Click on the poster below to watch the video for more details📽
 
 # Hacktoberfest Practice Pull Requests
 
-Repo for you to raise a Pull Request for practice.
+Repository for you to raise a Pull Request to practice open-source! 🎉
 
 ## Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
 ## How to contribute (overall process)
 
-1. Fork the project using the gray `Fork` button in the top right of this page
-2. Make any changes in your forked repo
+1. Fork the project using the gray `Fork` button in the top right of this page.
+2. Make any changes in your forked repository.
 3. On this repo, click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`) and raise a Pull Request by clicking the green `New Pull Request` button and selecting your fork from the right dropdown field.
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
@@ -33,76 +33,76 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
-```shell
+```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window.
 
-```shell
+```bash
   cd hacktoberfest-practice
 ```
 
 - Make a new branch. Your username would make a good branch because it's unique.
 
-```shell
+```bash
   git checkout -b <name-of-new-branch>
 ```
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes**
+- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes.
 
-```shell
+```bash
   git add README.md
 ```
 
 or
 
-```shell
+```bash
   git add .
 ```
 
 - Commit the changes.
 
-```shell
+```bash
   git commit -m "Add <your-github-username>"
 ```
 
 - Check the status of your repository.
 
-```shell
+```bash
   git status
 ```
 
 - The response should be like this:
 
-```shell
+```bash
 On branch <name-of-your-branch>
 nothing to commit, working tree clean
 ```
 
 - Pushing your repository to GitHub.
 
-```shell
+```bash
   git push origin <name-of-your-branch>
 ```
 
 or
 
-```shell
+```bash
   git branch -M main
   git push -u origin main
 ```
 
 If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
-```shell
+```bash
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
@@ -119,7 +119,7 @@ Hurray! You successfully have made your first contribution! 🎉
 
 ---
 
-## What if I have a Conflict?
+## How can I fix a merge conflict?
 
 A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged in order to prevent collision in the main branch.
 
