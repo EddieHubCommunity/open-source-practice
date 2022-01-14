@@ -568,6 +568,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **R**
 
+  - [Raja Muhammad Asher](https://github.com/raja-muhammad-asher)
   - [R Varshith Kumar](https://github.com/codefromrvk)
   - [Rahman Haroon](https://github.com/rahmanharoon)
   - [Rahul Aggarwal](https://github.com/rahul-aggarwal000005)
