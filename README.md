@@ -1,5 +1,6 @@
 <!-- markdownlint-disable-next-line -->
-**This repository is *not* included in the Hacktoberfest event, as it is for practice only!**
+
+**This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
 
@@ -200,6 +201,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aman Shrivastava](https://github.com/aman34503)
   - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
   - [Aman Verma](https://github.com/amanpro1)
+  - [Amelia Hill](https://github.com/amehi0index)
   - [Amir Hossain Zarei](https://github.com/Amihozar)
   - [Amitesh Anand](https://github.com/Astrodevil)
   - [Amrutha C.K.](https://github.com/Amrutha1101)
