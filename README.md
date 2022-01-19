@@ -168,6 +168,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aditi Goyal](https://github.com/AditiGoyal05)
   - [Aditi Nimbarte](https://github.com/adinimbarte)
   - [Aditya Das](https://github.com/ThatOneBlodeKid)
+  - [Aditya Joshi](https://github.com/AdityaJoshi304)
   - [Aditya Mangal](https://github.com/adityamangal1)
   - [Aditya Ojha](https://github.com/aditya1ojha)
   - [Aditya Palpattuwar](https://github.com/APalpattuwar7)
