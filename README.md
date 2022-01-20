@@ -790,6 +790,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **W**
 
+  - [Waddy Leonvil](https://github.com/WaddyLeonvil)
   - [Wahyu Wiyoko](https://github.com/wahyuwiyoko)
 
 - ### **X**
