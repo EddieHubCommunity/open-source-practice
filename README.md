@@ -798,8 +798,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **Y**
 
   - [Yahya Khan](https://github.com/yahyakhn)
-  - [Yamini Singh](https://github.com/yamini-singh169)
   - [Yamini Kaushal](https://github.com/Yamini09-code)
+  - [Yamini Singh](https://github.com/yamini-singh169)
   - [Yash Sehgal](https://github.com/yashsehgal)
   - [Yash Verma](https://github.com/Recognizeyourself)
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
