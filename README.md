@@ -135,13 +135,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 ### **Contents**
 
-| [A](#a) | [G](#g) | [M](#m) | [S](#s) | [Y](#y) |
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
 | ------- | ------- | ------- | ------- | ------- |
-| [B](#b) | [H](#h) | [N](#n) | [T](#t) | [Z](#z) |
-| [C](#c) | [I](#i) | [O](#o) | [U](#u) |
-| [D](#d) | [J](#j) | [P](#p) | [V](#v) |
-| [E](#e) | [K](#k) | [Q](#q) | [W](#w) |
-| [F](#f) | [L](#l) | [R](#r) | [X](#x) |
+| [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) |
+| [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) |
+| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) |
+| [U](#u) | [V](#v) | [W](#w) | [X](#x) |
+| [Y](#y) | [Z](#z) | 
 
 ---
 
