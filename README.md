@@ -132,6 +132,8 @@ git push <your-github-username>
 
 - Then on your github account, just go into your fork and click on `make pull request`
 
+Hurray! You successfully have made your first contribution!
+
 ---
 
 ## How can I fix a merge conflict?
