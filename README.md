@@ -51,7 +51,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial in [this list](#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
@@ -100,7 +100,8 @@ or
   git push -u origin main
 ```
 
-If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
+### Possible Errors: 
+**If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.**
 
 ```bash
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
@@ -116,6 +117,20 @@ Please make sure you have the correct access rights and the repository exists.
 - Your pull request will be reviewed and then eventually merged.
 
 Hurray! You successfully have made your first contribution! 🎉
+
+**Or an error more like this: Then you did fork the repo, but still got an error**
+
+```bash
+remote: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
+fatal: unable to access 'https://github.com/EddieHubCommunity/hacktoberfest-practice.git/': The requested URL returned error: 403
+```
+
+- Push the changes to your fork
+```bash
+git push <your-github-username>
+```
+
+- Then on your github account, just go into your fork and click on `make pull request`
 
 ---
 
