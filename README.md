@@ -806,6 +806,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Waddy Leonvil](https://github.com/WaddyLeonvil)
   - [Wahyu Wiyoko](https://github.com/wahyuwiyoko)
+  - [Willi Hohenstein](https://github.com/willhoh)
 
 - ### **X**
 
