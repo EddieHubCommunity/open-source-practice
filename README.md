@@ -212,6 +212,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ananya Banerjee](https://github.com/aspiringananya)
   - [Anchal Singh](https://github.com/anchalsinghrajput)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
+  - [Andrew Southern](https://github.com/whoamihealay)
   - [Angel Dhakal](https://github.com/angeldhakal)
   - [Anh Tran](https://github.com/longqua69)
   - [Aniket Kumar](https://github.com/aniket-24)
@@ -278,6 +279,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
   - [Bhuvnesh Sharma](https://github.com/Bhuvnesh875)
   - [Bineet Naidu](https://github.com/bineetNaidu)
+  - [bitM1ke](https://github.com/cryptome)
   - [Boby](https://github.com/bobychaudhary)
   - [Brian Nduhiu](https://github.com/Brian-Nduhiu)
   - [Bryson M.](https://github.com/Bryson69)
@@ -385,6 +387,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **H**
 
   - [Hamza Jassar](https://github.com/iJassar)
+  - [Hardik Ralhan](https://github.com/hardikralhan)
   - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
   - [Hariket Sukesh Kumar Sheth](https://github.com/hariketsheth)
   - [Harshil Bhatia](https://github.com/harshilbhatia7)
@@ -453,7 +456,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Kartikey Vaish](https://github.com/kartikeyvaish)
   - [Keerthishankar Punchithaya](https://github.com/KeerthishankarPunchithaya)
   - [Kehinde Adeleke](https://github.com/adeleke5140)
-  - [Khadijah Amusat] (https://github.com/Khadeeejah)
+  - [Khadijah Amusat](https://github.com/Khadeeejah)
+  - [Khalid Bayan](https://github.com/khalidbayan)
   - [Khalid Khan](https://github.com/pablochocobae)
   - [Khushaal Choithramani](https://github.com/khushxxl)
   - [Khushal Sachdeva](https://github.com/CodeKhushal)
@@ -490,6 +494,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Maksim Zayakin](https://github.com/hirotasoshu)
   - [Manasi Mulay](https://github.com/manasi-mulay)
   - [Manish Rawat](https://github.com/R11manish)
+  - [Manjunath Naik](https://github.com/Manu1ND)
   - [Manu Gupta](https://github.com/ManuGupta9780)
   - [Marios Georgiou](https://github.com/MariosGeorgiou)
   - [Marius Gravningsmyhr](https://github.com/mariusgrHiof)
@@ -518,9 +523,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Molese](https://github.com/m0lese)
   - [Mridul Birla](https://github.com/Mridulbirla13)
   - [Mrinaal Arora](https://github.com/aroramrinaal)
+  - [Muhammad Abdulaleem](https://github.com/aleemaheer)
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mukul Sharma](https://github.com/mukul98s)
   - [Mulyadi](https://github.com/Urcane)
+  - [Musab Habeeb](https://github.com/Musab1258)
   - [Muthu Annamalai V.](https://github.com/muthuannamalai12)
 
 - ### **N**
@@ -545,6 +552,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nirvana](https://github.com/nirvana-vibes)
   - [Nishant Shrivastva](https://github.com/shrinishant)
   - [Numan Javed](https://github.com/numanjvd82)
+  - [Nur Akmal Mohd Nordi](https://github.com/nurakmal920207)
   - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
 
 - ### **O**
@@ -645,6 +653,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Safa Abidi](https://github.com/safa-abidi)
   - [Sahil Jain](https://github.com/imsahiljain)
   - [Sahil Khandelwal](https://github.com/sahilcode17)
+  - [Sahil Maheshwari](https://github.com/bluzeey)
   - [Sahil Vaidya](https://github.com/sahilvaidya13)
   - [Sahitya Roy](https://github.com/SahityaRoy)
   - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
@@ -654,6 +663,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Samuel Z. Bouye](https://github.com/zamblebi)
   - [Samyak Jain](https://github.com/samyakjain10)
   - [Sandeep Kumar Lenka](https://github.com/sandeeplenka)
+  - [Sangy K](https://github.com/sansk)
   - [Sanjay K V](https://github.com/sanjay-kv)
   - [Sanskriti Gupta](https://github.com/sanskritigupta5)
   - [Sanyam Gupta](https://github.com/sanyam19)
