@@ -515,6 +515,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mohamed Mehdi Gara](https://github.com/mohamedmehdigara)
   - [Mohamed Naufal A](https://github.com/Naufal2511)
   - [Mohammad Reza Salemi](https://github.com/reza-salemi)
+  - [Mohammed Muddassir](https://github.com/mohammed-muddassir)
   - [Mohasin Haque](https://github.com/Mohasin-Haque)
   - [Mohd Imran](https://github.com/stark255)
   - [Mohit Deshwal](https://github.com/mohit01-beep)
