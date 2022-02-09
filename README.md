@@ -471,6 +471,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Khushi Shukla](https://github.com/khushi818)
   - [Kidus Solomon](https://github.com/kidussolo)
   - [Krish](https://github.com/krishdevdb)
+  - [Krish Chopra](https://github.com/krishchopra22)
   - [Krish Gupta](https://github.com/krishguptadev)
   - [Krishna Gupta](https://github.com/krishnazest)
   - [Krishna Kumar](https://github.com/Krishnapro)
