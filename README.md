@@ -840,6 +840,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Vivek Jaiswar](https://github.com/Narcos101)
   - [Vivek Singh](https://github.com/vivmost)
   - [Vladyslav Kyiashko](https://github.com/vlakyi)
+  - [Vishal Rathore](https://github.com/vishalcoder139)
   - [Vrukshali Torawane](https://github.com/Vrukshali-26)
 
 - ### **W**
