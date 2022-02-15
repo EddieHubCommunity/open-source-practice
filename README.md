@@ -274,7 +274,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **B**
 
   - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
-  - [Barkatul Mujauddin](https://github.com/barkatul)
+  - [ Barkatul Mujauddin ](https://github.com/barkatul)
   - [Biresh Biswas](https://github.com/Billa05)
   - [Bisesh Adhikari](https://github.com/Biseshadhikari)
   - [Benjamin Rukundo](https://github.com/rukundob451)
