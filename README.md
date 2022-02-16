@@ -320,6 +320,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Darsh Gupta](https://github.com/DarshGupta1910)
   - [Dave Bhandari](https://github.com/Davekibh)
   - [David Leal](https://github.com/Panquesito7)
+  - [David Centurion](https://github.com/Parzivalcen)
   - [Davin S](https://github.com/davin2020)
   - [Debbie D](https://github.com/hellodeborahuk)
   - [Deepak B](https://github.com/sbdeepu09)
