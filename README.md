@@ -367,13 +367,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **F**
 
   - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
+  - [Farzad Esmaeil Beygi](https://github.com/Farzad-ES)
   - [Fatma](https://github.com/fatmab28)
   - [Fawaz Sullia](https://github.com/fawazsullia)
   - [Fayas Noushad](https://github.com/FayasNoushad)
   - [Femi Oluwadamilola](https://github.com/femiOluwadamilola)
   - [Fidal Mathew](https://github.com/FidalMathew)
   - [Franklin Ohaegbulam](https://github.com/frankiefab100)
-  - [Farzad Esmaeil Beygi](https://github.com/Farzad-ES)
 
 - ### **G**
 
