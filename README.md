@@ -680,6 +680,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sahil Vaidya](https://github.com/sahilvaidya13)
   - [Sahitya Roy](https://github.com/SahityaRoy)
   - [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
+  - [Saifur Rahman Tamim](https://github.com/sr-tamim)
   - [Sajid305](https://github.com/Sajid305)
   - [Saksham Sharma](https://github.com/SakshamSharma09)
   - [Sam Sharma](https://github.com/javascript-spec)
