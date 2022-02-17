@@ -521,6 +521,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Marios Georgiou](https://github.com/MariosGeorgiou)
   - [Marius Gravningsmyhr](https://github.com/mariusgrHiof)
   - [Mark Murray](https://github.com/mark-d-murray)
+  - [Markus Eicher] (https://github.com/MarkusEicher)
   - [Martin Parker](https://github.com/RasPiPkr)
   - [Matthias Maier](https://github.com/NukeTheFridge)
   - [Max Base](https://github.com/basemax)
