@@ -232,6 +232,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ankit Zore](https://github.com/ZoreAnkit/)
   - [annu](https://github.com/annu12340)
   - [Ansh Dhingra](https://github.com/anshdhinhgra47)
+  - [Anthony Madia](https://github.com/AnthonyMadia)
   - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
   - [Anton Samper Rivaya](https://github.com/antonsamper/)
   - [Antonio Riccelli](https://github.com/Antonio-Riccelli)
@@ -404,6 +405,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **H**
 
   - [Hamza Jassar](https://github.com/iJassar)
+  - [Hana Aliyah Mufidah](https://github.com/aliyanamu)
   - [Hardik Ralhan](https://github.com/hardikralhan)
   - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
   - [Hariket Sukesh Kumar Sheth](https://github.com/hariketsheth)
@@ -465,6 +467,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Joseph Jose](https://github.com/josephjosedev)
   - [Josh Callahan](https://github.com/joshcallahan)
   - [Joykishan Sharma](https://github.com/JoykishanSharma)
+  - [João Barreiros](https://github.com/j-barreiros)
   - [Justin Braun](https://github.com/justin-braun)
   - [Jyoti KM](https://github.com/JyotiKM29)
 
@@ -477,6 +480,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
   - [Karan Kulshrestha](https://github.com/karankulshrestha)
   - [Kartikey Vaish](https://github.com/kartikeyvaish)
+  - [Kaushik Dey](https://github.com/kaushikdey647)
   - [Keerthishankar Punchithaya](https://github.com/KeerthishankarPunchithaya)
   - [Kehinde Adeleke](https://github.com/adeleke5140)
   - [Kendall Pinto](https://github.com/KendallDoesCoding)
@@ -640,7 +644,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rahul Aggarwal](https://github.com/rahul-aggarwal000005)
   - [Rahul Kumar](https://github.com/rahulbaran)
   - [Rahul Kumar Roy](https://github.com/mRahulRoy)
-  - [Rahul Singh](https:// github.com/rahulsingh3526)
+  - [Rahul Singh](https://github.com/rahulsingh3526)
   - [Rahul Soni](https://github.com/RahulSoni0)
   - [Rahul Sood](https://github.com/DireWolf707)
   - [Rahul](https://github.com/kohli6010)
