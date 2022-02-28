@@ -814,6 +814,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Swapna Devi](https://github.com/Swapna804)
   - [Syed Sibteali Baqar](https://github.com/sibteali786)
   - [syedareehaquasar](https://github.com/syedareehaquasar)
+  - [Stephanie Kui](https://github.com/stephanie-kuihg)
 
 - ### **T**
 
