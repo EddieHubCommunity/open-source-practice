@@ -330,7 +330,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [David Centurion](https://github.com/Parzivalcen)
   - [David Leal](https://github.com/Panquesito7)
   - [Davin S](https://github.com/davin2020)
-  - [Davis Gerhard](https://github.com/toomsie)
+  - [Davis T G](https://github.com/toomsie)
   - [Debbie D](https://github.com/hellodeborahuk)
   - [Deepak B](https://github.com/sbdeepu09)
   - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
