@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
-We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
+We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support).
 
 ---
 
@@ -330,7 +330,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [David Centurion](https://github.com/Parzivalcen)
   - [David Leal](https://github.com/Panquesito7)
   - [Davin S](https://github.com/davin2020)
-  - [Davis T G](https://github.com/toomsie)
+  - [Davis Xuy](https://github.com/toomsie)
   - [Debbie D](https://github.com/hellodeborahuk)
   - [Deepak B](https://github.com/sbdeepu09)
   - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
@@ -539,6 +539,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Marius Gravningsmyhr](https://github.com/mariusgrHiof)
   - [Mark Murray](https://github.com/mark-d-murray)
   - [Martin Parker](https://github.com/RasPiPkr)
+  - [Matt Oliver](https://github.com/mattyocode)
   - [Matthias Maier](https://github.com/NukeTheFridge)
   - [Max Base](https://github.com/basemax)
   - [Mayank Gupta](https://github.com/mayank-cse)
@@ -791,6 +792,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Srinivas](https://github.com/Mrdecent08)
   - [Sri Nivas](https://github.com/sri-nivas1227)
   - [Sri Venkat](https://github.com/srivenkat13)
+  - [Stephanie Kui](https://github.com/stephanie-kuihg)
   - [Stephen Mount](https://github.com/stemount)
   - [Stevie Gill](https://github.com/caffeinated-pixels)
   - [STILLWATER](https://github.com/ST1LLWATER)
