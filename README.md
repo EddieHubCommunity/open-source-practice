@@ -15,7 +15,7 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 # Hacktoberfest Practice Pull Requests
 
-Repository for you to raise a Pull Request to practice open-source! 🎉
+Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 ## Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
@@ -683,6 +683,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Raveena Bhasin](https://github.com/RaveenaBhasin)
   - [Rayan Abid](https://github.com/RayanAbid)
   - [Remco Halman](https://github.com/remcohalman)
+  - [Remy Dale](https://github.com/theremyd)
   - [Riadh Laabidi](https://github.com/riadh26)
   - [Richard Bacon](https://github.com/RichardJonBacon)
   - [Rick Flores](https://github.com/RICK-FLORES)
