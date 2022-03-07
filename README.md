@@ -371,6 +371,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Eddie Jaoude](https://github.com/eddiejaoude)
   - [Edgar Ssensalo](https://github.com/ssensalo)
+  - [Edilson Matola](https://github.com/edilsonmatola)
   - [Edward Vielmetti](https://github.com/vielmetti)
   - [Efereyan Karen Simisola](https://github.com/KarenEfereyan)
   - [Emmy Steven](https://github.com/emmysteven)
