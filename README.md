@@ -291,6 +291,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Biresh Biswas](https://github.com/Billa05)
   - [Bisesh Adhikari](https://github.com/Biseshadhikari)
   - [Bismeet Singh](https://github.com/BismeetSingh)
+  - [Bharath](https://github.com/bharathyes)
   - [Bhargav Avinash](https://github.com/bhargav794)
   - [Bhargavi V](https://github.com/Bhar-02)
   - [Bhavanshu Jain](https://github.com/bhavanshu-1112)
