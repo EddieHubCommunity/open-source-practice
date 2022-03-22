@@ -34,7 +34,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```bash
-  git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
+  git clone https://github.com/Shivam-opensrc2002/hacktoberfest-practice.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window.
@@ -54,7 +54,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `- [Shivam Choudhary](https://github.com/Shivam-opensrc2002)`
 
 - Stage your changes.
 
@@ -71,7 +71,7 @@ or
 - Commit the changes.
 
 ```bash
-  git commit -m "Add <your-github-username>"
+  git commit -m "Add <Shivam-opensrc2002>"
 ```
 
 - Check the status of your repository.
@@ -103,7 +103,7 @@ or
 If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
 ```bash
-ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
+ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <Shivam-opensrc2002>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
 ```
