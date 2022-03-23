@@ -34,7 +34,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```bash
-  git clone https://github.com/Shivam-opensrc2002/hacktoberfest-practice.git
+  git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window.
