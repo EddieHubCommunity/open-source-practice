@@ -71,7 +71,7 @@ or
 - Commit the changes.
 
 ```bash
-  git commit -m "Add <Shivam-opensrc2002>"
+  git commit -m "Add <your-github-username>"
 ```
 
 - Check the status of your repository.
