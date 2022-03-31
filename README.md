@@ -855,7 +855,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **T**
 
   - [Tadi](https://github.com/mtrill47)
-  - [Sheikh Taha](https://github.com/iStaha)
+  - [Taha Latief](https://github.com/iStaha)
   - [Tamal Das](https://github.com/IAmTamal)
   - [Tanaya Wankar](https://github.com/tanaya123-comp)
   - [Taneem Jan](https://github.com/taneemishere)
