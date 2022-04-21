@@ -303,6 +303,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Cynthia Teeters](https://github.com/cynthiateeters)
 
 - ### **D**
+
   - [Dagim Cherinet Biftu](https://github.com/dagim-cherinet)
   - [Dalpat Rathore](https://github.com/dalpatrathore)
   - [Danella Patrick](https://github.com/danellapatrick)
