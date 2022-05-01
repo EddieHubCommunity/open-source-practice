@@ -463,6 +463,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ibrahim Ramadhan](https://github.com/ibby360)
   - [Ibtihel Ouni](https://github.com/Ibtihel-ouni)
   - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
+  - [Ihtisham](https://github.com/ihtishamKhan)
   - [Ikra P](https://github.com/ikraP)
   - [Imad Bg](https://github.com/imadbg01)
   - [Indu Rupi](https://github.com/indurupi)
