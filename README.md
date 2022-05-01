@@ -383,6 +383,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **E**
 
+  - [E Asai](https://github.com/easai)
   - [Eddie Jaoude](https://github.com/eddiejaoude)
   - [Edgar Ssensalo](https://github.com/ssensalo)
   - [Edilson Matola](https://github.com/edilsonmatola)
