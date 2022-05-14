@@ -977,6 +977,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yahya Khan](https://github.com/yahyakhn)
   - [Yamini Kaushal](https://github.com/Yamini09-code)
   - [Yamini Singh](https://github.com/yamini-singh169)
+  - [Yanuka Deneth](https://github.com/yanukadeneth99)
   - [Yash Choudhary](https://github.com/yashc9602)
   - [Yash Patel](https://github.com/yash-0025)
   - [Yash Sehgal](https://github.com/yashsehgal)
