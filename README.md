@@ -571,6 +571,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Lordson Fernando](https://github.com/lordsonfernando)
   - [Lovakush](https://github.com/Lovakush)
   - [Lundbyit](https://github.com/Lundbyit)
+  - [Lukasz Przybylka](https://github.com/l-przybylka)
 
 - ### **M**
 
