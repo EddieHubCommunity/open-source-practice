@@ -995,6 +995,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Wahyu Wiyoko](https://github.com/wahyuwiyoko)
   - [Waqe](https://github.com/waq-e)
   - [Willi Hohenstein](https://github.com/willhoh)
+  -[William J Priest](https://github.com/WilliamJPriest)
 
 - ### **X**
 
