@@ -930,6 +930,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tamal Das](https://github.com/IAmTamal)
   - [Tanaya Wankar](https://github.com/tanaya123-comp)
   - [Taneem Jan](https://github.com/taneemishere)
+  - [Tanish Mishra](https://github.com/Tanish-Mishra)
   - [Tannu Daral](https://github.com/tannudaral)
   - [Tanya Powell](https://github.com/tanyapowell)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
@@ -944,7 +945,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
-  - [Tanish Mishra](https://github.com/Tanish-Mishra)
 - ### **U**
 
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
