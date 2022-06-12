@@ -407,7 +407,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dušan Tanasić](https://github.com/Duk4/)
 
 - ### **E**
-
+  - [Enn Dee](https://github.com/enn-dee)
   - [E Asai](https://github.com/easai)
   - [Eddie Jaoude](https://github.com/eddiejaoude)
   - [Edgar Ssensalo](https://github.com/ssensalo)
