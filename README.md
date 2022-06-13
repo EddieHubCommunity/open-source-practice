@@ -696,7 +696,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Parth Gupta](https://github.com/parth-gpt)
   - [Parthiv Sarma](https://github.com/sarmaparthiv)
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
-  - [Patricia Diaz] (https://github.com/devPatricia)
+  - [Patricia Diaz](https://github.com/devPatricia)
   - [Patrick Reinhold Bergstroem](https://github.com/prb01)
   - [Peeyush Guleria](https://github.com/peeyushguleria)
   - [Peter Havlena](https://github.com/phavlena)
