@@ -669,7 +669,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Muthu Annamalai V.](https://github.com/muthuannamalai12)
 
 - ### **N**
-
+  - [Nirav Prajapati](https://github.com/Niravprajapati1)
   - [Nabhag Motivaras](https://github.com/Nabhag8848)
   - [Nagulvali Shaik](https://github.com/nagulvali555)
   - [Naman Mittal](https://github.com/Namanmittal0007)
