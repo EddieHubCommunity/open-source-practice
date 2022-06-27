@@ -337,6 +337,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Bryson M.](https://github.com/Bryson69)
   - [Buddhadeb Chhetri](https://github.com/Buddhad)
   - [Bui Bao Long](https://github.com/longbuibao)
+  - [Burhanuddin Raja](https://github.com/BurhanRaja)
 
 - ### **C**
 
