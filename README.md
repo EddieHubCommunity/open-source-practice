@@ -500,6 +500,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Honey Patel](https://github.com/honeykpatel)
   - [Hrithik Chauhan](https://github.com/Hrithik5)
   - [Hulya Karakaya](https://github.com/hulyak)
+  - [Hana Shah](https://github.com/hanashah-01)
 
 - ### **I**
 
