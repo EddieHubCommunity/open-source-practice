@@ -803,6 +803,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rishabh Dhawad](https://github.com/RishabhDhawad)
   - [Rishabh Rathore](https://github.com/rishabhrathore055)
   - [Rishabh Singhal](https://github.com/rish-singhal)
+  - [Ritam Samanta](https://github.com/RitamSamant)
   - [Ritek Rounak](https://github.com/RITEKROUNAK)
   - [Ritik Bharti](https://github.com/Ritik4388)
   - [Ritvij Kumar Sharma](https://github.com/ritvij14)
