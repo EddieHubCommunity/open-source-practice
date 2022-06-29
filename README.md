@@ -1073,6 +1073,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yoel Morad](https://github.com/yoel0)
   - [Yuval Sharma](https://github.com/Yuval207)
   - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
+  - [Yuvraj Singh Rana](https://github.com/yuviii99)
 
 - ### **Z**
 
