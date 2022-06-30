@@ -828,6 +828,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rohit Tewari](https://github.com/rtewari056)
   - [Rohit Vuppuluri](https://github.com/rohitv-dev)
   - [Ron Waller](https://github.com/RonWaller)
+  - [Roshan Sharma](https://github.com/imrosun)
   - [Rotimi Olaoluwa](https://github.com/Rolexero)
   - [Rui Batista](https://github.com/BellamyPT)
   - [Russ Perry](https://github.com/rperry99)
