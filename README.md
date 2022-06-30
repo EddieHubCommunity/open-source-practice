@@ -714,6 +714,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Odin May](https://github.com/odinmay)
   - [Okechukwu Chukwude](https://github.com/okeychukwude)
   - [Okute Wonah](https://github.com/okutewonah)
+  - [Olaide Emmanuel](https://github.com/delaquash)
   - [Om Kumar](https://github.com/new-thang)
   - [Omer Maki](https://github.com/omer358)
   - [Omkar Bhoir](https://github.com/omkar787)
@@ -721,7 +722,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Omkar Kulkarni](https://github.com/Omkar0114)
   - [Onkar Dighe](https://github.com/onkardighe)
   - [Osoraa Nwankwo](https://github.com/Osoraa)
-  - [Olaide Emmanuel](https://github.com/delaquash)
+  
 
 - ### **P**
 
