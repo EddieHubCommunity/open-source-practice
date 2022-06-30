@@ -398,6 +398,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dharmik Hingu](https://github.com/dharmik48)
   - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
   - [Dhrumi Shah](https://github.com/dhrumishah)
+  - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
   - [Dhruva Srinivas](https://github.com/carrotfarmer)
   - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
   - [Diego Nieto](https://github.com/diego-nieto-pena)
