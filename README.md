@@ -838,6 +838,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Russ Perry](https://github.com/rperry99)
   - [Rutik Bhoyar](https://github.com/Rutikab12)
   - [Rwitesh Bera](https://github.com/rwiteshbera)
+  - [Ryga](https://github.com/ryga9)
 
 - ### **S**
 
