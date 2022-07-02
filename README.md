@@ -571,6 +571,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Kabir](https://github.com/kabir0x23)
   - [Kabir Jain](https://github.com/kkkkkabir)
+  - [Kader Sarikaya](https://github.com/kadersarikaya)
   - [Kai Bechdel](https://github.com/therealkai)
   - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
   - [Kaleb P](https://github.com/Devarite)
