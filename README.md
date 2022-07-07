@@ -330,6 +330,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **B**
 
+  - [Babin Bohora](https://github.com/nibab-boo)
   - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
   - [Balikis Oyeleye](https://github.com/Qreamville)
   - [Baraa Baba](https://github.com/baraa-baba)
