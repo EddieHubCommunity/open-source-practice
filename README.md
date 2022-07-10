@@ -300,6 +300,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Arsalan Rashid Khan](https://github.com/ArsalanRashid-K)
   - [Arshdeep Singh](https://github.com/Arshdeep-0509)
   - [Arsheel](https://github.com/arsheelsheikh)
+  - [Arun Kumar](https://github.com/ArunKumar-07)
   - [ArunKumar Nadikattu](https://github.com/mastrero)
   - [Aryabhatta](https://github.com/mrbuddhu)
   - [Aryan Deshpande](https://github.com/Aryan-Deshpande)
