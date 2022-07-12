@@ -1,4 +1,5 @@
 ﻿<!-- markdownlint-disable-next-line -->
+
 **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support).
@@ -100,13 +101,38 @@ or
   git push -u origin main
 ```
 
-If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
+If you get an error message like the one below, you probably forgot to fork the repository before cloning it.
 
 ```bash
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
 ```
+
+No need to panic or loose your streak at this point. Follow along to fix this issue.
+
+```
+To fix this issue, fork the project now using the gray `Fork` button in the top right of this page.
+Once the fork is complete it will redirect you to the newly forked repo on your github account.
+Run these commands at this point and you are good to continue:
+git remote remove origin
+git remote add origin git@github.com:<your github usename>/hacktoberfest-practice.git
+```
+
+You can confirm that your local copy is pointing to forked repo under your account by running this command
+
+```
+git remote -vv
+```
+
+output should be like below:
+
+```
+origin  git@github.com:<your github usename>/hacktoberfest-practice.git (fetch)
+origin  git@github.com:<your github usename>/hacktoberfest-practice.git (push)
+```
+
+Continue with rest of the steps below to open a pull request.
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
