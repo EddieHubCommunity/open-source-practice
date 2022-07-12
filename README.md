@@ -36,7 +36,7 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 4. Raise a Pull Request: 
 - Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`). 
 - Click the green `New Pull Request` button. This will prep the new pull request for you by autofilling the `base repository: base` with 'EddieGitHubCommunity: main' AND autofilling your `head repository: compare` with 'your repository: main'
-- Click on your head reponsitory's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`. 
+- Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`. 
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
