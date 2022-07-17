@@ -393,6 +393,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Chris Moreton](https://github.com/chris-moreton)
   - [Chris Niedermayer](https://github.com/Chris-N)
   - [Chris Schubert](https://github.com/C-Schubert94)
+  - [Clifford Mapesa](https://github.com/droffilc1)
   - [CodesbyUnnati](https://github.com/CodesbyUnnati)
   - [CodingSpecies](https://github.com/CodingSpecies)
   - [Conor O Shea](https://github.com/conoroshea1996)
