@@ -31,7 +31,8 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 *_You CAN make edits on the main branch, but this may cause issues down the line. Best practice is to create a new branch for each separate issue you work on. That way your `main` branch remains in sync with Eddie's `main` branch_
 
 3. Edit: 
-- On the top right of the Readme file, click on the pencil icon to edit the file by adding your name
+- On the top right of the Readme file, click on the pencil icon to edit the file by adding your name.
+- After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the correct branch.
 
 4. Raise a Pull Request: 
 - Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`). 
