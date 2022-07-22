@@ -32,7 +32,7 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 3. Edit: 
 - On the top right of the Readme file, click on the pencil icon to edit the file by adding your name.
-- After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the correct branch.
+- After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 4. Raise a Pull Request: 
 - Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`). 
