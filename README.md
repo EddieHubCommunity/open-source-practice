@@ -23,22 +23,39 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 1. Fork the project: 
 - Click the gray `Fork` button in the top right of this page. This creates *your* copy of the project and saves it as a new repository in your github account
+<img width="1060" alt="Forking a prject" src="https://user-images.githubusercontent.com/100349162/180974397-9ff7b84c-d22d-4c91-9b11-d71143669b0b.png">
 
 2. Create a New Branch: 
-- On your new repository's page, click the gray 'main' button in the upper left to reveal a dropdown menu. 
-- Enter the name of your new branch in the text box. (Branch names usually make a reference to what is being changed. Example: `nameAdd`). 
+- On your new repository's page, click the gray 'main' button in the upper left to reveal a dropdown menu.
+<img width="885" alt="Creating a new branch" src="https://user-images.githubusercontent.com/100349162/180974450-8af3b409-1999-44cc-8d67-ee5076c47b3e.png">
+
+- Enter the name of your new branch in the text box. (Branch names usually make a reference to what is being changed. Example: `nameAdd`).
+<img width="899" alt="Entering name of new branch" src="https://user-images.githubusercontent.com/100349162/180976898-4965567f-2151-4ba3-922e-f349f67060ab.png">
+
 - Click on `Create branch <new branch name>` and this will automatically take you to your new branch. 
 *_You CAN make edits on the main branch, but this may cause issues down the line. Best practice is to create a new branch for each separate issue you work on. That way your `main` branch remains in sync with Eddie's `main` branch_
+<img width="885" alt="Clicking on create a new branch" src="https://user-images.githubusercontent.com/100349162/180974776-119cb49a-8e17-449e-8605-f158135715ec.png">
 
 3. Edit: 
 - On the top right of the Readme file, click on the pencil icon to edit the file by adding your name.
+<img width="885" alt="Clicking on edit pencil" src="https://user-images.githubusercontent.com/100349162/180974872-67130e60-3bb2-4a51-8e8c-f45fe0c35568.png">
+
 - After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
+<img width="1086" alt="Commiting changes" src="https://user-images.githubusercontent.com/100349162/180974917-66f28cfd-2289-41af-b03a-3b224f144983.png">
 
 4. Raise a Pull Request: 
-- Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`). 
+- Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`).
+<img width="899" alt="Creating pull request" src="https://user-images.githubusercontent.com/100349162/180977423-9418c965-769d-4b98-ad65-a5e56d5ff8df.png">
+
 - Click the green `New Pull Request` button. This will prep the new pull request for you by autofilling the `base repository: base` with 'EddieGitHubCommunity: main' AND autofilling your `head repository: compare` with 'your repository: main'
-- Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`. 
+<img width="910" alt="New pull request" src="https://user-images.githubusercontent.com/100349162/180975393-008acedf-1395-4dc6-a220-0560c98f6287.png">
+
+- Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
+<img width="1232" alt="Compare changes" src="https://user-images.githubusercontent.com/100349162/180974266-5769d592-fcb4-4895-87cf-643b44b9c6cb.png">
+
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
+![Click button and create pull request](https://user-images.githubusercontent.com/100349162/180979245-ee3d58d7-6d8c-4f04-b11a-052fb15c6bdc.png)
+
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
