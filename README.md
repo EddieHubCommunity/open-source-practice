@@ -734,6 +734,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mohammad Ghorbani](https://github.com/ghorbani-mohammad)
   - [Mohammad Reza Salemi](https://github.com/reza-salemi)
   - [Mohammed Asadullah Sayeed](https://github.com/asdsyd)
+  - [Mohammed Arbazuddin Qureshi](https://github.com/mohammedarbaz119)
   - [Mohammed Muddassir](https://github.com/mohammed-muddassir)
   - [Mohannad Hamdy](https://github.com/MohannadHamdy)
   - [Mohasin Haque](https://github.com/Mohasin-Haque)
