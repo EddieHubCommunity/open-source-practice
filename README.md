@@ -1,4 +1,5 @@
 ﻿<!-- markdownlint-disable-next-line -->
+
 **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support).
@@ -21,23 +22,26 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 ## Option 1. Complete this process in Github (in your browser)
 
-1. Fork the project: 
-- Click the gray `Fork` button in the top right of this page. This creates *your* copy of the project and saves it as a new repository in your github account
+1. Fork the project:
 
-2. Create a New Branch: 
-- On your new repository's page, click the gray 'main' button in the upper left to reveal a dropdown menu. 
-- Enter the name of your new branch in the text box. (Branch names usually make a reference to what is being changed. Example: `nameAdd`). 
-- Click on `Create branch <new branch name>` and this will automatically take you to your new branch. 
-*_You CAN make edits on the main branch, but this may cause issues down the line. Best practice is to create a new branch for each separate issue you work on. That way your `main` branch remains in sync with Eddie's `main` branch_
+- Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
 
-3. Edit: 
+2. Create a New Branch:
+
+- On your new repository's page, click the gray 'main' button in the upper left to reveal a dropdown menu.
+- Enter the name of your new branch in the text box. (Branch names usually make a reference to what is being changed. Example: `nameAdd`).
+- Click on `Create branch <new branch name>` and this will automatically take you to your new branch. \*_You CAN make edits on the main branch, but this may cause issues down the line. Best practice is to create a new branch for each separate issue you work on. That way your `main` branch remains in sync with Eddie's `main` branch_
+
+3. Edit:
+
 - On the top right of the Readme file, click on the pencil icon to edit the file by adding your name.
 - After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
-4. Raise a Pull Request: 
-- Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`). 
+4. Raise a Pull Request:
+
+- Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`).
 - Click the green `New Pull Request` button. This will prep the new pull request for you by autofilling the `base repository: base` with 'EddieGitHubCommunity: main' AND autofilling your `head repository: compare` with 'your repository: main'
-- Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`. 
+- Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
@@ -427,6 +431,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Darsh Gupta](https://github.com/DarshGupta1910)
   - [Dave Bhandari](https://github.com/Davekibh)
   - [David Centurion](https://github.com/Parzivalcen)
+  - [David Langner] (https://github.com/langnerdavid)
   - [David Leal](https://github.com/Panquesito7)
   - [David Okononfua](https://github.com/Vinyl-Davyl)
   - [Davin S](https://github.com/davin2020)
