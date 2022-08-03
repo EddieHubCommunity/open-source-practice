@@ -111,10 +111,11 @@ Please make sure you have the correct access rights and the repository exists.
 
 No need to panic or loose your streak at this point. Follow along to fix this issue.
 
-```
 To fix this issue, fork the project now using the gray `Fork` button in the top right of this page.
 Once the fork is complete it will redirect you to the newly forked repo on your github account.
 Run these commands at this point and you are good to continue:
+
+```
 git remote remove origin
 git remote add origin git@github.com:<your github usename>/hacktoberfest-practice.git
 ```
