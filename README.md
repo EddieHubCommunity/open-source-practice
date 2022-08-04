@@ -111,7 +111,7 @@ Please make sure you have the correct access rights and the repository exists.
 No need to panic or loose your streak at this point. Follow along to fix this issue.
 
 To fix this issue, fork the project using the gray [`Fork`](https://github.com/EddieHubCommunity/hacktoberfest-practice/fork) button in the top right of this page.
-Once the fork is complete it will redirect you to the newly forked repo on your github account.
+Once the fork is complete, it will redirect you to the newly forked repository on your GitHub account.
 Run these commands at this point and you are good to continue:
 
 ```
