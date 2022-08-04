@@ -125,7 +125,7 @@ You can confirm that your local copy is pointing to the forked repository under 
 git remote -vv
 ```
 
-output should be like below:
+The output should be like below:
 
 ```
 origin  git@github.com:<your github usename>/hacktoberfest-practice.git (fetch)
