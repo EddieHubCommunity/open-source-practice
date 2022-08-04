@@ -119,7 +119,7 @@ git remote remove origin
 git remote add origin git@github.com:<your github usename>/hacktoberfest-practice.git
 ```
 
-You can confirm that your local copy is pointing to forked repo under your account by running this command
+You can confirm that your local copy is pointing to the forked repository under your account by running the following command:
 
 ```
 git remote -vv
