@@ -825,6 +825,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nirav Prajapati](https://github.com/Niravprajapati1)
   - [Nirban Chakraborty](https://github.com/nirban256)
   - [Nirvana](https://github.com/nirvana-vibes)
+  - [Nishant Giri](https://github.com/raptor4444)
   - [Nishant Shrivastva](https://github.com/shrinishant)
   - [Nishant Siddh](https://github.com/nishant-siddh)
   - [Nithin](https://github.com/Nithin108)
