@@ -1261,6 +1261,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yamiqu](https://github.com/Yamiqu)
   - [Yanuka Deneth](https://github.com/yanukadeneth99)
   - [Yash Choudhary](https://github.com/yashc9602)
+  - [Yash Khokhaneshiya](https://github.com/ykhokhaneshiya)
   - [Yash Patel](https://github.com/yash-0025)
   - [Yash Sehgal](https://github.com/yashsehgal)
   - [Yash Verma](https://github.com/Recognizeyourself)
