@@ -620,6 +620,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **J**
 
+  - [Jacob Dunn](https://github.com/dunnjacoba)
   - [Jacob Lepler](https://github.com/leplerjacob)
   - [Jade Kneen](https://github.com/jadekneen)
   - [Jagan Sekaran](https://github.com/JAG-010)
