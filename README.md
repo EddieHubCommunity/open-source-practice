@@ -765,6 +765,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Markus Eicher](https://github.com/MarkusEicher)
   - [Martin Parker](https://github.com/RasPiPkr)
   - [Maryam Farshbafi](https://github.com/MaryamFarshbafi)
+  - [Masete Nicholas](https://github.com/masete)
   - [Matt Oliver](https://github.com/mattyocode)
   - [Matthias Maier](https://github.com/NukeTheFridge)
   - [Max Base](https://github.com/basemax)
