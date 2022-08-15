@@ -1,4 +1,4 @@
-﻿<!-- MARKDOWNLINT-DISABLE-NEXT-LINE -->
+<!-- MARKDOWNLINT-DISABLE-NEXT-LINE -->
 **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support).
@@ -644,8 +644,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [JesusGerardoAguiar](https://github.com/JesusGerardoAguiar)
   - [Jigneshvray](https://github.com/jigneshvray)
   - [Jivthesh](https://github.com/jivthesh)
-  - [Joel James](https://github.com/Lyon03)
   - [Joel Abah](https://github.com/joelabah)
+  - [Joel James](https://github.com/Lyon03)
   - [Johanna](https://github.com/Johanna-hub)
   - [John Daniel](https://github.com/johndanny98)
   - [John Muriu](https://github.com/john-muriu)
