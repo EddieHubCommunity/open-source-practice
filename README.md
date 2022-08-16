@@ -311,6 +311,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Anubhav Purohit](https://github.com/Anubhav-byte)
   - [Anubhav Singhal](https://github.com/anu-sin)
   - [Anuj Bisht](https://github.com/bishtanuj)
+  - [Anuj Chourasia](https://github.com/anujchourasia15)
   - [Anuj Kumar](https://github.com/R3v3rb3)
   - [Anuj Tiwari](https://github.com/ANUJTIWARI007)
   - [Anupama Dhir](https://github.com/anupamadh)
