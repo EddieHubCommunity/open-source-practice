@@ -590,6 +590,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Hebron Panam Praise](https://github.com/panam-py)
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
   - [Heloise Viegas](https://github.com/heloise-viegas)
+  - [Hemant](https://github.com/hemantwasthere)
   - [Hemang Ranjan](https://github.com/Hemang417)
   - [Hemant Bajaj](https://github.com/ORKO06)
   - [Hemanth Sai Garladinne](https://github.com/HemanthSai7)
