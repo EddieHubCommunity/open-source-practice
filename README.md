@@ -169,7 +169,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 ---
 
 - ### **A**
-
+  - [Aryex](https://github.com/Aryex82)
   - [Aakansha Priya](https://github.com/priyaaakansha)
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
