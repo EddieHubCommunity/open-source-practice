@@ -157,10 +157,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 <div align=center>
   
 ## `Hacktoberfest Community`
- </div>
 
- <div align=center>
- 
 ### **Contents**
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
