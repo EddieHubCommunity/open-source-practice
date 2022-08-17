@@ -17,7 +17,7 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 # Hacktoberfest Practice Pull Requests
 
-Repository for you to raise a Pull Request to **practice** open-source! 🎉
+A Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 ## Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
@@ -158,13 +158,14 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 ### **Contents**
 
-| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
-| ------- | ------- | ------- | ------- | ------- |
-| [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) |
-| [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) |
-| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) |
-| [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) |
-|         |         | [Z](#z) |
+|       |       |       |       |       |
+|-------|-------|-------|-------|-------|
+|[A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|
+|[F](#f)|[G](#g)|[H](#h)|[I](#i)|[J](#j)|
+|[K](#k)|[L](#l)|[M](#m)|[N](#n)|[O](#o)|
+|[P](#p)|[Q](#q)|[R](#r)|[S](#s)|[T](#t)|
+|[U](#u)|[V](#v)|[W](#w)|[X](#x)|[Y](#y)|
+|       |       |[Z](#z)|
 
 ---
 
