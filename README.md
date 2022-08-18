@@ -830,6 +830,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Muhammed Fayad](https://github.com/Nyctophilus)
   - [Muiruriscode](https://github.com/Muiruriscode)
   - [Mujahid Ali](https://github.com/MujahidAli954)
+  - [Mukhtar Abdulfatai](https://github.com/DevMukhtarr)
   - [Mukul Sharma](https://github.com/mukul98s)
   - [Mulyadi](https://github.com/Urcane)
   - [Muneeb Illahi](https://github.com/muneeb-i-khan)
