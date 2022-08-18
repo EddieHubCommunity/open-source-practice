@@ -29,7 +29,7 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 2. Create a New Branch:
 
-- On your new repository's page, click the gray 'main' button in the upper left to reveal a dropdown menu.
+- On your new repository's page, click the gray `main` button in the upper left to reveal a dropdown menu.
 - Enter the name of your new branch in the text box. (Branch names usually make a reference to what is being changed. Example: `nameAdd`).
 - Click on `Create branch <new branch name>` and this will automatically take you to your new branch. \*_You CAN make edits on the main branch, but this may cause issues down the line. Best practice is to create a new branch for each separate issue you work on. That way your `main` branch remains in sync with Eddie's `main` branch_
 
@@ -41,7 +41,7 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 4. Raise a Pull Request:
 
 - Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`).
-- Click the green `New Pull Request` button. This will prep the new pull request for you by autofilling the `base repository: base` with 'EddieGitHubCommunity: main' AND autofilling your `head repository: compare` with 'your repository: main'
+- Click the green `New Pull Request` button. This will prep the new pull request for you by autofilling the `base repository: base` with 'EddieGitHubCommunity: main' AND autofilling your `head repository: compare` with `your repository: main`
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
@@ -74,7 +74,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial in this [alphabetical list](https://github.com/EddieHubCommunity/hacktoberfest-practice#a). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
