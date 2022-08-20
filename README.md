@@ -1,7 +1,8 @@
 ﻿<!-- markdownlint-disable-next-line -->
+
 **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
-We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an [issue]( https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join EddieHub [Discord](http://discord.eddiehub.org/) channel.
+We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an [issue](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join EddieHub [Discord](http://discord.eddiehub.org/) channel.
 
 ---
 
@@ -1264,7 +1265,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **V**
 
-  - [Vaibhav Malhotra](https://github.com/vaibhavmalhotra002) 
+  - [Vaibhav Malhotra](https://github.com/vaibhavmalhotra002)
   - [Vaibhav Sharma](https://github.com/AlphaVS-76)
   - [Vaibhav Tiwari](https://github.com/vteam27)
   - [Vaibhav Wani](https://github.com/Vaibhavwani11)
@@ -1276,6 +1277,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Vardaan Aggarwal](https://github.com/VardaanAggarwal)
   - [Varghese Jose](https://github.com/varghesejose2020)
   - [Vedanshi Prajapati](https://github.com/Vedanshi555)
+  - [Vedant Manjrekar](https://github.com/Vedant-Manjrekar)
   - [Vedant Pandya](https://www.github.com/pandyaved98)
   - [Venkata Mouli](https://github.com/mouli3029)
   - [Vicky Gupta](https://github.com/viki4545)
@@ -1338,9 +1340,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yuvaraj Singh](https://github.com/YuvarajSingh-0)
   - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
   - [Yuvraj Singh Rana](https://github.com/yuviii99)
-
-- ### **V**
-  - [Vedant Manjrekar](https://github.com/Vedant-Manjrekar)
 
 - ### **Z**
 
