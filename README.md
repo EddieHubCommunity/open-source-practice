@@ -1339,6 +1339,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
   - [Yuvraj Singh Rana](https://github.com/yuviii99)
 
+- ### **V**
+  - [Vedant Manjrekar](https://github.com/Vedant-Manjrekar)
+
 - ### **Z**
 
   - [Zaid Khan](https://github.com/ZaidKhan2002)
