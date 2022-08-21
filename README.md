@@ -1111,6 +1111,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Shashank Bhat G S](https://github.com/shashankbhatgs)
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
   - [Shaun Fitzgibbon](https://github.com/Sfitzg)
+  - [Shaurya Gupta](https:github.com/shauryag2002)
   - [shaurya sharma](https://github.com/shaurya074)
   - [Shawon Krishna Saha](https://github.com/hira-saha)
   - [Sheharyar Khan](https://github.com/Sheharyark)
