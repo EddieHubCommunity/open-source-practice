@@ -1,5 +1,3 @@
-Tlotlo Patriot Kgotlafela 
-
 <!-- markdownlint-disable-next-line -->
 **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
@@ -1253,6 +1251,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tikeshwar Sahu](https://github.com/Tiku24)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
+  - [Tlotlo Patriot Kgotlafela](https://github.com/Tlotlo-pat)
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
   - [Tung Pham](https://github.com/TungPhamQ)
