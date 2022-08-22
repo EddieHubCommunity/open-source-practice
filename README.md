@@ -870,6 +870,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nicholas Pitt](https://githib.com/WelshKaibigan)
   - [Nicolas Matheus](https://github.com/NicolasMatheus)
   - [Nidhi Kumari](https://github.com/Nidhikumari-4)
+  - [Nikhil Dhariwal](https://github.com/404Nikhil)
   - [Nikhil Shanbhag](https://github.com/Nikhil-1503)
   - [Nikhil Sharma](https://github.com/NikhilSharma03)
   - [Nikita Babko](https://github.com/nikitababko)
