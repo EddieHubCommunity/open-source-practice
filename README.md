@@ -863,6 +863,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nandini](https://github.com/nandini040)
   - [Nathan Byrne](https://github.com/naefun)
   - [Nazeeya Azeem](https://github.com/naz2001)
+  - [Nazimudheen TI](https://github.com/nazimudheen267)
   - [Neeraj Kumar Singh](https://github.com/neerajsingh869)
   - [Neetesh Kumar Sharma](https://github.com/Neeteshking21)
   - [Nesar Ahmad Patwary](https://github.com/nesarptr)
