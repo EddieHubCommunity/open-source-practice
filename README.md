@@ -5,6 +5,7 @@ We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositor
 
 ---
 
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EddieHubCommunity/hacktoberfest-practice)
 
 # Hacktoberfest
@@ -169,7 +170,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 ---
 
 - ### **A**
-
+[[OI[I
   - [Aakansha Priya](https://github.com/priyaaakansha)
   - [Aakarsh Teja](https://github.com/aakarshteja)
   - [Aarul Mishra](https://github.com/Aarul14)
@@ -491,6 +492,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dheeraj Khushalani](https://github.com/DheerajKhush)
   - [Dhrumi Shah](https://github.com/dhrumishah)
   - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
+  - [DHRUV-ADAVADKAR](https://github.com/adavadkardhruv13)
   - [Dhruva Srinivas](https://github.com/carrotfarmer)
   - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
   - [Diego Nieto](https://github.com/diego-nieto-pena)
