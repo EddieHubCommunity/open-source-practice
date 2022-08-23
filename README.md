@@ -122,7 +122,7 @@ or
   git push -u origin main
 ```
 
-If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
+> **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
 ```bash
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
