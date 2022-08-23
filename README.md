@@ -1,11 +1,12 @@
 ﻿<!-- markdownlint-disable-next-line -->
-**This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
+> **Note**
+>**This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an [issue]( https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join EddieHub [Discord](http://discord.eddiehub.org/) channel.
 
 ---
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EddieHubCommunity/hacktoberfest-practice)
+
 
 # Hacktoberfest
 
@@ -13,7 +14,7 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 [![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md) [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EddieHubCommunity/hacktoberfest-practice)
 
 # Hacktoberfest Practice Pull Requests
 
