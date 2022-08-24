@@ -985,7 +985,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rahul Aggarwal](https://github.com/rahul-aggarwal000005)
   - [Rahul Karda](https://github.com/rahulkarda)
   - [Rahul Kumar](https://github.com/rahulbaran)
-  - [Rahul Kumar](https://github.com/iamrahul8)
+  - [Rahul Kumar(@iamrahul8)](https://github.com/iamrahul8)
   - [Rahul Kumar Roy](https://github.com/mRahulRoy)
   - [Rahul Singh](https://github.com/rahulsingh3526)
   - [Rahul Soni](https://github.com/RahulSoni0)
