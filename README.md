@@ -37,7 +37,7 @@ flowchart LR
 
 - On your new repository's page, click the gray `main` button in the upper left to reveal a dropdown menu.
 - Enter the name of your new branch in the text box. (Branch names usually make a reference to what is being changed. Example: `nameAdd`).
-- Click on `Create branch <new branch name>` and this will automatically take you to your new branch. \*_You CAN make edits on the main branch, but this may cause issues down the line. Best practice is to create a new branch for each separate issue you work on. That way your `main` branch remains in sync with Eddie's `main` branch_
+- Click on `Create branch <new branch name>` and this will automatically take you to your new branch. You can make edits on the main branch, but this may cause issues down the line. Best practice is to create a new branch for each separate issue you work on. That way your `main` branch remains in sync with Eddie's `main` branch
 
 3. Edit:
 
