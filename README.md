@@ -501,6 +501,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dhanush](https://github.com/ydhanush8)
   - [Dharmik Hingu](https://github.com/dharmik48)
   - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
+  - [Dhayal Ram](https://github.com/dhayalramk)
   - [Dheeraj Khushalani](https://github.com/DheerajKhush)
   - [Dhrumi Shah](https://github.com/dhrumishah)
   - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
