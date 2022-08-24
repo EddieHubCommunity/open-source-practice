@@ -617,12 +617,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Hemant](https://github.com/hemantwasthere)
   - [Hemant Bajaj](https://github.com/ORKO06)
   - [Hemanth Sai Garladinne](https://github.com/HemanthSai7)
+  - [Hemant Sharma](https://github.com/hemant-sw)
   - [Hernando Guzmán](https://github.com/hernandoagf)
   - [Himangshu Kalita](https://github.com/himangskalita)
   - [Honey Patel](https://github.com/honeykpatel)
   - [Hrithik Chauhan](https://github.com/Hrithik5)
   - [Hulya Karakaya](https://github.com/hulyak)
-  - [Hemant Sharma](https://github.com/hemant-sw)
+
 
 - ### **I**
 
