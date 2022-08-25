@@ -1129,6 +1129,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sayed Mohammed Nouman](https://github.com/Skyhero-admin)
   - [schmelto](https://github.com/schmelto)
   - [Sean Michael Motale](https://github.com/mainfunktion)
+  - [Sebastian Alexander](https://github.com/seb-lex)
   - [Sebastian Moreno Olivera](https://github.com/sebasmoreno-dev)
   - [Sefat Siddiquea Sifa](https://github.com/sifa123)
   - [Sejal Zambare](https://github.com/Sejal-16)
