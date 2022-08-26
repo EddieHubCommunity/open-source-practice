@@ -594,6 +594,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Goodness Ezeh](https://github.com/GoodnessEzeh)
   - [Gowtham P B](https://github.com/GowthamPB)
   - [Grawish Sachdeva](https://github.com/grawish)
+  - [Gourish Narang](https://github.com/gourishnarang)
   - [Gulshan Jakhon](https://github.com/gulshanjakhon)
   - [Gunjan Gupta](https://github.com/gunjan-g)
   - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
