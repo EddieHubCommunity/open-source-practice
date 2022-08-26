@@ -444,6 +444,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Cahllagerfeld](https://github.com/Cahllagerfeld)
   - [Chandula Janith](https://github.com/RedEdge967)
   - [Charlotte Jewer](https://github.com/Charlotte990)
+  - [Chamberlain Ezigbo](https://github.com/Chamberezigbo)
   - [Cherish Sachdeva](https://github.com/csachdeva83)
   - [Chinmay Khanna](https://github.com/chinmay3)
   - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
