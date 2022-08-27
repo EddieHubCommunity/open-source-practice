@@ -385,7 +385,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Atharva Mogade](https://github.com/atharvamogade)
   - [Atharva Pingale](https://github.com/atharva0300)
   - [Atharva Pise](https://github.com/itsEobard2025)
-https://github.com/Sruja10/hacktoberfest-practice.git  - [Atharva Waghchoure](https://github.com/AtharvaWaghchoure)
+  - [Atharva Waghchoure](https://github.com/AtharvaWaghchoure)
   - [Athul Suresh](https://github.com/athulmekkoth)
   - [Atif Moin](https://github.com/iamatifmoin)
   - [Atulya Singh](https://github.com/oreo-gif)
