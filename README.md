@@ -910,6 +910,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nishant Siddh](https://github.com/nishant-siddh)
   - [Nithin](https://github.com/Nithin108)
   - [Nitin Sharma](https://github.com/nitin-787)
+  - [Nitin Jerome](https://github.com/nitinrjn)
   - [Nitish Kumar](https://github.com/NitishKumar06)
   - [Nonso Ugbodu](https://github.com/Arndy345)
   - [Ntandoyenkosi Mendu](https://github.com/ntandoyenkosi1)
