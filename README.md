@@ -832,6 +832,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Megalous](https://github.com/megalous-lab)
   - [Melvin Ng](https://github.com/melvincwng)
   - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
+  - [Michael Liendo](https://github.com/Michael-Liendo)
   - [Michael Muogboh](https://github.com/mobo07)
   - [Miguel VR](https://github.com/MiguelVR)
   - [Mike Hatch](https://github.com/mikeshatch)
