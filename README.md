@@ -953,7 +953,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sanskriti Gupta](https://github.com/sanskritigupta5)
   - [Sanyam Gupta](https://github.com/sanyam19)
   - [Sarthak Dhonchak](https://github.com/SarthakDhonchak)
-  - [Sarthak Majorwar].(https://github.com/Majorwar)
+  - [Sarthak Majorwar](https://github.com/Majorwar)
   - [Sarthak Mallick](https://github.com/Sarthakm17)
   - [Sarthak Rajput](https://github.com/rsarthak)
   - [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
