@@ -600,6 +600,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Given Kibanza](https://github.com/givenkiban1)
   - [Gizem Andreae](https://github.com/Gigi-theandreae)
   - [Gladson Sethiel](https://github.com/gsonly)
+  - [Glyn Knight] (https://github.com/GLYNKNIGHT)
   - [Godfred Doe](https://github.com/FredDoe)
   - [Gokulraj Puviyarasu](https://github.com/gokulrajpuviyarasu)
   - [Goodness Ezeh](https://github.com/GoodnessEzeh)
