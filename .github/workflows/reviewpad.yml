@@ -28,7 +28,7 @@ jobs:
         with:
           # Use a default configuration file.
           # Remove next line if you want to add your own configuration.
-          file_url: https://github.com/reviewpad/action/blob/main/templates/start.yml
+          #file_url: https://github.com/reviewpad/action/blob/main/templates/start.yml
           
           # Uncomment next line to use your own configuration file 💪
-          # file: reviewpad.yml
+          file: reviewpad.yml

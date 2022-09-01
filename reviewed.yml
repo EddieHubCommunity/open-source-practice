@@ -1,0 +1,40 @@
+api-version: reviewpad.com/v3.x
+
+labels:
+  small:
+    color: "294b69"
+  medium:
+    color: "a8c3f7"
+  large:
+    color: "8a2138"
+
+workflows:
+  - name: label-pull-request-with-size
+    if:
+      - rule: $size() <= 5
+        extra-actions:
+          - $addLabel("small")
+      - rule: $size() > 5 && $size() <= 15
+        extra-actions:
+          - $addLabel("medium")
+      - rule: $size() > 15
+        extra-actions:
+          - $addLabel("large")
+
+  - name: first-time-issue-contributor
+    on:
+      - "issue"
+    always-run: true
+    if:
+      - rule: $issueCountBy($author(), "all") == 1
+        extra-actions:
+          - '$commentOnce($sprintf("Welcome @%v! Thank you so much for your first issue!", [$author()]))'
+
+  - name: first-time-pr-contributor
+    on:
+      - "pull_request"
+    always-run: true
+    if:
+      - rule: $pullRequestCountBy($author(), "all") == 1
+        extra-actions:
+          - '$commentOnce($sprintf("Welcome @%v! Thank you so much for your first pull request!", [$author()]))'
