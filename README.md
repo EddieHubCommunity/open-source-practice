@@ -560,6 +560,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Eric Thomas D. Cabigting](https://github.com/ecabigting)
   - [Eshan Sharma](https://github.com/Eshan-Sharma)
   - [essarrgee](https://github.com/essarrgee)
+  - [Ethan Cox](https://github.com/MasterReach1)
   - [Eugene Song](https://github.com/EugenSong)
   - [Euhid Aman](https://github.com/euhidaman)
   - [Evandro Rodrigues](https://github.com/evnrodr)
