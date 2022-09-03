@@ -1,4 +1,4 @@
-﻿<!-- markdownlint-disable-next-line -->
+<!-- markdownlint-disable-next-line -->
 > **Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an [issue]( https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join EddieHub [Discord](http://discord.eddiehub.org/) channel.
@@ -541,8 +541,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
   - [Durvesh Kumar Pal](https://github.com/DurveshKumarPal)
   - [Dušan Tanasić](https://github.com/Duk4)
-  
-
 - ### **E**
 
   - [E Asai](https://github.com/easai)
