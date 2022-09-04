@@ -419,6 +419,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Babin Bohora](https://github.com/nibab-boo)
   - [Baihaki Tanjung](https://github.com/BaihakiTanjung)
+  - [Balaji Sigamani] (https://github.com/balajisa09)
   - [Balikis Oyeleye](https://github.com/Qreamville)
   - [Baraa Baba](https://github.com/baraa-baba)
   - [Barkatul Mujauddin](https://github.com/barkatul)
