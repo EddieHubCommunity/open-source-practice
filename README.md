@@ -6,6 +6,7 @@ We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositor
 ---
 
 # Hacktoberfest
+This is a great open source program to contribute in to open source.
 
 What is it? Click on the poster below to watch the video for more details 📽
 
