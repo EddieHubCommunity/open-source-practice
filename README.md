@@ -1460,7 +1460,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **Z**
 
   - [Zaid Khan](https://github.com/ZaidKhan2002)
-  -- [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
+  - [Zakaria Ait Ali](https://github.com/ZakariaAitAli)
   - [Zakariya Adil Khwaja](https://github.com/zadilkhwaja)
   - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
   
