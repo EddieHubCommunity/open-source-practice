@@ -295,6 +295,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Amit Kumar Bera](https://github.com/itzwow)
   - [Amit Turare](https://github.com/amitturare)
   - [Amitesh Anand](https://github.com/Astrodevil)
+  - [Amith Sulakhe](https://github.com/amithsulakhe)
   - [Amrutha C.K.](https://github.com/Amrutha1101)
   - [Amzad Hossain](https://github.com/bdamzad)
   - [Ana Carrillo](https://github.com/acarrillo3)
