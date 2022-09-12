@@ -990,6 +990,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Orah, Psalm Chiemenam](https://github.com/orahpsalm)
   - [Osae-Addo](https://github.com/OsaeAddo)
   - [Osoraa Nwankwo](https://github.com/Osoraa)
+  - [Ojochogwu Dickson](https://github.com/Ojochogwu866)
 
 - ### **P**
 
