@@ -472,6 +472,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Caden Parker](https://github.com/Ne0nWinds)
   - [Cahllagerfeld](https://github.com/Cahllagerfeld)
   - [Carlie Hope](https://github.com/carliemaria)
+  - [Carmen Chow](https://github.com/cchow33)
   - [Chamberlain Ezigbo](https://github.com/Chamberezigbo)
   - [Chandula Janith](https://github.com/RedEdge967)
   - [Charlotte Jewer](https://github.com/Charlotte990)
