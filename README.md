@@ -600,7 +600,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Evandro Rodrigues](https://github.com/evnrodr)
   - [Ezinne Anne Emilia](https://github.com/ezinneanne)
   
-
 - ### **F**
 
   - [Fahad Masood](https://github.com/fahad-masood)
