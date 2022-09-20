@@ -28,7 +28,7 @@ workflows:
     if:
       - rule: $issueCountBy($author(), "all") == 1
         extra-actions:
-          - '$commentOnce($sprintf("Welcome @%v! Thank you so much for your first issue! Welcome to the community. Also join us in the EddieHub Discord for realtime chat and calls <a href="http://discord.eddiehub.org"> Discord Channel </a>", [$author()]))'
+          - '$commentOnce($sprintf("Welcome @%v! Thank you so much for your first issue! Welcome to the community. Also join us in the EddieHub Discord for realtime chat and calls http://discord.eddiehub.org", [$author()]))'
 
   - name: first-time-pr-contributor
     on:
@@ -37,4 +37,4 @@ workflows:
     if:
       - rule: $pullRequestCountBy($author(), "all") == 1
         extra-actions:
-          - '$commentOnce($sprintf("Welcome @%v! Thank you so much for your first pull request! Welcome to the community. Also join us in the EddieHub Discord for realtime chat and calls <a href="http://discord.eddiehub.org"> Discord Channel </a>", [$author()]))'
+          - '$commentOnce($sprintf("Welcome @%v! Thank you so much for your first pull request! Welcome to the community. Also join us in the EddieHub Discord for realtime chat and calls http://discord.eddiehub.org", [$author()]))'
