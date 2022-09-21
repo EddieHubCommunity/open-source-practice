@@ -5,7 +5,7 @@ We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositor
 
 ---
 
-# Hacktoberfest
+## Hacktoberfest
 
 What is it? Click on the poster below to watch the video for more details 📽
 
@@ -13,13 +13,13 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EddieHubCommunity/hacktoberfest-practice)
 
-# Hacktoberfest Practice Pull Requests
+## Hacktoberfest Practice Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
-## Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
+### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
-## Option 1. Complete this process in Github (in your browser)
+### Option 1. Complete this process in Github (in your browser)
 
 ```mermaid
 flowchart LR
@@ -53,7 +53,7 @@ flowchart LR
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
-## Option 2. Complete this process on your computer (locally)
+### Option 2. Complete this process on your computer (locally)
 
 - Fork the project:
   Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
