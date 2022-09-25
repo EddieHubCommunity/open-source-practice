@@ -83,7 +83,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Amarjeet Kumar](https://github.com/amarjeetk06)`
+  `- [Full Name](https://github.com/your-username)`
 
 - Stage your changes.
 
@@ -295,6 +295,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
   - [Aman Verma](https://github.com/amanpro1)
   - [Amanjot Singh](https://github.com/AmanGit010)
+  - [Amarjeet Kumar](https://github.com/amarjeetk06)
   - [Amay Jain](https://github.com/vrindavan)
   - [Amelia Hill](https://github.com/amehi0index)
   - [Amir Hossain Zarei](https://github.com/Amihozar)
