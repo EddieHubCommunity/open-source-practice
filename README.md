@@ -900,6 +900,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Manoj Kumar](https://github.com/themanoz)
   - [Manu Gupta](https://github.com/ManuGupta9780)
   - [Manu S Rao](https://github.com/MANUSRAO)
+  - [Marcial John](https://github.com/John121904)
   - [Marie Sallaberry](https://github.com/MarieTKD)
   - [Marios Georgiou](https://github.com/MariosGeorgiou)
   - [Marisa Brantley](https://github.com/marisabrantley)
