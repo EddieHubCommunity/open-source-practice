@@ -80,7 +80,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial is in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
@@ -884,7 +884,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **M**
 
-  - [Maharshi Sinha](https://github.com/maharshi-sinha)
   - [Mahaveer Singh Barhath](https://github.com/its-mavi-dev)
   - [Mahendra Bishnoi](https://github.com/MahendraBishnoi29)
   - [Mahesh Pawar](https://github.com/maheshvpawar)
