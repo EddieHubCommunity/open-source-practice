@@ -80,7 +80,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
@@ -205,6 +205,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Abhinav Vedmala](https://github.com/mrswagbhinav)
   - [Abhiram P.V.](https://github.com/Abhiram970)
   - [Abhiram Sukala](https://github.com/themelomaniac01)
+  - [Abhisek Panda](https://github.com/Panda-Abhisek)
   - [Abhishek Bahukhandi](https://github.com/abrknine)
   - [Abhishek Kumar Roy](https://github.com/Adi-Abhishek)
   - [Abhishek Kumar](https://github.com/abh139)
@@ -337,6 +338,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Anmol Guragain](https://github.com/Anmol2059)
   - [annu](https://github.com/annu12340)
   - [Ansh Dhingra](https://github.com/anshdhinhgra47)
+  - [Anshdeep Shrivastav](https://github.com/ansh-d23)
   - [Anshu Pathak](https://github.com/AnshuPathak-88825)
   - [Anshul Singh](https://github.com/anshulsc)
   - [Anthony Beckett](https://github.com/anthonybeckett)
@@ -431,7 +433,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ayondip Jana](https://github.com/detronetdip)
   - [AyoOluwa Israel Adeleke](https://github.com/AyoOluwa-Israel)
   - [Aysha Hakeem](https://github.com/AyshaHakeem)
+  - [Ayush Chamoli](https://github.com/AyushChamoli961)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
+  - [Ayush K.S.](https://github.com/ayushdotdev)
   - [Ayush Kumar](https://github.com/Ayush7614)
   - [Ayush Kumar Shaw](https://github.com/Ak-Shaw)
   - [Ayush Lohmod](https://github.com/ayushlohmod)
@@ -614,6 +618,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Fahad Masood](https://github.com/fahad-masood)
   - [Fahim Bin Amin](https://github.com/FahimFBA)
+  - [Fais Edathil](https://github.com/E-fais)
   - [Farhan Ali](https://github.com/Farhan-Ali2002)
   - [Farjad Ahmed Khan](https://github.com/farjad-akhan)
   - [Farzad Esmaeil Beygi](https://github.com/Farzad-ES)
@@ -686,6 +691,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Harish Sheoran](https://github.com/sheoranharis)
   - [Harish Srinivasan](https://github.com/Harish2930)
   - [Harsh Dhariwal](http://github.com/harsh-dhariwal)
+  - [Harsh Kumar Jha](https://github.com/Harsh-kumar-jha)
   - [Harshal Yadav](https://github.com/Harshalyadav)
   - [Harshil Bhatia](https://github.com/harshilbhatia7)
   - [Harshil Hirpara](https://github.com/harshil202)
@@ -901,6 +907,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Manoj Kumar](https://github.com/themanoz)
   - [Manu Gupta](https://github.com/ManuGupta9780)
   - [Manu S Rao](https://github.com/MANUSRAO)
+  - [Marcial John](https://github.com/John121904)
   - [Marie Sallaberry](https://github.com/MarieTKD)
   - [Marios Georgiou](https://github.com/MariosGeorgiou)
   - [Marisa Brantley](https://github.com/marisabrantley)
@@ -1368,9 +1375,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sri Venkat](https://github.com/srivenkat13)
   - [Srihari S](https://github.com/Liri-s29)
   - [Srihari S (SSHSRN)](https://github.com/SSHSRN)
+  - [Srijoy Paul](https://github.com/srijoy-paul)
   - [Srinath](https://github.com/srinath1412001)
   - [Srinika](https://github.com/Srinika99)
   - [Srinivas](https://github.com/Mrdecent08)
+  - [Sriparno Roy](https://github.com/Sriparno08)
   - [Srujan Gowda D M](https://github.com/Sruja10)
   - [Stefan Taitano](https://github.com/codewithfan)
   - [Stefano Frontini](https://github.com/StefanoFrontini)
