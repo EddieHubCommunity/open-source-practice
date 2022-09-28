@@ -1196,6 +1196,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rohit Tewari](https://github.com/rtewari056)
   - [Rohit Vuppuluri](https://github.com/rohitv-dev)
   - [Romel Williams](https://github.com/omerome83)
+  - [Ron Jean-Francois](https://github.com/ronthetech)
   - [Ron Waller](https://github.com/RonWaller)
   - [Roshan Sharma](https://github.com/imrosun)
   - [Rotimi Olaoluwa](https://github.com/Rolexero)
