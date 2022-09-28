@@ -1,5 +1,3 @@
-
-Samuel Kalu 
 <!-- markdownlint-disable-next-line -->
 > **Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
@@ -1235,6 +1233,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sam Sharma](https://github.com/javascript-spec)
   - [Saminda P](https://github.com/zaminda)
   - [Samuel Z. Bouye](https://github.com/zamblebi)
+  - [Samuel Kalu](https://github.com/eskayML)
   - [Samuele Simeone](https://github.com/S4muele)
   - [Samwel Chege](https://github.com/samwel-chege)
   - [Samyak Jain](https://github.com/samyakjain10)
