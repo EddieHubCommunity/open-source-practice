@@ -876,6 +876,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Lalit Dhane](https://github.com/lalitdhane)
   - [Lavakush Biyani](https://github.com/lavakush07)
   - [Lazeeez](https://github.com/Lazeeez)
+  - [Lerato Makhasane](https://github.com/leratomakhasane)
   - [Lethu Nsibande](https://github.com/LethuNsibande)
   - [Likhith K](https://github.com/likhith4)
   - [Lishu Gupta](https://github.com/lishugupta652)
