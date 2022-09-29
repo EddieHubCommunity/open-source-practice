@@ -963,6 +963,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mohammad Reza Salemi](https://github.com/reza-salemi)
   - [Mohammed Arbazuddin Qureshi](https://github.com/mohammedarbaz119)
   - [Mohammed Asadullah Sayeed](https://github.com/asdsyd)
+  - [Mohammed Imdad S](https://github.com/MohammedImdadS)
   - [Mohammed Muddassir](https://github.com/mohammed-muddassir)
   - [Mohammed Saif](https://github.com/Mohammed-Saif0)
   - [Mohan Thilak](https://github.com/mohanthilak)
