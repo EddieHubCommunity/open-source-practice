@@ -385,6 +385,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aronmwan Dave](https://github.com/d-a-ve)
   - [Arpit Yadav](https://github.com/arpitgenius489)
   - [Arsalan Rashid Khan](https://github.com/ArsalanRashid-K)
+  - [Arsenic](https://github.com/Arsenic-ATG)
   - [Arshdeep Singh](https://github.com/Arshdeep-0509)
   - [Arsheel](https://github.com/arsheelsheikh)
   - [Arslaan Shaikh](https://github.com/s-arslaan)
