@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
-> **Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
+> **Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only !**
 
-We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an [issue]( https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join EddieHub [Discord](http://discord.eddiehub.org/) channel.
+We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an [issue]( https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repository EddieHubCommunity-Support and you can also join EddieHub [Discord](http://discord.eddiehub.org/) channel.
 
 ---
 
@@ -15,7 +15,7 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 ## Hacktoberfest Practice Pull Requests
 
-Repository for you to raise a Pull Request to **practice** open-source! 🎉
+Repository for you to raise a Pull Request to **practice** open-source ! 🎉
 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
@@ -916,6 +916,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Manasi Mulay](https://github.com/manasi-mulay)
   - [Manish Gambhirrao](https://github.com/Manish5121)
   - [Manish Rawat](https://github.com/R11manish)
+  - [Manish Tyagi](https://github.com/money8203)
   - [Manjunath Naik](https://github.com/Manu1ND)
   - [Manmeet kaur](https://github.com/Manmeetkaur1525)
   - [Manoj Kumar](https://github.com/themanoz)
