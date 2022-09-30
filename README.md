@@ -1498,7 +1498,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tushar Pathak](https://github.com/tushar54594)
 
 - ### **U**
-
+  - [Ujjwal Mahar](https://github.com/UjjwalMahar)
   - [Udokaku Ugochukwu](https://github.com/UdokaVrede)
   - [Ujjwal Gupta](https://github.com/UG-SEP)
   - [Ujjwal Gupta](https://github.com/ujjwalgupta91250)
