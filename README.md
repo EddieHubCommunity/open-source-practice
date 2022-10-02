@@ -1200,6 +1200,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Remco Halman](https://github.com/remcohalman)
   - [Remy Dale](https://github.com/theremyd)
   - [Revati Deshmukh](https://github.com/revati-deshmukh)
+  - [Rhythm Saini](https://github.com/Rhythm483)
   - [Riadh Laabidi](https://github.com/riadh26)
   - [Riccardo Zichittella](https://github.com/zodraccir)
   - [Richard Bacon](https://github.com/RichardJonBacon)
