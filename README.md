@@ -55,10 +55,20 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 ### Option 2. Complete this process on your computer (locally)
 
-- Fork the project:
+- Fork the project:👇
   Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
+  
+![forknew](https://user-images.githubusercontent.com/65400893/193452395-49d36b59-02b6-4013-8442-84a2bafb5391.jpg)
 
-- Click on the green `Code` button, then either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
+- Click on the green `Code` button.👇
+
+![codeneweddieI](https://user-images.githubusercontent.com/65400893/193452412-9c1dc97d-66f3-4db6-b4bd-8b822f0acb7c.jpg)
+
+- Now select either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.👇
+
+![updatedssh](https://user-images.githubusercontent.com/65400893/193452428-f5927389-4855-4fe7-a0c4-7f8df7c0da6d.jpg)
+
+
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
