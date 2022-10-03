@@ -674,6 +674,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Gathin](https://github.com/Gathin23)
   - [Gaurav](https://github.com/itstheanurag)
   - [Gaurav Kulkarni](https://github.com/kulkarnigaurav38)
+  - [Gaurav Mishra](https://github.com/gauravmishra2123)
   - [Gaurav Pandey](https://github.com/gaurtvin)
   - [Gautam Goyal](https://github.com/Gautam1302)
   - [Genesis Gabiola](https://github.com/genesisgabiola)
