@@ -1643,6 +1643,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yoel Morad](https://github.com/yoel0)
   - [Yogesh Raj](https://github.com/YogeshRaj27)
   - [Yogesh Summan](https://github.com/yogeshsumman)
+  - [Yogita Jaswani](https://github.com/jaswaniyogita)
   - [Youganjan Sarki](https://github.com/youganjansarki18)
   - [Yusuke](https://github.com/yk-jp)
   - [Yuval Sharma](https://github.com/Yuval207)
