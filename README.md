@@ -606,6 +606,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Divy](https://github.com/divyKS)
   - [Divya Raichura](https://github.com/divya-raichura)
   - [Divya](https://github.com/d-coder111)
+  - [Divyank](https://github.com/divyankMishra)
   - [Divyanshu](https://github.com/TilteD24)
   - [Dmitrii Kilishek](https://github.com/mentalclear)
   - [Dnyanada Nimbalkar](https://github.com/dnyanadavn)
