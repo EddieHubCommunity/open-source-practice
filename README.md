@@ -53,7 +53,7 @@ flowchart LR
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
-### Option 2. Complete this process on your computer (locally)
+### Option 2. Complete this process on your computer (locally).
 
 - Fork the project:
   Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
@@ -184,6 +184,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aashish-cyber](https://github.com/Aashish-cyber)
   - [Aathira](https://github.com/aathirav06)
   - [Aayush Sharma](https://github.com/SuperAayush)
+  - [Abayomi Ogunnusi](https://github.com/drsimplegraffiti)
   - [Abbey Santos](https://github.com/AbbeyIT)
   - [Abdeslam Loukili](https://github.com/aslukili)
   - [Abdifatah Ahmed](https://github.com/ibnuahmed)
