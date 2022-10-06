@@ -942,7 +942,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Lundbyit](https://github.com/Lundbyit)
 
 - ### **M**
-
+  - [Muhammad Ali](https://github.com/malicodes2)
   - [Maharshi Sinha](https://github.com/maharshi-sinha)
   - [Mahaveer Singh Barhath](https://github.com/its-mavi-dev)
   - [Mahendra Bishnoi](https://github.com/MahendraBishnoi29)
