@@ -474,6 +474,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Baraa Baba](https://github.com/baraa-baba)
   - [Barkatul Mujauddin](https://github.com/barkatul)
   - [Barphie](https://github.com/barphie)
+  - [Ben Everman](https://github.com/beverm2391)
   - [Benjamin Duffield-Harding](https://github.com/ben-dh3)
   - [Benjamin Kiarie](https://github.com/Benmuiruri)
   - [Benjamin Rukundo](https://github.com/rukundob451)
