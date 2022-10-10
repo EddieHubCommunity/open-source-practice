@@ -1225,6 +1225,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rakesh Mahato](https://github.com/rakeshmahato)
   - [Rakesh](https://github.com/RakeshPotnuru)
   - [Rakhi shrivastava](https://github.com/Rakhi-Shrivastava)
+  - [Rakshit Gupta](https://github.com/rakshitgupta23)
   - [Ram Pandey](https://github.com/ram2510)
   - [Raman Singh](https://github.com/ramansingh189)
   - [Ramandeep Singh Saini](https://github.com/raman1710)
