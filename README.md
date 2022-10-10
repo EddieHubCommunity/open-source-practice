@@ -165,15 +165,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 ### **Contents**
 
-| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
-| ------- | ------- | ------- | ------- | ------- |
-| [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) |
-| [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) |
-| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) |
-| [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) |
-|         |         | [Z](#z) |
-
----
+| [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o)
+| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
 
@@ -288,6 +281,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Alaba Olanrewaju](https://github.com/chryzcodez)
   - [Alabi Olalekan Emmanuel](https://github.com/Lekanjoy)
   - [Aldo Aranda](https://github.com/blackbriar-28)
+  - [Aldy Andika](https://github.com/aldyadk)
   - [Aleksandr Morozov](https://github.com/aleksandr-mor)
   - [Aleksey Voko](https://github.com/Aleksey-Voko)
   - [Alex Facius](https://github.com/AlexOde)
@@ -1014,6 +1008,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mohamed Mehdi Gara](https://github.com/mohamedmehdigara)
   - [Mohamed Naufal A](https://github.com/Naufal2511)
   - [Mohamed Shamir](https://github.com/mshamir11)
+  - [Mohamed Yasser](https://github.com/mohamedy72)
   - [Mohammad Ghorbani](https://github.com/ghorbani-mohammad)
   - [Mohammad Reza Salemi](https://github.com/reza-salemi)
   - [Mohammed Arbazuddin Qureshi](https://github.com/mohammedarbaz119)
