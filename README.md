@@ -36,7 +36,7 @@ flowchart LR
 
 2. Create a New Branch:
 
--On your new repository's page, click the gray main button in the upper left to reveal a dropdown menu.
+- On your new repository's page, click the gray main button in the upper left to reveal a dropdown menu.
 - Enter the name of your new branch in the text box. (Branch names usually refer to what is being changed. Example: nameAdd).
 -Click on Create branch <new branch name>, which will automatically take you to your new branch. You can make edits on the main branch, but this may cause issues down the line. The best practice is to create a new branch for each separate issue you work on. That way your main branch remains in sync with Eddie's main branch.
 
@@ -48,7 +48,7 @@ flowchart LR
 4. Raise a Pull Request:
 
 - Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`).
--Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository: base with 'EddieGitHubCommunity: main' AND auto-filling your head repository: compare with your repository: main
+- Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository: base with 'EddieGitHubCommunity: main' AND auto-filling your head repository: compare with your repository: main
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
@@ -61,7 +61,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
--Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
