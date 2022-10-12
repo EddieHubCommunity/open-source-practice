@@ -36,7 +36,7 @@ flowchart LR
 
 2. Create a New Branch:
 
--On your new repository's page, click the gray main button in the upper left to reveal a dropdown menu.
+- On your new repository's page, click the gray main button in the upper left to reveal a dropdown menu.
 - Enter the name of your new branch in the text box. (Branch names usually refer to what is being changed. Example: nameAdd).
 -Click on Create branch <new branch name>, which will automatically take you to your new branch. You can make edits on the main branch, but this may cause issues down the line. The best practice is to create a new branch for each separate issue you work on. That way your main branch remains in sync with Eddie's main branch.
 
@@ -48,7 +48,7 @@ flowchart LR
 4. Raise a Pull Request:
 
 - Click `Pull Requests` (which is the third option at the top of this page after the options `Code` and `Issues`).
--Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository: base with 'EddieGitHubCommunity: main' AND auto-filling your head repository: compare with your repository: main
+- Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository: base with 'EddieGitHubCommunity: main' AND auto-filling your head repository: compare with your repository: main
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
@@ -61,7 +61,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
--Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
@@ -295,6 +295,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Alok Kumar Verma](https://github.com/alokVerma749)
   - [Alok Mahapatra](https://github.com/AlokMahapatra26)
   - [Alpadmin](https://github.com/hasthamalp)
+  - [Althaf Asharaf](https://github.com/Althaf66)
   - [Aman Arora](https://github.com/sheisAman)
   - [Aman Kuliyal](https://github.com/Iconic-It-Is)
   - [Aman Kumar](https://github.com/amansr18)
@@ -452,6 +453,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [AyoOluwa Israel Adeleke](https://github.com/AyoOluwa-Israel)
   - [Aysha Hakeem](https://github.com/AyshaHakeem)
   - [Ayush Chamoli](https://github.com/AyushChamoli961)
+  - [Ayush Chaudhari](https://github.com/ayush-3516)
   - [Ayush Chaudhary](https://github.com/YushChaudhary)
   - [Ayush Kanduri](https://github.com/ayush-kanduri)
   - [Ayush K.S.](https://github.com/ayushdotdev)
@@ -520,6 +522,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Chandula Janith](https://github.com/RedEdge967)
   - [Charlotte Jewer](https://github.com/Charlotte990)
   - [Cherish Sachdeva](https://github.com/csachdeva83)
+  - [Chetan Pal](https://github.com/chetanpal230)
   - [Chibogu Chisom](https://github.com/raeeceip)
   - [Chinmay Khanna](https://github.com/chinmay3)
   - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
@@ -1000,6 +1003,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Milind Mishra](https://github.com/thatbeautifuldream)
   - [Mitansh Kayathwal](https://github.com/Mitanshk01)
   - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
+  - [Mithun K](https://github.com/Mithun-windows-linux)
   - [Moeen Ul Islam](https://github.com/moeen-ul-islam)
   - [Moeez Mustafa](https://github.com/moezmustafa)
   - [Mohamed A.M](https://github.com/Mohamed1756)
@@ -1225,6 +1229,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rakesh Mahato](https://github.com/rakeshmahato)
   - [Rakesh](https://github.com/RakeshPotnuru)
   - [Rakhi shrivastava](https://github.com/Rakhi-Shrivastava)
+  - [Rakshit Gupta](https://github.com/rakshitgupta23)
   - [Ram Pandey](https://github.com/ram2510)
   - [Raman Singh](https://github.com/ramansingh189)
   - [Ramandeep Singh Saini](https://github.com/raman1710)
@@ -1258,6 +1263,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ritam Samanta](https://github.com/RitamSamant)
   - [Ritek Rounak](https://github.com/RITEKROUNAK)
   - [Ritik Bharti](https://github.com/Ritik4388)
+  - [Ritik Chourasiya](https://github.com/theritikchoure)
   - [Ritika Pandey](https://github.com/Ritika-Pandey01)
   - [Ritvij Kumar Sharma](https://github.com/ritvij14)
   - [Ritvik Shukla](https://github.com/includestdlibrary)
@@ -1441,6 +1447,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Shubhra Suman](https://github.com/ShubhraSuman)
   - [Shyam](https://github.com/XShyam)
   - [Shyam Sutar](https://github.com/shyamsutar)
+  - [Shyamsundar Gadde](https://github.com/ShyamGadde)
   - [Shyamu Yadav](https://github.com/Shyamu431)
   - [Siddartha Pullakhandam](https://github.com/siddartha-10)
   - [Siddhant Khare](https://github.com/Siddhant-K-code)
