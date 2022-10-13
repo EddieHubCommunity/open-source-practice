@@ -1132,6 +1132,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Pablo Lorenzo](https://github.com/Ll2NZ)
   - [Palak Bhawsar](https://github.com/palakbhawsar98)
+    [Palavi Kumari](https://github.com/Kpallavi5)
   - [Paritosh Singh](https://github.com/proparitoshsingh)
   - [Parth Gupta](https://github.com/parth-gpt)
   - [Parthiv Sarma](https://github.com/sarmaparthiv)
