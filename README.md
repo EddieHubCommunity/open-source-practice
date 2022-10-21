@@ -20,7 +20,7 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
 
-### Option 1. Complete this process in Github (in your browser)
+### Option 1. Complete this process in GitHub (in your browser)
 
 ```mermaid
 flowchart LR
@@ -786,6 +786,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [IfeanyiChukwu Ndubuizu Michael](https://github.com/thrila)
   - [Ignas Kavaliauskas](https://github.com/ignaskavaliauskas)
   - [Ihtisham](https://github.com/ihtishamKhan)
+  - [Ikko Ashimine](https://github.com/eltociear)
   - [Ikra P](https://github.com/ikraP)
   - [Ilyas Rafiq Filali](https://github.com/Nayetwolf)
   - [Ilyas Rufai](https://github.com/rufilboy)
