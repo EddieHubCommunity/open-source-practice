@@ -1012,6 +1012,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Marius Gravningsmyhr](https://github.com/mariusgrHiof)
   - [Mark Murray](https://github.com/mark-d-murray)
   - [Markus Eicher](https://github.com/MarkusEicher)
+  - [Marlon Esparza](https://github.com/marlonaesparza)
   - [Martin Parker](https://github.com/RasPiPkr)
   - [Maryam Farshbafi](https://github.com/MaryamFarshbafi)
   - [Masete Nicholas](https://github.com/masete)
