@@ -988,6 +988,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Luciano Pinheiro](https://github.com/lucianopinheiro)
   - [Luis Felipe Ceballos Caicedo](https://github.com/Felipeceballos12)
   - [Luis Suarez](https://github.com/suarezluis)
+  - [Luiz Barreto](https://github.com/luizpgb)
   - [Lukasz Przybylka](https://github.com/l-przybylka)
   - [Lundbyit](https://github.com/Lundbyit)
 
