@@ -54,7 +54,7 @@ flowchart LR
 
 You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
 
-### Option 2. Complete this process on your computer (locally)
+### Option 2. Complete this process on your computer (locally).
 
 - Fork the project:
  Fork the project: Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
@@ -79,7 +79,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
   git checkout -b <name-of-new-branch>
 ```
 
-- Open the `README.md` file
+- Open the `README.md` file.
 
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
 
