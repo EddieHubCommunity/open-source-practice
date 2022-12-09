@@ -30,7 +30,7 @@ flowchart LR
     commit -->|Finally|creatpr((Create a Pull Request))
     
  ```
-**1. Fork the project :**
+**1. Fork the project:**
 
 - Click the gray <kbd>Fork</kbd> button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account.
 
