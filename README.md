@@ -40,7 +40,7 @@ flowchart LR
 - Enter the name of your new branch in the text box. (Branch names usually refer to what is being changed. Example: nameAdd).
 -Click on Create branch <new branch name>, which will automatically take you to your new branch. You can make edits on the main branch, but this may cause issues down the line. The best practice is to create a new branch for each separate issue you work on. That way your main branch remains in sync with Eddie's main branch.
 
-**3. Edit :**
+**3. Edit:**
 
 - On the top right of the Readme file, click on the pencil icon to edit the file by adding your name.
 - After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
