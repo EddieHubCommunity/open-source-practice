@@ -34,7 +34,7 @@ flowchart LR
 
 - Click the gray <kbd>Fork</kbd> button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account.
 
-**2. Create a New Branch :**
+**2. Create a New Branch:**
 
 - On your new repository's page, click the gray main button in the upper left to reveal a dropdown menu.
 - Enter the name of your new branch in the text box. (Branch names usually refer to what is being changed. Example: nameAdd).
