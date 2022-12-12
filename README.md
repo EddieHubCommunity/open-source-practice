@@ -57,7 +57,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 ### Option 2. Complete this process on your computer (locally)
 
 - Fork the project:
- Fork the project: Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
+ Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
 
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
