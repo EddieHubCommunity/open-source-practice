@@ -893,6 +893,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Jeff Mitchell](https://github.com/sentinel1909)
   - [Jeremy Thomas](https://github.com/saucebox11)
   - [Jerome Lalunio](https://github.com/grrom)
+  - [Jess Mathews](https://github.com/jessmathews) 
   - [Jessica Salbert](https://github.com/jessicasalbert)
   - [Jessica Teo](https://github.com/jessicateocw)
   - [Jessie Auguste](https://github.com/jessiebelle)
