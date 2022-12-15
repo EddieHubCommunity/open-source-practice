@@ -58,7 +58,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 ### Option 2. Complete this process on your computer (locally)
 
 - Fork the project:
-  Fork the project: Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
+ Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
 
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
@@ -303,6 +303,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Alexandru Mihalache](https://github.com/AlexMihalache99)
   - [AlexxTheCurator](https://github.com/AlexxTheCurator)
   - [Ali Fahed](https://github.com/AliFahed)
+  - [Ali Jafri](https://github.com/AliJafriETH)
   - [Ali Mirrajei](https://github.com/alimirrajei)
   - [Ali Reza](https://github.com/AliReza1083)
   - [Allen Ponce de Leon](https://github.com/aoponcedeleon)
@@ -903,6 +904,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Joel James](https://github.com/Lyon03)
   - [Johanna](https://github.com/Johanna-hub)
   - [John Daniel](https://github.com/johndanny98)
+  - [John E](https://github.com/JohnE10)
   - [John Moren](https://github.com/jmdinela)
   - [John Muriu](https://github.com/john-muriu)
   - [John Proodian](https://github.com/johnproodian)
