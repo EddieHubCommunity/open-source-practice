@@ -1236,7 +1236,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Osae-Addo](https://github.com/OsaeAddo)
   - [Osoraa Nwankwo](https://github.com/Osoraa)
 
-
 | [Back To Top](#contents) |
 
 - ### **P**
