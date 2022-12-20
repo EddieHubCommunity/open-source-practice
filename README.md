@@ -1733,6 +1733,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tibebe Solomon](https://github.com/sapencio)
   - [Tierra Barrow](https://github.com/tcodes27)
   - [Tikeshwar Sahu](https://github.com/Tiku24)
+  - [Tinashe Murambinda](https://github.com/Draxeytina)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tommy L](https://github.com/TheCodedJourney)
