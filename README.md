@@ -1850,7 +1850,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Wahyu Kusumo](https://github.com/wahyukusumo)
   - [Wahyu Wiyoko](https://github.com/wahyuwiyoko)
   - [Waithaka Waweru](https://github.com/weshy007)
-  - [Wajahat Hashim]{https://github.com/Wajahat-Hashim}
+  - [Wajahat Hashim](https://github.com/Wajahat-Hashim)
   - [Waqe](https://github.com/waq-e)
   - [Wayne O'Mahony](https://github.com/wayneomahony)
   - [WebDevWill](https://github.com/WebDevWill)
