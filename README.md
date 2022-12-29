@@ -1714,7 +1714,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **T**
 
-  - [Thirosh Madhusha](https://github.com/ThiroshMadhusha) 
   - [Tabassum Fatima](https://github.com/tab21) 
   - [Tadi](https://github.com/mtrill47)
   - [Taha Latief](https://github.com/iStaha)
@@ -1741,6 +1740,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [TenTraicion](https://github.com/TenTraicion)
   - [Thanga Mariappan](https://github.com/thangamariappan19)
   - [Tharaka Bandara](https://github.com/Ttecs)
+  - [Thirosh Madhusha](https://github.com/ThiroshMadhusha) 
   - [Thirumalesh Chinna](https://github.com/ThisaruD)
   - [Thisaru Dilshan](https://github.com/ThisaruD)
   - [Tibebe Solomon](https://github.com/sapencio)
