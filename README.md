@@ -613,6 +613,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [David Okononfua](https://github.com/Vinyl-Davyl)
   - [Davin S](https://github.com/davin2020)
   - [Davis Xuy](https://github.com/toomsie)
+  - [DavvSakib](https://github.com/devvsakib)
   - [Debajyoti Dhar](https://github.com/Debajyoti111)
   - [Debanjana Sarkar](https://github.com/debanjana-a11y)
   - [Debasish Dutta](https://github.com/debasish-dutta)
