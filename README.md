@@ -709,6 +709,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [essarrgee](https://github.com/essarrgee)
   - [Ethan Cox](https://github.com/MasterReach1)
   - [Eugene Song](https://github.com/EugenSong)
+  - [Eugenia](https://github.com/JaneMoroz)
   - [Euhid Aman](https://github.com/euhidaman)
   - [Evandro Rodrigues](https://github.com/evnrodr)
   - [Ezinne Anne Emilia](https://github.com/ezinneanne)
