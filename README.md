@@ -383,6 +383,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Anthony Chinwe](https://github.com/anthonychinwe)
   - [Anthony Madia](https://github.com/AnthonyMadia)
   - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
+  - [Antoine Gauthier](https://github.com/gantoin)
   - [Anton Samper Rivaya](https://github.com/antonsamper)
   - [Antonio Riccelli](https://github.com/Antonio-Riccelli)
   - [Anubhav Gupta](https://github.com/anubhav06)
@@ -709,6 +710,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [essarrgee](https://github.com/essarrgee)
   - [Ethan Cox](https://github.com/MasterReach1)
   - [Eugene Song](https://github.com/EugenSong)
+  - [Eugenia](https://github.com/JaneMoroz)
   - [Euhid Aman](https://github.com/euhidaman)
   - [Evandro Rodrigues](https://github.com/evnrodr)
   - [Ezinne Anne Emilia](https://github.com/ezinneanne)
@@ -1023,6 +1025,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Kunal Ranjan](https://github.com/kunalranjan19)
   - [Kunal Sangtiani](https://github.com/Kunals131)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
+  - [Kyrios Heylel](https://github.com/lucky-chap)
 
 | [Back To Top](#contents) |
 
@@ -1363,6 +1366,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rahul Kumar(@iamrahul8)](https://github.com/iamrahul8)
   - [Rahul Kumar Roy](https://github.com/mRahulRoy)
   - [Rahul Kumar Yadav](https://github.com/itzrahulyadav)
+  - [Rahul Patel](https://github.com/Patelrahul4884)
   - [Rahul Prasad](https://github.com/Rahul-Prasad-07)
   - [Rahul Singh](https://github.com/rahulsingh3526)
   - [Rahul Soni](https://github.com/RahulSoni0)
@@ -1755,6 +1759,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Thisaru Dilshan](https://github.com/ThisaruD)
   - [Tibebe Solomon](https://github.com/sapencio)
   - [Tierra Barrow](https://github.com/tcodes27)
+  - [Tijani Hussein](https://github.com/Shield01)
   - [Tikeshwar Sahu](https://github.com/Tiku24)
   - [Tinashe Murambinda](https://github.com/Draxeytina)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
