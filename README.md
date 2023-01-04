@@ -1037,6 +1037,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Lavakush Biyani](https://github.com/lavakush07)
   - [Lazeeez](https://github.com/Lazeeez)
   - [Lerato Makhasane](https://github.com/leratomakhasane)
+  - [Letam Davidson](https://github.com/Yagazie-davidson)
   - [Lethu Nsibande](https://github.com/LethuNsibande)
   - [Lhoussaine Ouarhou](https://github.com/lhousaine)
   - [Likhith K](https://github.com/likhith4)
