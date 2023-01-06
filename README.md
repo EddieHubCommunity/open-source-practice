@@ -996,6 +996,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Khalid Khan-569](https://github.com/khalid569)
   - [Khawaja Usama Yasir](https://github.com/khusamayasir)
   - [Khushaal Choithramani](https://github.com/khushxxl)
+  - [Khushal Chugh](https://github.com/khushalchugh)
   - [Khushal Sachdeva](https://github.com/CodeKhushal)
   - [Khushi Jain](https://github.com/693KHUSHI)
   - [Khushi Shukla](https://github.com/khushi818)
