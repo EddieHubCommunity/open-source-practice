@@ -1510,6 +1510,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Saksham Sharma](https://github.com/SakshamSharma09)
   - [Sakshum Gadyal](https://github.com/sxsmg)
   - [Sakthi Meenakshi Anandan](https://github.com/Sakthi511)
+  - [Samarth Saxena](https://github.com/SamarthSaxena10)
   - [Sam Sharma](https://github.com/javascript-spec)
   - [Saminda P](https://github.com/zaminda)
   - [Samuel Kalu](https://github.com/eskayML)
