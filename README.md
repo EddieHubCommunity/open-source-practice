@@ -1208,6 +1208,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Naman Tiwari](https://github.com/naman-tiwari)
   - [Namya LG](https://github.com/Namyalg)
   - [Nandan Bilagi](https://github.com/nandanpytech)
+  - [Nandan Upadhyay](https://github.com/NandanUpadhyay2611)
   - [Nandini](https://github.com/nandini040)
   - [Nathan Byrne](https://github.com/naefun)
   - [Nayana Kumari](https://github.com/nk7608)
