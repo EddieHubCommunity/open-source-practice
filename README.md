@@ -502,10 +502,11 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ayush Lohmod](https://github.com/ayushlohmod)
   - [Ayush Luthra](https://github.com/Ayushluthra2001)
   - [Ayush Mishra](https://github.com/ayush-sleeping)
+  - [Ayush Sarode](https://github.com/AyushSarode)
   - [Ayush Raj](https://github.com/imyoungsparda)
   - [Ayushi Vamne](https://github.com/Ayushi15-Vamne) 
   - [Aziz Prabowo](https://github.com/azizp128)
-  - [Ayush Sarode](https://github.com/AyushSarode)
+  
 
 | [Back To Top](#contents) |
   
