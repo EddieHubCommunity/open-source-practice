@@ -982,6 +982,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **K**
 
+  - [Kabelo Maswanganye](https://github.com/kabeloM06)
   - [Kabir](https://github.com/kabir0x23)
   - [Kabir Jain](https://github.com/kkkkkabir)
   - [Kader Sarikaya](https://github.com/kadersarikaya)
