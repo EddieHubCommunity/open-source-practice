@@ -6,7 +6,7 @@ labels:
   medium:
     color: "a8c3f7"
   large:
-    color: "8a2138"
+    color: "FFD4D4"
 
 workflows:
   - name: label-pull-request-with-size
