@@ -1322,7 +1322,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Pablo Lorenzo](https://github.com/Ll2NZ)
   - [Palak Bhawsar](https://github.com/palakbhawsar98)
-  - [Paras Nagpal] (https://github.com/PARASnagpal99)
+  - [Paras Nagpal](https://github.com/PARASnagpal99)
   - [Paritosh Singh](https://github.com/proparitoshsingh)
   - [Parmeet Singh](https://github.com/parm234)
   - [Parth Gupta](https://github.com/parth-gpt)
