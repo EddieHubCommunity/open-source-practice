@@ -1713,6 +1713,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Siddharth Shankar](https://github.com/sid-shnkar)
   - [Siddharth Singh Chouhan](https://github.com/Sid672)
   - [Siddharth Singh Tanwar](https://github.com/SiddharthSinghTanwar)
+  - [siddharth verma](https://github.com/sidharthviz)  
   - [Sideon Kaves](https://github.com/Radiant690)
   - [Sidra Waseem](https://github.com/sidramwaseem)
   - [Sienna Lind](https://github.com/siennalind)
