@@ -1493,6 +1493,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rishabh Singh](https://github.com/Rishabh-Singh-Codes)
   - [Rishabh Singhal](https://github.com/rish-singhal)
   - [Rishi Chaudhari](https://github.com/rishi9393)
+  - [Rishi Srivastva](https://github.com/sri-rishi)
   - [Rishika Vishnoi](https://github.com/Rishikavishnoi)
   - [Rita Mwangi](https://github.com/RitaMwas)
   - [Ritam Samanta](https://github.com/RitamSamant)
