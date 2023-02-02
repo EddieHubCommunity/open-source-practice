@@ -1164,6 +1164,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Megalous](https://github.com/megalous-lab)
   - [Melah Ghislain](https://github.com/MelahGhislain)
   - [Melvin Ng](https://github.com/melvincwng)
+  - [Merwin Mathew](https://github.com/merwinmathew33)  
   - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
   - [Michael Godfrey](https://github.com/michagodfrey)
   - [Michael Liendo](https://github.com/Michael-Liendo)
