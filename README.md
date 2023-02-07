@@ -1893,8 +1893,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Triman Kaur](https://github.com/Trimankaur)
   - [Tsipporah Christopher](https://github.com/tsipporahc)
   - [Tung Pham](https://github.com/TungPhamQ)
-  - [Tushar Pathak](https://github.com/tushar54594)
   - [Tushar jagi](https://github.com/Tusharjagi)
+  - [Tushar Pathak](https://github.com/tushar54594)
   - [Twinkle](https://github.com/twinkletrivaan)
 
 | [Back To Top](#contents) |
