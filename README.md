@@ -606,6 +606,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Chinwendu Enyinna](https://github.com/wendeee)
   - [Chiobi Jason](https://github.com/ChiobiJason)
   - [Chirag Gupta](https://github.com/devChirag01)
+  - [Chiranjeev Thomas](https://github.com/code0monkey1)
   - [Chris Imade](https://github.com/Chris-Imade)
   - [Chris Moreton](https://github.com/chris-moreton)
   - [Chris Niedermayer](https://github.com/Chris-N)
