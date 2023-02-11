@@ -536,6 +536,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Balaji Sigamani](https://github.com/balajisa09)
   - [Balikis Oyeleye](https://github.com/Qreamville)
   - [Baraa Baba](https://github.com/baraa-baba)
+  - [Barath T](https://github.com/Barath-T)
   - [Barkatul Mujauddin](https://github.com/barkatul)
   - [Barphie](https://github.com/barphie)
   - [Barsha Das](https://github.com/thebarshablog)
