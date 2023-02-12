@@ -57,10 +57,11 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 ### Option 2. Complete this process on your computer (locally)
 
-- Fork the project:
+1. Fork the project:
   Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
 
-- Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
+2. Clone this project on your computer:
+- Click on the green Code button, then either the HTTPS or SSH option, and, click the icon  to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
@@ -74,12 +75,13 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
   cd hacktoberfest-practice
 ```
 
-- Make a new branch. Your username would make a good branch because it's unique.
+3. Create a new branch: 
+- Your username would make a good branch because it's unique.
 
 ```bash
   git checkout -b <name-of-new-branch>
 ```
-
+4. Edit:
 - Open the `README.md` file
 
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
@@ -87,7 +89,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - For example
   `- [Full Name](https://github.com/your-username)`
 
-- Stage your changes.
+5. Stage your changes:
 
 ```bash
   git add README.md
@@ -99,7 +101,7 @@ or
   git add .
 ```
 
-- Commit the changes.
+6. Commit the changes:
 
 ```bash
   git commit -m "Add <your-github-username>"
@@ -118,7 +120,7 @@ On branch <name-of-your-branch>
 nothing to commit, working tree clean
 ```
 
-- Pushing your repository to GitHub.
+7. Pushing your repository to GitHub:
 
 ```bash
   git push origin <name-of-your-branch>
@@ -139,6 +141,7 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and that the repository exists.
 ```
 
+8.Raise a Pull Request:
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
 - Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Accept the default values in the dropdown boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
