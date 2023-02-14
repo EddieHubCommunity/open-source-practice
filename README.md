@@ -147,7 +147,7 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and that the repository exists.
 ```
 
-8.Raise a Pull Request:
+8. Raise a Pull Request:
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
