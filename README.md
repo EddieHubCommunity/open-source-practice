@@ -1295,6 +1295,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nayana Kumari](https://github.com/nk7608)
   - [Nazeeya Azeem](https://github.com/naz2001)
   - [Nazimudheen TI](https://github.com/nazimudheen267)
+  - [Nelson Uprety](https://github.com/nelsonuprety1)
   - [Neeraj Kumar Singh](https://github.com/neerajsingh869)
   - [Neetesh Kumar Sharma](https://github.com/Neeteshking21)
   - [Neha Patil](https://github.com/NehaPatil03)
