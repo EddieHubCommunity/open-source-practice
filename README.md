@@ -58,11 +58,13 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 ### Option 2. Complete this process on your computer (locally)
 
 1. Fork the project:
+
 - Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
 
 2. Clone this project on your computer:
+
 - Go to your profile. You will find forked repo named **_hacktoberfest-practice_**. go to the repo by clicking on it.
-- Click on the green Code button, then either the HTTPS or SSH option, and, click the icon  to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
+- Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
@@ -76,13 +78,16 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
   cd hacktoberfest-practice
 ```
 
-3. Create a new branch: 
+3. Create a new branch:
+
 - Your username would make a good branch because it's unique.
 
 ```bash
   git checkout -b <name-of-new-branch>
 ```
+
 4. Edit:
+
 - Open the `README.md` file
 
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
@@ -142,7 +147,8 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and that the repository exists.
 ```
 
-8.Raise a Pull Request:
+8. Raise a Pull Request:
+
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
 - Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Accept the default values in the dropdown boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
@@ -544,6 +550,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Barkatul Mujauddin](https://github.com/barkatul)
   - [Barphie](https://github.com/barphie)
   - [Barsha Das](https://github.com/thebarshablog)
+  - [Beidi Beer](https://github.com/beydiB)
   - [Ben Everman](https://github.com/beverm2391)
   - [Benjamin Duffield-Harding](https://github.com/ben-dh3)
   - [Benjamin Kiarie](https://github.com/Benmuiruri)
@@ -595,6 +602,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Carmen Chow](https://github.com/cchow33)
   - [Cayden Burns](https://github.com/SudoCee)
   - [CeeKay](https://github.com/CeeKayTech)
+  - [Chakroun Elias](https://github.com/Yushi5058)
   - [Chamberlain Ezigbo](https://github.com/Chamberezigbo)
   - [Chandan Gupta](https://github.com/chandanpc)
   - [Chandra Reddy](https://github.com/chandrareddy7)
@@ -729,6 +737,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Drew Long](https://github.com/drewlong314)
   - [Drishika Chauhan](https://github.com/drishika2002)
   - [Drishtant Dubey](https://github.com/DRISHTANT-DUBEY)
+  - [Dror Nathan](https://github.com/DrorsCodingAdventures)
   - [Durvesh Kumar Pal](https://github.com/DurveshKumarPal)
   - [Dušan Tanasić](https://github.com/Duk4)
 
@@ -840,7 +849,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Grace Valerie Anyango](https://github.com/ValGrace)
   - [Grawish Sachdeva](https://github.com/grawish)
   - [Gulshan Jakhon](https://github.com/gulshanjakhon)
-  - [Gulshan Kumar Prasad](https://github.com/gulshanpr) 
+  - [Gulshan Kumar Prasad](https://github.com/gulshanpr)
   - [Gunjan Gupta](https://github.com/gunjan-g)
   - [Gurjeet Singh Virdee](https://github.com/gurjeetsinghvirdee)
   - [Gurpartap Singh](https://github.com/Gurpartap335)
@@ -1112,6 +1121,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Lalit Dhane](https://github.com/lalitdhane)
   - [Lavakush Biyani](https://github.com/lavakush07)
   - [Lazeeez](https://github.com/Lazeeez)
+  - [Leila Kaltouma](https://github.com/leilakaltouma)
   - [Lerato Makhasane](https://github.com/leratomakhasane)
   - [Letam Davidson](https://github.com/Yagazie-davidson)
   - [Lethu Nsibande](https://github.com/LethuNsibande)
@@ -1188,7 +1198,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Megalous](https://github.com/megalous-lab)
   - [Melah Ghislain](https://github.com/MelahGhislain)
   - [Melvin Ng](https://github.com/melvincwng)
-  - [Merwin Mathew](https://github.com/merwinmathew33)  
+  - [Merwin Mathew](https://github.com/merwinmathew33)
   - [Michael Akintomo (@MadeByM1KE)](https://github.com/Makintomo04)
   - [Michael Godfrey](https://github.com/michagodfrey)
   - [Michael Liendo](https://github.com/Michael-Liendo)
@@ -1464,7 +1474,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rachita Goyal](https://github.com/rachita2000)
   - [Rafiul Hasan](https://github.com/rafidoth)
   - [Raghav Kavimandan](https://github.com/Raghav2305)
-  - [RAGHU S](https://github.com/raghu-007)  
+  - [RAGHU S](https://github.com/raghu-007)
   - [Raheem Amer](https://github.com/RaheemAmer)
   - [Rahman Haroon](https://github.com/rahmanharoon)
   - [Rahul Aggarwal](https://github.com/rahul-aggarwal000005)
@@ -1546,6 +1556,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rohan Hari](https://github.com/rohan-hari)
   - [Rohan Hazari](https://github.com/Rohan-Hazari)
   - [Rohan Nair](https://github.com/rohan9454)
+  - [Rohan Singh](https://github.com/singh1475)
   - [Rohan Wandre](https://github.com/rohan9024)
   - [Rohinish K Singh](https://github.com/rohinish404)
   - [Rohit Gurav](https://github.com/realrohitgurav)
@@ -1810,6 +1821,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Srinivasan T](https://github.com/Srinivasant97)
   - [Sriparno Roy](https://github.com/Sriparno08)
   - [Srujan Gowda D M](https://github.com/Sruja10)
+  - [Stefan Grbic](https://github.com/Kazuya1988)
   - [Stefan Taitano](https://github.com/codewithfan)
   - [Stefano Frontini](https://github.com/StefanoFrontini)
   - [Stephanie Kui](https://github.com/stephanie-kuihg)
@@ -1901,8 +1913,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tierra Barrow](https://github.com/tcodes27)
   - [Tijani Hussein](https://github.com/Shield01)
   - [Tikeshwar Sahu](https://github.com/Tiku24)
-  - [Timothy Tyler DeHof](https://github.com/timDeHof)  
-  - [Tinashe Murambinda](https://github.com/Draxeytina) 
+  - [Timothy Tyler DeHof](https://github.com/timDeHof)
+  - [Tinashe Murambinda](https://github.com/Draxeytina)
   - [Tirtharaj Sinha](https://github.com/tirtharajsinha)
   - [Tisha Soumya](https://github.com/Tishasoumya-02)
   - [Tommy L](https://github.com/TheCodedJourney)
