@@ -19,7 +19,7 @@ What is it? Click on the poster below to watch the video for more details 📽
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 ### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
-[Kuldeep Singh Rathore](https://github.com/KSRATHORE761)
+
 
 
 ### Option 1. Complete this process in GitHub (in your browser)
@@ -1102,6 +1102,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Krunal Darekar](https://github.com/KrunalDarekar)
   - [Krupali Trivedi](https://github.com/krupalitrivedi)
   - [Kshitiz Mahato](https://github.com/Kshitiz-Mhto)
+  - [Kuldeep Singh Rathore](https://github.com/KSRATHORE761)
   - [Kumaran T](https://github.com/synackred)
   - [Kumari Astha Rani](https://github.com/astha2412)
   - [Kumar Shanu](https://github.com/Kr-Shanu)
