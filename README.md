@@ -639,7 +639,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Cux Sabrina](https://github.com/theflucs)
   - [Cynthia Peters](https://github.com/digicynthia)
   - [Cynthia Teeters](https://github.com/cynthiateeters)
-  
 
 | [Back To Top](#contents) |
 
