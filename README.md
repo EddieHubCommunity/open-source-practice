@@ -611,6 +611,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Chandra Reddy](https://github.com/chandrareddy7)
   - [Chandraprakash Darji](https://github.com/Chandraprakash-Darji)
   - [Chandula Janith](https://github.com/RedEdge967)
+  - [Charlian Imoisili](https://github.com/CharlyAnne)
   - [Charlotte Jewer](https://github.com/Charlotte990)
   - [Cherish Sachdeva](https://github.com/csachdeva83)
   - [Chetan Pal](https://github.com/chetanpal230)
