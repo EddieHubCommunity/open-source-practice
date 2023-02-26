@@ -1836,6 +1836,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Stefano Frontini](https://github.com/StefanoFrontini)
   - [Stephanie Kui](https://github.com/stephanie-kuihg)
   - [Stephen Mount](https://github.com/stemount)
+  - [Steve Beecheno](https://github.com/Hacktinium)
   - [Stevie Gill](https://github.com/caffeinated-pixels)
   - [STILLWATER](https://github.com/ST1LLWATER)
   - [SUBASH THAKUR](https://github.com/Subash212021)
