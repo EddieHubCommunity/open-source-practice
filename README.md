@@ -1953,6 +1953,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Umesh Singh](https://github.com/Umesh-01)
   - [Urmil Rupareliya](https://github.com/urmil89)
   - [Ushna Khan](https://github.com/ushnak-tech)
+  - [Usman Ali](https://github.com/ussmaan-aali)
   - [Usman Tatla](https://github.com/iTatla1)
   - [Utkarsh Maurya](https://github.com/utkarsh1311)
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
