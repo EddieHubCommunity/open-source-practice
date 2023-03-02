@@ -666,6 +666,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dave Bhandari](https://github.com/Davekibh)
   - [David Centurion](https://github.com/Parzivalcen)
   - [David Clinton](https://github.com/daveclinton)
+  - [David Erivona](https://github.com/rivondave)
   - [David Guerrero](https://github.com/DaGuerGom)
   - [David Langner](https://github.com/langnerdavid)
   - [David Leal](https://github.com/Panquesito7)
