@@ -1592,6 +1592,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Robert C Cline Sr](https://github.com/rccline)
   - [Robert Kay Jr](https://github.com/RobertKayJr)
   - [Robert Palmer](https://github.com/RJPalmer)
+  - [Roberto Jr. Restituyo](https://github.com/juniorrestituyo)
   - [Robertus Bagaskara](https://github.com/robertusbagaskara)
   - [Rodrigo Avila](https://github.com/rodrigo398)
   - [Rohan Hari](https://github.com/rohan-hari)
