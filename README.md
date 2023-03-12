@@ -588,6 +588,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Bishow Thapa](https://github.com/Bishow-Thapa)
   - [Bismeet Singh](https://github.com/BismeetSingh)
   - [bitM1ke](https://github.com/cryptome)
+  - [BK Pecho](https://github.com/bkpecho)
   - [Blake](https://github.com/magic990619)
   - [Blessing Udiong](https://github.com/budiong054)
   - [Boby](https://github.com/bobychaudhary)
