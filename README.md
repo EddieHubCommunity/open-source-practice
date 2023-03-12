@@ -1730,6 +1730,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [schmelto](https://github.com/schmelto)
   - [Sean Michael Motale](https://github.com/mainfunktion)
   - [Sebastian Alexander](https://github.com/seb-lex)
+  - [Sebastian Henao Madrigal](https://github.com/sebashmh)
   - [Sebastian Moreno Olivera](https://github.com/sebasmoreno-dev)
   - [Sebastian V](https://github.com/fullstackseb)
   - [Sebasttian Daza](https://github.com/SebasttianDaza)
