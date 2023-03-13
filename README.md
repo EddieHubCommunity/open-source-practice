@@ -660,6 +660,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Damilola Oladele](https://github.com/activus-d)
   - [Danella Patrick](https://github.com/danellapatrick)
   - [Daniel Ayia Adamu](https://github.com/ayiaware)
+  - [Daniel de la Torre Chapell](https://github.com/Danypooh)
   - [Daniel Hart](https://github.com/thedannydarko)
   - [Daniel Johnson](https://github.com/danjohnson77)
   - [Daniel Lawrence](https://github.com/DanLawrence91)
