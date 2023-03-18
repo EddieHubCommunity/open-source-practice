@@ -2012,6 +2012,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ushna Khan](https://github.com/ushnak-tech)
   - [Usman Ali](https://github.com/ussmaan-aali)
   - [Usman Tatla](https://github.com/iTatla1)
+  - [Utkarsh Mathur](https://github.com/MathurUtkarsh)
   - [Utkarsh Maurya](https://github.com/utkarsh1311)
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
   - [Utkarsh Pathak](https://github.com/utkarsh0308)
