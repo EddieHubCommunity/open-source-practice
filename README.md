@@ -1314,7 +1314,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Muiruriscode](https://github.com/Muiruriscode)
   - [Mujahid Ali](https://github.com/MujahidAli954)
   - [Mukhtar Abdulfatai](https://github.com/DevMukhtarr)
-  - [Muktar Aliyu](https://github.com/zenoftech) :heart:
+  - [Muktar Aliyu](https://github.com/zenoftech)
   - [Mukul Sharma](https://github.com/mukul98s)
   - [Mullaivanaraj Anbu](https://github.com/mullaivanaraj)
   - [Mulyadi](https://github.com/Urcane)
