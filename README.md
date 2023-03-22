@@ -201,6 +201,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Abdul Rahaman Mohammed](https://github.com/Kaleem-abdull)
   - [Abdul Shaik](https://github.com/AbdulShaik786)
   - [Abdul Wahid Shaik](https://github.com/Abdulwahid7027)
+  - [Abdulkadir Danazumi](https://github.com/Danazumi)
   - [Abdullah Sajid](https://github.com/abdullahsajid-ma)
   - [Abdullahi Musa](https://github.com/Abdullahi001)
   - [Abdulmalik Adekunle](https://github.com/Adekunle27)
