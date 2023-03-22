@@ -1956,6 +1956,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Tabassum Fatima](https://github.com/tab21)
   - [Tadi](https://github.com/mtrill47)
+  - [Taimoor](https://github.com/taimoorahmadta)
   - [Taha Latief](https://github.com/iStaha)
   - [Talha Momin](https://github.com/momintlh)
   - [Tamal Das](https://github.com/IAmTamal)
