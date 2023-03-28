@@ -75,7 +75,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - Switch to the cloned folder. You can paste this command into the same terminal window.
 
 ```bash
-  cd hacktoberfest-practice
+  cd hacktoberfest-practise
 ```
 
 3. Create a new branch:
