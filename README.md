@@ -2001,6 +2001,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tomo Bones](https://github.com/tomobones)
   - [Triman Kaur](https://github.com/Trimankaur)
   - [Tsipporah Christopher](https://github.com/tsipporahc)
+  - [Tshepiso Lehutjo](https://github.com/tshepi-tech)
   - [Tung Pham](https://github.com/TungPhamQ)
   - [Tushar jagi](https://github.com/Tusharjagi)
   - [Tushar Kashyap](https://github.com/tusharkashyap11)
