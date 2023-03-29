@@ -2101,6 +2101,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Vivek Jaiswar](https://github.com/Narcos101)
   - [Vivek Nakkana](https://github.com/VivekNakkana)
   - [Vivek Raj](https://github.com/VivekRajSundar)
+  - [Vivek Sati](https://github.com/Viveksati5143)
   - [Vivek Singh](https://github.com/vivmost)
   - [Vivek Yadav](https://github.com/vivekyadav19)
   - [Vladyslav Kyiashko](https://github.com/vlakyi)
