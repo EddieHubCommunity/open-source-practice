@@ -1532,6 +1532,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Prithviraj Biswas](https://github.com/prithvirajbytes)
   - [Priyansh Mehta](https://github.com/Priyansh61)
   - [Priyanshu Ahlawat](https://github.com/PriyanshuAhlawat)
+  - [Priyanshu Patel](https://github.com/priyanshu096)
   - [Priyanshu Raj](https://github.com/itsPriyanshuRaj)
   - [Priyansu Sahoo](https://github.com/Priyansusahoo)
   - [Priyanshu Sharma](https://github.com/Priyanshusharmaaa)
