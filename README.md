@@ -618,7 +618,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Bui Bao Long](https://github.com/longbuibao)
   - [Bunde Uji](https://github.com/bunde-uji)
   - [Burhanuddin Raja](https://github.com/BurhanRaja)
-  
 
 | [Back To Top](#contents) |
 
