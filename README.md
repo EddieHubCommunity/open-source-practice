@@ -242,6 +242,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Abhishek R](https://github.com/Abhi45765)
   - [Abhishek Shinde](https://github.com/abhishinde24)
   - [Abhishek Shukla](https://github.com/AVI-SHUKLA1110)
+  - [Abhishek Singh](https://github.com/isinghabhishek) 
   - [Abhishek Soni](https://github.com/abhisheksonii)
   - [Abhisman Sarkar](https://github.com/abs007)
   - [Abiodun Victoria](https://github.com/Vickyabiodun)
