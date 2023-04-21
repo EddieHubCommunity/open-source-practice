@@ -920,6 +920,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Haris Khan](https://github.com/harisdev-netizen)
   - [Harish Sheoran](https://github.com/sheoranharis)
   - [Harish Srinivasan](https://github.com/Harish2930)
+  - [Harmeet Singh](https://github.com/harmeetsingh11)
   - [Harsh Deep](https://github.com/HarshDeep61034)
   - [Harsh Dhariwal](https://github.com/harsh-dhariwal)
   - [Harsh Kapoor](https://github.com/Harsh-Kapoorr)
