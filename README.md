@@ -1982,6 +1982,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Surbhi Pathak](https://github.com/surbhiahuja)
   - [Surya Tej Nimmakayala](https://github.com/CodeLapseLogger)
   - [Suryanshu Tomar](https://github.com/SuryanshuTomar)
+  - [Surya Teja](https://github.com/Surya-Teja-Sankuri)
   - [Sushant B](https://github.com/SUSHANT731)
   - [Susmita Dey](https://github.com/Susmita-Dey)
   - [Swapna Devi](https://github.com/Swapna804)
