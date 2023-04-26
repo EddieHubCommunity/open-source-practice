@@ -1070,6 +1070,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Josiah Morris](https://github.com/gnik-snrub)
   - [Joykishan Sharma](https://github.com/JoykishanSharma)
   - [João Barreiros](https://github.com/j-barreiros)
+  - [Joseph Martin](https://github.com/sejosephmartin)
   - [João Marcelo Dantas](https://github.com/jmgrd98)
   - [João Paulo Pereira](https://github.com/andradjp)
   - [JR Rogacion](https://github.com/jrogaciondev)
