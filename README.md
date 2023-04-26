@@ -1485,6 +1485,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Patricia Diaz](https://github.com/devPatricia)
   - [Patrick Reinhold Bergstroem](https://github.com/prb01)
   - [Paula Isabel](https://github.com/paulaxisabel)
+  - [Payal Sasmal](https://github.com/PayalSasmal10)
   - [Peeyush Guleria](https://github.com/peeyushguleria)
   - [Peter Havlena](https://github.com/phavlena)
   - [Philip Brown](https://github.com/PhilipBDev)
