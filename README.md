@@ -1289,6 +1289,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mayank Kumar Sharma](https://github.com/Mayank-KS)
   - [Mayank Mahajan](https://github.com/mayank2002-jpg)
   - [Mayowa Adeboye](https://github.com/mayo7e)
+  - [Mayengue Salomon](https://github.com/mayens)
   - [Mayur Gupta](https://github.com/Mayurmg)
   - [Mayuresh Deolekar](https://github.com/deolekarmayuresh)
   - [Mayuri Kothari](https://github.com/MAYURIKOTHARI299)
