@@ -1727,7 +1727,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [Back To Top](#contents) |
 
 - ### **S**
-    
+
   - [Saadat Badgujar](https://github.com/Saadat-B)
   - [Sabir Khan](https://github.com/DroidMystic)
   - [Sachin Kant](https://github.com/sachin-404)
