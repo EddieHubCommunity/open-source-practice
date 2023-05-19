@@ -940,6 +940,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **H**
 
   - [Haafizz Ismail](https://github.com/haafizzismail)
+  - [Hossain Kabir](https://github.com/ho-ssain)
   - [Habeeb B. Oyesile](https://github.com/badbatunde)
   - [Habib Sellami](https://github.com/SellamiHabib)
   - [Hammad Azam](https://github.com/hammadhz)
