@@ -1122,6 +1122,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Justine Syde Bulacito](https://github.com/celesica)
   - [Jyoti KM](https://github.com/JyotiKM29)
   - [Jyotiraditya](https://github.com/Jyotiraditya24)
+  - [Joshua Olorunnipa](https://github.com/JoshuaRotimi)
 
 | [`Back To Top`](#contents) |
 
