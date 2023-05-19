@@ -1,8 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 
-
- **Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
-
+**Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organization that you can contribute to. If you would like to join our GitHub organisation, raise an [issue](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join the EddieHub [Discord](http://discord.eddiehub.org/) channel
 
@@ -58,7 +56,6 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 ### Option 2. Complete this process on your computer (locally)
 
-
 1. Fork the project:
 
 - Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
@@ -67,7 +64,6 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Go to your profile. You will find forked repo named **_hacktoberfest-practice_**. go to the repo by clicking on it.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
-
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
@@ -301,7 +297,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Afnan](https://github.com/afuu21)
   - [Afroz Chakure](https://github.com/afrozchakure)
   - [Aftab](https://github.com/aftabashraf003)
-  - [Agatha Bahati](https://github.com/MoigeMatino)  
+  - [Agatha Bahati](https://github.com/MoigeMatino)
   - [Agatha Chituwa](https://github.com/agatha-chituwa)
   - [Agbabiaka Damilare](https://github.com/AgbaD)
   - [Agnel Selvan](https://github.com/AgnelSelvan)
@@ -933,6 +929,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Gurpartap Singh](https://github.com/Gurpartap335)
   - [Gustavo Santos](https://github.com/gefgu)
   - [Gustavo Zitto](https://github.com/zittogustavo)
+  - [Guy Guidona](https://github.com/Guidona)
   - [Gyan Dev Mishra](https://github.com/gyan9427)
 
 | [`Back To Top`](#contents) |
@@ -1759,7 +1756,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [Saadat Badgujar](https://github.com/Saadat-B)
   - [Sabir Khan](https://github.com/DroidMystic)
-  - [Sabrina Chacon](https://github.com/sabrinalzbh)                        
+  - [Sabrina Chacon](https://github.com/sabrinalzbh)
   - [Sachin Kant](https://github.com/sachin-404)
   - [Sachin Parihar](https://github.com/sachinparihar)
   - [Sadeedpv](https://github.com/Sadeedpv)
@@ -1770,7 +1767,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Safiq Lodi](https://github.com/modeware)
   - [Sagar Eknath Bangade](https://github.com/sagarbangade)
   - [Sagar Parshuram Biradar](https://github.com/sagar1621)
-  - [Sagar Sharma](https://github.com/SagarSharma2809)  
+  - [Sagar Sharma](https://github.com/SagarSharma2809)
   - [Sagnik Das](https://github.com/sagnik3788)
   - [Sahil Gajjar](https://github.com/sahilgajjar)
   - [Sahil Jain](https://github.com/imsahiljain)
