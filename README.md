@@ -1999,6 +1999,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sourav Samant](https://github.com/souravsam0)
   - [Sourjaya Das](https://github.com/Sourjaya)
   - [Souvik Mandal](https://github.com/8-bit-souvik)
+  - [Solomon Chukwu](https://github.com/TechyCredeski)
   - [Spencer Damon](https://github.com/SpencerDamon)
   - [Sreejit Sengupto](https://github.com/Sreejit-Sengupto)
   - [Sreekar Tammana](https://github.com/Sreekar-Tammana)
