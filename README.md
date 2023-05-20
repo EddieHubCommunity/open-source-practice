@@ -1107,6 +1107,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Joshua Hernandez](https://github.com/josh-hrnndz)
   - [Joshua Mayowa O.](https://github.com/mjosh51)
   - [Joshua Nweze](https://github.com/Joshua-Nweze)
+  - [Joshua Olorunnipa](https://github.com/JoshuaRotimi)
   - [Josiah Morris](https://github.com/gnik-snrub)
   - [Joykishan Sharma](https://github.com/JoykishanSharma)
   - [João Barreiros](https://github.com/j-barreiros)
