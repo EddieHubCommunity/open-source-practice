@@ -1729,7 +1729,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rohinish K Singh](https://github.com/rohinish404)
   - [Rohit Gurav](https://github.com/realrohitgurav)
   - [Rohit Kumar](https://github.com/rohitverse)
-    [Rohit Kumar Dey](https://github.com/rohits-web03)
+  - [Rohit Kumar Dey](https://github.com/rohits-web03)
   - [Rohit Multani](https://github.com/rohitmultani)
   - [Rohit Nimangre](https://github.com/rohit465)
   - [Rohit Rajvaidya](https://github.com/RohitRajvaidya5)
