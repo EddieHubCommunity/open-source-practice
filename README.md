@@ -1988,6 +1988,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sojin Samuel](https://github.com/SojinSamuel)
   - [Solomon Chukwu](https://github.com/TechyCredeski)
   - [solomon-onwuasoanya](https://github.com/dybran)
+  - [Somesh Santra](https://github.com/Someshftw156)
   - [Somnath Golui](https://github.com/somu-code)
   - [Sonakshi Chauhan](https://github.com/SonakshiChauhan)
   - [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)
