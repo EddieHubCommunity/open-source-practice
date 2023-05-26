@@ -1681,6 +1681,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ratnesh Puri Goswami](https://github.com/ratneshpuri)
   - [Raveena Bhasin](https://github.com/RaveenaBhasin)
   - [Ravi Babu V C](https://github.com/ravibabuvadde)
+  - [Ravi Raj](https://github.com/raviraj-github)
   - [Ravi Solanki](https://github.com/rdsol)
   - [Ravi Vishwakarma](https://github.com/A-ravi)
   - [Ravi Yadav](https://github.com/RaviYadav369)
