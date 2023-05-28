@@ -44,7 +44,7 @@ flowchart LR
 
 **3. Edit:**
 
-- On the top right of the Readme file, click on the pencil icon to edit the file by **adding your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name is in alphabetical order.**
+- On the top right of the Readme file, click on the pencil icon to edit the file by adding your name.
 - After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 **4. Raise a Pull Request:**
@@ -598,6 +598,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Benjamin Ughegbe](https://github.com/Ljr777)
   - [Benson Arafat](https://github.com/realArafatBen)
   - [Bentaleb Sami](https://github.com/sami-29)
+  - [Bentil Shadrack](https://github.com/qbentil)
   - [Bereket Lemma](https://github.com/Bereky)
   - [Bhagesh Ghuge](https://github.com/bhageshghuge)
   - [Bharat Sharma](https://github.com/BharatSharma29)
