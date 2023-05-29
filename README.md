@@ -606,6 +606,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Benjamin Ughegbe](https://github.com/Ljr777)
   - [Benson Arafat](https://github.com/realArafatBen)
   - [Bentaleb Sami](https://github.com/sami-29)
+  - [Bentil Shadrack](https://github.com/qbentil)
   - [Bereket Lemma](https://github.com/Bereky)
   - [Bhagesh Ghuge](https://github.com/bhageshghuge)
   - [Bhakti Sharma](https://github.com/bhaktisharma26)
