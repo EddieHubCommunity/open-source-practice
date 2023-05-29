@@ -1785,6 +1785,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sagar Sharma](https://github.com/SagarSharma2809)
   - [Sagnik Das](https://github.com/sagnik3788)
   - [Sahil Gajjar](https://github.com/sahilgajjar)
+  - [Sahil Kaler](https://github.com/Sahilkaler)
   - [Sahil Jain](https://github.com/imsahiljain)
   - [Sahil Khandelwal](https://github.com/sahilcode17)
   - [Sahil Maheshwari](https://github.com/bluzeey)
