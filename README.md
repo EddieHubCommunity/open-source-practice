@@ -2025,6 +2025,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sreevidya B](https://github.com/Sreevidya181)
   - [Sri Nivas](https://github.com/sri-nivas1227)
   - [Sri Venkat](https://github.com/srivenkat13)
+  - [Sridhar Vadla](https://github.com/SridharVadla45)
   - [Srihari S](https://github.com/Liri-s29)
   - [Srihari S (SSHSRN)](https://github.com/SSHSRN)
   - [Srijoy Paul](https://github.com/srijoy-paul)
