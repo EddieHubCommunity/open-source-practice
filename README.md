@@ -2333,6 +2333,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yusuke](https://github.com/yk-jp)
   - [Yuval Sharma](https://github.com/Yuval207)
   - [Yuvaraj Singh](https://github.com/YuvarajSingh-0)
+  - [Yuvraj Katkar](https://github.com/YuvrajKatkar)
   - [Yuvraj Singh Chouhan](https://github.com/Yuvrajhere)
   - [Yuvraj Singh Rana](https://github.com/yuviii99)
 
