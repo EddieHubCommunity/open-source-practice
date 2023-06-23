@@ -486,6 +486,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Arjun Kadam](https://github.com/arjun-kadam)
   - [Arjun Pathak](https://github.com/Arjuniest)
   - [Arka Raha](https://github.com/softdevarka)
+  - [Arlene Joy Nacion](https://github.com/pastaChaeng)
   - [Arman Ali Khan](https://github.com/Arman-ali-khan-786)
   - [Armel Munyaneza](https://github.com/munyanezaarmel)
   - [Arnav Jyotshi](https://github.com/ArnavJyo)
