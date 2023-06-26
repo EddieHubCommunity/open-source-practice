@@ -1989,6 +1989,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Shubham](https://github.com/shivsubh)
   - [Shubham Ayush](https://github.com/shubhamayush12)
   - [Shubham Baghel](https://github.com/shubhambaghel34)
+  - [Shubham Giri](https://github.com/xshubhamg)
   - [Shubham Gupta](https://github.com/Shubhcs01)
   - [Shubham Hadake](https://github.com/Shubham714)
   - [Shubham Kshetre](https://github.com/shubham-kshetre)
