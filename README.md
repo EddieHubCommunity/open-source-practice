@@ -742,6 +742,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [David Langner](https://github.com/langnerdavid)
   - [David Leal](https://github.com/Panquesito7)
   - [David Okononfua](https://github.com/Vinyl-Davyl)
+  - [David Raigoza](https://github.com/DavidRaigozaJ)
   - [Davin S](https://github.com/davin2020)
   - [Davis Xuy](https://github.com/toomsie)
   - [DavvSakib](https://github.com/devvsakib)
