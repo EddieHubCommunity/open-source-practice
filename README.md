@@ -1152,6 +1152,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Jubin Soni](https://github.com/jubinsoni)
   - [Julia Furst Morgado](https://github.com/juliafmorgado)
   - [Julia Rodriguez Ligero](https://github.com/juliarl22)
+  - [Julian Piasecki](https://github.com/piaseckijulian)
   - [Justin Benito](https://github.com/JustinBenito)
   - [Justin Braun](https://github.com/justin-braun)
   - [Justin Carter](https://github.com/Justinmemphis)
