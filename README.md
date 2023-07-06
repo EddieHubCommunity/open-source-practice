@@ -2,7 +2,7 @@
 
 **Note** **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
-We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organization that you can contribute to. If you would like to join our GitHub organisation, raise an [issue](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join the EddieHub [Discord](http://discord.eddiehub.org/) channel
+We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organization that you can contribute to. If you would like to join our GitHub organization, raise an [issue](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join the EddieHub [Discord](http://discord.eddiehub.org/) channel
 
 ---
 
@@ -1627,6 +1627,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Prasad Jivane](https://github.com/prasadjivane)
   - [Prasanna Bisen](https://github.com/prasannabisen)
   - [Prasanna Ramesh](https://github.com/prasannarames)
+  - [Prasansha Paudel](https://github.com/paudelpr1)
   - [Prasanta Chettri](https://github.com/prasanta10)
   - [Prashansa Parwal](https://github.com/op-amateur)
   - [Prashant Shukla](https://github.com/prashantlv)
