@@ -850,6 +850,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Emmanuel Engelbert](https://github.com/EmmanuelEngelbert)
   - [Emmanuel Obiechina](https://github.com/chibuike-19)
   - [Emmy Steven](https://github.com/emmysteven)
+  - [Emore Ogheneyoma Lawrence](https://github.com/devyoma)
   - [Enn Dee](https://github.com/enn-dee)
   - [Eric Obeng](https://github.com/Eric-Obeng)
   - [Eric Thomas D. Cabigting](https://github.com/ecabigting)
