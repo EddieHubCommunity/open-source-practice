@@ -1996,6 +1996,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Shivam Kumar](https://github.com/rhinoxD)
   - [Shivam Kumar](https://github.com/shivamsinghydv)
   - [Shivam Sharma](https://github.com/shivam-sharma7)
+  - [Shivang Gupta](https://github.com/Shivang20k)
   - [Shivang Parmar](https://github.com/Shivang143)
   - [Shivankur Singh](https://github.com/Shivankur25)
   - [Shivanshu Sarin](https://github.com/Shivanshu-09)
