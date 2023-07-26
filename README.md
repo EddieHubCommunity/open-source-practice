@@ -1367,6 +1367,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Masete Nicholas](https://github.com/masete)
   - [Matt Oliver](https://github.com/mattyocode)
   - [Matthias Maier](https://github.com/NukeTheFridge)
+  - [Matthew Topping](https://github.com/Gr8OdinsBeard)
   - [Max Base](https://github.com/basemax)
   - [Mayank Bansal](https://github.com/MayankBansal12)
   - [Mayank Gupta](https://github.com/mayank-cse)
