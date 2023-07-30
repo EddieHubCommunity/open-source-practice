@@ -2301,6 +2301,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Venkatesh Vilas Nikam](https://github.com/nikamvenkatesh)
   - [Venu Kaushik Varrey](https://github.com/vvenukaushik)
   - [Vicky Gupta](https://github.com/viki4545)
+  - [Vicky Kimani](https://github.com/vickykimani)
   - [Vicolas Akoh](https://github.com/Vicolas11)
   - [Victor Gomenza](https://github.com/Viguitars)
   - [Victoria Cheng](https://github.com/victoriacheng15)
