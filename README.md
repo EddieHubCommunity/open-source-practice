@@ -1992,6 +1992,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sheheer Ali](https://github.com/sheheeralizx)
   - [Shejilrahman](https://github.com/shejilrahman)
   - [Sherelle Scott](https://github.com/Sherelle-S)
+  - [Shibin C Reji](https://github.com/shibincreji)
   - [Shiladitya Bose](https://github.com/shiladityab24)
   - [Shivam](https://github.com/Shivam-090)
   - [Shiv Bhadaniya](https://github.com/shiv-bhadaniya)
