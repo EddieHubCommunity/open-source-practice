@@ -1998,6 +1998,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sharat Katwa](https://github.com/sharatkatwa)
   - [Shariq](https://github.com/cosmicqbit)
   - [Shashank Bhat G S](https://github.com/shashankbhatgs)
+  - [Shashank Dahake](https://github.com/ShashankDahake7)
   - [Shashank Deshpande](https://github.com/Shashankzz0007)
   - [Shashwat Shivhare](https://github.com/shashwatshiv)
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
