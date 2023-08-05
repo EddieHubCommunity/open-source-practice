@@ -680,7 +680,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Carlie Hope](https://github.com/carliemaria)
   - [Carlos Herrera](https://github.com/cahema)
   - [Carmen Chow](https://github.com/cchow33)
-  - [Cayden Burns](https://github.com/SudoCee)tom_2405
+  - [Cayden Burns](https://github.com/SudoCee)
   - [CeeKay](https://github.com/CeeKayTech)
   - [Céline Le Corvaisier](https://github.com/ocsiddisco)
   - [Chakroun Elias](https://github.com/Yushi5058)
