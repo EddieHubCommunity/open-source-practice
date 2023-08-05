@@ -1481,7 +1481,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **N**
-
+  - [Nafi Rashid Rahim](https://github.com/NafiRahim)
   - [Nabajyoti Bharali](https://github.com/nabadev)
   - [Nabhag Motivaras](https://github.com/Nabhag8848)
   - [Nabin Sharma](https://github.com/Nav-33n)
@@ -1550,7 +1550,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nur Akmal Mohd Nordi](https://github.com/nurakmal920207)
   - [Nwoke Emmanuella](https://github.com/Ellah120)
   - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
-  - [Nafi Rashid Rahim](https://github.com/NafiRahim)
+  
 
 | [`Back To Top`](#contents) |
 
