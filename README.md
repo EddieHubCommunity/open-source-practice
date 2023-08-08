@@ -1820,6 +1820,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Rita Mwangi](https://github.com/RitaMwas)
   - [Ritam Samanta](https://github.com/RitamSamant)
   - [Ritek Rounak](https://github.com/RITEKROUNAK)
+  - [Rithish](https://github.com/SRithish2003).
   - [Ritik Bhardwaj](https://github.com/Ritik-Bhardwaj-007)
   - [Ritik Bharti](https://github.com/Ritik4388)
   - [Ritik Chourasiya](https://github.com/theritikchoure)
