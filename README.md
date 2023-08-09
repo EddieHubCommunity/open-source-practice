@@ -1026,6 +1026,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Harshil Hirpara](https://github.com/harshil202)
   - [Harshit Aditya](https://github.com/HarshitAditya27)
   - [Harshit Chadha](https://github.com/harshit0571)
+  - [Harshit Singh Mahara](https://github.com/HarshitMahara)
   - [Harshit Mishra](https://github.com/harshit-senpai)
   - [Harshit Parwal](https://github.com/harshitparwal)
   - [Harshvardhan Singh](https://github.com/HarshSingh-hue)
