@@ -2424,6 +2424,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yash Samar](https://github.com/yashhhh04)
   - [Yash Sehgal](https://github.com/yashsehgal)
   - [Yash Sharma](https://github.com/yashsharma999)
+  - [Yash Verma](https://github.com/yashv521)
   - [Yash Verma](https://github.com/Recognizeyourself)
   - [Yashasvi Misra](https://github.com/yashasvimisra2798)
   - [Yashesvinee V](https://github.com/Yashesvinee)
