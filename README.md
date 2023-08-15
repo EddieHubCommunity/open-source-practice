@@ -1281,6 +1281,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Krishna Khajuria](https://github.com/krish40786)
   - [Krishna Kumar](https://github.com/Krishnapro)
   - [Krishna R](https://github.com/Krishna-Ravi)
+  - [Krishnal Panara](https://github.com/killshotroxs)
   - [Krishnansh Agarwal](https://github.com/krishnanshagarwal112)
   - [Kriti Gupta](https://github.com/kritigupta45)
   - [Krishna Pathak](https://github.com/Krishna-Ji)
@@ -1481,6 +1482,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mubarak Yahaya](https://github.com/lilmubby)
   - [Mudit Garg](https://github.com/Minkowski104)
   - [Muhammad Abdulaleem](https://github.com/aleemaheer)
+  - [Muhammad Ademola](https://github.com/muhahahmad68)
   - [Muhammad Adnan Yousaf](https://github.com/ma593y)
   - [Muhammad Ali](https://github.com/malicodes2)
   - [Muhammad Essa](https://github.com/imuhammadessa)
@@ -1573,6 +1575,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nitish Kumar](https://github.com/NitishKumar06)
   - [Nkanmuo Vera Chioma](https://github.com/chiomavera)
   - [Nonso Ugbodu](https://github.com/Arndy345)
+  - [Nook Danger](https://github.com/nookdanger)
   - [Noshin Nawar Neha](https://github.com/nehanawar025)
   - [Nouman Syed](https://github.com/noumxn)
   - [Ntandoyenkosi Mendu](https://github.com/ntandoyenkosi1)
@@ -1626,7 +1629,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **P**
-
   - [Pablo Lorenzo](https://github.com/Ll2NZ)
   - [Palak Bhawsar](https://github.com/palakbhawsar98)
   - [Panuwat Boonrod](https://github.com/newzpanuwat)
@@ -1673,6 +1675,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Pranay Kharabe](https://github.com/pranay202)
   - [Praneeth](https://github.com/18praneeth)
   - [Pranit Patil](https://github.com/PranitPatil03)
+  - [Pranita Dane](https://github.com/pranita28Dane)
   - [Pranjal Agarwal](https://github.com/Pranjal360Agarwal)
   - [Pranjal Jaiswal](https://github.com/pranjaljaiswal10)
   - [Pranjay Poddar](https://github.com/pranjay-poddar)
