@@ -1427,6 +1427,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Meadow](https://github.com/nurulhnani)
   - [Medha KM](https://github.com/Medhakambli)
   - [Meenal Jain](https://github.com/meenal21)
+  - [Meet Popat](https://github.com/meetpopat03)
   - [Megalous](https://github.com/megalous-lab)
   - [Melah Ghislain](https://github.com/MelahGhislain)
   - [Melvin Ng](https://github.com/melvincwng)
