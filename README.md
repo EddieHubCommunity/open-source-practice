@@ -1901,7 +1901,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **S**
   
-  -[Sanjay Ramsinghani](https://github.com/sanjay78632)
+  - [Sanjay Ramsinghani](https://github.com/sanjay78632)
   - [Saadat Badgujar](https://github.com/Saadat-B)
   - [Sabir Khan](https://github.com/DroidMystic)
   - [Sabrina Chacon](https://github.com/sabrinalzbh)
