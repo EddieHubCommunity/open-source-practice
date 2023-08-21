@@ -2431,13 +2431,14 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Waithaka Waweru](https://github.com/weshy007)
   - [Wajahat Hashim](https://github.com/Wajahat-Hashim)
   - [Waqe](https://github.com/waq-e)
+  - [Wasif Ahmed](https://github.com/Wasifns)
   - [Wayne O'Mahony](https://github.com/wayneomahony)
   - [WebDevWill](https://github.com/WebDevWill)
   - [Wellington Mwadali](https://github.com/wellingtonmwadali)
   - [Wilgerth Mouton](https://github.com/l33th)
   - [Willi Hohenstein](https://github.com/willhoh)
   - [William J Priest](https://github.com/WilliamJPriest)
-  - [Wasif Ahmed](https://github.com/Wasifns)
+    )
 
 | [`Back To Top`](#contents) |
 
