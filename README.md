@@ -1726,6 +1726,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Pratyush Pahari](https://github.com/PRATYUSHPAHARI)
   - [Praveen K Mathapati](https://github.com/PKM777)
   - [Praveen Kumar Purushothaman](https://github.com/praveenscience)
+  - [Praveen Raj](https://github.com/praveen0raj)
   - [Pravin M D](https://github.com/pravintargaryen)
   - [Pre-123](https://github.com/Pre-123)
   - [Precious Adedibu](https://github.com/Preshy-Jones)
@@ -1755,7 +1756,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Pushkar Dave](https://github.com/lynx1902)
   - [Pushkar Roy](https://github.com/roy2pushkar)
   - [Pushkaraj Kulkarni](https://github.com/pushkaraj2007)
-  - [Praveen Raj](https://github.com/praveen0raj)
   
 | [`Back To Top`](#contents) |
 
