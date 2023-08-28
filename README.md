@@ -150,7 +150,7 @@ Please make sure you have the correct access rights and that the repository exis
 
 **8. Raise a Pull Request:**
 
-- On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
+- On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button! ![CreatePR](res/createpr.png)
 
 - Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
   Note: A pull request allows us to merge your changes with the original project repo.
