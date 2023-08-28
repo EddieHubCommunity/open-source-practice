@@ -56,36 +56,36 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 ### Option 2. Complete this process on your computer (locally)
 
-1. Fork the project:
+**1. Fork the project:**
 
-- Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
+- Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account. ![Fork](res/fork.png)
 
-2. Clone this project on your computer:
+**2. Clone this project on your computer:**
 
 - Go to your profile. You will find forked repo named **_hacktoberfest-practice_**. go to the repo by clicking on it.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer. ![Clone](res/git-clone.png)
 
 ```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
 ```
 
-- Switch to the cloned folder. You can paste this command into the same terminal window.
+- Switch to the cloned folder. You can paste this command into the same terminal window. ![Opening-In-VsCode](res/opening-vscode.png)
 
 ```bash
   cd hacktoberfest-practice
 ```
 
-3. Create a new branch:
+**3. Create a new branch:**
 
-- Your username would make a good branch because it's unique.
+- Your username would make a good branch because it's unique. ![GitCheckout](res/git-checkout.png)
 
 ```bash
   git checkout -b <name-of-new-branch>
 ```
 
-4. Edit:
+**4. Edit:**
 
 - Open the `README.md` file
 
@@ -94,7 +94,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - For example
   `- [Full Name](https://github.com/your-username)`
 
-5. Stage your changes:
+**5. Stage your changes:**
 
 ```bash
   git add README.md
@@ -106,8 +106,8 @@ or
   git add .
 ```
 
-6. Commit the changes:
-
+**6. Commit the changes:**
+![commit](res/git-commit.png)
 ```bash
   git commit -m "Add <your-github-username>"
 ```
@@ -119,13 +119,14 @@ or
 ```
 
 - The response should be like this:
+![gitStatus](res/git-status.png)
 
 ```bash
 On branch <name-of-your-branch>
 nothing to commit, working tree clean
 ```
 
-7. Pushing your repository to GitHub:
+**7. Pushing your repository to GitHub:**
 
 ```bash
   git push origin <name-of-your-branch>
@@ -137,6 +138,7 @@ or
   git branch -M main
   git push -u origin main
 ```
+![commit](res/git-push.png)
 
 > **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
@@ -146,7 +148,7 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and that the repository exists.
 ```
 
-8. Raise a Pull Request:
+**8. Raise a Pull Request:**
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
 
@@ -430,7 +432,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aniket Kumar Ghosh](https://github.com/ak7550)
   - [Aniket Prabhakar](https://github.com/aniketprabhakar)
   - [Aniket Roy](https://github.com/Aniketroy2003)
-  - [Aniket Samaddar](https://github.com/s1997aniket)  
+  - [Aniket Samaddar](https://github.com/s1997aniket)
   - [Aniket Shitole](https://github.com/AniketNS)
   - [Aniket Singh](https://github.com/aniketsingh98571)
   - [Animesh Pathak](https://github.com/sonichigo)
@@ -1916,7 +1918,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **S**
-  
+
   - [Saadat Badgujar](https://github.com/Saadat-B)
   - [Sabir Khan](https://github.com/DroidMystic)
   - [Sabrina Chacon](https://github.com/sabrinalzbh)
