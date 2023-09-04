@@ -1603,6 +1603,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nirban Chakraborty](https://github.com/nirban256)
   - [Nirvana](https://github.com/nirvana-vibes)
   - [Nisha Singhal](https://github.com/nishaYO)
+  - [Nishant Gaurav](https://github.com/Imbiber)
   - [Nishant Giri](https://github.com/raptor4444)
   - [Nishant-Jangid](https://github.com/1010nishant)
   - [Nishant Shrivastva](https://github.com/shrinishant)
