@@ -60,7 +60,6 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account. ![fork](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/00b41de9-768c-4a01-a27e-f7aa75cd6a27)
 
-
 **2. Clone this project on your computer:**
 
 - Go to your profile. You will find forked repo named **_hacktoberfest-practice_**. go to the repo by clicking on it.
@@ -68,13 +67,11 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer. ![git-clone](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/4d600e25-83b1-4e8f-9325-f1adc4f8ce3d)
 
-
 ```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window. ![opening-vscode](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/1a8b350d-0c96-461a-85f4-a59185aed6b6)
-
 
 ```bash
   cd hacktoberfest-practice
@@ -83,7 +80,6 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 **3. Create a new branch:**
 
 - Your username would make a good branch because it's unique. ![git-checkout](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/68ab0380-c731-4e67-bccc-b666da5dd174)
-
 
 ```bash
   git checkout -b <name-of-new-branch>
@@ -124,7 +120,7 @@ or
 ```
 
 - The response should be like this:
-![git-status](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/d3692bcd-02d9-47d7-9e6c-b386b0a6c72d)
+  ![git-status](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/d3692bcd-02d9-47d7-9e6c-b386b0a6c72d)
 
 ```bash
 On branch <name-of-your-branch>
@@ -143,6 +139,7 @@ or
   git branch -M main
   git push -u origin main
 ```
+
 ![git-push](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/f1cec12f-ea26-4986-a820-7881bc69f764)
 
 > **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
@@ -156,7 +153,6 @@ Please make sure you have the correct access rights and that the repository exis
 **8. Raise a Pull Request:**
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button! ![createpr](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/0c971d35-5230-4f4a-923a-81a05c318887)
-
 
 - Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
   Note: A pull request allows us to merge your changes with the original project repo.
@@ -815,6 +811,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
   - [Deepak Khattar](https://github.com/deepakkhattar26o2)
   - [Deepak Kumar](https://github.com/kumar-rocks)
+  - [Deepak kumar](https://github.com/evdk1212)
   - [Deepak Paul](https://github.com/deepakrudrapaul)
   - [Deepak Sirohiwal](https://github.com/deepaksirohiwal)
   - [Deepanshu](https://github.com/deepanshudaksh77)
@@ -1528,7 +1525,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Molese](https://github.com/m0lese)
   - [Molly Vanessa](https://github.com/molly460)
   - [Monish VR](https://github.com/Monish-VR)
-  - [Moses Msukwa](https://github.com/mozesi) 
+  - [Moses Msukwa](https://github.com/mozesi)
   - [Mridul Birla](https://github.com/Mridulbirla13)
   - [Mrinaal Arora](https://github.com/aroramrinaal)
   - [Mrkarstrom](https://github.com/mrkarstrom)
