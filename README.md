@@ -1397,7 +1397,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **M**
-  - [Md. Afzal hassanEhsani](https://github.co/imafzalhassan)
+  - [Md. Afzal hassan ehsani](https://github.co/imafzalhassan)
   - [Murtaza Bohra](https://github.com/m-bohra8999)
   - [Maemreyo](https://github.com/maemreyo)
   - [Mahamat Abdelkerim Abakar](https://github.com/mahamat-abdelkerim-abakar)
