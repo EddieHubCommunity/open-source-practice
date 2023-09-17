@@ -1368,6 +1368,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Leila Kaltouma](https://github.com/leilakaltouma)
   - [Lennox Charles](https://github.com/lennyAiko)
   - [Leo Rajan](https://github.com/leo7736)
+  - [Leonardo Montini](https://github.com/Balastrong)
   - [Leonel Leon](https://github.com/Leon2610)
   - [Lerato Makhasane](https://github.com/leratomakhasane)
   - [Letam Davidson](https://github.com/Yagazie-davidson)
