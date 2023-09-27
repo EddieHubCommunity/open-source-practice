@@ -71,7 +71,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
 ```
 
-- Switch to the cloned folder. You can paste this command into the same terminal window. ![opening-vscode](https://github.com/AmanxUpadhyay/open-source-practice/assets/76415079/1a8b350d-0c96-461a-85f4-a59185aed6b6)
+- Switch to the cloned folder. You can paste this command into the same terminal window. ![opening-vscode](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/1a8b350d-0c96-461a-85f4-a59185aed6b6)
 
 ```bash
   cd hacktoberfest-practice
