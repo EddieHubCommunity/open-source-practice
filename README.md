@@ -79,7 +79,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 **3. Create a new branch:**
 
-- Your username would make a good branch because it's unique. ![git-checkout](https://github.com/AmanxUpadhyay/open-source-practice/assets/76415079/68ab0380-c731-4e67-bccc-b666da5dd174)
+- Your username would make a good branch because it's unique. ![git-checkout](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/68ab0380-c731-4e67-bccc-b666da5dd174)
 
 ```bash
   git checkout -b <name-of-new-branch>
