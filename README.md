@@ -120,7 +120,7 @@ or
 ```
 
 - The response should be like this:
-  ![git-status](https://github.com/AmanxUpadhyay/open-source-practice/assets/76415079/d3692bcd-02d9-47d7-9e6c-b386b0a6c72d)
+  ![git-status](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/d3692bcd-02d9-47d7-9e6c-b386b0a6c72d)
 
 ```bash
 On branch <name-of-your-branch>
