@@ -140,7 +140,7 @@ or
   git push -u origin main
 ```
 
-![git-push](https://github.com/AmanxUpadhyay/open-source-practice/assets/76415079/f1cec12f-ea26-4986-a820-7881bc69f764)
+![git-push](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/f1cec12f-ea26-4986-a820-7881bc69f764)
 
 > **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
