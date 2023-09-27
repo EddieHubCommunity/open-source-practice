@@ -1198,6 +1198,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [JesusGerardoAguiar](https://github.com/JesusGerardoAguiar)
   - [Jigneshvray](https://github.com/jigneshvray)
   - [Jisan Mia](https://github.com/Jisan-mia)
+  - [jibachh Mahato](https://github.com/JibachhhMahto764)
   - [Jivthesh](https://github.com/jivthesh)
   - [Joachim Chisom](https://github.com/joachimchisom1)
   - [Joel Aliyu](https://github.com/joelali5)
