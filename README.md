@@ -65,7 +65,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - Go to your profile. You will find forked repo named **_open-source-practice_**. go to the repo by clicking on it.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer. ![git-clone](https://github.com/AmanxUpadhyay/open-source-practice/assets/76415079/4d600e25-83b1-4e8f-9325-f1adc4f8ce3d)
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer. ![git-clone](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/4d600e25-83b1-4e8f-9325-f1adc4f8ce3d)
 
 ```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
