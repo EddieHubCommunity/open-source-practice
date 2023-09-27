@@ -107,7 +107,7 @@ or
 ```
 
 **6. Commit the changes:**
-![git-commit](https://github.com/AmanxUpadhyay/open-source-practice/assets/76415079/9a6a58f3-ed0b-4bc2-b749-48baede77835)
+![git-commit](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/9a6a58f3-ed0b-4bc2-b749-48baede77835)
 
 ```bash
   git commit -m "Add <your-github-username>"
