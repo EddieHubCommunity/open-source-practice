@@ -1,0 +1,14 @@
+name: comment-on-pull-request
+on: pull_request
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            This repository is for practice only, it will not count towards the hacktoberfest.
