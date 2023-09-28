@@ -1,9 +1,9 @@
 name: comment-on-pull-request
-on: pull_request
+on: pull_request_target
 permissions: 
   pull-requests: write 
 jobs:
-  check-bats-version:
+  comment-on-pr:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
