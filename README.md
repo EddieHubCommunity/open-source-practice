@@ -12,9 +12,9 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 [![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EddieHubCommunity/hacktoberfest-practice)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EddieHubCommunity/open-source-practice)
 
-## Hacktoberfest Practice Pull Requests
+## open-source-practice Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
@@ -42,7 +42,7 @@ flowchart LR
 
 **3. Edit:**
 
-- On the top right of the Readme file, click on the pencil icon to edit the file by **adding your name and your GitHub profile link to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Make sure that your name is in alphabetical order.**
+- On the top right of the Readme file, click on the pencil icon to edit the file by **adding your name and your GitHub profile link to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community). Make sure that your name is in alphabetical order.**
 - After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 **4. Raise a Pull Request:**
@@ -52,17 +52,17 @@ flowchart LR
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
-You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/new).
+You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/open-source-practice/issues/new).
 
 ### Option 2. Complete this process on your computer (locally)
 
 **1. Fork the project:**
 
-- Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account. ![fork](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/00b41de9-768c-4a01-a27e-f7aa75cd6a27)
+- Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account. ![fork](https://github.com/AmanxUpadhyay/open-source-practice/assets/76415079/00b41de9-768c-4a01-a27e-f7aa75cd6a27)
 
 **2. Clone this project on your computer:**
 
-- Go to your profile. You will find forked repo named **_hacktoberfest-practice_**. go to the repo by clicking on it.
+- Go to your profile. You will find forked repo named **_open-source-practice_**. go to the repo by clicking on it.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer. ![git-clone](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/4d600e25-83b1-4e8f-9325-f1adc4f8ce3d)
@@ -89,7 +89,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 - Open the `README.md` file
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
+- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
   `- [Full Name](https://github.com/your-username)`
@@ -2470,6 +2470,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Vishal M](https://github.com/Mvishal123)
   - [Vishal Rathore](https://github.com/vishalcoder139)
   - [Vishal Rathore](https://github.com/vishalrathore8oct)
+  - [Vishesh Tiwari](https://github.com/vishesh-hue)
   - [Vishnu](https://github.com/shukl08vk)
   - [Vishnupriya](https://github.com/Vishnupriya119)
   - [Vishwa S](https://github.com/VishwaS-22)
@@ -2574,4 +2575,4 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.
 
-If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this. Read our [Code of Conduct](https://github.com/EddieHubCommunity/hacktoberfest-practice/blob/main/CODE_OF_CONDUCT.md).
+If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this. Read our [Code of Conduct](https://github.com/EddieHubCommunity/open-source-practice/blob/main/CODE_OF_CONDUCT.md).
