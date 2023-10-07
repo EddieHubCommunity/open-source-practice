@@ -1706,6 +1706,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Osoraa Nwankwo](https://github.com/Osoraa)
   - [Owen Fiber](https://www.github.com/ofiber)
   - [Oyebolade Oladokun](https://github.com/Oyebolade)
+  - [Om Tekade](https://github.com/NegativE333)
 
 | [`Back To Top`](#contents) |
 
