@@ -2216,6 +2216,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [smir45](https://github.com/smir45)
   - [Snehal Senapati](https://github.com/snehalsenapati23)
   - [Soham Bhattacharjee](https://github.com/Rust-soham)
+  - [Soham Gupta](https://github.com/gupta-soham)
   - [Soham Purohit](https://github.com/soham117)
   - [Soham Roy](https://github.com/SohamRoy-01)
   - [Sohan Shetty](https://github.com/sohan9819)
