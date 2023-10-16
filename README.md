@@ -840,7 +840,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dhairya Ostwal](https://github.com/dhairyaostwal)
   - [Dhananjay Mahajan](https://github.com/Dhananjaymahajan2001)
   - [Dhanush](https://github.com/ydhanush8)
-  - [Dhanush M R ](https://github.com/Dhanush0369)
+  - [Dhanush M R](https://github.com/Dhanush0369)
   - [Dharmik Hingu](https://github.com/dharmik48)
   - [Dhaval Dudhat](https://github.com/dudhatdhavalm)
   - [Dhayal Ram](https://github.com/dhayalramk)
