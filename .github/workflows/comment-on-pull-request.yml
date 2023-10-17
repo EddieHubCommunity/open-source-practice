@@ -15,4 +15,4 @@ jobs:
         with:
           message: |
             This repository is for **practice only** and therefore it will not count towards hacktoberfest.
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
