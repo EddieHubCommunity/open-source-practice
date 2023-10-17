@@ -734,6 +734,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Chakroun Elias](https://github.com/Yushi5058)
   - [Chamberlain Ezigbo](https://github.com/Chamberezigbo)
   - [Chandan Gupta](https://github.com/chandanpc)
+  - [Chandan Mali](https://github.com/Chandanmali)
   - [Chandra Reddy](https://github.com/chandrareddy7)
   - [Chandraprakash Darji](https://github.com/Chandraprakash-Darji)
   - [Chandula Janith](https://github.com/RedEdge967)
