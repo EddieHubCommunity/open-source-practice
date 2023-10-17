@@ -1,7 +1,7 @@
 name: comment-on-pull-request
 on:
   pull_request_target:
-    types: [opened, synchronize]
+    types: [opened]
 permissions:
   pull-requests: write
   issues: write
@@ -9,9 +9,6 @@ jobs:
   comment-on-pr:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Comment on PR
         uses: thollander/actions-comment-pull-request@v2
         with:
