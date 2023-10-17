@@ -1,16 +1,19 @@
-name: comment-on-pull-request
-on: pull_request
-permissions: 
-  pull-requests: write 
+on:
+  fork:
+  push:
+    branches: [develop]
+  pull_request_target:
+    types: [opened]
+  pull_request_review_comment:
+    types: [created]
+
 jobs:
-  comment-on-pr:
+  welcome:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Comment PR
-        uses: thollander/actions-comment-pull-request@v2
+      - uses: actions/checkout@v4
+      - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
-          message: |
-            This repository is for **practice only** and therefore it will not count towards hacktoberfest.
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          pr-message: "<h1>It's great having you contribute to this project</h1> Welcome to the community :nerd_face:<br>Please note this repository is for **practice only** and therefore it will not count towards hacktoberfest."
+          footer: 'If you would like to continue contributing to open source and would like to do it with an awesome inclusive community, you should join our <a href="http://discord.eddiehub.org">Discord Server</a> and our <a href="http://github.eddiehub.org">GitHub Organisation</a> - we help and encourage each other to contribute to open source little and often 🤓 . Any questions let us know.'
