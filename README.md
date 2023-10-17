@@ -779,6 +779,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dadapeer Shaik](https://github.com/DaduDev)
   - [Dagim Cherinet Biftu](https://github.com/dagim-cherinet)
   - [Daim Bin Khalid](https://github.com/daimbk)
+  - [Dawit Sharon](https://github.com/Dawit-Sh)
   - [Dalpat Rathore](https://github.com/dalpatrathore)
   - [Damilola Oladele](https://github.com/activus-d)
   - [Danella Patrick](https://github.com/danellapatrick)
