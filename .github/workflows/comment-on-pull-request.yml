@@ -15,6 +15,7 @@ jobs:
       - name: Comment PR
         uses: thollander/actions-comment-pull-request@v2
         with:
-          message: |
-            This repository is for **practice only** and therefore it will not count towards hacktoberfest.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
+          GITHUB_TOKEN: ${{ secrets.EDDIEHUB_PAT }}
+          mode: upsert
+          create_if_not_exists: true
