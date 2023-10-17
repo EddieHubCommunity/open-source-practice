@@ -1,5 +1,6 @@
 name: comment-on-pull-request
-on: pull_request
+on: 
+  pull_request:
 permissions: 
   pull-requests: write 
   issues: write
