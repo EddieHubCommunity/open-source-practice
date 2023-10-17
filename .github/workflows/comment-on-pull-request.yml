@@ -1,7 +1,6 @@
 name: comment-on-pull-request
 on: 
   pull_request:
-  workflow_dispatch:  # This enables manual triggering
 permissions: 
   pull-requests: write 
   issues: write
