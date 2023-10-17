@@ -13,9 +13,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Use PAT if running on base repository
-      - name: Comment PR (Base Repo)
-        if: github.event.pull_request.head.repo.full_name == github.repository
+      # If in the main repository, use the PAT
+      - name: Comment PR with PAT (Main Repo)
+        if: github.repository == github.event.repository.full_name && secrets.EDDIEHUB_PAT != ''
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
@@ -23,9 +23,9 @@ jobs:
           mode: upsert
           create_if_not_exists: true
 
-      # Use default GITHUB_TOKEN if running on a fork
-      - name: Comment PR (Fork)
-        if: github.event.pull_request.head.repo.full_name != github.repository
+      # If in a fork or the PAT is not set, use the default GITHUB_TOKEN
+      - name: Comment PR with GITHUB_TOKEN (Fork or No PAT)
+        if: github.repository != github.event.repository.full_name || secrets.EDDIEHUB_PAT == ''
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
