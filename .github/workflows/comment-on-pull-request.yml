@@ -2,6 +2,7 @@ name: comment-on-pull-request
 on: pull_request
 permissions: 
   pull-requests: write 
+  issues: write
 jobs:
   comment-on-pr:
     runs-on: ubuntu-latest
@@ -14,3 +15,4 @@ jobs:
         with:
           message: |
             This repository is for **practice only** and therefore it will not count towards hacktoberfest.
+          github-token: ${{ secrets.GITHUB_TOKEN }}
