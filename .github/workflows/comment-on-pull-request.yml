@@ -1,8 +1,7 @@
 name: comment-on-pull-request
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize]
-  workflow_dispatch:
 permissions:
   pull-requests: write
   issues: write
@@ -13,22 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set Env Var for PAT existence
-        run: echo "PAT_EXISTS=${{ secrets.EDDIEHUB_PAT != '' }}" >> $GITHUB_ENV
-
-      # If in the main repository, use the PAT
-      - name: Comment PR with PAT (Main Repo)
-        if: env.PAT_EXISTS == 'true' && github.repository == github.event.repository.full_name
-        uses: thollander/actions-comment-pull-request@v2
-        with:
-          message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
-          GITHUB_TOKEN: ${{ secrets.EDDIEHUB_PAT }}
-          mode: upsert
-          create_if_not_exists: true
-
-      # If in a fork or the PAT is not set, use the default GITHUB_TOKEN
-      - name: Comment PR with GITHUB_TOKEN (Fork or No PAT)
-        if: env.PAT_EXISTS == 'false' || github.repository != github.event.repository.full_name
+      - name: Comment on PR
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
