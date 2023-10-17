@@ -13,9 +13,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Set Env Var for PAT existence
+        run: echo "PAT_EXISTS=${{ secrets.EDDIEHUB_PAT != '' }}" >> $GITHUB_ENV
+
       # If in the main repository, use the PAT
       - name: Comment PR with PAT (Main Repo)
-        if: github.repository == github.event.repository.full_name && secrets.EDDIEHUB_PAT != ''
+        if: env.PAT_EXISTS == 'true' && github.repository == github.event.repository.full_name
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
@@ -25,7 +28,7 @@ jobs:
 
       # If in a fork or the PAT is not set, use the default GITHUB_TOKEN
       - name: Comment PR with GITHUB_TOKEN (Fork or No PAT)
-        if: github.repository != github.event.repository.full_name || secrets.EDDIEHUB_PAT == ''
+        if: env.PAT_EXISTS == 'false' || github.repository != github.event.repository.full_name
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
