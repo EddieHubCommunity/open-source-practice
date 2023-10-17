@@ -1,9 +1,10 @@
 name: comment-on-pull-request
-on: 
+on:
   pull_request:
+    types: [opened, synchronize]
   workflow_dispatch:
-permissions: 
-  pull-requests: write 
+permissions:
+  pull-requests: write
   issues: write
 jobs:
   comment-on-pr:
@@ -12,10 +13,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Comment PR
+      # Use PAT if running on base repository
+      - name: Comment PR (Base Repo)
+        if: github.event.pull_request.head.repo.full_name == github.repository
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
           GITHUB_TOKEN: ${{ secrets.EDDIEHUB_PAT }}
+          mode: upsert
+          create_if_not_exists: true
+
+      # Use default GITHUB_TOKEN if running on a fork
+      - name: Comment PR (Fork)
+        if: github.event.pull_request.head.repo.full_name != github.repository
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           mode: upsert
           create_if_not_exists: true
