@@ -2525,6 +2525,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Wilgerth Mouton](https://github.com/l33th)
   - [Will Xiao](https://github.com/will-sh)
   - [Willi Hohenstein](https://github.com/willhoh)
+  - [William A Ellerbe](https://github.com/waellerbe)
   - [William J Priest](https://github.com/WilliamJPriest)
   - [Willy Wonka](https://github.com/massablaise)
 
