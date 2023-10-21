@@ -1984,6 +1984,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **S**
 
   - [Saadat Badgujar](https://github.com/Saadat-B)
+  - [Saadat Shaikh](https://github.com/saadatshaikh)
   - [Sabir Khan](https://github.com/DroidMystic)
   - [Sabrina Chacon](https://github.com/sabrinalzbh)
   - [Sachin Kant](https://github.com/sachin-404)
