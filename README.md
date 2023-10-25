@@ -974,7 +974,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Fathima Zulaikha](https://github.com/zul132)
   - [Fatma](https://github.com/fatmab28)
   - [Favour Arua](https://github.com/favalcodes)
-  - [Favour Timothy] (https://github.com/wyenelle)
+  - [Favour Timothy](https://github.com/wyenelle)
   - [Fawad Sheikh](https://github.com/fawad-sh)
   - [Fawaz Sullia](https://github.com/fawazsullia)
   - [Fayas Noushad](https://github.com/FayasNoushad)
@@ -1684,7 +1684,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ntandoyenkosi Mendu](https://github.com/ntandoyenkosi1)
   - [Numan Javed](https://github.com/numanjvd82)
   - [Nur Akmal Mohd Nordi](https://github.com/nurakmal920207)
-  - [Nwakaego Nwaekpe] (https://github.com/Nwakaego-Ego)
+  - [Nwakaego Nwaekpe](https://github.com/Nwakaego-Ego)
   - [Nwoke Emmanuella](https://github.com/Ellah120)
   - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
 
