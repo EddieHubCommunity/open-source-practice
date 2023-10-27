@@ -1,4 +1,4 @@
-![image](https://github.com/Sanober494/open-source-practice/assets/75628824/acf86143-c906-4eab-882d-de9fd5f383f1)<!-- markdownlint-disable-next-line -->
+<!-- markdownlint-disable-next-line -->
 
 # Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
 
