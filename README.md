@@ -840,6 +840,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Deepanshu kumar](https://github.com/deepanshu1334)
   - [Deepanshu Midha](https://github.com/deepanshumidha5140)
   - [Deependra Kumar](https://github.com/deepu178)
+  - [Dellucifer](https://github.com/dellucifer)
   - [Denis Cabrera](https://github.com/denisCabrera)
   - [Dennie Chan](https://github.com/Oculareo)
   - [Dennis Mitchell](https://github.com/MITCHYUGAN)
