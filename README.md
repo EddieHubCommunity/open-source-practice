@@ -1,4 +1,4 @@
-<!-- markdownlint-disable-next-line -->
+![image](https://github.com/Sanober494/open-source-practice/assets/75628824/acf86143-c906-4eab-882d-de9fd5f383f1)<!-- markdownlint-disable-next-line -->
 
 # Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
 
@@ -2085,6 +2085,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sanjeev Soni](https://github.com/Sanjeev1z)
   - [Sankalp gupta](https://github.com/sankalpg0)
   - [Sanket Pol](https://github.com/sanketmp)
+  - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494)
   - [Sanskar Khandelwal](https://github.com/Sanskar-khandelwal)
   - [Sanskriti Gupta](https://github.com/sanskritigupta5)
   - [Santiago Roussineau](https://github.com/roussineau)
