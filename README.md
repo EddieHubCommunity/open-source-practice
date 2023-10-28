@@ -58,7 +58,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 **1. Fork the project:**
 
-- Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account. ![fork](https://github.com/AmanxUpadhyay/open-source-practice/assets/76415079/00b41de9-768c-4a01-a27e-f7aa75cd6a27)
+- Click the gray <kbd>Fork</kbd> button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account.
 
 **2. Clone this project on your computer:**
 
@@ -2138,6 +2138,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sejal Zambare](https://github.com/Sejal-16)
   - [Sergio Lucas](https://github.com/SergioLucter)
   - [Sergio Ortiz Paz](https://github.com/alucardthefish)
+  - [Shabab Hussain](https://github.com/smhussain5)
   - [Shabi Kaushal](https://github.com/msbuddhu)
   - [Shadman Ali](https://github.com/shadmanhere)
   - [Shadrack Mwelwa](https://github.com/shadrack-mwelwa)
@@ -2167,7 +2168,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Shatakshi Gupta](https://github.com/Shatakshi0805)
   - [Shaun Fitzgibbon](https://github.com/Sfitzg)
   - [Shaurya Gupta](https:github.com/shauryag2002)
-  - [shaurya sharma](https://github.com/shaurya074)
+  - [Shaurya Sharma](https://github.com/shaurya074)
   - [Shawon Krishna Saha](https://github.com/hira-saha)
   - [Sheharyar Khan](https://github.com/Sheharyark)
   - [Sheheer Ali](https://github.com/sheheeralizx)
