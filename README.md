@@ -58,7 +58,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 **1. Fork the project:**
 
-- Click the gray `Fork` button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account.
+- Click the gray <kbd>Fork</kbd> button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account.
 
 **2. Clone this project on your computer:**
 
