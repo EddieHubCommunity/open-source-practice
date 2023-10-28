@@ -1717,6 +1717,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Oladimeji Momoh](https://github.com/oladee)
   - [Oladunni Waters](https://github.com/OladunniWaters)
   - [Olaoluwa Ajanaku](https://github.com/0laolu)
+  - [Olaniyan Eniola](https://github.com/OlaniyanEniola)
   - [Olowomeye David](https://github.com/greatdaveo)
   - [Oluwatobi Sofela](https://github.com/oluwatobiss)
   - [Om Kumar](https://github.com/new-thang)
