@@ -2467,6 +2467,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Usman Lubis](https://github.com/usmanlubis)
   - [Usman Tatla](https://github.com/iTatla1)
   - [Utkarsh Bhatnagar](https://github.com/utkarsh95-dev)
+  - [Utkarsh Kumar](https://github.com/utkarsh1042005)
   - [Utkarsh Mathur](https://github.com/MathurUtkarsh)
   - [Utkarsh Maurya](https://github.com/utkarsh1311)
   - [Utkarsh Mishra](https://github.com/Utkarsh1504)
