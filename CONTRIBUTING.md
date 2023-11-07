@@ -14,6 +14,4 @@ agree to abide by the [Code Of Conduct](https://github.com/EddieHubCommunity/.gi
 7. Go to the original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
 
 ## DONE 🥳
-
-## Contributors
 pxlmastrXD
