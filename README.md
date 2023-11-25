@@ -972,6 +972,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **F**
 
+  - [Faezeh Yazdani](https://github.com/FaezehYazdani)
   - [Fahad Masood](https://github.com/fahad-masood)
   - [Faheem](https://github.com/Eclipse175)
   - [Fahim Bin Amin](https://github.com/FahimFBA)
