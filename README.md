@@ -502,6 +502,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Anuj Kumar](https://github.com/R3v3rb3)
   - [Anuj Tiwari](https://github.com/ANUJTIWARI007)
   - [Anunay Kumar](https://github.com/anunayandkumar)
+  - [Anuoluwapo Hammed](https://github.com/Phastboy)
   - [Anup Haldar](https://github.com/haldaranup)
   - [Anupama Dhir](https://github.com/anupamadh)
   - [Anurag Kumar](https://github.com/halfway-there1)
