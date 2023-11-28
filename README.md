@@ -442,6 +442,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Anchita Arora](https://github.com/Anchita)
   - [Andreas Janzen](https://github.com/aojanzen)
   - [Andres Court](https://github.com/alcb1310)
+  - [Andres Prado](https://github.com/andpramor)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
   - [Andrew Smith](https://github.com/ajsmith421/)
   - [Andrew Southern](https://github.com/whoamihealay)
