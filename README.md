@@ -42,7 +42,7 @@ flowchart LR
 
 **3. Edit:**
 
-- On the top right of the Readme file, click on the pencil icon to edit the file by **adding your name and your GitHub profile link to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community). Make sure that your name is in alphabetical order.**
+- On the top right of the Readme file, click on the pencil icon to edit the file by **adding your name and your GitHub profile link to the section that matches your Initial in [this list](https://github.com/catherine-chisom/open-source-practice#hacktoberfest-community). Make sure that your name is in alphabetical order.**
 - After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 **4. Raise a Pull Request:**
@@ -92,7 +92,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `- [Chisom Catherine Dick](https://github.com/catherine-chisom)`
 
 **5. Stage your changes:**
 
@@ -110,7 +110,7 @@ or
 ![git-commit](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/9a6a58f3-ed0b-4bc2-b749-48baede77835)
 
 ```bash
-  git commit -m "Add <your-github-username>"
+  git commit -m "Add <catherine-chisom>"
 ```
 
 - Check the status of your repository.
