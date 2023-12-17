@@ -12,5 +12,6 @@ agree to abide by the [Code Of Conduct](https://github.com/EddieHubCommunity/.gi
 5. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
 6. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
 7. Go to the original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
+8. I added this line here to practice my pull-request on GitHub. Thanks for the repo!!
 
 ## DONE 🥳
