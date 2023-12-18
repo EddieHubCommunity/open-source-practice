@@ -2594,6 +2594,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Vrushabh Gawas](https://github.com/vrushabhgawas14)
   - [VulcanWM](https://github.com/VulcanWM)
   - [Vurugonda Kalyan](https://github.com/kalyan-vurugonda)
+  - [Vinicius Bavosa](https://github.com/bavosadev)
 
 | [`Back To Top`](#contents) |
 
