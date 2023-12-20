@@ -1551,6 +1551,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Michael Ochei](https://github.com/MichaelFED)
   - [Michael Otieno](https://github.com/Michael-Otieno)
   - [Micheal Aderinto](https://github.com/ad3rinto)
+  - [Michelle Ndiangui](https://github.com/MuthoniMN)
   - [Miguel VR](https://github.com/MiguelVR)
   - [Mikal Laane](https://github.com/goobric)
   - [Mike Hatch](https://github.com/mikeshatch)
