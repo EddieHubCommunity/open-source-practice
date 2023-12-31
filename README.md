@@ -2456,6 +2456,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tara](https://github.com/tharakadoo)
   - [Tarannum](https://github.com/tarannum-2002)
   - [Tarun Mankar](https://github.com/tarunmankar)
+  - [Tarun Nayaka R](https://github.com/Rtarun3606k)
   - [Tatwansh Jaiswal](https://github.com/Tatwansh)
   - [Tawfik Yasser](https://github.com/TawfikYasser)
   - [Tawia-Mante Godswill](https://github.com/yourTechieWill)
