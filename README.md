@@ -1581,6 +1581,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Milind Mishra](https://github.com/thatbeautifuldream)
   - [MingYu Zhang](https://github.com/yoctoyu)
   - [Miniyahil Kebede](https://github.com/hmhard)
+  - [Mirza Ismail Baig](https://github.com/MiirzaBaig)
   - [Misba bagban](https://github.com/mishba-ai)
   - [Mitansh Kayathwal](https://github.com/Mitanshk01)
   - [Mitanshi Kshatriya](https://github.com/MitanshiKshatriya)
