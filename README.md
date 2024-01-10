@@ -1610,6 +1610,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mohamed Shamir](https://github.com/mshamir11)
   - [Mohamed Yasser](https://github.com/mohamedy72)
   - [Mohammad Ghorbani](https://github.com/ghorbani-mohammad)
+  - [Mohammad Jagora](https://github.com/myj009)
   - [Mohammad Reza Salemi](https://github.com/reza-salemi)
   - [Mohammad Tanvir Hasan](https://github.com/tanvircr7)
   - [Mohammed Arbazuddin Qureshi](https://github.com/mohammedarbaz119)
