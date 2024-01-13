@@ -967,6 +967,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Elijah Raji](https://github.com/photon-e)
   - [Elísio Massaqui](https://github.com/elisioMassaqui)
   - [Ellis Meister](https://github.com/ellismeister)
+  - [Elvis Earl](https://github.com/the-1Riddle)
   - [Emi Gomez](https://github.com/emigl)
   - [Emil Malmsten](https://github.com/EmilMalmsten)
   - [Emily Marie Ahtunan](https://github.com/Emmarie-Ahtunan)
