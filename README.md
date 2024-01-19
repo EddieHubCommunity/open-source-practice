@@ -1498,8 +1498,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **M**
-  - [Md. Afzal hassan ehsani](https://github.co/imafzalhassan)
-  - [Murtaza Bohra](https://github.com/m-bohra8999)
+
   - [Maemreyo](https://github.com/maemreyo)
   - [Mahamat Abdelkerim Abakar](https://github.com/mahamat-abdelkerim-abakar)
   - [Maharshi Sinha](https://github.com/maharshi-sinha)
@@ -1561,12 +1560,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mayuri Kothari](https://github.com/MAYURIKOTHARI299)
   - [Mazhar Ansari](https://github.com/MJCoder15)
   - [Mblessing Muchafa CoderBlee](https://github.com/CoderBlee)
+  - [Md. Afzal hassan ehsani](https://github.co/imafzalhassan)
+  - [Md. Ahsan Faraz](https://github.com/MDAhsanFaraz)
   - [Md. Al-Junaed Islam](https://github.com/AJBrohi)
-  - [Md Ahsan Faraz](https://github.com/MDAhsanFaraz)
-  - [Md Moinuddin](https://github.com/Blaize15)
+  - [Md. Moinuddin](https://github.com/Blaize15)
   - [Md. Musfiqur Rahaman](https://github.com/musfiqdehan)
-  - [MD Soyeb](https://github.com/soyeb01)
-  - [Md Tajuddin](https://github.com/Sar-taj107)
+  - [Md. Soyeb](https://github.com/soyeb01)
+  - [Md. Tajuddin](https://github.com/Sar-taj107)
   - [Meadow](https://github.com/nurulhnani)
   - [Medha KM](https://github.com/Medhakambli)
   - [Meenal Jain](https://github.com/meenal21)
@@ -1645,6 +1645,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Molly Vanessa](https://github.com/molly460)
   - [Monish VR](https://github.com/Monish-VR)
   - [Moses Msukwa](https://github.com/mozesi)
+  - [Mounssif BOUHLAOUI](https://github.com/nuuxcode)
   - [Mridul Birla](https://github.com/Mridulbirla13)
   - [Mrinaal Arora](https://github.com/aroramrinaal)
   - [Mrkarstrom](https://github.com/mrkarstrom)
@@ -1672,6 +1673,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mullaivanaraj Anbu](https://github.com/mullaivanaraj)
   - [Mulyadi](https://github.com/Urcane)
   - [Muneeb Illahi](https://github.com/muneeb-i-khan)
+  - [Murtaza Bohra](https://github.com/m-bohra8999)
   - [Musa Opaluwa](https://github.com/musaa99)
   - [Musab Habeeb](https://github.com/Musab1258)
   - [Musibau Anifowose Bolaji](https://github.com/adigson)
