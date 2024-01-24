@@ -639,6 +639,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Augustin Lima](https://github.com/augustinlima)
   - [Augustine Onyebuchi](https://github.com/Cesargrandeur)
   - [Aung Ko Htet](https://github.com/aungkohtat)
+  - [Auwalu Hamza](https://github.com/afhamu)
   - [AvidCoder101](https://github.com/AvidCoder101)
   - [Avinash Haresh](https://github.com/avinashharesh)
   - [Avinash Prasad](https://github.com/avionmission)
