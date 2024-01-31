@@ -1273,6 +1273,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Jay Sudani](https://github.com/jaysudani)
   - [Jayanth Trilok Shankar](https://github.com/TriJayDore)
   - [Jayvir Rathi](https://github.com/Jayvirrathi)
+  - [JamesWainaina](https://github.com/JamesWainaina)
   - [Jeevan Muthu](https://github.com/Jeevan2305)
   - [Jeet Baldha](https://github.com/Jeet-baldha)
   - [Jeferson Cardoso](https://github.com/cardosource)
