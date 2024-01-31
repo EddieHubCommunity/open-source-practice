@@ -1242,6 +1242,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **J**
 
   - [Jacob Dunn](https://github.com/dunnjacoba)
+  - [Julius L. Jones Jr.](https://github.com/jlwj22)
   - [Jacob Lepler](https://github.com/leplerjacob)
   - [Jade Kneen](https://github.com/jadekneen)
   - [Jafa Codes](https://github.com/jafacodes)
