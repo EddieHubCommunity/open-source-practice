@@ -2485,7 +2485,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **T**
 
   - [Tabassum Fatima](https://github.com/tab21)
-  - [TUSHAR SINGH](https://github.com/SINGHxTUSHAR)
   - [Tadi](https://github.com/mtrill47)
   - [Taha Hameed](https://github.com/TahaHameed23)
   - [Taha Latief](https://github.com/iStaha)
@@ -2549,6 +2548,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tushar jagi](https://github.com/Tusharjagi)
   - [Tushar Kashyap](https://github.com/tusharkashyap11)
   - [Tushar Pathak](https://github.com/tushar54594)
+  - [TUSHAR SINGH](https://github.com/SINGHxTUSHAR)
   - [Twinkle](https://github.com/twinkletrivaan)
 
 | [`Back To Top`](#contents) |
