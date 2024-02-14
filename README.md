@@ -1119,7 +1119,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **H**
-
+  - [Harshal Rembhotkar] (https://github.com/Harshal-Rembhotkar)
   - [Haafizz Ismail](https://github.com/haafizzismail)
   - [Habeeb B. Oyesile](https://github.com/badbatunde)
   - [Habib Sellami](https://github.com/SellamiHabib)
