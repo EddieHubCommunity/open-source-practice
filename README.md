@@ -2560,6 +2560,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Tony Blondeau Nya](https://github.com/tonybnya)
   - [Tracey Kaburu](https://github.com/TKaburu)
   - [Triman Kaur](https://github.com/Trimankaur)
+  - [Tsafac Nkombong Regine Cyrille](https://github.com/Regine12)
   - [Tsipporah Christopher](https://github.com/tsipporahc)
   - [Tung Pham](https://github.com/TungPhamQ)
   - [Tushar jagi](https://github.com/Tusharjagi)
