@@ -29,7 +29,7 @@ flowchart LR
     Fork[Fork the project]-->branch[Create a New Branch]
     branch-->Edit[Edit file]
     Edit-->commit[Commit the changes]
-    commit -->|Finally|create((Create a Pull Request))
+    commit -->|Finally|createpr((Create a Pull Request))
 ```
 
 **1. Fork the project:**
