@@ -29,7 +29,7 @@ flowchart LR
     Fork[Fork the project]-->branch[Create a New Branch]
     branch-->Edit[Edit file]
     Edit-->commit[Commit the changes]
-    commit -->|Finally|creatpr((Create a Pull Request))
+    commit -->|Finally|create((Create a Pull Request))
 ```
 
 **1. Fork the project:**
@@ -2754,6 +2754,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yogi Yiorgos](https://github.com/yogiyiorgos)
   - [Yomna Mohamed](https://github.com/YumiA)
   - [Youganjan Sarki](https://github.com/youganjansarki18)
+  - [Youssouph Mané](https://github.com/youssoph-mane/open-source-practice)
   - [Yusuf](https://github.com/sanxy)
   - [Yusuke](https://github.com/yk-jp)
   - [Yuval Sharma](https://github.com/Yuval207)
