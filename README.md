@@ -444,6 +444,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Anastestia Onyekaba](https://github.com/Ann-design-max)
   - [Anchal Singh](https://github.com/anchalsinghrajput)
   - [Anchita Arora](https://github.com/Anchita)
+  - [André Franciosi](https://github.com/andre-franciosi)
   - [Andreas Janzen](https://github.com/aojanzen)
   - [Andres Court](https://github.com/alcb1310)
   - [Andres Prado](https://github.com/andpramor)
