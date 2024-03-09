@@ -1,0 +1,18 @@
+name: comment-on-pull-request
+on:
+  pull_request_target:
+    types: [opened]
+permissions:
+  pull-requests: write
+  issues: write
+jobs:
+  comment-on-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on PR
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: "This repository is for **practice only** and therefore it will not count towards hacktoberfest."
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          mode: upsert
+          create_if_not_exists: true
