@@ -1,10 +1,10 @@
-name: comment-on-pull-request
+name: Tadiwa
 on:
   pull_request_target:
     types: [opened]
 permissions:
-  pull-requests: write
-  issues: write
+  pull-requests: This is for an All in project to show how requests are pulled
+  issues: The issue is on how to use open source to contribute to a project
 jobs:
   comment-on-pr:
     runs-on: ubuntu-latest
