@@ -683,7 +683,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Baroon Jha](https://github.com/baroonjha)
   - [Barphie](https://github.com/barphie)
   - [Barsha Das](https://github.com/thebarshablog)
-  - [Beatriz Guerrero] (https://github.com/Beatriz-G)
+  - [Beatriz Guerrero](https://github.com/Beatriz-G)
   - [Beidi Beer](https://github.com/beydiB)
   - [Belal Ahmad](https://github.com/belaletech)
   - [Bemdoo Maor](https://github.com/MaorBemdoo)
