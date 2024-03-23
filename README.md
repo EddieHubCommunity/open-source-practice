@@ -448,6 +448,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [André Franciosi](https://github.com/andre-franciosi)
   - [Andreas Janzen](https://github.com/aojanzen)
   - [Andres Court](https://github.com/alcb1310)
+  - [Andres Pradilla](https://github.com/AndresPradGo)
   - [Andres Prado](https://github.com/andpramor)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
   - [Andrew Smith](https://github.com/ajsmith421/)
@@ -1952,7 +1953,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **Q**
-| [`Back To Top`](#contents) |
+
+  | [`Back To Top`](#contents) |
 
 - ### **R**
 
