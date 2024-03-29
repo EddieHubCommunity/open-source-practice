@@ -1099,7 +1099,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Gyau Boahen Elvis](https://github.com/gyauelvis)
   - [Gamelia Programmer](https://github.com/gameliaprogrammer)
 
-
 | [`Back To Top`](#contents) |
 
 - ### **H**
