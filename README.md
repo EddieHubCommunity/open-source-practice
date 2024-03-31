@@ -1244,6 +1244,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Jake Damon](https://github.com/JakeDamon)
   - [Jalil Dendane](https://github.com/dendane-jalil)
   - [Jamal Park](https://github.com/mapstonepark)
+  - [Jamat Ali](https://github.com/jamatali)
   - [James Cunningham](https://github.com/JamesCunningham304)
   - [James Midzi](https://github.com/Psypher1)
   - [James Mukuvi Ngandu](https://github.com/jmngandu)
