@@ -390,6 +390,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Alex Hunt](https://github.com/alexh205)
   - [Alex Penado](https://github.com/jose-source)
   - [Alex Valdez](https://github.com/arevaldez)
+  - [Alexandre Steinhauslin](https://github.com/Alisa1989)
   - [Alexandru Mihalache](https://github.com/AlexMihalache99)
   - [Alexis Ortiz](https://github.com/lexiortiz)
   - [AlexxTheCurator](https://github.com/AlexxTheCurator)
