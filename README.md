@@ -1561,6 +1561,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mary Jonah](https://github.com/maryjonah)
   - [Maryam Farshbafi](https://github.com/MaryamFarshbafi)
   - [Masete Nicholas](https://github.com/masete)
+  - [Matt Catellier](https://github.com/MattCatellier)
   - [Matt Oliver](https://github.com/mattyocode)
   - [Matthew Topping](https://github.com/Gr8OdinsBeard)
   - [Matthias Maier](https://github.com/NukeTheFridge)
