@@ -797,6 +797,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Chris Moreton](https://github.com/chris-moreton)
   - [Chris Niedermayer](https://github.com/Chris-N)
   - [Chris Schubert](https://github.com/C-Schubert94)
+  - [Christina Persaud](https://github.com/chrissy-hi)
   - [Christine Belzie](https://github.com/CBID2)
   - [Cipto Hadi](https://github.com/cipto-hd)
   - [Cissokho Pape Moussa](https://github.com/ciskoinch8)
