@@ -1,5 +1,4 @@
 
-
 [![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=EddieHubCommunity&name=open-source-practice)](https://repo-rater.eddiehub.io/rate?owner=EddieHubCommunity&name=open-source-practice)
 
 <!-- markdownlint-disable-next-line -->
