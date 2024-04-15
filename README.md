@@ -1,5 +1,3 @@
-![image](https://github.com/fahadshahbaz/open-source-practice/assets/139986354/8142c4f6-903b-44f0-ba92-456b4989602c)[![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=EddieHubCommunity&name=open-source-practice)](https://repo-rater.eddiehub.io/rate?owner=EddieHubCommunity&name=open-source-practice)
-
 <!-- markdownlint-disable-next-line -->
 
 # Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
@@ -1004,7 +1002,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   
   - [Faezeh Yazdani](https://github.com/FaezehYazdani)
   - [Fahad Masood](https://github.com/fahad-masood)
-  - [Fahad Shahbaz](https://github.com/fahadshahbaz)
   - [Fahad Shahbaz](https://github.com/fahadshahbaz)
   - [Faheem](https://github.com/Eclipse175)
   - [Fahim Bin Amin](https://github.com/FahimFBA)
