@@ -1829,6 +1829,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Om Kumar](https://github.com/new-thang)
   - [Om Soni](https://github.com/OmSoni-1)
   - [Omar Agiez](https://github.com/OmarAI2003)
+  - [Omar Gastelum](https://github.com/gastelumdev)
   - [Omariba Collins](https://github.com/Collins-Omariba)
   - [Omaro Grant](https://github.com/ogeeDeveloper)
   - [Omer Maki](https://github.com/omer358)
