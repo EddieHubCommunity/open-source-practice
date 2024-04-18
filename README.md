@@ -1468,6 +1468,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Kunal Sangtiani](https://github.com/Kunals131)
   - [Kushal Desai](https://github.com/jarvision-git)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
+  - [Kyle Gonzales](https://github.com/kipppppp)
   - [Kyrios Heylel](https://github.com/lucky-chap)
 
 | [`Back To Top`](#contents) |
