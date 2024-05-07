@@ -1173,6 +1173,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Hello Faizan](https://github.com/hellofaizan)
   - [Heloise Viegas](https://github.com/heloise-viegas)
   - [Hemang Ranjan](https://github.com/Hemang417)
+  - [Hemang Yadav](https://github.com/Zemerik)
   - [Hemant Bajaj](https://github.com/ORKO06)
   - [Hemant Sharma](https://github.com/hemant-sw)
   - [Hemant](https://github.com/hemantwasthere)
