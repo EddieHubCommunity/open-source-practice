@@ -1054,7 +1054,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **G**
-  - [Gokil P](https://github.com/Gokilp)
   - [Gabriel Isuekebho](https://github.com/Conradgabe)
   - [Gabriela Proszowska](https://github.com/gabrysia694)
   - [Gagan Gaur](https://github.com/gagangaur)
