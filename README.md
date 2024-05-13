@@ -913,6 +913,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dian Rahmadani](https://github.com/madiajijah11)
   - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
   - [Diego Nieto](https://github.com/diego-nieto-pena)
+  - [Diego Beltran](https://github.com/DiegoBeltranC)
   - [Dieubon Louima](https://github.com/dlouima/)
   - [Diksha Chaudhari](https://github.com/dikshachaudhari4)
   - [Diksha Rai](https://github.com/diksharai9)
