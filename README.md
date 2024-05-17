@@ -887,6 +887,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Dennie Chan](https://github.com/Oculareo)
   - [Dennis Mitchell](https://github.com/MITCHYUGAN)
   - [Dennis Quinlan](https://github.com/denquinlan)
+  - [Derrick Priebe](https://github.com/derrickpriebe)
   - [Dev Jain](https://github.com/889-dj)
   - [Devansh Kyada](https://github.com/DevanshKyada27)
   - [Devansh Tiwari](https://github.com/Devansh-365)
