@@ -182,7 +182,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 ### **Contents**
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o)
-| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) | 
+| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) |
 
 - ### **A**
 
@@ -1527,6 +1527,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Luis Suarez](https://github.com/suarezluis)
   - [Luiz Barreto](https://github.com/luizpgb)
   - [Lukasz Przybylka](https://github.com/l-przybylka)
+  - [Luke Olende](https://github.com/LukeOlende)
   - [Lundbyit](https://github.com/Lundbyit)
 
 | [`Back To Top`](#contents) |
