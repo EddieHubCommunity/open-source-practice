@@ -1321,6 +1321,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [John Muriu](https://github.com/john-muriu)
   - [John Proodian](https://github.com/johnproodian)
   - [John Tran](https://github.com/johntran1203)
+  - [Jolene Farley](https://github.com/JoleneRenee21)
   - [Jome Favourite](https://github.com/jomefavourite)
   - [Jon Christie](https://github.com/mathcodes)
   - [Jonathan Llemit Jr.](https://github.com/jcljr00)
