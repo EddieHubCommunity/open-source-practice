@@ -508,6 +508,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Anshul Suresh](https://github.com/devilsaint99)
   - [Anthony Beckett](https://github.com/anthonybeckett)
   - [Anthony Chinwe](https://github.com/anthonychinwe)
+  - [Anthony Gidambayi](https://github.com/gidambayiantony)
   - [Anthony Madia](https://github.com/AnthonyMadia)
   - [Anthony Oyakhilome Justice](https://github.com/oyakhilomee)
   - [Antoine Gauthier](https://github.com/gantoin)
