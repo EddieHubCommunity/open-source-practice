@@ -1535,7 +1535,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Luiz Barreto](https://github.com/luizpgb)
   - [Lukasz Przybylka](https://github.com/l-przybylka)
   - [Lundbyit](https://github.com/Lundbyit)
-  - [liiyuanxin](https://github.com/lishuangqiang)
+  - [lyuanxin](https://github.com/lishuangqiang)
 
 | [`Back To Top`](#contents) |
 
