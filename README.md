@@ -2009,8 +2009,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
   - [R Rushikesh Gandhmal](https://github.com/RushikeshGandhmal)
   - [R Varshith Kumar](https://github.com/codefromrvk)
-  - [Rachita Goyal](https://github.com/rachita2000)
   - [Rachael Odetayo](https://github.com/Rakielle)
+  - [Rachita Goyal](https://github.com/rachita2000)
   - [Radhika Rathi](https://github.com/Radhikarathi04)
   - [Rafael Maurício](https://github.com/r-mauricio)
   - [Rafiul Hasan](https://github.com/rafidoth)
