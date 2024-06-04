@@ -2488,6 +2488,7 @@ The AI-driven solution that helps you quickly find the right command. Get starte
   - [Subhranshu Patra](https://github.com/Subhranshu07)
   - [Success Ezeh](https://github.com/OgeHub)
   - [Sudarshan T](https://github.com/Sudarshan-t-1999)
+  - [Sudeep M Shetty](https://github.com/SUDEEP-M-SHETTY)
   - [Sudeepta Giri](https://github.com/SudeeptaGiri)
   - [Sudhansu Tripathi](https://github.com/sudhanshu-77)
   - [Sudhansu](https://github.com/the-lazy-learner)
