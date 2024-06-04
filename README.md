@@ -813,6 +813,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Cipto Hadi](https://github.com/cipto-hd)
   - [Cissokho Pape Moussa](https://github.com/ciskoinch8)
   - [Clifford Mapesa](https://github.com/droffilc1)
+  - [Clint George](https://github.com/iamclintgeorge)
   - [CodesbyUnnati](https://github.com/CodesbyUnnati)
   - [CodingSpecies](https://github.com/CodingSpecies)
   - [Collins Nge'no](https://github.com/yrncollo)
