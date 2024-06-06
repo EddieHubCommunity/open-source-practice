@@ -827,6 +827,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Cynthia Teeters](https://github.com/cynthiateeters)
   - [Cyril Baah](https://github.com/CyrilBaah)
   - [Céline Le Corvaisier](https://github.com/ocsiddisco)
+  - [Choa Choa](https://github.com/phuchoa2001)
 
 | [`Back To Top`](#contents) |
 
