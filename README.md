@@ -2762,6 +2762,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [William A Ellerbe](https://github.com/waellerbe)
   - [William J Priest](https://github.com/WilliamJPriest)
   - [Willy Wonka](https://github.com/massablaise)
+  - [Winifred Young] (https://github.com/Young-W1)
 
 | [`Back To Top`](#contents) |
 
