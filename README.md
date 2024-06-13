@@ -2666,6 +2666,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Vaishnavi Rastogi](https://github.com/Navi68?)
   - [Vallabh Tiwari](https://github.com/vallabhtiwari)
   - [Vamsi Ravi](https://github.com/vamsi963601)
+  - [Varun Tanjore](https://github.com/varun-TR)
   - [Vandit Singh](https://github.com/Vandit1604)
   - [Vanesh](https://github.com/Vanesh37)
   - [Vansh Gandhi](https://github.com/vansh2552)
