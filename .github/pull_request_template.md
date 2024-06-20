@@ -6,3 +6,5 @@
 ### Screenshots (If any)
 
 ### Questions
+
+1- Não faz mal usar fazercriar uma branch dentro do repositorio original e fazer as mundanças e create a pull request?
