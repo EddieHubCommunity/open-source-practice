@@ -1730,6 +1730,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Muthu Annamalai V.](https://github.com/muthuannamalai12)
   - [Muthukumaran](https://github.com/gmkumaran87)
   - [Mwangi Gregory](https://github.com/MwangiGregory)
+  - [Mohamed Chatr](https://github.com/Mochatr)
 
 | [`Back To Top`](#contents) |
 
