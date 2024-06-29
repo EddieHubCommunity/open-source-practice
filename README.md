@@ -1957,6 +1957,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Pranav Joshi](https://github.com/PranavJoshi18)
   - [Pranav Kotak](https://github.com/pranavkotak8)
   - [Pranav Pratap Singh](https://github.com/Pranav108)
+  - [Pranav R P](https://github.com/pranav-on-github)
   - [Pranay Gupta](https://github.com/thepranaygupta)
   - [Pranay Kharabe](https://github.com/pranay202)
   - [Praneeth](https://github.com/18praneeth)
