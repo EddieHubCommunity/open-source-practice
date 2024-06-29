@@ -797,6 +797,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Chandra Reddy](https://github.com/chandrareddy7)
   - [Chandraprakash Darji](https://github.com/Chandraprakash-Darji)
   - [Chandula Janith](https://github.com/RedEdge967)
+  - [Charity Nyamamba](https://github.com/Cnnb01)
   - [Charles Maddux](https://github.com/madduxc)
   - [Charles Simmons](https://github.com/simmocha)
   - [Charlian Imoisili](https://github.com/CharlyAnne)
