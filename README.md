@@ -1714,6 +1714,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Mohd Saquib Mansoori](https://github.com/MohdSaquib114)
   - [Mohd Sultan](https://github.com/MohdSultanGit)
   - [Mohd Tanzeel](https://github.com/MohdTanzeel)
+  - [Mohit](https://github.com/imohitpatel) 
   - [Mohit Chakraverty](https://github.com/mohitchakraverty)
   - [Mohit Chandel](https://github.com/mohitchandel)
   - [Mohit Deshwal](https://github.com/mohit01-beep)
