@@ -1397,6 +1397,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Kaitlyn](https://github.com/Kit-Kat31415926)
   - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
   - [Kajal Jaiswal](https://github.com/kajal1801)
+  - [Kakuhu Matondo](https://github.com/KakuhuMatondo)
   - [Kaleb P](https://github.com/Devarite)
   - [Kam Cherhesa](https://github.com/KazChe)
   - [Kamalika Ghora](https://github.com/doesnots)
