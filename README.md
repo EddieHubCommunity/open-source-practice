@@ -182,7 +182,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 ### **Contents**
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o)
-| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) | 
+| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) |
 
 - ### **A**
 
@@ -2641,6 +2641,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Umesh Singh](https://github.com/Umesh-01)
   - [Urmil Rupareliya](https://github.com/urmil89)
   - [Ushna Khan](https://github.com/ushnak-tech)
+  - [Usiwo Sonia Uyouyou](https://github.com/Uyouyou)
   - [Usman Ali](https://github.com/ussmaan-aali)
   - [Usman Lubis](https://github.com/usmanlubis)
   - [Usman Tatla](https://github.com/iTatla1)
