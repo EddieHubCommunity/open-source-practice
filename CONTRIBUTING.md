@@ -1,16 +1,26 @@
 # Contributing
 
-We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/EddieHubCommunity/.github/blob/main/CODE_OF_CONDUCT.md).
+We welcome contributions from everyone. By participating in this project, you are agreeing to adhere to our [Code Of Conduct](https://github.com/EddieHubCommunity/.github/blob/main/CODE_OF_CONDUCT.md).
 
-## Steps
+## How to Contribute
 
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this awesome project. This will create a copy of this repo in your github account.
-2. [Clone](https://help.github.com/articles/fork-a-repo/#step-2-create-a-local-clone-of-your-fork) your forked version `git clone git@github.com:<YOUR-USERNAME>/open-source-practice.git`
-3. Make changes
-4. Create a new [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches#working-with-branches)
-5. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
-6. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
-7. Go to the original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
+1. **Fork** the repository by clicking on the 'Fork' button on the top right of the repository page. This creates a copy of the project in your GitHub account.
+   
+2. **Clone** your forked repository to your local machine using the following command:
 
-## DONE 🥳
+git clone git@github.com:<YOUR-USERNAME>/open-source-practice.git
+
+
+3. **Make your changes** in your local copy of the repository.
+
+4. Create a new **branch** to encapsulate your changes. Branch names should be descriptive of the feature or fix you are implementing.
+
+5. **Commit** your changes with a clear and concise commit message that describes the purpose of your changes.
+
+6. **Push** your changes to your forked repository:
+
+7. Navigate to the original repository on GitHub and click on the **'New Pull Request'** button. Fill out the necessary details in the pull request template and submit your pull request.
+
+## You're Done!
+
+Congratulations 🎉 You've successfully contributed to the project. Thank you for your contribution!
