@@ -1936,6 +1936,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Patel Prabhu Teja](https://github.com/patelprabhuteja)
   - [Patricia Diaz](https://github.com/devPatricia)
   - [Patrick Reinhold Bergstroem](https://github.com/prb01)
+  - [Paul Danso Asare](https://github.com/colorwhite-git)
   - [Paula Isabel](https://github.com/paulaxisabel)
   - [Pavan Varma](https://github.com/pavanvarma058)
   - [Pawan S](https://github.com/spawan02)
