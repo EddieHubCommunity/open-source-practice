@@ -1885,6 +1885,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Nwakaego Nwaekpe](https://github.com/Nwakaego-Ego)
   - [Nwoke Emmanuella](https://github.com/Ellah120)
   - [Nworie Chikwado Emmanuel](https://github.com/chikwado17)
+  - [Nyangasi Mhozya](https://github.com/Fuzzworth)
   - [Nyangoto](https://github.com/nyangoto)
   - [Nyi Nyi Linn Htet](https://github.com/lynnhtkk)
 
