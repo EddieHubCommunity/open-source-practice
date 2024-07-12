@@ -1243,7 +1243,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ivan Pavicic](https://github.com/ivpavici)
   - [Ivo Iliev](https://github.com/Iwi4a)
 
-
 | [`Back To Top`](#contents) |
 
 - ### **J**
