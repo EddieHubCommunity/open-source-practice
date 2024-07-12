@@ -2908,6 +2908,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Zamzam Hassan](https://github.com/MissZamzam)
   - [Zan Sang](http://github.com/zansangtan)
   - [Zayne Geffre](https://github.com/GamesByGeff)
+  - [Zehor Lahlah](https://github.com/zehor-l)
   - [ziphozenkosi ncayiyana](https://github.com/Ziphozenkosimthombe)
   - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
 
