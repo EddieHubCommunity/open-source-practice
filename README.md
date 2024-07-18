@@ -2158,6 +2158,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Riadh Laabidi](https://github.com/riadh26)
   - [Ricardo Arce](https://github.com/ricardoiarced)
   - [Ricardo Castro](https://github.com/soyRicardoCastro)
+  - [Richard Callaby](https://github.com/rcallaby)
   - [Riccardo Zichittella](https://github.com/zodraccir)
   - [Richard Bacon](https://github.com/RichardJonBacon)
   - [Richard Jeremy Githuba](https://github.com/githubarj)
