@@ -1,4 +1,4 @@
-[![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=EddieHubCommunity&name=open-source-practice)](https://repo-rater.eddiehub.io/rate?owner=EddieHubCommunity&name=open-source-practice)
+[![RepoRater](https://repo-rater.eddiehub.org/api/badge?owner=EddieHubCommunity&name=open-source-practice)](https://repo-rater.eddiehub.org/rate?owner=EddieHubCommunity&name=open-source-practice)
 
 <!-- markdownlint-disable-next-line -->
 
@@ -562,6 +562,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aqib Javid Bhat](https://github.com/aqib-m31)
   - [Ar Rakin](https://github.com/virtual-designer)
   - [Araguaci](https://github.com/araguaci)
+  - [arbtek](https://github.com/arbtek)
   - [Arefat](https://github.com/arefathi)
   - [Arghya Das](https://github.com/itsarghyadas)
   - [Arhen Santiago](https://github.com/rhen99)
