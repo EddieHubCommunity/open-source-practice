@@ -2665,6 +2665,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Taimoor Ahmad](https://github.com/taimoorahmadta)
   - [Taiwo Emmanuel](https://github.com/realemmanuel)
   - [Talha Momin](https://github.com/momintlh)
+  - [Talha Nadeem](https://github.com/TalhaNadeem001)
   - [Tamal Anwar Chowdhury](https://github.com/tamalchowdhury)
   - [Tamal Das](https://github.com/IAmTamal)
   - [Tamal Kundu](https://github.com/tamal-kundu)
