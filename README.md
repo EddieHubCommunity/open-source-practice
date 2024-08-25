@@ -1,5 +1,4 @@
 [![RepoRater](https://repo-rater.eddiehub.org/api/badge?owner=EddieHubCommunity&name=open-source-practice)](https://repo-rater.eddiehub.org/rate?owner=EddieHubCommunity&name=open-source-practice)
-
 <!-- markdownlint-disable-next-line -->
 
 # Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
@@ -652,6 +651,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Atif Moin](https://github.com/iamatifmoin)
   - [Atif Shaik](https://github.com/AtifShaik-47)
   - [Atique Vellore](https://github.com/atiquevellore)
+  - [Atlas Lofton] (https://github.com/Atlas-Lofton) 
   - [Atreay Kukanur](https://github.com/ATREAY)
   - [Atul Kumar Awasthi](https://github.com/kumaratul60)
   - [Atul Nirbhavane](https://github.com/underager)
