@@ -1245,6 +1245,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Henry Saya](https://github.com/HenrySaya)
   - [Henry Taiwo](https://github.com/devhnry)
   - [Hernando Guzmán](https://github.com/hernandoagf)
+  - [Het Shah](https://github.com/Het4304)
   - [Himangshu Kalita](https://github.com/himangskalita)
   - [Himanshi Sharma](https://github.com/HIMANSHIKSHARMA)
   - [Himanshu Anand](https://github.com/himansh-anand)
