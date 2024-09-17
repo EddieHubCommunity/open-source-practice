@@ -2600,6 +2600,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Stephen Cahillane](https://github.com/StephenCahillane)
   - [Stephen Mount](https://github.com/stemount)
   - [Steve Beecheno](https://github.com/Hacktinium)
+  - [Steven O](https://github.com/MuxN4)
   - [Stevie Gill](https://github.com/caffeinated-pixels)
   - [STILLWATER](https://github.com/ST1LLWATER)
   - [SUBASH THAKUR](https://github.com/Subash212021)
