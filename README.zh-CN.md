@@ -1,29 +1,25 @@
 [![RepoRater](https://repo-rater.eddiehub.org/api/badge?owner=EddieHubCommunity&name=open-source-practice)](https://repo-rater.eddiehub.org/rate?owner=EddieHubCommunity&name=open-source-practice)
 
-<!-- markdownlint-disable-next-line -->
-English | [简体中文](README.zh-CN.md)
+[English](README.md) | 简体中文
 
-# Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
+# 注意：此存储库 _不_ 包含在 Hacktoberfest 活动中，因为它仅用于练习！
 
-We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositories) in the organization that you can contribute to. If you would like to join our GitHub organisation, raise an [issue](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) on this repo EddieHubCommunity-Support and you can also join the EddieHub [Discord](http://discord.eddiehub.org/) channel
+我们在团队中还有其他 [仓库](https://github.com/orgs/EddieHubCommunity/repositories) 可供您参与。如果您想加入我们的 GitHub 组织，请此仓库 EddieHubCommunity-Support 上提出[issue](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)，您也可以加入 EddieHub [Discord](http://discord.eddiehub.org/) 频道。
 
 ---
-
 ## Hacktoberfest
-
-What is it? Click on the poster below to watch the video for more details 📽
+这是什么？点击下面的海报观看视频了解更多详情 📽
 
 [![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EddieHubCommunity/open-source-practice)
 
-## open-source-practice Pull Requests
+## open-source-practice 拉取请求
+Repository 供您提出 Pull Request 来 **实践** 开源！🎉
 
-Repository for you to raise a Pull Request to **practice** open-source! 🎉
+### 将您的姓名添加到按字母顺序排列的列表中，并选择性地添加指向您的 GitHub 帐户的链接（也按字母顺序排列在字母下方）
 
-### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
-
-### Option 1. Complete this process in GitHub (in your browser)
+### 选项 1.在 GitHub 中完成此过程（在你的浏览器中）
 
 ```mermaid
 flowchart LR
@@ -32,72 +28,65 @@ flowchart LR
     Edit-->commit[Commit the changes]
     commit -->|Finally|creatpr((Create a Pull Request))
 ```
+**1.Fork 项目：**
 
-**1. Fork the project:**
+- 点击此页面右上角的灰色 <kbd>Fork</kbd> 按钮。这将创建您的项目副本，并将其作为新存储库保存在您的 GitHub 账户中。
 
-- Click the gray <kbd>Fork</kbd> button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account.
+**2. 创建新分支：**
 
-**2. Create a New Branch:**
+- 在新仓库的页面上，单击左上角的灰色 main 按钮以显示下拉菜单。
+- 在文本框中输入新分支的名称。（分支名称通常是指正在更改的内容。示例：nameAdd）。- 单击 Create branch ，这会自动将您带到新分支。您可以在 main 分支上进行编辑，但这可能会导致后续问题。最佳做法是为您处理的每个单独问题创建一个新分支。这样，您的 main 分支将与 Eddie 的 main 分支保持同步。
 
-- On your new repository's page, click the gray main button in the upper left to reveal a dropdown menu.
-- Enter the name of your new branch in the text box. (Branch names usually refer to what is being changed. Example: nameAdd).
-  -Click on Create branch <new branch name>, which will automatically take you to your new branch. You can make edits on the main branch, but this may cause issues down the line. The best practice is to create a new branch for each separate issue you work on. That way your main branch remains in sync with Eddie's main branch.
+**3.编辑：**
 
-**3. Edit:**
+- 在 Readme 文件的右上角，单击铅笔图标以编辑文件，方法是将您的姓名和 GitHub 个人资料链接添加到与此列表中 Initial 匹配的部分。确保您的姓名按字母顺序排列。
+- 编辑 Readme 文件后，添加提交消息并单击显示“Commit Changes”的绿色按钮。确保您已选择已创建的分支。
 
-- On the top right of the Readme file, click on the pencil icon to edit the file by **adding your name and your GitHub profile link to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community). Make sure that your name is in alphabetical order.**
-- After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
+**4.提出Pull Request:**
+- 单击fork仓库中的 `Pull Requests` 选项（这是此页面顶部在 `Code` 和 `Issues` 选项之后的第三个选项）。
+- 单击绿色的 New Pull Request 按钮。这将通过自动填充 base repository： base with 'EddieGitHubCommunity： main' 并自动填充你的 head repository： compare with your repository： main 来为你准备新的拉取请求
+- 单击头部存储库的`比较`下拉列表，然后将分支从“main”分支切换到 `<new 分支名称>`。
+- 最后，单击绿色的 Create Pull Request 按钮。太棒了！你做到了！
 
-**4. Raise a Pull Request:**
+您可以通过提出[issue](https://github.com/EddieHubCommunity/open-source-practice/issues/new)来提出问题。
 
-- Click `Pull Requests` option in your forked repository (which is the third option at the top of this page after the options `Code` and `Issues`).
-- Click the green New Pull Request button. This will prep the new pull request for you by auto-filling the base repository: base with 'EddieGitHubCommunity: main' AND auto-filling your head repository: compare with your repository: main
-- Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
-- Finally, click the green `Create Pull Request` button. Great job! You did it!
+### 选项 2.在计算机上（本地）完成此过程
 
-You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/open-source-practice/issues/new).
+**1.fork 项目:**
 
-### Option 2. Complete this process on your computer (locally)
+- 点击此页面右上角的灰色<kbd>Fork</kbd>按钮。这将创建您的项目副本，并将其作为新存储库保存在您的 GitHub 账户中。
 
-**1. Fork the project:**
+**2. 在您的计算机上克隆此项目：**
 
-- Click the gray <kbd>Fork</kbd> button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account.
-
-**2. Clone this project on your computer:**
-
-- Go to your profile. You will find forked repo named **_open-source-practice_**. go to the repo by clicking on it.
-- Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
-
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer. ![git-clone](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/4d600e25-83b1-4e8f-9325-f1adc4f8ce3d)
+- 前往您的个人资料。您将找到名为 **_open-source-practice_** 的 fork 存储库。单击它转到 repo。
+- 单击绿色的 Code 按钮，然后单击 HTTPS 或 SSH 选项，然后单击图标以复制 URL。现在，您拥有了该项目的副本。因此，您可以在计算机上本地使用它。
+- 在终端窗口（命令提示符、Powershell、终端、Bash、ZSH）中运行以下命令。执行此操作可将此存储库的分支副本下载到您的计算机。![git-clone](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/4d600e25-83b1-4e8f-9325-f1adc4f8ce3d)
 
 ```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
 ```
-
-- Switch to the cloned folder. You can paste this command into the same terminal window. ![opening-vscode](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/1a8b350d-0c96-461a-85f4-a59185aed6b6)
+- 切换到克隆的文件夹。您可以将此命令粘贴到同一终端窗口中。 ![opening-vscode](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/1a8b350d-0c96-461a-85f4-a59185aed6b6)
 
 ```bash
   cd hacktoberfest-practice
 ```
+**3. 创建新分支：**
 
-**3. Create a new branch:**
-
-- Your username would make a good branch because it's unique. ![git-checkout](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/68ab0380-c731-4e67-bccc-b666da5dd174)
+- 您的用户名将是一个很好的分支，因为它是唯一的。![git-checkout](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/68ab0380-c731-4e67-bccc-b666da5dd174)
 
 ```bash
   git checkout -b <name-of-new-branch>
 ```
 
-**4. Edit:**
+**4. 编辑：**
 
-- Open the `README.md` file
+- 打开 `README.md` 文件
 
-- **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community), make sure that your name is in alphabetical order. Then save your changes.**
+- 将您的姓名添加到与 [此列表](https://github.com/EddieHubCommunity/open-source-practice#hacktoberfest-community) 中您的姓名首字母匹配的部分，确保您的姓名按字母顺序排列。然后保存您的更改。
 
-- For example
-  `- [Full Name](https://github.com/your-username)`
+- 例如 - `[Full Name](https://github.com/your-username)`
 
-**5. Stage your changes:**
+**5. 暂存您的更改：**
 
 ```bash
   git add README.md
@@ -109,28 +98,27 @@ or
   git add .
 ```
 
-**6. Commit the changes:**
+**6. 提交更改：**
+
 ![git-commit](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/9a6a58f3-ed0b-4bc2-b749-48baede77835)
 
 ```bash
   git commit -m "Add <your-github-username>"
 ```
 
-- Check the status of your repository.
-
+- 检查仓库的状态。
 ```bash
   git status
 ```
 
-- The response should be like this:
-  ![git-status](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/d3692bcd-02d9-47d7-9e6c-b386b0a6c72d)
+- 响应应如下所示：![git-status](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/d3692bcd-02d9-47d7-9e6c-b386b0a6c72d)
 
 ```bash
 On branch <name-of-your-branch>
 nothing to commit, working tree clean
 ```
 
-**7. Pushing your repository to GitHub:**
+**7. 将您的存储库推送到 GitHub：**
 
 ```bash
   git push origin <name-of-your-branch>
@@ -145,7 +133,7 @@ or
 
 ![git-push](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/f1cec12f-ea26-4986-a820-7881bc69f764)
 
-> **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
+> **警告**：如果您收到如下所示的错误消息，您可能在克隆之前忘记 fork 仓库。最好先重新开始并 fork 项目仓库。
 
 ```bash
 ERROR: Permission to EddieHubCommunity/hacktoberfest-practice.git denied to <your-github-username>.
@@ -153,34 +141,31 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and that the repository exists.
 ```
 
-**8. Raise a Pull Request:**
+**8. 提出拉取请求：**
 
-- On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button! ![createpr](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/0c971d35-5230-4f4a-923a-81a05c318887)
+- 在GitHub网站上，导航到你的分叉仓库 - 在文件部分的顶部，你会注意到一个新的部分包含一个`Compare & Pull Request`按钮！ ![createpr](https://github.com/AmanxUpadhyay/hacktoberfest-practice/assets/76415079/0c971d35-5230-4f4a-923a-81a05c318887)
 
-- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
-  Note: A pull request allows us to merge your changes with the original project repo.
+- 单击该按钮，这将加载一个新页面，将分叉存储库中的本地分支与 EddieHub Hacktoberfest 存储库中的主分支进行比较。不要对分支的选定值进行任何更改（仅在需要时执行此操作），然后单击绿色的 `Create Pull Request` 按钮。创建 PR（拉取请求）后，我们的 GitHub Actions 工作流将向您的 PR 添加欢迎消息。注意：拉取请求允许我们将您的更改与原始项目存储库合并。
+- 您的拉取请求将被审查，然后最终合并。
 
-- Your pull request will be reviewed and then eventually merged.
-
-Hurray! You successfully made your first contribution! 🎉
+芜湖！您已成功做出您的第一个贡献！🎉
 
 ---
 
-## How can I fix a merge conflict?
+## 如何修复合并冲突？
+GitHub 冲突是指人们对文件中的同一区域或行进行更改。在合并之前，必须修复此问题，以防止在 main 分支中发生冲突。
 
-A GitHub conflict is when people make changes to the same area or line in a file. This must be fixed before it is merged to prevent collision in the main branch.
+- **要了解更多信息，请转到 GitHub 文档 - [GitHub Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**  
 
-- **To read more about this, go to [GitHub Docs - About Merge Conflicts](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)**
+- **要了解如何修复 Git 冲突，请转到 GitHub 文档 - [GitHub Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)**
 
-- **To find out about how to fix a Git Conflict, go to [GitHub Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)**
-
-- You can also ask for help in our [Discord server](http://discord.eddiehub.org) or submit an issue in the [Support repository](https://github.com/EddieHubCommunity/support).
+- **您也可以在我们的[Discord server](http://discord.eddiehub.org) 中寻求帮助，或者在[Support repository](https://github.com/EddieHubCommunity/support).中提交issue。**
 
 ---
 
-## `Hacktoberfest Community`
+## `Hacktoberfest 社区`
 
-### **Contents**
+### **内容**
 
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o)
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [0-9](#0-9) |
@@ -2982,8 +2967,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 | [`Back To Top`](#contents) |
 
-## Our Pledge
+## 我们的承诺
 
-We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.
+我们将参与社区视为每个人的无骚扰体验，我们承诺以各种方式为开放、热情、多元化和包容性的社区做出贡献。
 
-If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this. Read our [Code of Conduct](https://github.com/EddieHubCommunity/open-source-practice/blob/main/CODE_OF_CONDUCT.md).
+如果您遇到或意识到不可接受的行为，请记住，您可以举报此行为。阅读我们的[行为准则](https://github.com/EddieHubCommunity/open-source-practice/blob/main/CODE_OF_CONDUCT.md)。
