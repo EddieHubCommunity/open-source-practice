@@ -1610,6 +1610,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Lovkush](https://github.com/LOVKUSH9888)
   - [Lubna Fathima N](https://github.com/lubnafathima)
   - [Lucas Montel Costa](https://github.com/lucasmontel)
+  - [Lucia Sheel](https://github.com/LuciaSheel)
   - [Luciano Pinheiro](https://github.com/lucianopinheiro)
   - [Luis Felipe Ceballos Caicedo](https://github.com/Felipeceballos12)
   - [Luis Suarez](https://github.com/suarezluis)
