@@ -870,7 +870,6 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **D**
 
-  - [Deepak Code](https://github.com/ArrowCod)
   - [Daawood](https://github.com/thewoodchadli)
   - [Dadapeer Shaik](https://github.com/DaduDev)
   - [Dagim Cherinet Biftu](https://github.com/dagim-cherinet)
@@ -913,6 +912,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Deborshi Chakrabarti](https://github.com/deborshikun)
   - [Deepak B](https://github.com/sbdeepu09)
   - [Deepak Chowdary](https://github.com/deepakchowdary19)
+  - [Deepak Code](https://github.com/ArrowCod)
   - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
   - [Deepak Khattar](https://github.com/deepakkhattar26o2)
   - [Deepak kumar](https://github.com/evdk1212)
